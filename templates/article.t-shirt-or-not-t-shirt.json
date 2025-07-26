@@ -421,10 +421,9 @@
           "blocks": {
             "heading": {
               "type": "_heading",
-              "disabled": true,
               "static": true,
               "settings": {
-                "type_preset": "rte",
+                "type_preset": "h4",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
                 "line_height": "normal",
@@ -432,12 +431,12 @@
                 "case": "none",
                 "wrap": "pretty",
                 "color": "var(--color-foreground)",
-                "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+                "text": "<p>{{ closest.article.title }}</p>",
                 "read_only": false,
                 "alignment": "left",
                 "show_alignment": true,
                 "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-end": 15,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
