@@ -836,11 +836,7 @@ a {
 p:not(.h1, .h2, .h3, .h4, .h5, .h6) a:where(:not(.button, .button-primary, .button-secondary)),
 .rte
   :is(p, ul, ol, table):not(.h1, .h2, .h3, .h4, .h5, .h6)
-  a:where(:not(.button, .button-primary, .button-secondary)) {
-  text-decoration-color: currentcolor;
-
-  &:hover {
-    text-decoration-color: transparent;
+  a:where(:not(.button, .button-primary, .button-secondary)):hover {
     color: var(--color-primary-hover);
   }
 }
