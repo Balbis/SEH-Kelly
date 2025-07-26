@@ -8,6 +8,15 @@
     font-display: swap;
   }
 
+  @font-face {
+    font-family: 'Farnham Text';
+    src: url('{{ 'farnham-text-regular-italic.woff2' | asset_url }}') format('woff2'),
+      url('{{ 'farnham-text-regular-italic.woff' | asset_url }}') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
+
   :root {
     /* Page Layout */
     --sidebar-width: 25rem;

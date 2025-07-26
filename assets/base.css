@@ -878,9 +878,7 @@ h6,
 
 /* Links */
 a {
-  --button-color: var(--color, var(--color-primary));
-
-  color: var(--button-color);
+  color: var(--color-primary);
   text-decoration-color: transparent;
   text-decoration-thickness: 0.075em;
   text-underline-offset: 0.125em;
@@ -889,7 +887,7 @@ a {
 }
 
 :is(h1, h2, h3, h4, h5, h6, p) > a:hover {
-  --button-color: var(--color, var(--color-primary-hover));
+  color: var(--color-primary-hover);
 }
 
 /* Add underline to text using our paragraph styles only. */
