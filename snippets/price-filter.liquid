@@ -1,11 +1,14 @@
-{% comment %}
+{%- doc -%}
   Renders a price filter.
 
-  Accepts:
-  - filter {filter}: The filter to render
-  - filter_style {string}: The filter style (horizontal or vertical)
-  - autofocus {boolean}: Whether to autofocus the filter
-{% endcomment %}
+  @param {object} filter - The filter object to render.
+  @param {string} filter_style - The filter style, can be 'horizontal' or 'vertical'.
+  @param {boolean} [autofocus] - Whether to autofocus the filter.
+  @param {boolean} [should_render_clear] - Whether to render the clear button.
+
+  @example
+  {% render 'price-filter', filter: filter, filter_style: 'vertical' %}
+{%- enddoc -%}
 
 <accordion-custom
   class="facets__item"
@@ -29,25 +32,26 @@
     <summary class="facets__summary">
       <span class="facets__label">{{ filter.label }}</span>
       <facet-status-component class="facets__status">
+        <template ref="moneyFormat">{{ shop.money_format }}</template>
+
         <span
           class="hide-when-empty"
           ref="facetStatus"
           data-currency="{{ localization.country.currency.iso_code }}"
-          data-money-format="{{ shop.money_format }}"
           data-range-max="{{ filter.range_max }}"
         >
           {%- if filter.min_value.value != null or filter.max_value.value != null %}
             {%- if filter.min_value.value != null and filter.max_value.value != null %}
-              {{- filter.min_value.value | money -}}
+              {{- filter.min_value.value | money | strip_html -}}
               –
-              {{- filter.max_value.value | money -}}
+              {{- filter.max_value.value | money | strip_html -}}
             {%- elsif filter.min_value.value != null -%}
-              {{ filter.min_value.value | money }}–{{ filter.range_max | money }}
+              {{ filter.min_value.value | money | strip_html }}–{{ filter.range_max | money | strip_html }}
 
             {%- elsif filter.max_value.value != null -%}
-              {{- 0 | money -}}
+              {{- 0 | money | strip_html -}}
               –
-              {{- filter.max_value.value | money -}}
+              {{- filter.max_value.value | money | strip_html -}}
             {%- endif -%}
           {%- endif -%}
         </span>
@@ -130,7 +134,7 @@
 
         <div class="price-facet__highest-price">
           {%- assign formatted_highest_price = filter.range_max | money -%}
-          {{ 'content.price_filter' | t: price: formatted_highest_price }}
+          {{ 'content.price_filter_html' | t: price: formatted_highest_price }}
         </div>
 
         {% if filter.min_value.value != null or filter.max_value.value != null %}
@@ -174,7 +178,7 @@
     flex-grow: 0;
   }
 
-  @container (width < 200px) {
+  @container (max-width: 199px) {
     .facets__inputs-wrapper.price-facet__inputs-wrapper {
       flex-wrap: wrap;
       width: 100%;
@@ -195,7 +199,7 @@
   }
 
   .facets--horizontal .facets__inputs-wrapper.price-facet__inputs-wrapper {
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       padding: calc(var(--padding-md) + var(--style-border-width-inputs));
     }
   }

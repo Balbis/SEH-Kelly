@@ -1,11 +1,11 @@
-{% doc %}
+{%- doc -%}
   Renders a grid and places items inside of it using an editorial layout.
 
   @param {object} items - An array of HTML strings for the collection list items
 
   @example
   {% render 'editorial-collection-grid', items: items %}
-{% enddoc %}
+{%- enddoc -%}
 
 <div class="editorial-collection__grid">
   <div class="editorial-collection__spacer"></div>
@@ -95,16 +95,19 @@
       align-self: flex-start;
       aspect-ratio: 4 / 5;
     }
+
     .editorial-collection__item-1 {
       width: 83%;
       align-self: flex-end;
       aspect-ratio: 5 / 5;
     }
+
     .editorial-collection__item-2 {
       width: 83%;
       align-self: flex-start;
       aspect-ratio: 8 / 6;
     }
+
     .editorial-collection__item-3 {
       width: 100%;
       align-self: center;

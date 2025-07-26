@@ -115,36 +115,29 @@ class LocalizationFormComponent extends Component {
   resizeLanguageInput() {
     const { languageInput } = this.refs;
 
+    if (!languageInput) return;
+
     // Hide all options except the selected option
     for (const option of languageInput.options) {
       if (!option.selected) {
-        option.dataset.optionLabel = option.innerText;
+        option.dataset.optionLabel = option.textContent || '';
         option.innerText = '';
       }
     }
 
     // Calculate the width of the select element (which is based on the width of the widest option)
-    languageInput.style.width = 'auto';
-    let width = 'auto';
-
-    // Clone the element to make the width calculation work on hidden elements
-    const clone = languageInput.cloneNode(true);
-    if (clone instanceof HTMLElement) {
-      clone.style.position = 'absolute';
-      clone.style.visibility = 'hidden';
-      clone.style.display = 'block';
-      document.body.appendChild(clone);
-      width = `${clone.offsetWidth}px`;
-      document.body.removeChild(clone);
-    }
+    languageInput.style.width = 'fit-content';
+    const originalElementWidth = `${Math.ceil(languageInput.offsetWidth) + 1}px`;
 
     // Fix the width of the select element
-    languageInput.style.width = width;
+    if (languageInput.offsetWidth > 0) {
+      languageInput.style.width = originalElementWidth;
+    }
 
     // Add back all option labels
     for (const option of languageInput.options) {
       if (option.dataset.optionLabel) {
-        option.innerText = option.dataset.optionLabel;
+        option.textContent = option.dataset.optionLabel;
         delete option.dataset.optionLabel;
       }
     }
@@ -371,6 +364,8 @@ class LocalizationFormComponent extends Component {
    */
   resetForm() {
     const { search } = this.refs;
+
+    if (!search) return;
 
     if (search.value != '') {
       search.value = '';

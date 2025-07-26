@@ -1,20 +1,26 @@
-{% doc %}
+{%- doc -%}
   This snippet is used to render a collection card.
   To be used inside a block to inherit the block object settings.
 
   @param {string} card_image - The image to display in the collection card
   @param {string} children - The content to render inside the collection card
+  @param {object} collection - The collection to render the card for
   @param {object} block - The block object
-  @param {object} [section] - The section object
+  @param {object} section - The section object
 
   @example
-  {% render 'collection-card', children: collection_content %}
-{% enddoc %}
+  {% render 'collection-card',
+    card_image: card_image,
+    children: children,
+    block: block,
+    collection: collection,
+    section: section
+  %}
+{%- enddoc -%}
 
 {% liquid
-  assign collection = block.settings.collection
-
   assign onboarding = false
+
   if collection == blank
     assign onboarding = true
   endif
@@ -59,9 +65,10 @@
 
 {% stylesheet %}
   .collection-card {
+    --fixed-card-height: var(--height-small);
+
     width: 100%;
     position: relative;
-    --fixed-card-height: var(--height-small);
   }
 
   .collection-card > placeholder-image,
@@ -94,6 +101,7 @@
       pointer-events: auto;
     }
   }
+
   /* allow all blocks to be selectable in editor preview */
   .shopify-design-mode .collection-card__content * {
     pointer-events: auto;
@@ -114,6 +122,7 @@
   .collection-card__link {
     position: absolute;
     inset: 0;
+
     /* allows focus outline to have radius in supported browsers */
     border-radius: var(--border-radius);
   }

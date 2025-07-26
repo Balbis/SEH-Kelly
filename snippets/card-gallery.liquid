@@ -1,4 +1,4 @@
-{% doc %}
+{%- doc -%}
   Displays product images in a carousel.
   Settings allow for a full slideshow, showing only the first image, or showing the second image when hovering.
   Note: When the product card itself is in a carousel layout, the card-gallery's carousel is disabled with JavaScript.
@@ -6,7 +6,7 @@
   @param [children] - Additional content rendered below the card gallery
   @param [section] - The section object the snippet is rendered in
   @param [block] - The block object the snippet is rendered in
-{% enddoc %}
+{%- enddoc -%}
 
 {% liquid
   assign image_sizes = '(min-width: 750px) 50vw, 100vw'
@@ -35,7 +35,7 @@
 {% endif %}
 
 {% liquid
-  assign product = block.settings.product
+  assign product = closest.product
 
   assign lazy_image_sizes = 'auto, ' | append: image_sizes
 
@@ -69,12 +69,6 @@
 
   assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src'
   assign selected_variant_image = product.selected_or_first_available_variant.image.src
-  assign selected_variant_image_index = 0
-  for image in product.images
-    if image.src == selected_variant_image
-      assign selected_variant_image_index = forloop.index0
-    endif
-  endfor
 
   assign hover_behavior = 'carousel'
 
@@ -86,21 +80,11 @@
   endif
 %}
 
-{% capture placeholder_image %}
-  <placeholder-image data-block-id="{{ section.id }}-{{ block.id }}" data-type="product"></placeholder-image>
-{% endcapture %}
-{% capture placeholder_slide %}
-  {% render 'slideshow-slide', index: 1, children: placeholder_image, class: 'product-media-container card-gallery__placeholder' %}
-{% endcapture %}
-{% capture slideshow_placeholder %}
-  {% render 'slideshow', ref: 'slideshow', slides: placeholder_slide, slide_count: 1, attributes: 'disabled="true"' %}
-{% endcapture %}
-
 <div
   ref="cardGallery"
   class="
     card-gallery card-gallery-{{ block.id }} spacing-style border-style
-    {% if block.settings.product == blank and request.design_mode == false %}hidden{% endif %}
+    {% if closest.product == blank and request.design_mode == false %}hidden{% endif %}
   "
   style="
     {% render 'border-override', settings: block.settings %}
@@ -108,43 +92,52 @@
     --gallery-aspect-ratio: {{ ratio }};
   "
   data-product-id="{{ product.id }}"
-  on:pointerenter="/previewImage"
-  on:pointerleave="/resetImage"
+  {% if settings.show_second_image_on_hover %}
+    on:pointerenter="/previewImage"
+    on:pointerleave="/resetImage"
+  {% endif %}
   {% if settings.transition_to_main_product %}
     data-view-transition-to-main-product
   {% endif %}
   data-image-ratio="{{ block.settings.image_ratio }}"
   {{ block.shopify_attributes }}
 >
-  {% assign all_media = product.media %}
+  {% liquid
+    assign all_media = product.media
 
-  {% comment %}
-    For combined listings, also make sure to include the featured media of the color variants so that the swatch picker
-    works as expected.
-  {% endcomment %}
-  {% for product_option in product.options_with_values %}
-    {% for product_option_value in product_option.values %}
-      {% if product_option_value.swatch %}
-        {% assign featured_media = product_option_value.variant.featured_media %}
+    # For combined listings: make sure to include the featured media of the color variants so that the swatch picker
+    # works as expected.
+    for product_option in product.options_with_values
+      for product_option_value in product_option.values
+        if product_option_value.swatch
+          assign featured_media = product_option_value.variant.featured_media
 
-        {% comment %}
-          If the variant has no featured media, and we have a combined listing product, then fall back to using the
-          featured media of the child product that is linked to this option value.
-        {% endcomment %}
-        {% if featured_media == blank and product_option_value.product_url %}
-          {% assign featured_media = product_option_value.variant.product.featured_media %}
-        {% endif %}
+          # If the variant has no featured media, and we have a combined listing product, then fall back to using the
+          # featured media of the child product that is linked to this option value.
 
-        {% assign existing_media = all_media | has: 'id', featured_media.id %}
-        {% unless existing_media %}
-          {% assign variant_featured_media = product_option_value.variant.product.media
-            | where: 'id', featured_media.id
-          %}
-          {% assign all_media = all_media | concat: variant_featured_media %}
-        {% endunless %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
+          if featured_media == blank and product_option_value.product_url
+            assign featured_media = product_option_value.variant.product.featured_media
+          endif
+
+          assign existing_media = all_media | has: 'id', featured_media.id
+          unless existing_media
+            assign variant_featured_media = product_option_value.variant.product.media | where: 'id', featured_media.id
+            assign all_media = all_media | concat: variant_featured_media
+          endunless
+        endif
+      endfor
+    endfor
+
+    # Sort media so selected variant image comes first
+    assign selected_media = all_media | where: 'src', selected_variant_image
+    assign other_media = all_media | reject: 'src', selected_variant_image
+    assign all_media_sorted = selected_media | concat: other_media
+    # Check if there are generic media that are not variant images
+    assign has_generic_media = false
+    if all_media_sorted.size > variant_images.size
+      assign has_generic_media = true
+    endif
+  %}
 
   {%- if all_media.size > 0 -%}
     {% if all_media.size > 2 and hover_behavior == 'carousel' %}
@@ -152,7 +145,7 @@
     {% endif %}
 
     {% capture slides %}
-      {% for media in all_media %}
+      {% for media in all_media_sorted %}
         {% assign loading = 'lazy' %}
         {% assign sizes = lazy_image_sizes %}
 
@@ -171,7 +164,7 @@
         {% assign hidden = false %}
         {% if variant_images contains media.src %}
           {% assign attributes = 'variant-image' %}
-          {% unless forloop.first %}
+          {% unless forloop.first and media.src == selected_variant_image or has_generic_media == false %}
             {% assign hidden = true %}
           {% endunless %}
         {% endif %}
@@ -180,12 +173,12 @@
     {% endcapture %}
 
     {% assign slideshow_attributes = '' %}
-    {% if hover_behavior == 'none' %}
+    {% if hover_behavior == 'none' or settings.product_card_carousel == false %}
       {% assign slideshow_attributes = 'disabled="true"' %}
     {% endif %}
     {% render 'slideshow',
       ref: 'slideshow',
-      initial_slide: selected_variant_image_index,
+      initial_slide: 0,
       slides: slides,
       slide_count: all_media.size,
       show_arrows: show_arrows,
@@ -196,6 +189,15 @@
       <span class="title-text">{{- product.title -}}</span>
     </product-title>
   {% elsif product == blank %}
+    {% capture placeholder_image %}
+      <placeholder-image data-block-id="{{ section.id }}-{{ block.id }}" data-type="product"></placeholder-image>
+    {% endcapture %}
+    {% capture placeholder_slide %}
+      {% render 'slideshow-slide', index: 1, children: placeholder_image, class: 'product-media-container card-gallery__placeholder' %}
+    {% endcapture %}
+    {% capture slideshow_placeholder %}
+      {% render 'slideshow', ref: 'slideshow', slides: placeholder_slide, slide_count: 1, attributes: 'disabled="true"' %}
+    {% endcapture %}
     {{ slideshow_placeholder }}
   {%- endif -%}
   {{ children }}
@@ -223,7 +225,7 @@
     line-height: var(--line-height--display-loose);
     word-break: break-word;
     color: var(--color-foreground);
-    background-color: rgb(from var(--color-foreground) r g b / 5%);
+    background-color: rgb(var(--color-foreground-rgb) / var(--opacity-5));
     aspect-ratio: var(--gallery-aspect-ratio);
     border-radius: var(--product-corner-radius);
     display: -webkit-box;
@@ -232,7 +234,7 @@
     text-overflow: ellipsis;
   }
 
-  @media screen and (width >= 750px) {
+  @media screen and (min-width: 750px) {
     .product-grid[data-product-card-size='extra-large'] .product-card-gallery__title-placeholder {
       padding: var(--padding-3xl);
       font-size: var(--font-size--3xl);
@@ -326,7 +328,7 @@
     }
   }
 
-  @media screen and (width < 750px) {
+  @media screen and (max-width: 749px) {
     .product-card-gallery__title-placeholder {
       font-size: var(--font-size--xl);
       padding: var(--padding-md);

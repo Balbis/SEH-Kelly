@@ -1,10 +1,10 @@
-{% doc %}
+{%- doc -%}
   Renders a comment form for a blog post.
 
   @param {object} [form] - The form object
-  @param {object} article - The article object
-  @param {string} section_id - The section ID
-{% enddoc %}
+  @param {object} [article] - The article object
+  @param {string} [section_id] - The section ID
+{%- enddoc -%}
 
 {% form 'new_comment', article %}
   <div class="blog-post-comments__form-container">
@@ -166,7 +166,7 @@
     grid-template-columns: 1fr;
     gap: var(--comment-form-gap);
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       grid-template-columns: 1fr 1fr;
     }
   }

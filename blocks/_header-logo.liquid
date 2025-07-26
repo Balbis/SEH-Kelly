@@ -28,7 +28,7 @@
   {% if template.name == 'index' and block.settings.hide_logo_on_home_page %}
     data-hidden-on-home-page
   {% endif %}
-  href="/"
+  href="{{ routes.root_url }}"
   class="size-style spacing-style header-logo"
   style="
     {% render 'size-style', settings: block.settings %}
@@ -105,11 +105,11 @@
       }
     }
 
-    @media screen and (width < 750px) {
+    @media screen and (max-width: 749px) {
       padding: 0;
     }
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       flex-shrink: 0;
     }
 
@@ -123,7 +123,7 @@
     height: var(--header-logo-image-height-mobile);
     width: var(--header-logo-image-width-mobile);
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       height: var(--header-logo-image-height);
       width: var(--header-logo-image-width);
     }

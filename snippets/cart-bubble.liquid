@@ -1,10 +1,10 @@
-{% doc %}
+{%- doc -%}
   @param [limit] - {number}
   @param [live_region] - {boolean}
 
   The maximum number of items in the cart to display. If the number of items in the cart is greater than this limit, the
   count will be displayed as "99+".
-{% enddoc %}
+{%- enddoc -%}
 
 <div
   ref="cartBubble"
@@ -27,8 +27,10 @@
       : {{ cart.item_count }}
     </span>
     <span
-      class="cart-bubble__text-count"
+      class="cart-bubble__text-count{% if cart == empty %} hidden{% endif %}"
+      ref="cartBubbleCount"
       aria-hidden="true"
+      data-testid="cart-bubble"
     >
       {%- if limit == blank or cart.item_count < limit %}
         {{- cart.item_count -}}

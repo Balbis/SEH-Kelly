@@ -1,7 +1,11 @@
-{% comment %}
-  A snippet for text that stretches to fit the full width of it's container.
-  @param [string] text - text to be rendered
-{% endcomment %}
+{%- doc -%}
+  Renders text that stretches to fit the full width of its container.
+
+  @param {string} [text] - The text to be rendered.
+
+  @example
+  {% render 'jumbo-text', text: block.settings.text %}
+{%- enddoc -%}
 
 {% liquid
   assign shown_text = text | default: block.settings.text
@@ -51,9 +55,9 @@
   {% if text != blank %}
     <jumbo-text {{ attributes }}>{{ text }}</jumbo-text>
   {% else %}
+    <span class="visually-hidden">{{ shown_text }}</span>
     <jumbo-text
       {{ attributes }}
-      aria-label="{{ shown_text }}"
       data-text-effect="{{ block.settings.text_effect }}"
       data-animation-repeat="{{ block.settings.animation_repeat }}"
     >
@@ -66,6 +70,7 @@
           class="jumbo-text-line"
           style="--line-index: {{ forloop.index }};"
           data-testid="jumbo-text-line"
+          aria-hidden="true"
         >
           {%- assign chars = line | split: ' ' | join: ' ' | split: '' -%}
           {%- for char in chars -%}

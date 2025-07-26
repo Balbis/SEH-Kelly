@@ -1,8 +1,11 @@
-{% comment %}
+{%- doc -%}
   Renders the grid density controls.
 
-  @param {string} viewport - The viewport to render the grid density controls for.
-{% endcomment %}
+  @param {string} viewport - The viewport to render the controls for, either 'mobile' or 'desktop'.
+
+  @example
+  {% render 'grid-density-controls', viewport: 'desktop' %}
+{%- enddoc -%}
 
 <div class="column-options-wrapper">
   <fieldset class="column-options">
@@ -101,7 +104,7 @@
   .facets .column-options-wrapper {
     display: none;
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       display: flex;
     }
   }
@@ -114,7 +117,7 @@
     padding: 0;
     border: none;
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       gap: var(--gap-2xs);
     }
   }
@@ -126,14 +129,14 @@
 
   .column-options__option:has(.column-picker-mobile--single),
   .column-options__option:has(.column-picker-mobile--double) {
-    @media screen and (width <= 749px) {
+    @media screen and (max-width: 749px) {
       display: flex;
     }
   }
 
   .column-options__option:has(.column-picker--default),
   .column-options__option:has(.column-picker--zoom-out) {
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       display: flex;
     }
   }
@@ -159,18 +162,18 @@
   }
 
   .column-picker {
-    color: rgba(from var(--color-foreground) r g b / 50%);
+    color: rgb(var(--color-foreground-rgb) / var(--opacity-50));
     padding: var(--padding-2xs);
     border-radius: var(--style-border-radius-xs);
     transition: background-color var(--animation-speed) ease, color var(--animation-speed) ease;
   }
 
   .column-options__option:hover .column-picker {
-    background-color: rgba(from var(--color-foreground) r g b / 4%);
+    background-color: rgb(var(--color-foreground-rgb) / var(--opacity-5));
   }
 
   .column-options__option-input:checked ~ .column-picker {
-    color: rgba(from var(--color-foreground) r g b / 100%);
-    background-color: rgba(from var(--color-foreground) r g b / 6%);
+    color: rgb(var(--color-foreground-rgb));
+    background-color: rgb(var(--color-foreground-rgb) / var(--opacity-5));
   }
 {% endstylesheet %}

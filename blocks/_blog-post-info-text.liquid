@@ -1,10 +1,10 @@
 
-{% doc %}
+{%- doc -%}
   Renders the blog post info text block.
 
   @param {object} [article] - The article object
   @param {string} [alignment] - The alignment of the text. Defaults to the block's alignment setting.
-{% enddoc %}
+{%- enddoc -%}
 
 {% assign alignment = alignment | default: block.settings.alignment %}
 
@@ -37,9 +37,10 @@
     display: flex;
     gap: var(--gap-sm);
     font-size: var(--font-size--paragraph);
-    color: rgb(from var(--color-foreground) r g b / var(--opacity-subdued-text));
+    color: rgb(var(--color-foreground-rgb) / var(--opacity-subdued-text));
     white-space: nowrap;
   }
+
   .blog-post-details > span {
     text-overflow: clip;
     overflow: hidden;

@@ -1,6 +1,10 @@
-{% comment %}
-  This snippet renders the account popover, which is used for desktop users.
-{% endcomment %}
+{%- doc -%}
+  Renders the account popover for desktop users, which appears when clicking the account icon. It contains links for account actions like login, logout, and viewing account details.
+
+  @param {object} [settings] - The theme-level settings.
+
+  @param {string} [settings.popover_color_scheme] - The color scheme for the popover panel.
+{%- enddoc -%}
 
 <details
   class="account-popover mobile:hidden"
@@ -24,6 +28,7 @@
     --account-popover-transition-opacity: 0;
     --account-popover-transition-transform: translateY(-20px);
     --account-popover-transition-visibility: hidden;
+
     position: relative;
 
     &[open] {
@@ -50,6 +55,7 @@
   .account-popover__panel {
     border-radius: var(--style-border-radius-popover);
     position: absolute;
+
     /* Override the default offset. This needs to always be fixed to the parent element in this way. */
     inset-block-start: calc(100% + 10px) !important;
     inset-inline-end: 0;

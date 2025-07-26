@@ -1,4 +1,4 @@
-{% doc %}
+{%- doc -%}
   Renders a header drawer menu triggered by the top details element.
 
   @param {object} linklist - The linklist to render
@@ -9,7 +9,7 @@
 
   @example
   {% render 'header-drawer', linklist: section.settings.menu, class: 'header-drawer--mobile' %}
-{% enddoc %}
+{%- enddoc -%}
 
 {% liquid
   assign max_featured_items = 4
@@ -25,6 +25,7 @@
 <script
   src="{{ 'header-drawer.js' | asset_url }}"
   type="module"
+  fetchpriority="low"
 ></script>
 
 <header-drawer
@@ -263,6 +264,7 @@
                             class="button menu-drawer__back-button focus-inset"
                             aria-expanded="true"
                             on:click="header-drawer/back"
+                            aria-label="{{ 'actions.back' | t }}"
                           >
                             <span class="svg-wrapper icon-caret icon-caret--backward">
                               {{- 'icon-caret.svg' | inline_asset_content -}}
@@ -484,7 +486,6 @@
                                     {% render 'resource-card',
                                       resource: collection.object,
                                       resource_type: 'collection',
-                                      image_width: 500,
                                       style: 'overlay',
                                       image_aspect_ratio: ratio
                                     %}
@@ -496,7 +497,6 @@
                                     {% render 'resource-card',
                                       resource: product,
                                       resource_type: 'product',
-                                      image_width: 300,
                                       image_aspect_ratio: ratio
                                     %}
                                   </li>
@@ -574,7 +574,6 @@
                   {% render 'resource-card',
                     resource: collection.object,
                     resource_type: 'collection',
-                    image_width: 500,
                     style: 'overlay',
                     image_aspect_ratio: ratio
                   %}
@@ -583,12 +582,7 @@
             {% elsif top_level_featured_products.size > 0 %}
               {%- for product in top_level_featured_products limit: max_featured_items -%}
                 <li class="menu-drawer__featured-content-list-item menu-drawer__featured-content-list-item--product">
-                  {% render 'resource-card',
-                    resource: product,
-                    resource_type: 'product',
-                    image_width: 300,
-                    image_aspect_ratio: ratio
-                  %}
+                  {% render 'resource-card', resource: product, resource_type: 'product', image_aspect_ratio: ratio %}
                 </li>
               {%- endfor -%}
             {% endif %}
@@ -608,7 +602,7 @@
     position: initial;
   }
 
-  @media screen and (width >= 750px) {
+  @media screen and (min-width: 750px) {
     .header--desktop header-menu + .header__drawer header-drawer {
       display: none;
     }
@@ -633,7 +627,7 @@
     min-height: 60px;
     align-items: center;
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       min-height: 0;
     }
   }
@@ -645,7 +639,7 @@
   .menu-drawer__navigation {
     padding: 0;
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       margin-top: var(--drawer-header-desktop-top);
     }
   }
@@ -655,7 +649,7 @@
   }
 
   details[open] .header__icon--menu .header-drawer-icon--close {
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       display: none;
     }
   }
@@ -663,7 +657,7 @@
   details[open] .header__icon--menu .header-drawer-icon--open {
     display: none;
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       display: flex;
     }
   }
@@ -686,7 +680,7 @@
     box-shadow: var(--shadow-drawer);
     flex-direction: column;
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       width: 25rem;
     }
 
@@ -696,7 +690,7 @@
   }
 
   .menu-drawer:has(details[open]) {
-    overflow: hidden;
+    overflow: initial;
   }
 
   .menu-drawer__backdrop {
@@ -750,7 +744,7 @@
     height: 100%;
     overflow-y: auto;
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       margin-top: var(--drawer-header-desktop-top);
     }
   }
@@ -786,7 +780,7 @@
   .menu-drawer__menu--childlist:not(:has(.menu-drawer__animated-element)) {
     margin-block-end: var(--margin-xs);
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       margin-block-end: 2.5rem;
     }
   }
@@ -827,7 +821,7 @@
   .menu-drawer__menu--childlist .menu-drawer__list-item--flat {
     margin-block-end: var(--margin-sm);
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       margin-block-end: var(--margin-lg);
     }
   }
@@ -980,7 +974,7 @@
   }
 
   .menu-drawer__menu-item-text {
-    overflow-x: hidden;
+    overflow: hidden;
     text-overflow: ellipsis;
   }
 
@@ -1019,7 +1013,7 @@
     left: 0;
     background-color: var(--color-background);
     z-index: var(--layer-flat);
-    transform: translateX(5%);
+    transform: translateX(-5%);
     visibility: hidden;
     overflow-y: auto;
     opacity: 0;
@@ -1095,5 +1089,9 @@
       opacity: 0;
       transform: translateX(-1rem);
     }
+  }
+
+  .menu-drawer__menu-item > .svg-wrapper {
+    flex-shrink: 0;
   }
 {% endstylesheet %}

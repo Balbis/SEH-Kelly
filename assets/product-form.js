@@ -10,7 +10,7 @@ export const ADD_TO_CART_TEXT_ANIMATION_DURATION = 2000;
  * A custom element that manages an add to cart button.
  *
  * @typedef {object} AddToCartRefs
- * @property {HTMLElement} addToCartButton - The add to cart button.
+ * @property {HTMLButtonElement} addToCartButton - The add to cart button.
  * @extends Component<AddToCartRefs>
  */
 export class AddToCartComponent extends Component {
@@ -34,6 +34,20 @@ export class AddToCartComponent extends Component {
     if (this.#animationTimeout) clearTimeout(this.#animationTimeout);
     if (this.#cleanupTimeout) clearTimeout(this.#cleanupTimeout);
     this.removeEventListener('pointerenter', this.#preloadImage);
+  }
+
+  /**
+   * Disables the add to cart button.
+   */
+  disable() {
+    this.refs.addToCartButton.disabled = true;
+  }
+
+  /**
+   * Enables the add to cart button.
+   */
+  enable() {
+    this.refs.addToCartButton.disabled = false;
   }
 
   /**
@@ -103,7 +117,7 @@ if (!customElements.get('add-to-cart-component')) {
  * A custom element that manages a product form.
  *
  * @typedef {object} ProductFormRefs
- * @property {HTMLInputElement} variantId - The variant ID.
+ * @property {HTMLInputElement} variantId - The form input for submitting the variant ID.
  * @property {AddToCartComponent | undefined} addToCartButtonContainer - The add to cart button container element.
  * @property {HTMLElement | undefined} addToCartTextError - The add to cart text error.
  * @property {HTMLElement | undefined} acceleratedCheckoutButtonContainer - The accelerated checkout button container element.
@@ -122,8 +136,9 @@ class ProductFormComponent extends Component {
     super.connectedCallback();
 
     const { signal } = this.#abortController;
-    const target = this.closest('.shopify-section, dialog');
+    const target = this.closest('.shopify-section, dialog, product-card');
     target?.addEventListener(ThemeEvents.variantUpdate, this.#onVariantUpdate, { signal });
+    target?.addEventListener(ThemeEvents.variantSelected, this.#onVariantSelected, { signal });
   }
 
   disconnectedCallback() {
@@ -165,7 +180,7 @@ class ProductFormComponent extends Component {
 
     const fetchCfg = fetchConfig('javascript', { body: formData });
 
-    fetch(Theme.routes.root + 'cart/add.js', {
+    fetch(Theme.routes.cart_add_url, {
       ...fetchCfg,
       headers: {
         ...fetchCfg.headers,
@@ -206,7 +221,7 @@ class ProductFormComponent extends Component {
             new CartAddEvent({}, this.id, {
               didError: true,
               source: 'product-form-component',
-              itemCount: Number(formData.get('quantity')),
+              itemCount: Number(formData.get('quantity')) || Number(this.dataset.quantityDefault),
               productId: this.dataset.productId,
             })
           );
@@ -238,7 +253,7 @@ class ProductFormComponent extends Component {
           this.dispatchEvent(
             new CartAddEvent({}, id.toString(), {
               source: 'product-form-component',
-              itemCount: Number(formData.get('quantity')),
+              itemCount: Number(formData.get('quantity')) || Number(this.dataset.quantityDefault),
               productId: this.dataset.productId,
               sections: response.sections,
             })
@@ -286,10 +301,10 @@ class ProductFormComponent extends Component {
 
     // Update the button state
     if (event.detail.resource == null || event.detail.resource.available == false) {
-      currentAddToCartButton.setAttribute('disabled', 'true');
+      addToCartButtonContainer.disable();
       this.refs.acceleratedCheckoutButtonContainer?.setAttribute('hidden', 'true');
     } else {
-      addToCartButtonContainer.refs.addToCartButton.removeAttribute('disabled');
+      addToCartButtonContainer.enable();
       this.refs.acceleratedCheckoutButtonContainer?.removeAttribute('hidden');
     }
 
@@ -307,6 +322,14 @@ class ProductFormComponent extends Component {
       productVariantMedia &&
         addToCartButtonContainer?.setAttribute('data-product-variant-media', productVariantMedia + '&width=100');
     }
+  };
+
+  /**
+   * Disable the add to cart button while the UI is updating before #onVariantUpdate is called.
+   * Accelerated checkout button is also disabled via its own event listener not exposed to the theme.
+   */
+  #onVariantSelected = () => {
+    this.refs.addToCartButtonContainer?.disable();
   };
 }
 

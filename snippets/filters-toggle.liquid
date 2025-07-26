@@ -1,15 +1,14 @@
-{% doc %}
+{%- doc -%}
   Renders the sorting component.
 
   @param {boolean} enable_filtering - Whether to enable filtering
   @param {number} padding-block-start - The padding-block-start value
   @param {number} padding-block-end - The padding-block-end value
   @param {number} total_active_values - The total number of active values
-  @param {object} block - The block object
   @param {string} section_id - The section ID
   @param {object} results - The results of the search
   @param {string} sort_by - The current sort by
-{% enddoc %}
+{%- enddoc -%}
 
 <div
   class="facets-toggle{% if block.settings.enable_filtering == false %} facets-toggle--no-filters{% endif %}"
@@ -79,7 +78,7 @@
     padding-block: var(--facets-inner-padding-block);
     padding-inline: var(--facets-inner-padding-inline);
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       display: none;
     }
   }
@@ -91,12 +90,12 @@
   .facets-toggle__button {
     box-shadow: none;
 
-    @media screen and (width >= 750px) {
+    @media screen and (min-width: 750px) {
       display: none;
     }
   }
 
-  /* Filter count*/
+  /* Filter count */
   .filter-count-bubble {
     position: relative;
     width: 20px;
@@ -128,7 +127,7 @@
   .filter-count-bubble__background {
     position: absolute;
     inset: 0;
-    background-color: rgb(from var(--color-foreground) r g b / 10%);
+    background-color: rgb(var(--color-foreground-rgb) / var(--opacity-10-25));
     border-radius: var(--style-border-radius-50);
   }
 
@@ -139,7 +138,7 @@
   }
 
   .facets-toggle--no-filters {
-    @media screen and (width < 750px) {
+    @media screen and (max-width: 749px) {
       justify-content: unset !important;
 
       & > .facets-mobile-wrapper {
