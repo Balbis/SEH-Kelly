@@ -20,7 +20,7 @@
             "text": "<h1>{{ article.title }}</h1>",
             "width": "100%",
             "max_width": "normal",
-            "alignment": "center",
+            "alignment": "left",
             "type_preset": "h2",
             "font": "var(--font-primary--family)",
             "font_size": "",
@@ -47,7 +47,7 @@
             "show_date": true,
             "show_author": false,
             "type_preset": "",
-            "alignment": "center",
+            "alignment": "left",
             "show_alignment": true,
             "padding-block-start": 24,
             "padding-block-end": 0
