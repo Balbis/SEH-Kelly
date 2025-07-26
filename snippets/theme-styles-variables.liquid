@@ -1,9 +1,12 @@
 {% style %}
   @font-face {
     font-family: 'Farnham Text';
-    src: url('{{ 'farnham-text-regular.woff2' | asset_url }}') format('woff2');
+    src: url('{{ 'farnham-text-regular.woff2' | asset_url }}') format('woff2'),
+      url('{{ 'farnham-text-regular.woff' | asset_url }}') format('woff');
     font-weight: 400;
     font-style: normal;
+    font-display: swap;
+  }
 
   :root {
     /* Page Layout */
@@ -429,12 +432,12 @@
     --button-padding-block: 16px;
 
     /* Button font-family */
-    --button-font-family-primary: var(--font-{{ settings.type_font_button_primary }}--family);
-    --button-font-family-secondary: var(--font-{{ settings.type_font_button_secondary }}--family);
+    --button-font-family-primary: Farnham Text, serif;
+    --button-font-family-secondary: Farnham Text, serif;
 
     /* Button font-weight */
-    --button-font-weight-primary: {{ settings.button_font_weight_primary }};
-    --button-font-weight-secondary: {{ settings.button_font_weight_secondary }};
+    --button-font-weight-primary: 400;
+    --button-font-weight-secondary: 400;
 
     /* Button text case */
     --button-text-case: {{ settings.button_text_case }};
