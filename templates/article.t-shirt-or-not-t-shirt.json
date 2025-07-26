@@ -495,7 +495,7 @@
       "name": "t:names.blog_articles_bento",
       "settings": {
         "blog": "",
-        "layout_type": "bento",
+        "layout_type": "carousel",
         "carousel_on_mobile": false,
         "columns": 4,
         "mobile_columns": "2",
