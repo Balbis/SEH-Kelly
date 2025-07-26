@@ -39,8 +39,65 @@
   assign widths = '300, 450, 600, 750, 900, 1050, 1200, 1350, 1500, 1650, 1800, 1950, 2000, 2500, 3000, 3500, 4000, 5000'
 %}
 
+{% liquid
+  assign all_images = ''
+  assign image_count = 0
+  
+  if block.settings.image_mode == 'multiple'
+    assign image_array = ''
+    assign image_ids = ''
+    
+    if block.settings.image != blank
+      assign image_array = image_array | append: block.settings.image | append: '|'
+      assign image_ids = image_ids | append: block.settings.image.id | append: ','
+      assign image_count = image_count | plus: 1
+    endif
+    
+    if block.settings.image_2 != blank
+      assign image_array = image_array | append: block.settings.image_2 | append: '|'
+      assign image_ids = image_ids | append: block.settings.image_2.id | append: ','
+      assign image_count = image_count | plus: 1
+    endif
+    
+    if block.settings.image_3 != blank
+      assign image_array = image_array | append: block.settings.image_3 | append: '|'
+      assign image_ids = image_ids | append: block.settings.image_3.id | append: ','
+      assign image_count = image_count | plus: 1
+    endif
+    
+    if block.settings.image_4 != blank
+      assign image_array = image_array | append: block.settings.image_4 | append: '|'
+      assign image_ids = image_ids | append: block.settings.image_4.id | append: ','
+      assign image_count = image_count | plus: 1
+    endif
+    
+    if image_array != ''
+      assign all_images = image_array | split: '|'
+    endif
+  endif
+%}
+
 {% capture image %}
-  {%- if block.settings.image -%}
+  {%- if block.settings.image_mode == 'multiple' and image_count > 0 -%}
+    <div class="image-block__rotating-container" data-block-id="{{ block.id }}" data-images="{{ image_ids | remove_last: ',' }}">
+      {%- for image in all_images -%}
+        {%- if image != blank -%}
+          {{
+            image
+            | image_url: width: 3840
+            | image_tag:
+              width: image.width,
+              widths: widths,
+              height: image.height,
+              class: 'image-block__image border-style image-block__rotating-image',
+              style: image_border_style,
+              sizes: sizes,
+              data: 'data-image-index:' | append: forloop.index0
+          }}
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+  {%- elsif block.settings.image != blank -%}
     {{
       block.settings.image
       | image_url: width: 3840
@@ -109,6 +166,26 @@
     object-fit: cover;
     aspect-ratio: var(--ratio);
   }
+
+  .image-block__rotating-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .image-block__rotating-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .image-block__rotating-image.active {
+    opacity: 1;
+  }
 {% endstylesheet %}
 
 {% schema %}
@@ -117,9 +194,47 @@
   "tag": null,
   "settings": [
     {
+      "type": "select",
+      "id": "image_mode",
+      "label": "Image Mode",
+      "options": [
+        {
+          "value": "single",
+          "label": "Single Image"
+        },
+        {
+          "value": "multiple",
+          "label": "Multiple Images (Rotating)"
+        }
+      ],
+      "default": "single"
+    },
+    {
       "type": "image_picker",
       "id": "image",
-      "label": "t:settings.image"
+      "label": "t:settings.image",
+      "info": "Primary image (used for single mode or as first image in rotation)"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_2",
+      "label": "Second Image",
+      "info": "Second image for rotation (optional)",
+      "visible_if": "{{ block.settings.image_mode == 'multiple' }}"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_3",
+      "label": "Third Image",
+      "info": "Third image for rotation (optional)",
+      "visible_if": "{{ block.settings.image_mode == 'multiple' }}"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_4",
+      "label": "Fourth Image",
+      "info": "Fourth image for rotation (optional)",
+      "visible_if": "{{ block.settings.image_mode == 'multiple' }}"
     },
     {
       "type": "url",
