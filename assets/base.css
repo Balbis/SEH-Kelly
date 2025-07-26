@@ -878,20 +878,11 @@ h6,
 
 /* Links */
 a {
-  color: var(--color-primary);
+  color: var(--color-primary) !important;
 }
 
-:is(h1, h2, h3, h4, h5, h6, p) > a:hover {
-  color: var(--color-primary-hover);
-}
-
-/* Add underline to text using our paragraph styles only. */
-p:not(.h1, .h2, .h3, .h4, .h5, .h6) a:where(:not(.button, .button-primary, .button-secondary)),
-.rte
-  :is(p, ul, ol, table):not(.h1, .h2, .h3, .h4, .h5, .h6)
-  a:where(:not(.button, .button-primary, .button-secondary)):hover {
-    color: var(--color-primary-hover);
-  }
+a:where(:not(.button, .button-primary, .button-secondary)) {
+  color: var(--color-primary-hover) !important;
 }
 
 .container-background-image {
