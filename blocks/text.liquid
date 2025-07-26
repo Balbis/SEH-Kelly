@@ -69,13 +69,6 @@
       "visible_if": "{{ block.settings.max_width == 'custom' }}"
     },
     {
-      "type": "text_alignment",
-      "id": "alignment",
-      "label": "t:settings.alignment",
-      "default": "left",
-      "visible_if": "{{ block.settings.width == '100%' }}"
-    },
-    {
       "type": "header",
       "content": "t:content.typography"
     },
@@ -332,6 +325,13 @@
       ],
       "default": "var(--color-foreground)",
       "visible_if": "{{ block.settings.type_preset != 'rte' }}"
+    },
+    {
+      "type": "text_alignment",
+      "id": "alignment",
+      "label": "t:settings.alignment",
+      "default": "left",
+      "visible_if": "{{ block.settings.type_preset == 'custom'}}"
     },
     {
       "type": "header",
