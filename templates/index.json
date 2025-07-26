@@ -227,7 +227,7 @@
                 "alignment": "left",
                 "show_alignment": true,
                 "padding-block-start": 10,
-                "padding-block-end": 0
+                "padding-block-end": 20
               },
               "blocks": {}
             },
