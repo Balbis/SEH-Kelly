@@ -18,6 +18,7 @@
           "settings": {
             "image_mode": "multiple",
             "image": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_c15000fa-cc44-464a-a3ea-068657029a6e.jpg",
+            "image_2": "shopify://shop_images/t-shirt-cotton-tuck-knit-dark-navy-worn-4s_2x_741f0cef-f64f-40c5-9180-f9b46a80bf65.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
