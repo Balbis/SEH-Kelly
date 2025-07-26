@@ -51,8 +51,7 @@
   %}
 
   <{{ element }} {{ attributes }}>
-    {{ content | strip_html | truncatewords: truncatewords }}
-    <a href="{{ article.url }}" class="read-more">{{ 'content.read_more' | t }}</a>
+    {{ content | strip_html | truncatewords: truncatewords }} <a href="{{ article.url }}" class="read-more">{{ 'content.read_more' | t }}</a>
   </{{ element }}>
 {% endif %}
 
