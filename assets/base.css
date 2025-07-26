@@ -3793,11 +3793,11 @@ slideshow-arrows .slideshow-control.slideshow-control--style-none {
   width: 100%;
 
   @media screen and (max-width: 749px) {
-    --resource-list-mobile-gap-max: 12px;
+    --resource-list-mobile-gap-max: 20px;
   }
 
   @container resource-list (max-width: 749px) {
-    --resource-list-mobile-gap-max: 12px;
+    --resource-list-mobile-gap-max: 20px;
   }
 }
 
