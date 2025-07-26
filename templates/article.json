@@ -159,7 +159,7 @@
             "text": "<p>What’s funny — and not funny-ha-ha so much as funny-huh — about the t-shirt here at the workshop is that, well, it isn’t really a t-shirt at all.</p>",
             "width": "100%",
             "max_width": "custom",
-            "custom_max_width": 100,
+            "custom_max_width": 70,
             "alignment": "left",
             "type_preset": "h3",
             "font": "var(--font-body--family)",
