@@ -56,7 +56,7 @@
     {% render 'typography-style', settings: block.settings %}
     --width: {{ text_width }};
     {% if block.settings.max_width == 'custom' %}
-      max-width: {{ block.settings.custom_max_width }}%;
+      --max-width: {{ block.settings.custom_max_width }}%;
     {% else %}
       --max-width: var(--max-width--{{ type }}-{{ block.settings.max_width }});
     {% endif %}
