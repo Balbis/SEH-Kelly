@@ -80,20 +80,20 @@
 {% capture image %}
   {%- if block.settings.image_mode == 'multiple' and image_count > 0 -%}
     <div class="image-block__rotating-container" data-block-id="{{ block.id }}" data-images="{{ image_ids | remove_last: ',' }}">
-      {%- for image in all_images -%}
+      {%- for image in all_images -%}updat
         {%- if image != blank -%}
-          {{
-            image
-            | image_url: width: 3840
-            | image_tag:
-              width: image.width,
-              widths: widths,
-              height: image.height,
-              class: 'image-block__image border-style image-block__rotating-image',
-              style: image_border_style,
-              sizes: sizes,
-              attribute: 'data-image-index:' | append: forloop.index0
-          }}
+          <div class="image-block__image border-style image-block__rotating-image" data-image-index="{{ forloop.index0 }}" style="{{ image_border_style }}">
+            {{
+              image
+              | image_url: width: 3840
+              | image_tag:
+                width: image.width,
+                widths: widths,
+                height: image.height,
+                class: 'image-block__image',
+                sizes: sizes
+            }}
+          </div>
         {%- endif -%}
       {%- endfor -%}
     </div>
@@ -182,6 +182,13 @@
 
   .image-block__rotating-image.active {
     opacity: 1;
+  }
+
+  .image-block__rotating-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: var(--ratio);
   }
 {% endstylesheet %}
 
