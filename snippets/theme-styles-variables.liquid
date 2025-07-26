@@ -1,41 +1,9 @@
-{%- liquid
-  assign primary_font_bold = settings.type_body_font | font_modify: 'weight', 'bold'
-  assign primary_font_italic = settings.type_body_font | font_modify: 'style', 'italic'
-  assign primary_font_bold_italic = primary_font_bold | font_modify: 'style', 'italic'
-
-  assign secondary_font_bold = settings.type_subheading_font | font_modify: 'weight', 'bold'
-  assign secondary_font_italic = settings.type_subheading_font | font_modify: 'style', 'italic'
-  assign secondary_font_bold_italic = secondary_font_bold | font_modify: 'style', 'italic'
-
-  assign tertiary_font_bold = settings.type_heading_font | font_modify: 'weight', 'bold'
-  assign tertiary_font_italic = settings.type_heading_font | font_modify: 'style', 'italic'
-  assign tertiary_font_bold_italic = tertiary_font_bold | font_modify: 'style', 'italic'
-
-  assign accent_font_bold = settings.type_accent_font | font_modify: 'weight', 'bold'
-  assign accent_font_italic = settings.type_accent_font | font_modify: 'style', 'italic'
-  assign accent_font_bold_italic = accent_font_bold | font_modify: 'style', 'italic'
-%}
-
 {% style %}
-  {{ settings.type_body_font | font_face: font_display: 'swap' }}
-  {{ primary_font_bold | font_face: font_display: 'swap' }}
-  {{ primary_font_italic | font_face: font_display: 'swap' }}
-  {{ primary_font_bold_italic | font_face: font_display: 'swap' }}
-
-  {{ settings.type_subheading_font | font_face: font_display: 'swap' }}
-  {{ secondary_font_bold | font_face: font_display: 'swap' }}
-  {{ secondary_font_italic | font_face: font_display: 'swap' }}
-  {{ secondary_font_bold_italic | font_face: font_display: 'swap' }}
-
-  {{ settings.type_heading_font | font_face: font_display: 'swap' }}
-  {{ tertiary_font_bold | font_face: font_display: 'swap' }}
-  {{ tertiary_font_italic | font_face: font_display: 'swap' }}
-  {{ tertiary_font_bold_italic | font_face: font_display: 'swap' }}
-
-  {{ settings.type_accent_font | font_face: font_display: 'swap' }}
-  {{ accent_font_bold | font_face: font_display: 'swap' }}
-  {{ accent_font_italic | font_face: font_display: 'swap' }}
-  {{ accent_font_bold_italic | font_face: font_display: 'swap' }}
+  @font-face {
+    font-family: 'Farnham Text';
+    src: url('{{ 'farnham-text-regular.woff2' | asset_url }}') format('woff2');
+    font-weight: 400;
+    font-style: normal;
 
   :root {
     /* Page Layout */
@@ -69,18 +37,18 @@
     --letter-spacing-md: 0.13em;
 
     /* Font families */
-    --font-body--family: {{ settings.type_body_font.family }}, {{ settings.type_body_font.fallback_families }};
-    --font-body--style: {{ settings.type_body_font.style }};
-    --font-body--weight: {{ settings.type_body_font.weight }};
-    --font-subheading--family: {{ settings.type_subheading_font.family }}, {{ settings.type_subheading_font.fallback_families }};
-    --font-subheading--style: {{ settings.type_subheading_font.style }};
-    --font-subheading--weight: {{ settings.type_subheading_font.weight }};
-    --font-heading--family: {{ settings.type_heading_font.family }}, {{ settings.type_heading_font.fallback_families }};
-    --font-heading--style: {{ settings.type_heading_font.style }};
-    --font-heading--weight: {{ settings.type_heading_font.weight }};
-    --font-accent--family: {{ settings.type_accent_font.family }}, {{ settings.type_accent_font.fallback_families }};
-    --font-accent--style: {{ settings.type_accent_font.style }};
-    --font-accent--weight: {{ settings.type_accent_font.weight }};
+    --font-body--family: Farnham Text, serif;
+    --font-body--style: normal;
+    --font-body--weight: 400;
+    --font-subheading--family: Farnham Text, serif;
+    --font-subheading--style: normal;
+    --font-subheading--weight: 400;
+    --font-heading--family: Farnham Text, serif;
+    --font-heading--style: normal;
+    --font-heading--weight: 400;
+    --font-accent--family: Farnham Text, serif;
+    --font-accent--style: normal;
+    --font-accent--weight: 400;
 
     /* Margin sizes */
     --font-h1--spacing: 0.25em;
@@ -549,8 +517,8 @@
     --cart-primary-font-family: var(--font-body--family);
     --cart-primary-font-style: var(--font-body--style);
     --cart-primary-font-weight: var(--font-body--weight);
-    --cart-secondary-font-family: var(--font-{{ settings.cart_price_font }}--family);
-    --cart-secondary-font-style: var(--font-{{ settings.cart_price_font }}--style);
-    --cart-secondary-font-weight: var(--font-{{ settings.cart_price_font }}--weight);
+    --cart-secondary-font-family: Farnham Text, serif;
+    --cart-secondary-font-style: normal;
+    --cart-secondary-font-weight: 400;
   }
 {% endstyle %}
