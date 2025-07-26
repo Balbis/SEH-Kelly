@@ -19,12 +19,12 @@
 
 <div
   class="blog-post-card"
-  style="--text-align: {{ block.settings.alignment }}"
+  style="--text-align: {{ block.settings.alignment }}">
   <div class="blog-post-card__content">
     <a href="{{ article.url }}">{{ title }}</a>
 
     {{ details }}
->
+  </div>
   {%- if article.image -%}
     <div class="blog-post-card__image-container">
       <a href="{{ article.url }}">
