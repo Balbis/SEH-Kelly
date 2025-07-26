@@ -50,8 +50,14 @@
 
   .text-block > * {
     width: var(--width);
-    max-width: var(--max-width, 100%);
+    max-width: 100%;
     text-align: var(--text-align);
+  }
+
+  @media screen and (min-width: 750px) {
+    .text-block > * {
+      max-width: var(--max-width, 100%);
+    }
   }
 
   .text-block:not(.text-block--full-width).rte,
