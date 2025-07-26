@@ -92,7 +92,7 @@
               class: 'image-block__image border-style image-block__rotating-image',
               style: image_border_style,
               sizes: sizes,
-              data: 'data-image-index:' | append: forloop.index0
+              attributes: 'data-image-index:' | append: forloop.index0
           }}
         {%- endif -%}
       {%- endfor -%}
