@@ -877,12 +877,11 @@ h6,
 }
 
 /* Links */
-a {
-  color: var(--color-primary) !important;
-}
-
-a:where(:not(.button, .button-primary, .button-secondary)) {
-  color: var(--color-primary-hover) !important;
+a:not(.button, .button-primary, .button-secondary) {
+  color: var(--color-primary);
+  &:hover {
+    color: var(--color-primary-hover);
+  }
 }
 
 .container-background-image {
