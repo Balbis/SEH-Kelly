@@ -75,7 +75,7 @@
   {% capture list_items %}
     {% for article in section_articles limit: max_items %}
       <div class="resource-list__item">
-        {% content_for 'block', type: '_blog-post-card', id: 'static-blog-post-card', closest.article: article %}
+        {% content_for 'block', type: '_blog-post-card', id: 'static-blog-post-card', article: closest.article %}
       </div>
       {% unless forloop.last %}
         <!--@list/split-->
