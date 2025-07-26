@@ -29,7 +29,6 @@
     gap: var(--gap-lg);
     text-wrap: nowrap;
     border-top: var(--border-width) solid var(--color-border);
-    color: var(--color-foreground-muted);
 
     @media screen and (min-width: 750px) {
       flex-direction: row;
@@ -73,6 +72,13 @@
   .footer-utilities__made-by {
     font-size: 12px;
     margin-left: 20px;
+  }
+
+  .footer-utilities a {
+    color: var(--color-foreground);
+    &:hover {
+      color: var(--color-primary);
+    }
   }
 {% endstylesheet %}
 
