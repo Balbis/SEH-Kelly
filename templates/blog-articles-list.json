@@ -80,8 +80,6 @@
                 "letter_spacing": "normal",
                 "case": "none",
                 "wrap": "pretty",
-                "width": "fit-content",
-                "max_width": "normal",
                 "alignment": "left",
                 "padding-block-start": 0,
                 "padding-block-end": 0,
@@ -136,7 +134,7 @@
       },
       "block_order": ["group_Lg9LkF"],
       "settings": {
-        "blog_articles_list": [],
+        "blog": "",
         "layout_type": "grid",
         "carousel_on_mobile": false,
         "columns": 3,
