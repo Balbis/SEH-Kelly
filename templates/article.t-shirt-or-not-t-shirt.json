@@ -421,6 +421,7 @@
           "blocks": {
             "heading": {
               "type": "_heading",
+              "disabled": true,
               "static": true,
               "settings": {
                 "type_preset": "rte",
