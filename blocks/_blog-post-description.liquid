@@ -52,7 +52,7 @@
 
   <{{ element }} {{ attributes }}>
     {{ content | strip_html | truncatewords: truncatewords }}
-    <a href="{{ article.url }}">{{ 'content.read_more' | t }}</a>
+    <a href="{{ article.url }}" class="read-more">{{ 'content.read_more' | t }}</a>
   </{{ element }}>
 {% endif %}
 
@@ -64,6 +64,10 @@
   .custom-color,
   .custom-color > :is(h1, h2, h3, h4, h5, h6, p, *) {
     color: var(--color);
+  }
+
+  .read-more {
+    display: inline !important;
   }
 {% endstylesheet %}
 
