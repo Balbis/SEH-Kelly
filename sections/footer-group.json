@@ -223,13 +223,13 @@
             },
             "social_icons": {
               "type": "_footer-social-icons",
-              "disabled": true,
               "static": true,
               "settings": {},
               "blocks": {
                 "social_link_JnLXB6": {
                   "type": "_social-link",
                   "name": "Facebook",
+                  "disabled": true,
                   "settings": {
                     "link": "https://www.facebook.com/shopify"
                   },
@@ -239,13 +239,14 @@
                   "type": "_social-link",
                   "name": "Instagram ",
                   "settings": {
-                    "link": "https://www.instagram.com/shopify/#"
+                    "link": "https://www.instagram.com/sehkelly/"
                   },
                   "blocks": {}
                 },
                 "social_link_kd8UUt": {
                   "type": "_social-link",
                   "name": "TikTok",
+                  "disabled": true,
                   "settings": {
                     "link": "https://www.tiktok.com/@shopify"
                   },
@@ -254,6 +255,7 @@
                 "social_link_Qw9AXL": {
                   "type": "_social-link",
                   "name": "X / Twitter",
+                  "disabled": true,
                   "settings": {
                     "link": "https://x.com/shopify"
                   },
@@ -262,6 +264,7 @@
                 "social_link_aAH768": {
                   "type": "_social-link",
                   "name": "YouTube",
+                  "disabled": true,
                   "settings": {
                     "link": "https://www.youtube.com/shopify"
                   },
