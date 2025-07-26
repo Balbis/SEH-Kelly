@@ -448,11 +448,11 @@
               "static": true,
               "settings": {
                 "show_date": true,
-                "show_author": true,
-                "type_preset": "",
+                "show_author": false,
+                "type_preset": "paragraph",
                 "alignment": "left",
                 "show_alignment": true,
-                "padding-block-start": 24,
+                "padding-block-start": 0,
                 "padding-block-end": 0
               },
               "blocks": {}
