@@ -12,7 +12,11 @@
 
   <div class="footer-utilities__group footer-utilities__group--right">
     {% content_for 'block', type: '_footer-social-icons', id: 'social_icons' %}
-    {% content_for 'block', type: 'text', id: 'balbis' %}
+    <a href="https://balbis.studio" class="footer-utilities__made-by" target="_blank">
+      <span>
+       Made by Balbis
+      </span>
+    </a>
   </div>
 </div>
 
@@ -63,6 +67,11 @@
     @media screen and (max-width: 749px) {
       display: none;
     }
+  }
+
+  .footer-utilities__made-by {
+    font-size: 12px;
+    margin-left: 20px;
   }
 {% endstylesheet %}
 
