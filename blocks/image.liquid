@@ -40,39 +40,29 @@
 %}
 
 {% liquid
-  assign all_images = ''
   assign image_count = 0
   
   if block.settings.image_mode == 'multiple'
-    assign image_array = ''
     assign image_ids = ''
     
     if block.settings.image != blank
-      assign image_array = image_array | append: block.settings.image | append: '|'
       assign image_ids = image_ids | append: block.settings.image.id | append: ','
       assign image_count = image_count | plus: 1
     endif
     
     if block.settings.image_2 != blank
-      assign image_array = image_array | append: block.settings.image_2 | append: '|'
       assign image_ids = image_ids | append: block.settings.image_2.id | append: ','
       assign image_count = image_count | plus: 1
     endif
     
     if block.settings.image_3 != blank
-      assign image_array = image_array | append: block.settings.image_3 | append: '|'
       assign image_ids = image_ids | append: block.settings.image_3.id | append: ','
       assign image_count = image_count | plus: 1
     endif
     
     if block.settings.image_4 != blank
-      assign image_array = image_array | append: block.settings.image_4 | append: '|'
       assign image_ids = image_ids | append: block.settings.image_4.id | append: ','
       assign image_count = image_count | plus: 1
-    endif
-    
-    if image_array != ''
-      assign all_images = image_array | split: '|'
     endif
   endif
 %}
@@ -80,22 +70,62 @@
 {% capture image %}
   {%- if block.settings.image_mode == 'multiple' and image_count > 0 -%}
     <div class="image-block__rotating-container" data-block-id="{{ block.id }}" data-images="{{ image_ids | remove_last: ',' }}">
-      {%- for current_image in all_images -%}
-        {%- if current_image != blank -%}
-          <div class="image-block__image border-style image-block__rotating-image" data-image-index="{{ forloop.index0 }}" style="{{ image_border_style }}">
-            {{
-              current_image
-              | image_url: width: 3840
-              | image_tag:
-                width: current_image.width,
-                widths: widths,
-                height: current_image.height,
-                class: 'image-block__image',
-                sizes: sizes
-            }}
-          </div>
-        {%- endif -%}
-      {%- endfor -%}
+      {%- if block.settings.image != blank -%}
+        <div class="image-block__image border-style image-block__rotating-image" data-image-index="0" style="{{ image_border_style }}">
+          {{
+            block.settings.image
+            | image_url: width: 3840
+            | image_tag:
+              width: block.settings.image.width,
+              widths: widths,
+              height: block.settings.image.height,
+              class: 'image-block__image',
+              sizes: sizes
+          }}
+        </div>
+      {%- endif -%}
+      {%- if block.settings.image_2 != blank -%}
+        <div class="image-block__image border-style image-block__rotating-image" data-image-index="1" style="{{ image_border_style }}">
+          {{
+            block.settings.image_2
+            | image_url: width: 3840
+            | image_tag:
+              width: block.settings.image_2.width,
+              widths: widths,
+              height: block.settings.image_2.height,
+              class: 'image-block__image',
+              sizes: sizes
+          }}
+        </div>
+      {%- endif -%}
+      {%- if block.settings.image_3 != blank -%}
+        <div class="image-block__image border-style image-block__rotating-image" data-image-index="2" style="{{ image_border_style }}">
+          {{
+            block.settings.image_3
+            | image_url: width: 3840
+            | image_tag:
+              width: block.settings.image_3.width,
+              widths: widths,
+              height: block.settings.image_3.height,
+              class: 'image-block__image',
+              sizes: sizes
+          }}
+        </div>
+      {%- endif -%}
+      {%- if block.settings.image_4 != blank -%}
+        <div class="image-block__image border-style image-block__rotating-image" data-image-index="3" style="{{ image_border_style }}">
+          {{
+            block.settings.image_4
+            | image_url: width: 3840
+            | image_tag:
+              width: block.settings.image_4.width,
+              widths: widths,
+              height: block.settings.image_4.height,
+              class: 'image-block__image',
+              sizes: sizes
+          }}
+        </div>
+      {%- endif -%}
     </div>
   {%- elsif block.settings.image != blank -%}
     {{
