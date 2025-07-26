@@ -1,7 +1,8 @@
 {% liquid
-  if section.settings.blog_articles_list != blank
-    assign section_articles = section.settings.blog_articles_list
-    assign max_items = section.settings.blog_articles_list.count
+  if section.settings.blog != blank
+    assign selected_blog = section.settings.blog
+    assign section_articles = selected_blog.articles
+    assign max_items = section_articles.size
   elsif section.settings.layout_type == 'editorial'
     assign max_items = section.settings.max_articles
   elsif section.settings.layout_type == 'bento'
@@ -194,9 +195,9 @@
   },
   "settings": [
     {
-      "type": "article_list",
-      "id": "blog_articles_list",
-      "label": "t:settings.blog_articles_list"
+      "type": "blog",
+      "id": "blog",
+      "label": "t:settings.blog"
     },
     {
       "type": "header",
@@ -719,7 +720,7 @@
       },
       "block_order": ["group_Lg9LkF"],
       "settings": {
-        "blog_articles_list": [],
+        "blog": "",
         "layout_type": "grid",
         "carousel_on_mobile": false,
         "columns": 3,
@@ -872,7 +873,7 @@
       },
       "block_order": ["group_EYUh3J"],
       "settings": {
-        "blog_articles_list": [],
+        "blog": "",
         "layout_type": "carousel",
         "carousel_on_mobile": false,
         "columns": 3,
@@ -1037,7 +1038,7 @@
       },
       "block_order": ["group"],
       "settings": {
-        "blog_articles_list": [],
+        "blog": "",
         "layout_type": "editorial",
         "carousel_on_mobile": false,
         "columns": 3,
