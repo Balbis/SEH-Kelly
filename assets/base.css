@@ -821,6 +821,7 @@ h6,
 /* Links */
 a:not(.button, .button-primary, .button-secondary) {
   color: var(--color-primary);
+  text-decoration: none;
   &:hover {
     color: var(--color-primary-hover);
   }
