@@ -20,6 +20,10 @@
 <div
   class="blog-post-card"
   style="--text-align: {{ block.settings.alignment }}"
+  <div class="blog-post-card__content">
+    <a href="{{ article.url }}">{{ title }}</a>
+
+    {{ details }}
 >
   {%- if article.image -%}
     <div class="blog-post-card__image-container">
@@ -30,10 +34,6 @@
   {%- endif -%}
 
   <div class="blog-post-card__content">
-    <a href="{{ article.url }}">{{ title }}</a>
-
-    {{ details }}
-
     {{ description }}
   </div>
 </div>
