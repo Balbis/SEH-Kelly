@@ -50,10 +50,6 @@
         spacing-style
         {% if section.settings.layout_type == 'grid' %}
           layout-panel-grid
-          layout-panel-grid--{{ section.settings.grid_columns | default: 1 }}
-          {% if section.settings.grid_columns_mobile %}
-            layout-panel-grid--mobile-{{ section.settings.grid_columns_mobile }}
-          {% endif %}
         {% else %}
           layout-panel-flex
           layout-panel-flex--{{ section.settings.content_direction }}
@@ -63,7 +59,11 @@
       "
       style="
         {% if section.settings.layout_type == 'grid' %}
-          {% render 'layout-panel-grid-style', settings: section.settings %}
+          --grid-columns: {{ section.settings.grid_columns | default: 1 }};
+          {% if section.settings.grid_columns_mobile %}
+            --grid-columns-mobile: {{ section.settings.grid_columns_mobile }};
+          {% endif %}
+          {% render 'gap-style', value: section.settings.gap %}
         {% else %}
           {% render 'layout-panel-style', settings: section.settings %}
         {% endif %}
@@ -113,54 +113,10 @@
     gap: var(--gap, 12px);
   }
 
-  .layout-panel-grid--1 {
-    --grid-columns: 1;
-  }
-
-  .layout-panel-grid--2 {
-    --grid-columns: 2;
-  }
-
-  .layout-panel-grid--3 {
-    --grid-columns: 3;
-  }
-
-  .layout-panel-grid--4 {
-    --grid-columns: 4;
-  }
-
-  .layout-panel-grid--5 {
-    --grid-columns: 5;
-  }
-
-  .layout-panel-grid--6 {
-    --grid-columns: 6;
-  }
-
   /* Mobile grid columns */
   @media (max-width: 749px) {
-    .layout-panel-grid--mobile-1 {
-      --grid-columns: 1;
-    }
-
-    .layout-panel-grid--mobile-2 {
-      --grid-columns: 2;
-    }
-
-    .layout-panel-grid--mobile-3 {
-      --grid-columns: 3;
-    }
-
-    .layout-panel-grid--mobile-4 {
-      --grid-columns: 4;
-    }
-
-    .layout-panel-grid--mobile-5 {
-      --grid-columns: 5;
-    }
-
-    .layout-panel-grid--mobile-6 {
-      --grid-columns: 6;
+    .layout-panel-grid {
+      grid-template-columns: repeat(var(--grid-columns-mobile, var(--grid-columns, 1)), 1fr);
     }
   }
 {% endstylesheet %}
