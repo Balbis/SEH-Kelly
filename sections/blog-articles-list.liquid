@@ -1,6 +1,6 @@
 {% liquid
   if section.settings.blog != blank
-    assign selected_blog = section.settings.blog
+    assign selected_blog = section.settings.blog | default: blogs.first
     assign section_articles = selected_blog.articles
     assign max_items = section_articles.size
   elsif section.settings.layout_type == 'editorial'
@@ -439,7 +439,7 @@
   ],
   "presets": [
     {
-                "name": "Blog articles bento",
+          "name": "Blog articles bento",
           "category": "Blog",
           "settings": {
             "layout_type": "bento",
@@ -518,7 +518,7 @@
       "block_order": ["group_Lg9LkF"]
     },
     {
-                "name": "Blog articles grid",
+          "name": "Blog articles grid",
           "category": "Blog",
           "blocks": {
             "group_Lg9LkF": {
@@ -605,7 +605,7 @@
       }
     },
     {
-                "name": "Blog articles carousel",
+          "name": "Blog articles carousel",
           "category": "Blog",
           "blocks": {
             "group_EYUh3J": {
@@ -692,7 +692,7 @@
       }
     },
     {
-                "name": "Blog articles editorial",
+          "name": "Blog articles editorial",
           "category": "Blog",
           "blocks": {
             "group": {
