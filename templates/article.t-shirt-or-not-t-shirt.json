@@ -97,6 +97,7 @@
           "type": "image",
           "name": "t:names.image",
           "settings": {
+            "image_mode": "single",
             "image": "shopify://shop_images/t-shirt-cotton-tuck-knit-dark-navy-worn-4s_2x_741f0cef-f64f-40c5-9180-f9b46a80bf65.jpg",
             "link": "",
             "image_ratio": "adapt",
@@ -222,6 +223,7 @@
           "type": "image",
           "name": "t:names.image",
           "settings": {
+            "image_mode": "single",
             "image": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_c15000fa-cc44-464a-a3ea-068657029a6e.jpg",
             "link": "",
             "image_ratio": "adapt",
@@ -337,6 +339,20 @@
         "padding-block-end": 100
       }
     },
+    "divider_GKrxzQ": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "page-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
+      }
+    },
     "blog_articles_list_Q3Dc98": {
       "type": "blog-articles-list",
       "blocks": {
@@ -353,7 +369,7 @@
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "center",
-            "gap": 16,
+            "gap": 0,
             "width": "fill",
             "custom_width": 100,
             "width_mobile": "fill",
@@ -387,7 +403,7 @@
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
-                "type_preset": "rte",
+                "type_preset": "h5",
                 "font": "var(--font-body--family)",
                 "font_size": "",
                 "line_height": "normal",
@@ -400,7 +416,7 @@
                 "background_color": "#00000026",
                 "corner_radius": 0,
                 "padding-block-start": 0,
-                "padding-block-end": 16,
+                "padding-block-end": 0,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -494,10 +510,10 @@
       ],
       "name": "t:names.blog_articles_bento",
       "settings": {
-        "blog": "",
+        "blog": "news",
         "layout_type": "grid",
         "carousel_on_mobile": false,
-        "columns": 4,
+        "columns": 3,
         "mobile_columns": "1",
         "mobile_card_size": "60cqw",
         "columns_gap": 20,
@@ -507,10 +523,10 @@
         "icons_style": "arrow",
         "icons_shape": "none",
         "section_width": "page-width",
-        "gap": 20,
+        "gap": 10,
         "color_scheme": "",
         "padding-block-start": 24,
-        "padding-block-end": 24
+        "padding-block-end": 0
       }
     }
   },
@@ -519,6 +535,7 @@
     "section_DBLYYg",
     "section_Kapdix",
     "section_i4zYgz",
+    "divider_GKrxzQ",
     "blog_articles_list_Q3Dc98"
   ]
 }
