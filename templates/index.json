@@ -691,8 +691,11 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/clothes-made-in-england-coats-7_2x_f687899a-06a5-4337-a97c-dbfa4cb7b785.jpg",
+                "image_mode": "multiple",
+                "image": "shopify://shop_images/clothes-made-in-england-knitwear-11_2x_1f70eca4-4fc5-4aa9-98ef-b022e0be5f30.jpg",
+                "image_2": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_b2cb20d7-dabc-4f3c-843b-1435750db7c5.jpg",
+                "image_3": "shopify://shop_images/clothes-made-in-england-knitwear-8_2x_1e6a9d8d-b52c-4ef5-82c7-fe9ed7976467.jpg",
+                "image_4": "shopify://shop_images/clothes-made-in-england-knitwear-7_2x_2994752e-8d88-48a9-bea2-f678d1c67add.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
