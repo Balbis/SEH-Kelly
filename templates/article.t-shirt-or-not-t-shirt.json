@@ -526,7 +526,7 @@
         "gap": 10,
         "color_scheme": "",
         "padding-block-start": 24,
-        "padding-block-end": 24
+        "padding-block-end": 0
       }
     }
   },
