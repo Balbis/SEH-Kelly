@@ -449,13 +449,40 @@
               },
               "blocks": {}
             },
+            "text_JM4Ckz": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h2>Coats</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_RapQXB": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>If it's a classic type of garment and you can append to it the word \"coat\", it might very well be found here. Trench coats, car coats, peacoats, duffle coats — this way. <a href=\"https://www.sehkelly.com/shop/coats/\">More</a></p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
@@ -479,6 +506,7 @@
           },
           "block_order": [
             "image_RgMFBt",
+            "text_JM4Ckz",
             "text_RapQXB"
           ]
         },
