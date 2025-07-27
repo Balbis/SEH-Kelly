@@ -754,6 +754,8 @@
     "layout_gap": "Layout gap",
     "layout_style": "Style",
     "layout_type": "Type",
+    "grid_columns": "Grid columns",
+    "grid_columns_mobile": "Mobile grid columns",
     "left": "Left",
     "left_padding": "Left padding",
     "length": "Length",

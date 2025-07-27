@@ -48,13 +48,25 @@
     <div
       class="
         spacing-style
-        layout-panel-flex
-        layout-panel-flex--{{ section.settings.content_direction }}
+        {% if section.settings.layout_type == 'grid' %}
+          layout-panel-grid
+          layout-panel-grid--{{ section.settings.grid_columns | default: 1 }}
+          {% if section.settings.grid_columns_mobile %}
+            layout-panel-grid--mobile-{{ section.settings.grid_columns_mobile }}
+          {% endif %}
+        {% else %}
+          layout-panel-flex
+          layout-panel-flex--{{ section.settings.content_direction }}
+          {% if section.settings.vertical_on_mobile %} mobile-column{% endif %}
+        {% endif %}
         section-content-wrapper
-        {% if section.settings.vertical_on_mobile %} mobile-column{% endif %}
       "
       style="
-        {% render 'layout-panel-style', settings: section.settings %}
+        {% if section.settings.layout_type == 'grid' %}
+          {% render 'layout-panel-grid-style', settings: section.settings %}
+        {% else %}
+          {% render 'layout-panel-style', settings: section.settings %}
+        {% endif %}
         {% render 'spacing-style', settings: section.settings %}
       "
       data-testid="section-content"
@@ -92,5 +104,63 @@
 
   .custom-section-content {
     z-index: var(--layer-flat);
+  }
+
+  /* Grid layout styles */
+  .layout-panel-grid {
+    display: grid;
+    grid-template-columns: repeat(var(--grid-columns, 1), 1fr);
+    gap: var(--gap, 12px);
+  }
+
+  .layout-panel-grid--1 {
+    --grid-columns: 1;
+  }
+
+  .layout-panel-grid--2 {
+    --grid-columns: 2;
+  }
+
+  .layout-panel-grid--3 {
+    --grid-columns: 3;
+  }
+
+  .layout-panel-grid--4 {
+    --grid-columns: 4;
+  }
+
+  .layout-panel-grid--5 {
+    --grid-columns: 5;
+  }
+
+  .layout-panel-grid--6 {
+    --grid-columns: 6;
+  }
+
+  /* Mobile grid columns */
+  @media (max-width: 749px) {
+    .layout-panel-grid--mobile-1 {
+      --grid-columns: 1;
+    }
+
+    .layout-panel-grid--mobile-2 {
+      --grid-columns: 2;
+    }
+
+    .layout-panel-grid--mobile-3 {
+      --grid-columns: 3;
+    }
+
+    .layout-panel-grid--mobile-4 {
+      --grid-columns: 4;
+    }
+
+    .layout-panel-grid--mobile-5 {
+      --grid-columns: 5;
+    }
+
+    .layout-panel-grid--mobile-6 {
+      --grid-columns: 6;
+    }
   }
 {% endstylesheet %}
