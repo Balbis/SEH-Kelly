@@ -577,13 +577,40 @@
               },
               "blocks": {}
             },
+            "text_AAmQyx": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h2>Jackets</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_inPfEj": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>They run the gamut, here, do jackets — from the casual type made from cotton or cord, and the more tailored type, made with wool, perhaps, or cashmere. <a href=\"https://www.sehkelly.com/shop/jackets/\">More</a></p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
@@ -607,6 +634,7 @@
           },
           "block_order": [
             "image_AKmMxf",
+            "text_AAmQyx",
             "text_inPfEj"
           ]
         },
@@ -677,13 +705,40 @@
               },
               "blocks": {}
             },
+            "text_EeaHPK": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Knitwear</p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_pPzRYe": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>Hand-framed and fully fashioned crewnecks, rollnecks, polo shirts, and cardigans — made variously with cashmere, wool, linen, and cotton. <a href=\"https://www.sehkelly.com/shop/knitwear/\">More</a></p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
@@ -707,6 +762,7 @@
           },
           "block_order": [
             "image_xeH3we",
+            "text_EeaHPK",
             "text_pPzRYe"
           ]
         },
@@ -777,13 +833,40 @@
               },
               "blocks": {}
             },
+            "text_ndGiwj": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Mid-layers</p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_hNMtJG": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>More than a shirt, but not quite a jacket, and probably very good sandwiched between the two — that's the key parameter of this department. <a href=\"https://www.sehkelly.com/shop/mid-layers/\">More</a></p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
@@ -807,6 +890,7 @@
           },
           "block_order": [
             "image_iiVxfK",
+            "text_ndGiwj",
             "text_hNMtJG"
           ]
         },
@@ -877,13 +961,40 @@
               },
               "blocks": {}
             },
+            "text_QjdWjb": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Shirts</p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_FbmbnB": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>Some shirts are perennial, some shirts make short-run cameos. Cuffs, collars, sleeves, and yokes, made from cotton, corduroy, linen, wool, and so on. <a href=\"https://www.sehkelly.com/shop/shirts/\">More</a></p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
@@ -907,6 +1018,7 @@
           },
           "block_order": [
             "image_3VHqPU",
+            "text_QjdWjb",
             "text_FbmbnB"
           ]
         }
@@ -1022,13 +1134,40 @@
               },
               "blocks": {}
             },
+            "text_cHBHhc": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Trousers</p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_gLN3rK": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>Bottom-halves — mostly full-length, but also the occasional short — made from wool and cashmere, cotton and corduroy, and, from time to time, from linen. <a href=\"https://www.sehkelly.com/shop/trousers/\">More</a></p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
@@ -1052,6 +1191,7 @@
           },
           "block_order": [
             "image_CUn4jB",
+            "text_cHBHhc",
             "text_gLN3rK"
           ]
         },
@@ -1122,13 +1262,40 @@
               },
               "blocks": {}
             },
+            "text_apFp4y": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Accessories</p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_AKJcUj": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>Hats and gloves and sundry other extremity-ensconcing articles — most of them made in places established back when GeorgeIIIwere a lad. <a href=\"https://www.sehkelly.com/shop/accessories/\">More</a></p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
@@ -1152,6 +1319,7 @@
           },
           "block_order": [
             "image_MaGG6Y",
+            "text_apFp4y",
             "text_AKJcUj"
           ]
         }
