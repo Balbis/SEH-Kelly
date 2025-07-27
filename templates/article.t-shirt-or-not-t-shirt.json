@@ -510,7 +510,7 @@
       ],
       "name": "t:names.blog_articles_bento",
       "settings": {
-        "blog": "news",
+        "blog": "words",
         "layout_type": "grid",
         "carousel_on_mobile": false,
         "columns": 3,
