@@ -339,6 +339,20 @@
         "padding-block-end": 100
       }
     },
+    "divider_GKrxzQ": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "page-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
+      }
+    },
     "blog_articles_list_Q3Dc98": {
       "type": "blog-articles-list",
       "blocks": {
@@ -521,6 +535,7 @@
     "section_DBLYYg",
     "section_Kapdix",
     "section_i4zYgz",
+    "divider_GKrxzQ",
     "blog_articles_list_Q3Dc98"
   ]
 }
