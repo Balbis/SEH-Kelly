@@ -38,6 +38,10 @@
         {
           "value": "grid",
           "label": "t:options.grid"
+        },
+        {
+          "value": "bento",
+          "label": "t:options.bento"
         }
       ],
       "default": "flex"
@@ -240,6 +244,53 @@
       ],
       "default": "1",
       "visible_if": "{{ section.settings.layout_type == 'grid' }}"
+    },
+    {
+      "type": "header",
+      "content": "t:content.bento_layout",
+      "visible_if": "{{ section.settings.layout_type == 'bento' }}"
+    },
+    {
+      "type": "select",
+      "id": "bento_columns",
+      "label": "t:settings.bento_columns",
+      "options": [
+        {
+          "value": "2",
+          "label": "2"
+        },
+        {
+          "value": "3",
+          "label": "3"
+        },
+        {
+          "value": "4",
+          "label": "4"
+        }
+      ],
+      "default": "3",
+      "visible_if": "{{ section.settings.layout_type == 'bento' }}"
+    },
+    {
+      "type": "select",
+      "id": "bento_rows",
+      "label": "t:settings.bento_rows",
+      "options": [
+        {
+          "value": "4",
+          "label": "4"
+        },
+        {
+          "value": "5",
+          "label": "5"
+        },
+        {
+          "value": "6",
+          "label": "6"
+        }
+      ],
+      "default": "6",
+      "visible_if": "{{ section.settings.layout_type == 'bento' }}"
     },
     {
       "type": "header",

@@ -26,6 +26,18 @@
     {% render 'border-override', settings: settings %}
     {% render 'spacing-style', settings: settings %}
     {% render 'size-style', settings: settings %}
+    {% if settings.grid_column_start != 'auto' %}
+      grid-column-start: {{ settings.grid_column_start }};
+    {% endif %}
+    {% if settings.grid_column_end != 'auto' %}
+      grid-column-end: {{ settings.grid_column_end }};
+    {% endif %}
+    {% if settings.grid_row_start != 'auto' %}
+      grid-row-start: {{ settings.grid_row_start }};
+    {% endif %}
+    {% if settings.grid_row_end != 'auto' %}
+      grid-row-end: {{ settings.grid_row_end }};
+    {% endif %}
     {{ style }}
   "
   {{ shopify_attributes }}
