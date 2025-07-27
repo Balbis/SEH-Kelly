@@ -130,9 +130,8 @@
   .layout-panel-bento {
     display: grid;
     grid-template-columns: repeat(var(--bento-columns, 3), 1fr);
-    grid-template-rows: repeat(var(--bento-rows, 6), minmax(0, 1fr));
+    grid-template-rows: repeat(var(--bento-rows, 6), auto);
     gap: var(--gap, 12px);
-    min-height: 600px;
   }
 
   /* Bento children can span multiple columns and rows */
