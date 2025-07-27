@@ -39,6 +39,11 @@
       grid-row-end: {{ settings.grid_row_end }};
     {% endif %}
     {{ style }}
+     {% if settings.sticky %}
+      position: sticky;
+      top: {{ settings.sticky_gap }}px;
+      height: fit-content;
+    {% endif %}
   "
   {{ shopify_attributes }}
   data-testid="group-block"

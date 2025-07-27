@@ -314,6 +314,23 @@
       "default": 12
     },
     {
+      "type": "checkbox",
+      "id": "sticky",
+      "label": "Stick to top on scroll",
+      "default": false
+    },
+    {
+      "type": "range",
+      "id": "sticky_gap",
+      "label": "Gap to top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 20,
+      "visible_if": "{{ block.settings.sticky }}"
+    },
+    {
       "type": "header",
       "content": "t:content.size"
     },
