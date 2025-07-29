@@ -579,7 +579,7 @@
                 "image_mode": "single",
                 "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-13m_2x_09b84cf8-4e51-47a9-a7dc-933236cdeac6.jpg",
                 "link": "",
-                "image_ratio": "adapt",
+                "image_ratio": "portrait",
                 "width": "fill",
                 "custom_width": 100,
                 "width_mobile": "fill",
@@ -614,7 +614,7 @@
             "content_direction": "row",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-start",
+            "vertical_alignment": "center",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "center",
@@ -673,8 +673,59 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_rmtM9N": {
+            }
+          },
+          "block_order": [
+            "text_iTdUHN"
+          ]
+        },
+        "group_jwWX3N": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "auto",
+            "grid_column_end": "auto",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-end",
+            "gap": 12,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_DRKcMi": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -700,14 +751,14 @@
             }
           },
           "block_order": [
-            "text_iTdUHN",
-            "image_rmtM9N"
+            "image_DRKcMi"
           ]
         }
       },
       "block_order": [
         "group_zGHJFt",
-        "group_haNhe8"
+        "group_haNhe8",
+        "group_jwWX3N"
       ],
       "name": "t:names.custom_section",
       "settings": {
@@ -720,7 +771,7 @@
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "center",
         "gap": 50,
-        "grid_columns": "2",
+        "grid_columns": "3",
         "grid_columns_mobile": "1",
         "bento_columns": "3",
         "bento_rows": "6",
