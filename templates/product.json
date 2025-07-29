@@ -516,11 +516,11 @@
         "content_width": "content-center-aligned",
         "desktop_media_position": "right",
         "equal_columns": true,
-        "limit_details_width": false,
+        "limit_details_width": true,
         "gap": 48,
         "color_scheme": "",
-        "padding-block-start": 0,
-        "padding-block-end": 0
+        "padding-block-start": 40,
+        "padding-block-end": 40
       }
     },
     "product_recommendations_qggXJq": {
