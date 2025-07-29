@@ -695,7 +695,7 @@
             "vertical_alignment": "flex-start",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-end",
+            "vertical_alignment_flex_direction_column": "flex-start",
             "gap": 12,
             "sticky": true,
             "sticky_gap": 30,
