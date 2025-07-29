@@ -120,7 +120,7 @@
                     "width": "100%",
                     "max_width": "normal",
                     "custom_max_width": 100,
-                    "type_preset": "h2",
+                    "type_preset": "h3",
                     "font": "var(--font-primary--family)",
                     "font_size": "",
                     "line_height": "normal",
