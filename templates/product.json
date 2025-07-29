@@ -526,7 +526,7 @@
     "section_gPDn7G": {
       "type": "section",
       "blocks": {
-        "group_haNhe8": {
+        "group_zGHJFt": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -572,12 +572,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_jJT7Ye": {
+            "image_MCYaW4": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/parka-minor-weatherproof-ripstop-cosmos-18m_2x_8c0de233-e6ac-4c80-8884-a85d990519c6.jpg",
+                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-13m_2x_09b84cf8-4e51-47a9-a7dc-933236cdeac6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -598,10 +598,10 @@
             }
           },
           "block_order": [
-            "image_jJT7Ye"
+            "image_MCYaW4"
           ]
         },
-        "group_zGHJFt": {
+        "group_haNhe8": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -611,16 +611,16 @@
             "grid_column_end": "auto",
             "grid_row_start": "auto",
             "grid_row_end": "auto",
-            "content_direction": "column",
+            "content_direction": "row",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
+            "vertical_alignment": "flex-start",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "center",
             "gap": 12,
-            "sticky": false,
-            "sticky_gap": 20,
+            "sticky": true,
+            "sticky_gap": 30,
             "width": "fill",
             "custom_width": 100,
             "width_mobile": "fill",
@@ -647,7 +647,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_qCGXzc": {
+            "text_iTdUHN": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -673,20 +673,45 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_rmtM9N": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/parka-minor-weatherproof-ripstop-cosmos-18m_2x_8c0de233-e6ac-4c80-8884-a85d990519c6.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "text_qCGXzc"
+            "text_iTdUHN",
+            "image_rmtM9N"
           ]
         }
       },
       "block_order": [
-        "group_haNhe8",
-        "group_zGHJFt"
+        "group_zGHJFt",
+        "group_haNhe8"
       ],
       "name": "t:names.custom_section",
       "settings": {
-        "layout_type": "flex",
+        "layout_type": "grid",
         "content_direction": "row",
         "vertical_on_mobile": true,
         "horizontal_alignment": "flex-start",
@@ -695,7 +720,7 @@
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "center",
         "gap": 50,
-        "grid_columns": "1",
+        "grid_columns": "2",
         "grid_columns_mobile": "1",
         "bento_columns": "3",
         "bento_rows": "6",
