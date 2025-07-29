@@ -205,6 +205,7 @@
               "blocks": {
                 "quantity": {
                   "type": "quantity",
+                  "disabled": true,
                   "static": true,
                   "settings": {},
                   "blocks": {}
@@ -219,6 +220,7 @@
                 },
                 "accelerated-checkout": {
                   "type": "accelerated-checkout",
+                  "disabled": true,
                   "static": true,
                   "settings": {},
                   "blocks": {}
@@ -226,9 +228,22 @@
               },
               "block_order": []
             },
+            "divider_gtGMf3": {
+              "type": "_divider",
+              "name": "t:names.divider",
+              "settings": {
+                "thickness": 1,
+                "corner_radius": "square",
+                "width_percent": 100,
+                "padding-block-start": 0,
+                "padding-block-end": 0
+              },
+              "blocks": {}
+            },
             "group_JbmQwr": {
               "type": "group",
               "name": "Policies",
+              "disabled": true,
               "settings": {
                 "link": "",
                 "open_in_new_tab": false,
@@ -491,6 +506,7 @@
             "divider_VJhene",
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
+            "divider_gtGMf3",
             "group_JbmQwr",
             "text_aEtTtq"
           ]
