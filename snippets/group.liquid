@@ -21,6 +21,9 @@
     size-style
     {% if settings.inherit_color_scheme == false %} color-{{ settings.color_scheme }}{% endif %}
     {{ class }}
+    {% if settings.sticky %}
+      group-sticky
+    {% endif %}
   "
   style="
     {% render 'border-override', settings: settings %}
@@ -39,11 +42,6 @@
       grid-row-end: {{ settings.grid_row_end }};
     {% endif %}
     {{ style }}
-     {% if settings.sticky %}
-      position: sticky;
-      top: {{ settings.sticky_gap }}px;
-      height: fit-content;
-    {% endif %}
   "
   {{ shopify_attributes }}
   data-testid="group-block"
