@@ -1077,8 +1077,8 @@
           "settings": {
             "link": "",
             "open_in_new_tab": false,
-            "grid_column_start": "auto",
-            "grid_column_end": "auto",
+            "grid_column_start": "1",
+            "grid_column_end": "3",
             "grid_row_start": "auto",
             "grid_row_end": "auto",
             "content_direction": "column",
@@ -1146,91 +1146,13 @@
             "image_LGbkWX"
           ]
         },
-        "group_8kGQ86": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "auto",
-            "grid_column_end": "auto",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 12,
-            "sticky": true,
-            "sticky_gap": 30,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_t9ymcQ": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The trench, being a trench, is a coat of great versatility. It may be worn open, or buttoned right up to the top, or various intervals between. The collar is large and full, and is cut such that it's just as happy standing up as it is sitting down; that it tidily rolls down at the front; that it cuddles the neck at the side.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_t9ymcQ"
-          ]
-        },
         "group_mU4HJA": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
             "link": "",
             "open_in_new_tab": false,
-            "grid_column_start": "auto",
+            "grid_column_start": "4",
             "grid_column_end": "auto",
             "grid_row_start": "auto",
             "grid_row_end": "auto",
@@ -1305,12 +1227,11 @@
       },
       "block_order": [
         "group_LdFUPp",
-        "group_8kGQ86",
         "group_mU4HJA"
       ],
       "name": "t:names.custom_section",
       "settings": {
-        "layout_type": "flex",
+        "layout_type": "grid",
         "content_direction": "row",
         "vertical_on_mobile": true,
         "horizontal_alignment": "flex-start",
