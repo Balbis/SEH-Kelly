@@ -959,8 +959,8 @@
           "settings": {
             "link": "",
             "open_in_new_tab": false,
-            "grid_column_start": "auto",
-            "grid_column_end": "auto",
+            "grid_column_start": "3",
+            "grid_column_end": "5",
             "grid_row_start": "auto",
             "grid_row_end": "auto",
             "content_direction": "column",
@@ -1036,7 +1036,7 @@
       ],
       "name": "t:names.custom_section",
       "settings": {
-        "layout_type": "flex",
+        "layout_type": "grid",
         "content_direction": "row",
         "vertical_on_mobile": true,
         "horizontal_alignment": "flex-start",
@@ -2906,7 +2906,7 @@
             "link": "",
             "open_in_new_tab": false,
             "grid_column_start": "1",
-            "grid_column_end": "3",
+            "grid_column_end": "4",
             "grid_row_start": "auto",
             "grid_row_end": "auto",
             "content_direction": "column",
@@ -7337,7 +7337,7 @@
                 "background_color": "#00000026",
                 "corner_radius": 0,
                 "padding-block-start": 0,
-                "padding-block-end": 30,
+                "padding-block-end": 50,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
