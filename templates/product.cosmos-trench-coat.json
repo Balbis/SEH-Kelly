@@ -4160,7 +4160,7 @@
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "flex-end",
             "gap": 12,
-            "sticky": true,
+            "sticky": false,
             "sticky_gap": 30,
             "width": "fill",
             "custom_width": 100,
@@ -4216,56 +4216,15 @@
           "block_order": [
             "image_YEcn9Q"
           ]
-        }
-      },
-      "block_order": [
-        "group_pUjDGG"
-      ],
-      "name": "t:names.custom_section",
-      "settings": {
-        "layout_type": "flex",
-        "content_direction": "row",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "flex-end",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 50,
-        "grid_columns": "4",
-        "grid_columns_mobile": "1",
-        "bento_columns": "3",
-        "bento_rows": "6",
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 30,
-        "padding-block-end": 30
-      }
-    },
-    "section_jNeWLa": {
-      "type": "section",
-      "blocks": {
-        "group_c9AFnG": {
+        },
+        "group_ryy6BJ": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
             "link": "",
             "open_in_new_tab": false,
             "grid_column_start": "1",
-            "grid_column_end": "3",
+            "grid_column_end": "2",
             "grid_row_start": "auto",
             "grid_row_end": "auto",
             "content_direction": "column",
@@ -4276,7 +4235,7 @@
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "flex-end",
             "gap": 12,
-            "sticky": true,
+            "sticky": false,
             "sticky_gap": 30,
             "width": "fill",
             "custom_width": 100,
@@ -4333,13 +4292,13 @@
             "image_ciztNj"
           ]
         },
-        "group_YC4JYC": {
+        "group_DRd3c6": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
             "link": "",
             "open_in_new_tab": false,
-            "grid_column_start": "1",
+            "grid_column_start": "2",
             "grid_column_end": "3",
             "grid_row_start": "auto",
             "grid_row_end": "auto",
@@ -4351,7 +4310,7 @@
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "flex-end",
             "gap": 12,
-            "sticky": true,
+            "sticky": false,
             "sticky_gap": 30,
             "width": "fill",
             "custom_width": 100,
@@ -4407,50 +4366,8 @@
           "block_order": [
             "image_67PjxQ"
           ]
-        }
-      },
-      "block_order": [
-        "group_c9AFnG",
-        "group_YC4JYC"
-      ],
-      "name": "t:names.custom_section",
-      "settings": {
-        "layout_type": "flex",
-        "content_direction": "row",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "flex-end",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 50,
-        "grid_columns": "4",
-        "grid_columns_mobile": "1",
-        "bento_columns": "3",
-        "bento_rows": "6",
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 30,
-        "padding-block-end": 30
-      }
-    },
-    "section_CFixUk": {
-      "type": "section",
-      "blocks": {
-        "group_ezXNn6": {
+        },
+        "group_UCLWat": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4468,7 +4385,7 @@
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "flex-end",
             "gap": 12,
-            "sticky": true,
+            "sticky": false,
             "sticky_gap": 30,
             "width": "fill",
             "custom_width": 100,
@@ -4524,49 +4441,8 @@
           "block_order": [
             "image_z9h7Mw"
           ]
-        }
-      },
-      "block_order": [
-        "group_ezXNn6"
-      ],
-      "name": "t:names.custom_section",
-      "settings": {
-        "layout_type": "flex",
-        "content_direction": "row",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "flex-end",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 50,
-        "grid_columns": "4",
-        "grid_columns_mobile": "1",
-        "bento_columns": "3",
-        "bento_rows": "6",
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 30,
-        "padding-block-end": 30
-      }
-    },
-    "section_c9NrcG": {
-      "type": "section",
-      "blocks": {
-        "group_rfQznC": {
+        },
+        "group_CMTA4i": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4584,7 +4460,7 @@
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "flex-end",
             "gap": 12,
-            "sticky": true,
+            "sticky": false,
             "sticky_gap": 30,
             "width": "fill",
             "custom_width": 100,
@@ -4643,11 +4519,15 @@
         }
       },
       "block_order": [
-        "group_rfQznC"
+        "group_pUjDGG",
+        "group_ryy6BJ",
+        "group_DRd3c6",
+        "group_UCLWat",
+        "group_CMTA4i"
       ],
       "name": "t:names.custom_section",
       "settings": {
-        "layout_type": "flex",
+        "layout_type": "grid",
         "content_direction": "row",
         "vertical_on_mobile": true,
         "horizontal_alignment": "flex-start",
@@ -4655,8 +4535,8 @@
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "center",
-        "gap": 50,
-        "grid_columns": "4",
+        "gap": 30,
+        "grid_columns": "2",
         "grid_columns_mobile": "1",
         "bento_columns": "3",
         "bento_rows": "6",
@@ -4902,9 +4782,6 @@
     "section_FLmkUV",
     "section_CmHkKm",
     "section_iDCbD9",
-    "section_jNeWLa",
-    "section_CFixUk",
-    "section_c9NrcG",
     "product_recommendations_qggXJq"
   ]
 }
