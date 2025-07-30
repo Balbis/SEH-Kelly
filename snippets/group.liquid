@@ -29,23 +29,35 @@
     {% render 'border-override', settings: settings %}
     {% render 'spacing-style', settings: settings %}
     {% render 'size-style', settings: settings %}
-    {% if settings.grid_column_start != 'auto' %}
-      grid-column-start: {{ settings.grid_column_start }};
-    {% endif %}
-    {% if settings.grid_column_end != 'auto' %}
-      grid-column-end: {{ settings.grid_column_end }};
-    {% endif %}
-    {% if settings.grid_row_start != 'auto' %}
-      grid-row-start: {{ settings.grid_row_start }};
-    {% endif %}
-    {% if settings.grid_row_end != 'auto' %}
-      grid-row-end: {{ settings.grid_row_end }};
-    {% endif %}
-    {{ style }}
-     {% if settings.sticky %}
+    {% if settings.sticky %}
       --sticky-gap: {{ settings.sticky_gap }}px;
     {% endif %}
+    {% if settings.grid_column_start != 'auto' %}
+      --grid-column-start: {{ settings.grid_column_start }};
+    {% endif %}
+    {% if settings.grid_column_end != 'auto' %}
+      --grid-column-end: {{ settings.grid_column_end }};
+    {% endif %}
+    {% if settings.grid_row_start != 'auto' %}
+      --grid-row-start: {{ settings.grid_row_start }};
+    {% endif %}
+    {% if settings.grid_row_end != 'auto' %}
+      --grid-row-end: {{ settings.grid_row_end }};
+    {% endif %}
+    {{ style }}
   "
+  {% if settings.grid_column_start != 'auto' %}
+    data-grid-column-start="{{ settings.grid_column_start }}"
+  {% endif %}
+  {% if settings.grid_column_end != 'auto' %}
+    data-grid-column-end="{{ settings.grid_column_end }}"
+  {% endif %}
+  {% if settings.grid_row_start != 'auto' %}
+    data-grid-row-start="{{ settings.grid_row_start }}"
+  {% endif %}
+  {% if settings.grid_row_end != 'auto' %}
+    data-grid-row-end="{{ settings.grid_row_end }}"
+  {% endif %}
   {{ shopify_attributes }}
   data-testid="group-block"
 >
@@ -101,8 +113,25 @@
     }
   }
 
-  /* Needs the .group-block__link ~ to be specific enough to take effect. */
   .group-block__link ~ .group-block-content--design-mode {
     pointer-events: auto;
+  }
+
+  @media screen and (min-width: 750px) {
+    .group-block[data-grid-column-start]:not([data-grid-column-start="auto"]) {
+      grid-column-start: var(--grid-column-start);
+    }
+    
+    .group-block[data-grid-column-end]:not([data-grid-column-end="auto"]) {
+      grid-column-end: var(--grid-column-end);
+    }
+    
+    .group-block[data-grid-row-start]:not([data-grid-row-start="auto"]) {
+      grid-row-start: var(--grid-row-start);
+    }
+    
+    .group-block[data-grid-row-end]:not([data-grid-row-end="auto"]) {
+      grid-row-end: var(--grid-row-end);
+    }
   }
 {% endstylesheet %}
