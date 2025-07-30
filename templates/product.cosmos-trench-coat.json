@@ -4790,11 +4790,11 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
+                "text": "<p>Makers of</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
-                "type_preset": "rte",
+                "type_preset": "h5",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
                 "line_height": "normal",
