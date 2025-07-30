@@ -81,6 +81,24 @@
     "variant_button_border_width": 1,
     "variant_button_radius": 0,
     "variant_button_width": "default-width-buttons",
+    "sections": {
+      "sticky-atc": {
+        "type": "sticky-atc",
+        "settings": {
+          "enable_section": true,
+          "color_scheme": "",
+          "title_size": "h4",
+          "show_img": true,
+          "img_width": "80",
+          "show_quantity_input": false,
+          "btn_style": "primary",
+          "offset": 0,
+          "mobile_offset": 0,
+          "pt": 0.5,
+          "pb": 0.5
+        }
+      }
+    },
     "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
