@@ -29,9 +29,6 @@
     {% render 'border-override', settings: settings %}
     {% render 'spacing-style', settings: settings %}
     {% render 'size-style', settings: settings %}
-    {% if settings.sticky %}
-      --sticky-gap: {{ settings.sticky_gap }}px;
-    {% endif %}
     {% if settings.grid_column_start != 'auto' %}
       --grid-column-start: {{ settings.grid_column_start }};
     {% endif %}
@@ -45,6 +42,11 @@
       --grid-row-end: {{ settings.grid_row_end }};
     {% endif %}
     {{ style }}
+     {% if settings.sticky %}
+      position: sticky;
+      top: var(--sticky-gap, 0px);
+      --sticky-gap: {{ settings.sticky_gap }}px;
+    {% endif %}
   "
   {% if settings.grid_column_start != 'auto' %}
     data-grid-column-start="{{ settings.grid_column_start }}"
