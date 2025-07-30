@@ -2000,12 +2000,24 @@ deferred-media[class] :is(.deferred-media__poster-button img, .deferred-media__p
   z-index: var(--layer-flat);
 }
 
+.group-sticky .group-block-content > *:first-child {
+  position: sticky;
+  top: var(--sticky-gap, 0);
+  height: fit-content;
+}
+
 @media screen and (min-width: 750px) {
   .sticky-content--desktop,
   .sticky-content--desktop.full-height--desktop > .group-block {
     position: sticky;
     top: var(--sticky-header-offset, 0);
     z-index: var(--layer-flat);
+  }
+
+  .group-sticky .group-block-content > *:first-child {
+    position: sticky;
+    top: var(--sticky-gap, 0);
+    height: fit-content;
   }
 }
 
