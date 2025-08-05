@@ -708,7 +708,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There's <a href=\"https://twitter.com/sehkelly/\">Twitter </a>and <a href=\"https://www.instagram.com/sehkelly/\">Instagram </a>and <a href=\"https://www.facebook.com/sehkelly/\">Facebook</a>.</p>",
+                "text": "<p>There's <a href=\"https://www.instagram.com/sehkelly/\">Instagram</a>.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
