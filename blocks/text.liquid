@@ -320,7 +320,8 @@
           "label": "Justified"
         }
       ],
-      "default": "left"
+      "default": "left",
+      "visible_if": "{{ block.settings.type_preset == 'custom' }}"
     },
     {
       "type": "select",
