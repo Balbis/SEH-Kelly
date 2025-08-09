@@ -266,6 +266,34 @@
                     "modal_size": "medium"
                   },
                   "blocks": {
+                    "text_VizBQ9": {
+                      "type": "text",
+                      "name": "t:names.text",
+                      "settings": {
+                        "text": "<p>The trench fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his neck — is wearing a size M.</p>",
+                        "width": "100%",
+                        "max_width": "none",
+                        "custom_max_width": 100,
+                        "content_alignment": "flex-start",
+                        "type_preset": "rte",
+                        "font": "var(--font-body--family)",
+                        "font_size": "1rem",
+                        "line_height": "normal",
+                        "letter_spacing": "normal",
+                        "case": "none",
+                        "wrap": "pretty",
+                        "alignment": "justify",
+                        "color": "var(--color-foreground)",
+                        "background": false,
+                        "background_color": "#00000026",
+                        "corner_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
+                    },
                     "size_chart_3gB7hF": {
                       "type": "size-chart",
                       "name": "Size Chart",
@@ -277,10 +305,40 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
+                    },
+                    "text_mYGVkj": {
+                      "type": "text",
+                      "name": "t:names.text",
+                      "settings": {
+                        "text": "<p>The method of sleeve construction, with the sleeve cut as one continuous panel from neck to cuff, means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
+                        "width": "100%",
+                        "max_width": "none",
+                        "custom_max_width": 100,
+                        "content_alignment": "flex-start",
+                        "type_preset": "rte",
+                        "font": "var(--font-body--family)",
+                        "font_size": "1rem",
+                        "line_height": "normal",
+                        "letter_spacing": "normal",
+                        "case": "none",
+                        "wrap": "pretty",
+                        "alignment": "justify",
+                        "color": "var(--color-foreground)",
+                        "background": false,
+                        "background_color": "#00000026",
+                        "corner_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
                     }
                   },
                   "block_order": [
-                    "size_chart_3gB7hF"
+                    "text_VizBQ9",
+                    "size_chart_3gB7hF",
+                    "text_mYGVkj"
                   ]
                 }
               },
