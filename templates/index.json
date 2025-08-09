@@ -70,7 +70,7 @@
         "image_wfWPJK",
         "text_kKJQxA"
       ],
-      "name": "t:names.custom_section",
+      "name": "Hero image and text",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -351,7 +351,7 @@
       "block_order": [
         "text_xpLyLX"
       ],
-      "name": "Heading",
+      "name": "Shop section heading",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
