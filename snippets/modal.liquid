@@ -106,6 +106,8 @@
     opacity: 0;
     visibility: hidden;
     transition: opacity 0.3s ease, visibility 0.3s ease;
+    isolation: isolate;
+    will-change: opacity, visibility;
   }
 
   .modal[aria-hidden="false"] {
@@ -133,6 +135,7 @@
     overflow: hidden;
     transform: scale(0.9);
     transition: transform 0.3s ease;
+    will-change: transform;
   }
 
   .modal[aria-hidden="false"] .modal__container {
@@ -273,16 +276,35 @@
     }
 
     openModal(modalId) {
+      console.log('openModal called with:', modalId);
       const modal = document.getElementById(modalId);
-      if (!modal) return;
+      if (!modal) {
+        console.log('Modal not found:', modalId);
+        return;
+      }
+
+      if (this.activeModal) {
+        this.closeModal(this.activeModal);
+      }
 
       this.activeModal = modalId;
-      modal.hidden = false;
-      modal.setAttribute('aria-hidden', 'false');
       
-      document.body.style.overflow = 'hidden';
+      const originalParent = modal.parentElement;
+      if (originalParent) {
+        modal.dataset.originalParent = `[data-modal-original-parent="${modalId}"]`;
+        originalParent.setAttribute('data-modal-original-parent', modalId);
+      }
       
       this.modals.set(modalId, modal);
+
+      document.body.appendChild(modal);
+      modal.hidden = false;
+      
+      requestAnimationFrame(() => {
+        modal.setAttribute('aria-hidden', 'false');
+      });
+      
+      document.body.style.overflow = 'hidden';
       
       setTimeout(() => {
         modal.focus();
@@ -301,6 +323,16 @@
       
       setTimeout(() => {
         modal.hidden = true;
+        
+        if (this.modals.has(modalId)) {
+          const originalParent = this.modals.get(modalId).dataset.originalParent;
+          if (originalParent) {
+            const parentElement = document.querySelector(originalParent);
+            if (parentElement) {
+              parentElement.appendChild(modal);
+            }
+          }
+        }
       }, 300);
 
       if (this.activeModal === modalId) {
