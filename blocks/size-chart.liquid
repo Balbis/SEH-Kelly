@@ -1,0 +1,239 @@
+{%- liquid
+  assign size_chart_data = product.metafields.custom.size_chart_inches.value
+-%}
+
+{%- if size_chart_data and size_chart_data.size > 0 -%}
+  <div
+    class="size-chart"
+    data-size-chart
+    {{ block.shopify_attributes }}
+  >
+    {%- if block.settings.title != blank -%}
+      <h3 class="size-chart__title">{{ block.settings.title }}</h3>
+    {%- endif -%}
+
+    {%- liquid
+      assign first_row = size_chart_data.first
+      assign headers = ''
+      
+      for key in first_row
+        if key != '' and key != 'null'
+          assign headers = headers | append: key | append: ','
+        endif
+      endfor
+      
+      assign headers = headers | split: ','
+    -%}
+
+    <div class="size-chart__table-wrapper">
+      <table class="size-chart__table">
+        <thead>
+          <tr>
+            <th scope="col">Measurement</th>
+            {%- for header in headers -%}
+              {%- if header != '' -%}
+                <th scope="col">{{ header }}</th>
+              {%- endif -%}
+            {%- endfor -%}
+          </tr>
+        </thead>
+        <tbody>
+          {%- for row in size_chart_data -%}
+            <tr>
+              <th scope="row">{{ row.null | default: 'Measurement' }}</th>
+              {%- for header in headers -%}
+                {%- if header != '' -%}
+                  <td>{{ row[header] | default: '-' }}</td>
+                {%- endif -%}
+              {%- endfor -%}
+            </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </div>
+
+    {%- if block.settings.show_instructions -%}
+      <div class="size-chart__instructions">
+        <p class="size-chart__instructions-text">
+          {{ block.settings.instructions_text | default: 'Measurements are in inches. Please refer to our sizing guide for the best fit.' }}
+        </p>
+      </div>
+    {%- endif -%}
+  </div>
+{%- endif -%}
+
+{% stylesheet %}
+  .size-chart {
+    --size-chart-border-color: rgb(var(--color-foreground-rgb) / 0.2);
+    --size-chart-border-width: 1px;
+    --size-chart-border-style: solid;
+    --size-chart-border-radius: var(--style-border-radius-inputs);
+    --size-chart-cell-padding: var(--padding-sm);
+    --size-chart-header-background: rgb(var(--color-background-rgb));
+    --size-chart-row-background: rgb(var(--color-background-rgb));
+    --size-chart-row-hover-background: rgb(var(--color-foreground-rgb) / 0.05);
+    
+    width: 100%;
+  }
+
+  .size-chart__title {
+    margin: 0 0 var(--margin-md) 0;
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .size-chart__table-wrapper {
+    overflow-x: auto;
+    border: var(--size-chart-border-width) var(--size-chart-border-style) var(--size-chart-border-color);
+    border-radius: var(--size-chart-border-radius);
+    background-color: var(--size-chart-row-background);
+  }
+
+  .size-chart__table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 400px;
+  }
+
+  .size-chart__table th,
+  .size-chart__table td {
+    padding: var(--size-chart-cell-padding);
+    text-align: center;
+    border-bottom: var(--size-chart-border-width) var(--size-chart-border-style) var(--size-chart-border-color);
+    border-right: var(--size-chart-border-width) var(--size-chart-border-style) var(--size-chart-border-color);
+  }
+
+  .size-chart__table th {
+    background-color: var(--size-chart-header-background);
+    font-weight: var(--font-weight-medium);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+
+  .size-chart__table th:last-child,
+  .size-chart__table td:last-child {
+    border-right: none;
+  }
+
+  .size-chart__table tbody tr:last-child th,
+  .size-chart__table tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .size-chart__table tbody tr:hover {
+    background-color: var(--size-chart-row-hover-background);
+  }
+
+  .size-chart__table th[scope="row"] {
+    text-align: left;
+    font-weight: var(--font-weight-medium);
+    background-color: var(--size-chart-header-background);
+  }
+
+  .size-chart__instructions {
+    margin-top: var(--margin-md);
+    padding: var(--padding-md);
+    background-color: rgb(var(--color-background-rgb));
+    border: var(--size-chart-border-width) var(--size-chart-border-style) var(--size-chart-border-color);
+    border-radius: var(--size-chart-border-radius);
+  }
+
+  .size-chart__instructions-text {
+    margin: 0;
+    font-size: var(--font-size-sm);
+    color: rgb(var(--color-foreground-rgb) / 0.7);
+    line-height: 1.4;
+  }
+
+  @media screen and (max-width: 749px) {
+    .size-chart__table {
+      min-width: 300px;
+      font-size: var(--font-size-sm);
+    }
+    
+    .size-chart__table th,
+    .size-chart__table td {
+      padding: var(--padding-xs);
+    }
+  }
+{% endstylesheet %}
+
+{% schema %}
+{
+  "name": "Size Chart",
+  "tag": "div",
+  "class": "size-chart-wrapper",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Size Chart"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_instructions",
+      "label": "Show instructions",
+      "default": true
+    },
+    {
+      "type": "textarea",
+      "id": "instructions_text",
+      "label": "Instructions text",
+      "default": "Measurements are in inches. Please refer to our sizing guide for the best fit.",
+      "visible_if": "{{ block.settings.show_instructions }}"
+    },
+    {
+      "type": "header",
+      "content": "Padding"
+    },
+    {
+      "type": "range",
+      "id": "padding-block-start",
+      "label": "Top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding-block-end",
+      "label": "Bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding-inline-start",
+      "label": "Left",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding-inline-end",
+      "label": "Right",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 0
+    }
+  ],
+  "presets": [
+    {
+      "name": "Size Chart",
+      "category": "Product"
+    }
+  ]
+}
+{% endschema %}
