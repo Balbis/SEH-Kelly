@@ -521,23 +521,11 @@
               },
               "blocks": {}
             },
-            "size_chart_HXFdqb": {
-              "type": "size-chart",
-              "name": "Size Chart",
-              "settings": {
-                "title": "Size Chart",
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "modal_tXBUxy": {
               "type": "modal",
               "name": "Modal",
               "settings": {
-                "title": "Modal Title",
+                "title": "Size chart",
                 "button_text": "Open Modal",
                 "button_style": "primary",
                 "modal_size": "medium"
@@ -570,7 +558,6 @@
             "divider_gtGMf3",
             "group_JbmQwr",
             "text_aEtTtq",
-            "size_chart_HXFdqb",
             "modal_tXBUxy"
           ]
         }
