@@ -503,6 +503,20 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "size_chart_HXFdqb": {
+              "type": "size-chart",
+              "name": "Size Chart",
+              "settings": {
+                "title": "Size Chart",
+                "show_instructions": true,
+                "instructions_text": "Measurements are in inches. Please refer to our sizing guide for the best fit.",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
@@ -512,7 +526,8 @@
             "buy_buttons_eYQEYi",
             "divider_gtGMf3",
             "group_JbmQwr",
-            "text_aEtTtq"
+            "text_aEtTtq",
+            "size_chart_HXFdqb"
           ]
         }
       },
