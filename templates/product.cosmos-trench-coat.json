@@ -535,7 +535,7 @@
                   "type": "size-chart",
                   "name": "Size Chart",
                   "settings": {
-                    "title": "Size Chart",
+                    "title": "",
                     "padding-block-start": 0,
                     "padding-block-end": 0,
                     "padding-inline-start": 0,
