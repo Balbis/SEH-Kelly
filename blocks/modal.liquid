@@ -1,5 +1,11 @@
+{% capture children %}
+  {% content_for 'blocks' %}
+{% endcapture %}
+
 {%- render 'modal', 
-  block: block
+  block: block,
+  settings: block.settings,
+  children: children
 -%}
 
 {% schema %}

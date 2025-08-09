@@ -40,9 +40,7 @@
     </div>
     
     <div class="modal__content">
-      {%- for block in blocks -%}
-        {%- render 'section', block: block -%}
-      {%- endfor -%}
+      {{- children -}}
     </div>
   </div>
 </div>
