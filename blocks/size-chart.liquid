@@ -17,7 +17,7 @@
       assign headers = ''
       
       for key in first_row
-        if key != '' and key != 'null'
+        if key != 'Measurement'
           assign headers = headers | append: key | append: ','
         endif
       endfor
@@ -29,7 +29,7 @@
       <table class="size-chart__table">
         <thead>
           <tr>
-            <th scope="col">Measurement</th>
+            <th scope="col"></th>
             {%- for header in headers -%}
               {%- if header != '' -%}
                 <th scope="col">{{ header }}</th>
@@ -40,7 +40,7 @@
         <tbody>
           {%- for row in size_chart_data -%}
             <tr>
-              <th scope="row">{{ row.null | default: 'Measurement' }}</th>
+              <th scope="row">{{ row.Measurement | default: 'Measurement' }}</th>
               {%- for header in headers -%}
                 {%- if header != '' -%}
                   <td>{{ row[header] | default: '-' }}</td>
