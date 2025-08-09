@@ -62,7 +62,7 @@
       --max-width: var(--max-width--{{ type }}-{{ block.settings.max_width }});
     {% endif %}
     {% if text_width == "100%" %}
-      --text-align: {{ block.settings.text_alignment }};
+      --text-align: {{ block.settings.alignment }};
     {% endif %}
     {% if block.settings.background %}
       --text-background-color: {{ block.settings.background_color | default: 'rgb(255 255 255 / 1.0)' }};

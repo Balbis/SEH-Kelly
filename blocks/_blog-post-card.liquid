@@ -6,7 +6,7 @@
   {% content_for 'block',
     id: 'blog-post-details',
     type: '_blog-post-info-text',
-    alignment: block.settings.text_alignment,
+    alignment: block.settings.alignment,
     article: article
   %}
 {% endcapture %}
@@ -17,7 +17,7 @@
 
 <div
   class="blog-post-card"
-  style="--text-align: {{ block.settings.text_alignment }}"
+  style="--text-align: {{ block.settings.alignment }}"
 >
   <div class="blog-post-card__content">
     <a href="{{ article.url }}">{{ title }}</a>
@@ -82,7 +82,7 @@
   "settings": [
     {
       "type": "select",
-      "id": "text_alignment",
+      "id": "alignment",
       "label": "Text alignment",
       "options": [
         {

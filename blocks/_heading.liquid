@@ -275,10 +275,28 @@
       "default": false
     },
     {
-      "type": "text_alignment",
+      "type": "select",
       "id": "alignment",
       "label": "t:settings.alignment",
-      "default": "left",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Centre"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        },
+        {
+          "value": "justify",
+          "label": "Justified"
+        }
+      ],
+      "default": "justify",
       "visible_if": "{{ block.settings.show_alignment != false }}"
     },
     {

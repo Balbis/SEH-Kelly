@@ -112,10 +112,28 @@
       "info": "t:info.edit_presets_in_theme_settings"
     },
     {
-      "type": "text_alignment",
+      "type": "select",
       "id": "alignment",
       "label": "t:settings.alignment",
-      "default": "left"
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Centre"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        },
+        {
+          "value": "justify",
+          "label": "Justified"
+        }
+      ],
+      "default": "justify"
     },
     {
       "type": "header",
