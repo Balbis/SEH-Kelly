@@ -1,6 +1,8 @@
 {%- liquid
   assign modal_id = 'modal-' | append: block.id
-  assign button_class = 'button button--' | append: button_style
+  assign settings = block.settings
+  assign blocks = block.blocks
+  assign button_class = 'button button--' | append: settings.button_style
 -%}
 
 <div class="modal-trigger">
@@ -11,12 +13,12 @@
     aria-expanded="false"
     data-modal-trigger="{{ modal_id }}"
   >
-    {{ button_text }}
+    {{ settings.button_text }}
   </button>
 </div>
 
 <div 
-  class="modal modal--{{ modal_size }}" 
+  class="modal modal--{{ settings.modal_size }}" 
   id="{{ modal_id }}" 
   role="dialog" 
   aria-modal="true" 
@@ -26,7 +28,7 @@
   <div class="modal__overlay" data-modal-close="{{ modal_id }}"></div>
   <div class="modal__container">
     <div class="modal__header">
-      <h2 class="modal__title" id="{{ modal_id }}-title">{{ title }}</h2>
+      <h2 class="modal__title" id="{{ modal_id }}-title">{{ settings.title }}</h2>
               <button 
           class="modal__close" 
           type="button" 
