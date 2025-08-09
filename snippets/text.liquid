@@ -69,8 +69,8 @@
       --text-corner-radius: {{ block.settings.corner_radius }}px;
       --text-padding: max(var(--padding-2xs), calc((var(--text-corner-radius) + var(--padding-xs)) * (1 - cos(45deg))));
     {% endif %}
+    --horizontal-alignment: {{ block.settings.content_alignment }};
   "
-
   {{ block.shopify_attributes }}
 {% endcapture %}
 {% liquid

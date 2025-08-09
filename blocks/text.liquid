@@ -67,6 +67,30 @@
       "visible_if": "{{ block.settings.max_width == 'custom' }}"
     },
     {
+      "type": "select",
+      "id": "content_alignment",
+      "label": "Content alignment",
+      "options": [
+        {
+          "value": "flex-start",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Centre"
+        },
+        {
+          "value": "flex-end",
+          "label": "Right"
+        },
+        {
+          "value": "stretch",
+          "label": "Stretch"
+        }
+      ],
+      "default": "left"
+    },
+    {
       "type": "header",
       "content": "t:content.typography"
     },
