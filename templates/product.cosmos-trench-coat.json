@@ -543,27 +543,11 @@
                 "modal_size": "medium"
               },
               "blocks": {
-                "text_DDjYVm": {
-                  "type": "text",
-                  "name": "t:names.text",
+                "size_chart_3gB7hF": {
+                  "type": "size-chart",
+                  "name": "Size Chart",
                   "settings": {
-                    "text": "<p>Test</p>",
-                    "width": "fit-content",
-                    "max_width": "normal",
-                    "custom_max_width": 100,
-                    "content_alignment": "flex-start",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "alignment": "justify",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
+                    "title": "Size Chart",
                     "padding-block-start": 0,
                     "padding-block-end": 0,
                     "padding-inline-start": 0,
@@ -573,7 +557,7 @@
                 }
               },
               "block_order": [
-                "text_DDjYVm"
+                "size_chart_3gB7hF"
               ]
             }
           },
