@@ -42,6 +42,10 @@
   {{ closest.product | structured_data }}
 </script>
 
+{% # theme-check-disable ParserBlockingScript %}
+<script src="{{ 'size-chart.js' |  asset_url }}" type="module"></script>
+{% # theme-check-enable %}
+
 <div class="section-background color-{{ section.settings.color_scheme }}"></div>
 <div
   class="product-information section section--{{ content_width }} spacing-style color-{{ section.settings.color_scheme }} relative"

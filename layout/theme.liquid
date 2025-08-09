@@ -53,13 +53,13 @@
     </main>
 
     {% sections 'footer-group' %}
-    {% if template.name == 'product' %}
-      {% section 'sticky-atc' %}
-    {% endif %}
-
     {% # theme-check-disable ParserBlockingScript %}
     <script src="{{ 'critical.js' | asset_url }}"></script>
     {% # theme-check-enable ParserBlockingScript %}
+     
+    {% if template.name == 'product' %}
+      {% section 'sticky-atc' %}
+    {% endif %}
 
     {% render 'search-modal' %}
 

@@ -3,37 +3,40 @@
 -%}
 
 {%- if size_chart_data and size_chart_data.size > 0 -%}
-  <div
+  <size-chart-component
     class="size-chart"
-    data-size-chart
     {{ block.shopify_attributes }}
   >
     {%- if block.settings.title != blank -%}
       <h3 class="size-chart__title">{{ block.settings.title }}</h3>
     {%- endif -%}
 
+    <div class="size-chart__tabs" style="display: none;">
+      <button class="size-chart__tab size-chart__tab--active" data-unit="inches">IN</button>
+      <button class="size-chart__tab" data-unit="cm">CM</button>
+    </div>
+
     {%- liquid
       assign first_row = size_chart_data.first
-      assign headers = ''
+      assign size_headers = ''
+      assign all_possible_sizes = 'XS,S,M,L,XL,XXL,XXXL' | split: ','
       
-      for key in first_row
-        if key != 'Measurement'
-          assign headers = headers | append: key | append: ','
+      for size in all_possible_sizes
+        if first_row[size] != blank
+          assign size_headers = size_headers | append: size | append: ','
         endif
       endfor
       
-      assign headers = headers | split: ','
+      assign size_headers = size_headers | split: ','
     -%}
 
     <div class="size-chart__table-wrapper">
-      <table class="size-chart__table">
+      <table class="size-chart__table" id="size-chart-table">
         <thead>
           <tr>
             <th scope="col"></th>
-            {%- for header in headers -%}
-              {%- if header != '' -%}
-                <th scope="col">{{ header }}</th>
-              {%- endif -%}
+            {%- for header in size_headers -%}
+              <th scope="col">{{ header }}</th>
             {%- endfor -%}
           </tr>
         </thead>
@@ -41,25 +44,69 @@
           {%- for row in size_chart_data -%}
             <tr>
               <th scope="row">{{ row.Measurement | default: 'Measurement' }}</th>
-              {%- for header in headers -%}
-                {%- if header != '' -%}
-                  <td>{{ row[header] | default: '-' }}</td>
-                {%- endif -%}
+              {%- for header in size_headers -%}
+                {%- liquid
+                  assign value = row[header] | default: '-'
+                  assign fraction_value = value
+                  assign cm_value = '-'
+                  
+                  if value != '-' and value != blank
+                    assign value_str = value | append: ''
+                    
+                    if value_str contains '.'
+                      assign parts = value_str | split: '.'
+                      assign whole_part = parts[0]
+                      assign decimal_part = parts[1]
+                      
+                      if decimal_part == '25'
+                        assign fraction_value = whole_part | append: '¼'
+                      elsif decimal_part == '5'
+                        assign fraction_value = whole_part | append: '½'
+                      elsif decimal_part == '75'
+                        assign fraction_value = whole_part | append: '¾'
+                      else
+                        assign fraction_value = value
+                      endif
+                      
+                      assign numeric_value = value | plus: 0
+                      assign cm_numeric = numeric_value | times: 2.54
+                      assign cm_rounded_times_2 = cm_numeric | times: 2 | round: 0
+                      assign cm_rounded = cm_rounded_times_2 | divided_by: 2.0
+                      assign cm_parts = cm_rounded | split: '.'
+                      assign cm_whole = cm_parts[0]
+                      assign cm_decimal = cm_parts[1] | default: '0'
+                      
+                      if cm_decimal == '5'
+                        assign cm_value = cm_whole | append: '½'
+                      else
+                        assign cm_value = cm_whole
+                      endif
+                    else
+                      assign fraction_value = value
+                      assign numeric_value = value | plus: 0
+                      assign cm_numeric = numeric_value | times: 2.54
+                      assign cm_rounded_times_2 = cm_numeric | times: 2 | round: 0
+                      assign cm_rounded = cm_rounded_times_2 | divided_by: 2.0
+                      assign cm_parts = cm_rounded | split: '.'
+                      assign cm_whole = cm_parts[0]
+                      assign cm_decimal = cm_parts[1] | default: '0'
+                      
+                      if cm_decimal == '5'
+                        assign cm_value = cm_whole | append: '½'
+                      else
+                        assign cm_value = cm_whole
+                      endif
+                    endif
+                  endif
+                -%}
+                <td data-value-inches="{{ value }}" data-value-cm="{{ cm_value }}">{{ fraction_value }}</td>
               {%- endfor -%}
             </tr>
           {%- endfor -%}
         </tbody>
       </table>
     </div>
-
-    {%- if block.settings.show_instructions -%}
-      <div class="size-chart__instructions">
-        <p class="size-chart__instructions-text">
-          {{ block.settings.instructions_text | default: 'Measurements are in inches. Please refer to our sizing guide for the best fit.' }}
-        </p>
-      </div>
-    {%- endif -%}
-  </div>
+  </size-chart-component>
 {%- endif -%}
 
 {% stylesheet %}
@@ -82,6 +129,45 @@
     font-weight: var(--font-weight-medium);
   }
 
+  .size-chart__tabs {
+    display: flex;
+    gap: 1px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    width: fit-content;
+    border: var(--size-chart-border-width) var(--size-chart-border-style) var(--color-foreground);
+    border-radius: var(--size-chart-border-radius);
+    background-color: var(--size-chart-border-color);
+    overflow: hidden;
+  }
+
+  .size-chart__tab {
+    padding: 4px 8px;
+    background-color: var(--size-chart-row-background);
+    border: none;
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-medium);
+    color: rgb(var(--color-foreground-rgb) / 0.7);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+  }
+
+  .size-chart__tab:not(.size-chart__tab--active):hover {
+    background-color: rgb(var(--color-foreground-rgb) / 0.02);
+    color: rgb(var(--color-foreground-rgb));
+  }
+
+  .size-chart__tab--active {
+    background-color: rgb(var(--color-foreground-rgb));
+    color: rgb(var(--color-background-rgb));
+  }
+
+  .size-chart__tab:focus-visible {
+    outline: 2px solid rgb(var(--color-foreground-rgb));
+    outline-offset: -2px;
+  }
+
   .size-chart__table-wrapper {
     overflow-x: auto;
     border: var(--size-chart-border-width) var(--size-chart-border-style) var(--size-chart-border-color);
@@ -92,7 +178,7 @@
   .size-chart__table {
     width: 100%;
     border-collapse: collapse;
-    min-width: 400px;
+    min-width: 398px;
   }
 
   .size-chart__table th,
@@ -131,21 +217,6 @@
     background-color: var(--size-chart-header-background);
   }
 
-  .size-chart__instructions {
-    margin-top: var(--margin-md);
-    padding: var(--padding-md);
-    background-color: rgb(var(--color-background-rgb));
-    border: var(--size-chart-border-width) var(--size-chart-border-style) var(--size-chart-border-color);
-    border-radius: var(--size-chart-border-radius);
-  }
-
-  .size-chart__instructions-text {
-    margin: 0;
-    font-size: var(--font-size-sm);
-    color: rgb(var(--color-foreground-rgb) / 0.7);
-    line-height: 1.4;
-  }
-
   @media screen and (max-width: 749px) {
     .size-chart__table {
       min-width: 300px;
@@ -155,6 +226,12 @@
     .size-chart__table th,
     .size-chart__table td {
       padding: var(--padding-xs);
+    }
+
+    .size-chart__tab {
+      width: 40px;
+      padding: var(--padding-xs);
+      font-size: var(--font-size-xs);
     }
   }
 {% endstylesheet %}
@@ -170,19 +247,6 @@
       "id": "title",
       "label": "Title",
       "default": "Size Chart"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_instructions",
-      "label": "Show instructions",
-      "default": true
-    },
-    {
-      "type": "textarea",
-      "id": "instructions_text",
-      "label": "Instructions text",
-      "default": "Measurements are in inches. Please refer to our sizing guide for the best fit.",
-      "visible_if": "{{ block.settings.show_instructions }}"
     },
     {
       "type": "header",
