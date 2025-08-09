@@ -41,37 +41,7 @@
     
     <div class="modal__content">
       {%- for block in blocks -%}
-        {%- case block.type -%}
-          {%- when 'content' -%}
-            <div class="modal__text-content" {{ block.shopify_attributes }}>
-              {{ block.settings.content }}
-            </div>
-          
-          {%- when 'image' -%}
-            {%- if block.settings.image -%}
-              <div class="modal__image modal__image--{{ block.settings.image_alignment }}" {{ block.shopify_attributes }}>
-                <img 
-                  src="{{ block.settings.image | image_url: width: block.settings.image_width }}"
-                  alt="{{ block.settings.image.alt | default: title }}"
-                  width="{{ block.settings.image_width }}"
-                  height="{{ block.settings.image.height | times: block.settings.image_width | divided_by: block.settings.image.width | round }}"
-                  loading="lazy"
-                >
-              </div>
-            {%- endif -%}
-          
-          {%- when 'button' -%}
-            {%- if block.settings.button_link -%}
-              <div class="modal__button-wrapper" {{ block.shopify_attributes }}>
-                <a 
-                  href="{{ block.settings.button_link }}" 
-                  class="button button--{{ block.settings.button_style }}"
-                >
-                  {{ block.settings.button_text }}
-                </a>
-              </div>
-            {%- endif -%}
-        {%- endcase -%}
+        {%- render 'section', block: block -%}
       {%- endfor -%}
     </div>
   </div>

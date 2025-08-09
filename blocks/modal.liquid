@@ -9,95 +9,10 @@
   "class": "modal-block",
   "blocks": [
     {
-      "type": "content",
-      "name": "Content",
-      "limit": 1,
-      "settings": [
-        {
-          "type": "richtext",
-          "id": "content",
-          "label": "Content",
-          "default": "<p>Add your modal content here.</p>"
-        }
-      ]
+      "type": "@theme"
     },
     {
-      "type": "image",
-      "name": "Image",
-      "settings": [
-        {
-          "type": "image_picker",
-          "id": "image",
-          "label": "Image"
-        },
-        {
-          "type": "range",
-          "id": "image_width",
-          "min": 100,
-          "max": 800,
-          "step": 10,
-          "unit": "px",
-          "label": "Image width",
-          "default": 400
-        },
-        {
-          "type": "select",
-          "id": "image_alignment",
-          "options": [
-            {
-              "value": "left",
-              "label": "Left"
-            },
-            {
-              "value": "center",
-              "label": "Center"
-            },
-            {
-              "value": "right",
-              "label": "Right"
-            }
-          ],
-          "default": "center",
-          "label": "Image alignment"
-        }
-      ]
-    },
-    {
-      "type": "button",
-      "name": "Button",
-      "settings": [
-        {
-          "type": "text",
-          "id": "button_text",
-          "label": "Button text",
-          "default": "Learn More"
-        },
-        {
-          "type": "url",
-          "id": "button_link",
-          "label": "Button link"
-        },
-        {
-          "type": "select",
-          "id": "button_style",
-          "options": [
-            {
-              "value": "primary",
-              "label": "Primary"
-            },
-            {
-              "value": "secondary",
-              "label": "Secondary"
-            },
-            {
-              "value": "outline",
-              "label": "Outline"
-            }
-          ],
-          "default": "primary",
-          "label": "Button style"
-        }
-      ]
+      "type": "@app"
     }
   ],
   "settings": [
