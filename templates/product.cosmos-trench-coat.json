@@ -261,8 +261,8 @@
                   "name": "Modal",
                   "settings": {
                     "title": "Size chart",
-                    "button_text": "Open Modal",
-                    "button_style": "secondary",
+                    "button_text": "Size guide",
+                    "button_style": "button-unstyled",
                     "modal_size": "medium"
                   },
                   "blocks": {
