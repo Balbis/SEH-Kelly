@@ -186,7 +186,7 @@
               "settings": {
                 "title": "Available Options",
                 "display_style": "swatches",
-                "swatch_type": "color",
+                "swatch_type": "image",
                 "swatch_shape": "square",
                 "show_swatches_in_dropdown": true,
                 "show_titles": false,
