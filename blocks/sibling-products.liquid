@@ -1,0 +1,530 @@
+{%- liquid
+  assign siblings = product.metafields.custom.siblings.value
+  assign current_product = product
+-%}
+
+{%- if siblings.size > 1 -%}
+  <div
+    class="sibling-products sibling-products--{{ block.settings.display_style }}"
+    data-sibling-products
+    {{ block.shopify_attributes }}
+  >
+    {%- if block.settings.title != blank -%}
+      <h3 class="sibling-products__title">{{ block.settings.title }}</h3>
+    {%- endif -%}
+
+    {%- if block.settings.display_style == 'dropdown' -%}
+      <div class="sibling-products__dropdown">
+        <label for="SiblingProducts-{{ block.id }}" class="sibling-products__label">
+          Select option
+        </label>
+        <div class="sibling-products__select-wrapper">
+          <select
+            id="SiblingProducts-{{ block.id }}"
+            class="sibling-products__select{% if block.settings.show_swatches_in_dropdown %} sibling-products__select--has-swatches{% endif %}"
+            data-sibling-select
+          >
+            {%- for sibling in siblings -%}
+              {%- liquid
+                assign is_current = false
+                if sibling.id == current_product.id
+                  assign is_current = true
+                endif
+                
+                assign sibling_image = sibling.featured_media
+                assign sibling_swatch = null
+                
+                if block.settings.show_swatches_in_dropdown
+                  for option in sibling.options_with_values
+                    for value in option.values
+                      if value.swatch
+                        assign sibling_swatch = value.swatch
+                        break
+                      endif
+                    endfor
+                    if sibling_swatch
+                      break
+                    endif
+                  endfor
+                endif
+              -%}
+              <option
+                value="{{ sibling.url }}"
+                data-product-id="{{ sibling.id }}"
+                data-product-title="{{ sibling.title | escape }}"
+                {% if is_current %}selected{% endif %}
+              >
+                {{ sibling.title | escape }}{% if is_current %} (Current){% endif %}
+              </option>
+            {%- endfor -%}
+          </select>
+          {%- if block.settings.show_swatches_in_dropdown -%}
+            <div class="sibling-products__dropdown-swatch">
+              {%- for sibling in siblings -%}
+                {%- liquid
+                  assign is_current = false
+                  if sibling.id == current_product.id
+                    assign is_current = true
+                  endif
+                  
+                  assign sibling_image = sibling.featured_media
+                  assign sibling_swatch = null
+                  
+                  for option in sibling.options_with_values
+                    for value in option.values
+                      if value.swatch
+                        assign sibling_swatch = value.swatch
+                        break
+                      endif
+                    endfor
+                    if sibling_swatch
+                      break
+                    endif
+                  endfor
+                -%}
+                <div
+                  class="sibling-products__dropdown-swatch-item{% if is_current %} sibling-products__dropdown-swatch-item--current{% endif %}"
+                  data-product-id="{{ sibling.id }}"
+                  data-product-url="{{ sibling.url }}"
+                >
+                  {%- if block.settings.swatch_type == 'color' and sibling_swatch -%}
+                    {% render 'swatch', swatch: sibling_swatch, mode: 'unscaled' %}
+                  {%- elsif block.settings.swatch_type == 'image' and sibling_image -%}
+                    <img
+                      src="{{ sibling_image | image_url: width: 40, height: 40, crop: 'center' }}"
+                      alt="{{ sibling.title | escape }}"
+                      width="20"
+                      height="20"
+                      loading="lazy"
+                      class="sibling-products__swatch-image"
+                    >
+                  {%- endif -%}
+                </div>
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            class="icon icon-caret"
+            viewBox="0 0 10 6"
+          >
+            {%- render 'icon', icon: 'caret' -%}
+          </svg>
+        </div>
+      </div>
+    {%- else -%}
+      <div class="sibling-products__swatches">
+        <div class="sibling-products__swatches-list">
+          {%- for sibling in siblings -%}
+            {%- liquid
+              assign is_current = false
+              if sibling.id == current_product.id
+                assign is_current = true
+              endif
+              
+              assign sibling_image = sibling.featured_media
+              assign sibling_swatch = null
+              
+              for option in sibling.options_with_values
+                for value in option.values
+                  if value.swatch
+                    assign sibling_swatch = value.swatch
+                    break
+                  endif
+                endfor
+                if sibling_swatch
+                  break
+                endif
+              endfor
+            -%}
+            <a
+              href="{{ sibling.url }}"
+              class="sibling-products__swatch-item{% if is_current %} sibling-products__swatch-item--current{% endif %}{% if block.settings.swatch_shape == 'round' %} sibling-products__swatch-item--round{% endif %}"
+              data-product-id="{{ sibling.id }}"
+              data-product-url="{{ sibling.url }}"
+              aria-label="{{ sibling.title | escape }}{% if is_current %} (Current){% endif %}"
+              {% if is_current %}aria-current="true"{% endif %}
+            >
+              {%- if block.settings.swatch_type == 'color' and sibling_swatch -%}
+                {% render 'swatch', swatch: sibling_swatch, mode: 'unscaled' %}
+              {%- elsif block.settings.swatch_type == 'image' and sibling_image -%}
+                <img
+                  src="{{ sibling_image | image_url: width: 80, height: 80, crop: 'center' }}"
+                  alt="{{ sibling.title | escape }}"
+                  width="40"
+                  height="40"
+                  loading="lazy"
+                  class="sibling-products__swatch-image"
+                >
+              {%- endif -%}
+              {%- if block.settings.show_titles -%}
+                <span class="sibling-products__swatch-title">{{ sibling.title | escape }}</span>
+              {%- endif -%}
+            </a>
+          {%- endfor -%}
+        </div>
+      </div>
+    {%- endif -%}
+  </div>
+{%- endif -%}
+
+{% stylesheet %}
+  .sibling-products {
+    --sibling-products-gap: var(--gap-sm);
+    --sibling-products-swatch-size: 40px;
+    --sibling-products-swatch-size-mobile: 32px;
+    --sibling-products-border-radius: var(--variant-picker-swatch-radius);
+    --sibling-products-border-width: var(--variant-picker-border-width);
+    --sibling-products-border-style: var(--variant-picker-border-style);
+    --sibling-products-border-opacity: var(--variant-picker-border-opacity);
+    
+    width: 100%;
+  }
+
+  .sibling-products__title {
+    margin: 0 0 var(--margin-sm) 0;
+    font-size: var(--font-size-base);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .sibling-products__dropdown {
+    position: relative;
+  }
+
+  .sibling-products__label {
+    display: block;
+    margin-bottom: var(--margin-xs);
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .sibling-products__select-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    border: var(--sibling-products-border-width) var(--sibling-products-border-style) rgb(var(--color-foreground-rgb) / var(--sibling-products-border-opacity));
+    border-radius: var(--style-border-radius-inputs);
+    background-color: rgb(var(--color-background-rgb));
+    transition: border-color var(--animation-speed) var(--animation-easing);
+  }
+
+  .sibling-products__select-wrapper:hover {
+    border-color: rgb(var(--color-foreground-rgb) / 0.4);
+  }
+
+  .sibling-products__select {
+    width: 100%;
+    padding: var(--padding-md) calc(var(--padding-lg) + var(--icon-size-2xs)) var(--padding-md) var(--padding-lg);
+    appearance: none;
+    border: none;
+    background: transparent;
+    font-size: var(--font-size-base);
+    cursor: pointer;
+  }
+
+  .sibling-products__select:focus-visible {
+    outline: var(--focus-outline-width) solid currentcolor;
+    outline-offset: var(--focus-outline-offset);
+  }
+
+  .sibling-products__select--has-swatches {
+    padding-left: calc((2 * var(--padding-sm)) + var(--sibling-products-swatch-size));
+  }
+
+  .sibling-products__dropdown-swatch {
+    position: absolute;
+    top: 50%;
+    left: var(--padding-md);
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    gap: var(--gap-xs);
+  }
+
+  .sibling-products__dropdown-swatch-item {
+    width: var(--sibling-products-swatch-size);
+    height: var(--sibling-products-swatch-size);
+    border-radius: var(--sibling-products-border-radius);
+    border: var(--sibling-products-border-width) var(--sibling-products-border-style) rgb(var(--color-foreground-rgb) / var(--sibling-products-border-opacity));
+    overflow: hidden;
+    opacity: 0.6;
+    transition: opacity var(--animation-speed) var(--animation-easing);
+  }
+
+  .sibling-products__dropdown-swatch-item--current {
+    opacity: 1;
+    border-color: rgb(var(--color-foreground-rgb));
+  }
+
+  .sibling-products__dropdown-swatch-item .swatch {
+    width: 100%;
+    height: 100%;
+  }
+
+  .sibling-products__dropdown-swatch-item .sibling-products__swatch-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .sibling-products__select-wrapper .icon {
+    position: absolute;
+    right: var(--padding-md);
+    top: 50%;
+    transform: translateY(-50%);
+    width: var(--icon-size-2xs);
+    height: var(--icon-size-2xs);
+    pointer-events: none;
+  }
+
+  .sibling-products__swatches {
+    width: 100%;
+  }
+
+  .sibling-products__swatches-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--sibling-products-gap);
+  }
+
+  .sibling-products__swatch-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--gap-xs);
+    text-decoration: none;
+    color: inherit;
+    transition: transform var(--animation-speed) var(--animation-easing);
+  }
+
+  .sibling-products__swatch-item:hover {
+    transform: translateY(-2px);
+  }
+
+  .sibling-products__swatch-item--current {
+    position: relative;
+  }
+
+  .sibling-products__swatch-item--current::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 6px;
+    height: 6px;
+    background-color: rgb(var(--color-foreground-rgb));
+    border-radius: 50%;
+  }
+
+  .sibling-products__swatch-item--round .swatch,
+  .sibling-products__swatch-item--round .sibling-products__swatch-image {
+    border-radius: 50%;
+  }
+
+  .sibling-products__swatch-item .swatch {
+    width: var(--sibling-products-swatch-size);
+    height: var(--sibling-products-swatch-size);
+    border: var(--sibling-products-border-width) var(--sibling-products-border-style) rgb(var(--color-foreground-rgb) / var(--sibling-products-border-opacity));
+    transition: border-color var(--animation-speed) var(--animation-easing);
+  }
+
+  .sibling-products__swatch-item:hover .swatch {
+    border-color: rgb(var(--color-foreground-rgb) / 0.4);
+  }
+
+  .sibling-products__swatch-item--current .swatch {
+    border-color: rgb(var(--color-foreground-rgb));
+    outline: var(--focus-outline-width) solid rgb(var(--color-foreground-rgb));
+    outline-offset: var(--focus-outline-offset);
+  }
+
+  .sibling-products__swatch-image {
+    width: var(--sibling-products-swatch-size);
+    height: var(--sibling-products-swatch-size);
+    border-radius: var(--sibling-products-border-radius);
+    border: var(--sibling-products-border-width) var(--sibling-products-border-style) rgb(var(--color-foreground-rgb) / var(--sibling-products-border-opacity));
+    object-fit: cover;
+    transition: border-color var(--animation-speed) var(--animation-easing);
+  }
+
+  .sibling-products__swatch-item:hover .sibling-products__swatch-image {
+    border-color: rgb(var(--color-foreground-rgb) / 0.4);
+  }
+
+  .sibling-products__swatch-item--current .sibling-products__swatch-image {
+    border-color: rgb(var(--color-foreground-rgb));
+    outline: var(--focus-outline-width) solid rgb(var(--color-foreground-rgb));
+    outline-offset: var(--focus-outline-offset);
+  }
+
+  .sibling-products__swatch-title {
+    font-size: var(--font-size-sm);
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  @media screen and (max-width: 749px) {
+    .sibling-products {
+      --sibling-products-swatch-size: var(--sibling-products-swatch-size-mobile);
+    }
+    
+    .sibling-products__swatches-list {
+      gap: var(--gap-xs);
+    }
+  }
+{% endstylesheet %}
+
+{% javascript %}
+  class SiblingProducts extends HTMLElement {
+    constructor() {
+      super();
+      this.select = this.querySelector('[data-sibling-select]');
+      this.init();
+    }
+
+    init() {
+      if (this.select) {
+        this.select.addEventListener('change', this.handleSelectChange.bind(this));
+      }
+    }
+
+    handleSelectChange(event) {
+      const selectedUrl = event.target.value;
+      if (selectedUrl) {
+        window.location.href = selectedUrl;
+      }
+    }
+  }
+
+  customElements.define('sibling-products', SiblingProducts);
+{% endjavascript %}
+
+{% schema %}
+{
+  "name": "Sibling Products",
+  "tag": "div",
+  "class": "sibling-products-wrapper",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Available Options"
+    },
+    {
+      "type": "select",
+      "id": "display_style",
+      "label": "Display Style",
+      "options": [
+        {
+          "value": "swatches",
+          "label": "Swatches"
+        },
+        {
+          "value": "dropdown",
+          "label": "Dropdown"
+        }
+      ],
+      "default": "swatches"
+    },
+    {
+      "type": "select",
+      "id": "swatch_type",
+      "label": "Swatch Type",
+      "options": [
+        {
+          "value": "color",
+          "label": "Color Variant"
+        },
+        {
+          "value": "image",
+          "label": "Featured Image"
+        }
+      ],
+      "default": "color"
+    },
+    {
+      "type": "select",
+      "id": "swatch_shape",
+      "label": "Swatch Shape",
+      "options": [
+        {
+          "value": "square",
+          "label": "Square/Portrait"
+        },
+        {
+          "value": "round",
+          "label": "Round"
+        }
+      ],
+      "default": "square"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_swatches_in_dropdown",
+      "label": "Show swatches in dropdown",
+      "default": true,
+      "visible_if": "{{ block.settings.display_style == 'dropdown' }}"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_titles",
+      "label": "Show product titles",
+      "default": false,
+      "visible_if": "{{ block.settings.display_style == 'swatches' }}"
+    },
+    {
+      "type": "header",
+      "content": "Padding"
+    },
+    {
+      "type": "range",
+      "id": "padding-block-start",
+      "label": "Top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding-block-end",
+      "label": "Bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding-inline-start",
+      "label": "Left",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding-inline-end",
+      "label": "Right",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "default": 0
+    }
+  ],
+  "presets": [
+    {
+      "name": "Sibling Products",
+      "category": "Product"
+    }
+  ]
+}
+{% endschema %}
