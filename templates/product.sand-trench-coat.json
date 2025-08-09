@@ -180,6 +180,23 @@
               },
               "blocks": {}
             },
+            "sibling_products_zygTX3": {
+              "type": "sibling-products",
+              "name": "Sibling Products",
+              "settings": {
+                "title": "Available Options",
+                "display_style": "swatches",
+                "swatch_type": "color",
+                "swatch_shape": "square",
+                "show_swatches_in_dropdown": true,
+                "show_titles": false,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "variant_picker_R3rGDr": {
               "type": "variant-picker",
               "settings": {
@@ -508,6 +525,7 @@
           "block_order": [
             "group_icgrde",
             "divider_VJhene",
+            "sibling_products_zygTX3",
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "divider_gtGMf3",
