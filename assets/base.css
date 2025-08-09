@@ -2008,7 +2008,7 @@ deferred-media[class] :is(.deferred-media__poster-button img, .deferred-media__p
     z-index: var(--layer-flat);
   }
 
-  .group-sticky .group-block-content > *:first-child {
+  .group-sticky .group-block-content {
     position: sticky;
     top: var(--sticky-gap, 0);
     height: fit-content;

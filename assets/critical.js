@@ -462,3 +462,10 @@ function calculateHeaderGroupHeight(
   const shouldApplyOffset = !hasImmediateSection ? '1' : '0';
   document.body.style.setProperty('--transparent-header-offset-boolean', shouldApplyOffset);
 })();
+
+/**
+ * Replaces breakable hyphens with unbreakable
+ */
+function replaceHyphensWithNonBreaking(str) {
+  return str.replace(/-/g, '‑');
+}
