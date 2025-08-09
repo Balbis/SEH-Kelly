@@ -1,9 +1,17 @@
 {%- liquid
   assign siblings = product.metafields.custom.siblings.value
   assign current_product = product
+  
+  if siblings == blank
+    assign siblings = product.metafields.custom.siblings
+  endif
+  
+  if siblings == blank
+    assign siblings = null
+  endif
 -%}
 
-{%- if siblings.size > 1 -%}
+{%- if siblings and siblings.size > 1 -%}
   <div
     class="sibling-products sibling-products--{{ block.settings.display_style }}"
     data-sibling-products
