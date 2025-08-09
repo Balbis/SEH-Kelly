@@ -262,7 +262,7 @@
                   "settings": {
                     "title": "Size chart",
                     "button_text": "Open Modal",
-                    "button_style": "primary",
+                    "button_style": "secondary",
                     "modal_size": "medium"
                   },
                   "blocks": {
