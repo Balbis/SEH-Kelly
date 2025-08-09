@@ -2,7 +2,7 @@
   assign modal_id = 'modal-' | append: block.id
   assign settings = block.settings
   assign blocks = block.blocks
-  assign button_class = 'button button--' | append: settings.button_style
+  assign button_class = settings.button_style
 -%}
 
 <div class="modal-trigger">
