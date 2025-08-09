@@ -1,0 +1,173 @@
+{%- render 'modal', 
+  block: block,
+  title: block.settings.title,
+  button_text: block.settings.button_text,
+  button_style: block.settings.button_style,
+  modal_size: block.settings.modal_size,
+  blocks: block.blocks
+-%}
+
+{% schema %}
+{
+  "name": "Modal",
+  "tag": "div",
+  "class": "modal-block",
+  "blocks": [
+    {
+      "type": "content",
+      "name": "Content",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "content",
+          "label": "Content",
+          "default": "<p>Add your modal content here.</p>"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "range",
+          "id": "image_width",
+          "min": 100,
+          "max": 800,
+          "step": 10,
+          "unit": "px",
+          "label": "Image width",
+          "default": 400
+        },
+        {
+          "type": "select",
+          "id": "image_alignment",
+          "options": [
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "center",
+              "label": "Center"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ],
+          "default": "center",
+          "label": "Image alignment"
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "name": "Button",
+      "settings": [
+        {
+          "type": "text",
+          "id": "button_text",
+          "label": "Button text",
+          "default": "Learn More"
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": "Button link"
+        },
+        {
+          "type": "select",
+          "id": "button_style",
+          "options": [
+            {
+              "value": "primary",
+              "label": "Primary"
+            },
+            {
+              "value": "secondary",
+              "label": "Secondary"
+            },
+            {
+              "value": "outline",
+              "label": "Outline"
+            }
+          ],
+          "default": "primary",
+          "label": "Button style"
+        }
+      ]
+    }
+  ],
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Modal title",
+      "default": "Modal Title"
+    },
+    {
+      "type": "text",
+      "id": "button_text",
+      "label": "Open button text",
+      "default": "Open Modal"
+    },
+    {
+      "type": "select",
+      "id": "button_style",
+      "options": [
+        {
+          "value": "primary",
+          "label": "Primary"
+        },
+        {
+          "value": "secondary",
+          "label": "Secondary"
+        },
+        {
+          "value": "outline",
+          "label": "Outline"
+        }
+      ],
+      "default": "primary",
+      "label": "Button style"
+    },
+    {
+      "type": "select",
+      "id": "modal_size",
+      "options": [
+        {
+          "value": "small",
+          "label": "Small"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "large",
+          "label": "Large"
+        },
+        {
+          "value": "full",
+          "label": "Full width"
+        }
+      ],
+      "default": "medium",
+      "label": "Modal size"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Modal",
+      "category": "Interactive"
+    }
+  ]
+}
+{% endschema %}

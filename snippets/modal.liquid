@@ -1,0 +1,318 @@
+{%- liquid
+  assign modal_id = 'modal-' | append: block.id
+  assign button_class = 'button button--' | append: button_style
+-%}
+
+<div class="modal-trigger">
+  <button 
+    class="{{ button_class }}" 
+    type="button" 
+    aria-haspopup="dialog" 
+    aria-expanded="false"
+    data-modal-trigger="{{ modal_id }}"
+  >
+    {{ button_text }}
+  </button>
+</div>
+
+<div 
+  class="modal modal--{{ modal_size }}" 
+  id="{{ modal_id }}" 
+  role="dialog" 
+  aria-modal="true" 
+  aria-labelledby="{{ modal_id }}-title"
+  hidden
+>
+  <div class="modal__overlay" data-modal-close="{{ modal_id }}"></div>
+  <div class="modal__container">
+    <div class="modal__header">
+      <h2 class="modal__title" id="{{ modal_id }}-title">{{ title }}</h2>
+              <button 
+          class="modal__close" 
+          type="button" 
+          aria-label="Close modal"
+          data-modal-close="{{ modal_id }}"
+        >
+          ×
+        </button>
+    </div>
+    
+    <div class="modal__content">
+      {%- for block in blocks -%}
+        {%- case block.type -%}
+          {%- when 'content' -%}
+            <div class="modal__text-content" {{ block.shopify_attributes }}>
+              {{ block.settings.content }}
+            </div>
+          
+          {%- when 'image' -%}
+            {%- if block.settings.image -%}
+              <div class="modal__image modal__image--{{ block.settings.image_alignment }}" {{ block.shopify_attributes }}>
+                <img 
+                  src="{{ block.settings.image | image_url: width: block.settings.image_width }}"
+                  alt="{{ block.settings.image.alt | default: title }}"
+                  width="{{ block.settings.image_width }}"
+                  height="{{ block.settings.image.height | times: block.settings.image_width | divided_by: block.settings.image.width | round }}"
+                  loading="lazy"
+                >
+              </div>
+            {%- endif -%}
+          
+          {%- when 'button' -%}
+            {%- if block.settings.button_link -%}
+              <div class="modal__button-wrapper" {{ block.shopify_attributes }}>
+                <a 
+                  href="{{ block.settings.button_link }}" 
+                  class="button button--{{ block.settings.button_style }}"
+                >
+                  {{ block.settings.button_text }}
+                </a>
+              </div>
+            {%- endif -%}
+        {%- endcase -%}
+      {%- endfor -%}
+    </div>
+  </div>
+</div>
+
+{% stylesheet %}
+  .modal-trigger {
+    display: inline-block;
+  }
+
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-md);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+  }
+
+  .modal[aria-hidden="false"] {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .modal__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(var(--color-foreground-rgb) / 0.5);
+    backdrop-filter: blur(4px);
+  }
+
+  .modal__container {
+    position: relative;
+    background-color: rgb(var(--color-background-rgb));
+    border-radius: var(--style-border-radius-inputs);
+    box-shadow: 0 20px 40px rgb(var(--color-foreground-rgb) / 0.1);
+    max-width: 90vw;
+    max-height: 90vh;
+    overflow: hidden;
+    transform: scale(0.9);
+    transition: transform 0.3s ease;
+  }
+
+  .modal[aria-hidden="false"] .modal__container {
+    transform: scale(1);
+  }
+
+  .modal--small .modal__container {
+    width: 400px;
+  }
+
+  .modal--medium .modal__container {
+    width: 600px;
+  }
+
+  .modal--large .modal__container {
+    width: 800px;
+  }
+
+  .modal--full .modal__container {
+    width: 95vw;
+    height: 95vh;
+  }
+
+  .modal__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--padding-lg);
+    border-bottom: 1px solid rgb(var(--color-foreground-rgb) / 0.1);
+  }
+
+  .modal__title {
+    margin: 0;
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .modal__close {
+    background: none;
+    border: none;
+    padding: var(--padding-xs);
+    cursor: pointer;
+    color: rgb(var(--color-foreground-rgb) / 0.7);
+    border-radius: var(--style-border-radius-inputs);
+    transition: all 0.2s ease;
+  }
+
+  .modal__close:hover {
+    background-color: rgb(var(--color-foreground-rgb) / 0.05);
+    color: rgb(var(--color-foreground-rgb));
+  }
+
+  .modal__close:focus-visible {
+    outline: 2px solid rgb(var(--color-foreground-rgb));
+    outline-offset: 2px;
+  }
+
+  .modal__content {
+    padding: var(--padding-lg);
+    overflow-y: auto;
+    max-height: calc(90vh - 120px);
+  }
+
+  .modal__text-content {
+    line-height: 1.6;
+  }
+
+  .modal__text-content p:last-child {
+    margin-bottom: 0;
+  }
+
+  .modal__image {
+    margin: var(--margin-md) 0;
+  }
+
+  .modal__image--left {
+    text-align: left;
+  }
+
+  .modal__image--center {
+    text-align: center;
+  }
+
+  .modal__image--right {
+    text-align: right;
+  }
+
+  .modal__image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--style-border-radius-inputs);
+  }
+
+  .modal__button-wrapper {
+    margin-top: var(--margin-lg);
+    text-align: center;
+  }
+
+  @media screen and (max-width: 749px) {
+    .modal {
+      padding: var(--padding-sm);
+    }
+
+    .modal--small .modal__container,
+    .modal--medium .modal__container,
+    .modal--large .modal__container {
+      width: 100%;
+    }
+
+    .modal__header {
+      padding: var(--padding-md);
+    }
+
+    .modal__content {
+      padding: var(--padding-md);
+      max-height: calc(90vh - 100px);
+    }
+  }
+{% endstylesheet %}
+
+{% javascript %}
+  class Modal {
+    constructor() {
+      this.modals = new Map();
+      this.activeModal = null;
+      this.init();
+    }
+
+    init() {
+      this.bindEvents();
+    }
+
+    bindEvents() {
+      document.addEventListener('click', (e) => {
+        if (e.target.matches('[data-modal-trigger]')) {
+          e.preventDefault();
+          const modalId = e.target.getAttribute('data-modal-trigger');
+          this.openModal(modalId);
+        }
+
+        if (e.target.matches('[data-modal-close]')) {
+          e.preventDefault();
+          const modalId = e.target.getAttribute('data-modal-close');
+          this.closeModal(modalId);
+        }
+      });
+
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && this.activeModal) {
+          this.closeModal(this.activeModal);
+        }
+      });
+    }
+
+    openModal(modalId) {
+      const modal = document.getElementById(modalId);
+      if (!modal) return;
+
+      this.activeModal = modalId;
+      modal.hidden = false;
+      modal.setAttribute('aria-hidden', 'false');
+      
+      document.body.style.overflow = 'hidden';
+      
+      this.modals.set(modalId, modal);
+      
+      setTimeout(() => {
+        modal.focus();
+      }, 100);
+    }
+
+    closeModal(modalId) {
+      const modal = document.getElementById(modalId);
+      if (!modal) return;
+
+      modal.setAttribute('aria-hidden', 'true');
+      
+      setTimeout(() => {
+        modal.hidden = true;
+      }, 300);
+
+      if (this.activeModal === modalId) {
+        this.activeModal = null;
+      }
+
+      document.body.style.overflow = '';
+      
+      this.modals.delete(modalId);
+    }
+  }
+
+  if (typeof window !== 'undefined') {
+    window.modal = new Modal();
+  }
+{% endjavascript %}
