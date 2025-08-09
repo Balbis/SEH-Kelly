@@ -180,6 +180,23 @@
               },
               "blocks": {}
             },
+            "sibling_products_R4ampU": {
+              "type": "sibling-products",
+              "name": "Sibling Products",
+              "settings": {
+                "title": "Available Options",
+                "display_style": "swatches",
+                "swatch_type": "image",
+                "swatch_shape": "square",
+                "show_swatches_in_dropdown": true,
+                "show_titles": false,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "variant_picker_R3rGDr": {
               "type": "variant-picker",
               "settings": {
@@ -509,8 +526,6 @@
               "name": "Size Chart",
               "settings": {
                 "title": "Size Chart",
-                "show_instructions": true,
-                "instructions_text": "Measurements are in inches. Please refer to our sizing guide for the best fit.",
                 "padding-block-start": 0,
                 "padding-block-end": 0,
                 "padding-inline-start": 0,
@@ -522,6 +537,7 @@
           "block_order": [
             "group_icgrde",
             "divider_VJhene",
+            "sibling_products_R4ampU",
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "divider_gtGMf3",
