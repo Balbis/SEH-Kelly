@@ -43,7 +43,7 @@
           "settings": {
             "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting. <a href=\"https://www.sehkelly.com/shop/\">More</a></p>",
             "width": "100%",
-            "max_width": "normal",
+            "max_width": "narrow",
             "custom_max_width": 100,
             "content_alignment": "flex-start",
             "type_preset": "h3",
