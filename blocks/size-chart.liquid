@@ -20,11 +20,10 @@
     {%- liquid
       assign first_row = size_chart_data.first
       assign size_headers = ''
-      assign all_possible_sizes = 'XS,S,M,L,XL,XXL,XXXL' | split: ','
       
-      for size in all_possible_sizes
-        if first_row[size] != blank
-          assign size_headers = size_headers | append: size | append: ','
+      for key in first_row
+        if key[0] != 'Measurement' and key[1] != blank
+          assign size_headers = size_headers | append: key[0] | append: ','
         endif
       endfor
       
@@ -100,7 +99,7 @@
                     endif
                   endif
                 -%}
-                <td data-value-inches="{{ value }}" data-value-cm="{{ cm_value }}">{{ fraction_value }}</td>
+                <td data-value-inches="{{ fraction_value }}" data-value-cm="{{ cm_value }}">{{ fraction_value }}</td>
               {%- endfor -%}
             </tr>
           {%- endfor -%}
