@@ -36,21 +36,19 @@
                 endif
                 
                 assign sibling_image = sibling.featured_media
-                assign sibling_swatch = null
-                
-                if block.settings.show_swatches_in_dropdown
-                  for option in sibling.options_with_values
-                    for value in option.values
-                      if value.swatch
-                        assign sibling_swatch = value.swatch
-                        break
-                      endif
-                    endfor
-                    if sibling_swatch
-                      break
-                    endif
-                  endfor
+                              assign sibling_swatch = null
+              
+              for option in sibling.options_with_values
+                for value in option.values
+                  if value.swatch
+                    assign sibling_swatch = value.swatch
+                    break
+                  endif
+                endfor
+                if sibling_swatch
+                  break
                 endif
+              endfor
               -%}
               <option
                 value="{{ sibling.url }}"
@@ -147,10 +145,11 @@
               class="sibling-products__swatch-item{% if is_current %} sibling-products__swatch-item--current{% endif %}{% if block.settings.swatch_shape == 'round' %} sibling-products__swatch-item--round{% endif %}"
               data-product-id="{{ sibling.id }}"
               data-product-url="{{ sibling.url }}"
+              data-swatch-type="{% if block.settings.swatch_type == 'color' and sibling_swatch and sibling_swatch.color %}color{% else %}image{% endif %}"
               aria-label="{{ sibling.title | escape }}{% if is_current %} (Current){% endif %}"
               {% if is_current %}aria-current="true"{% endif %}
             >
-              {%- if block.settings.swatch_type == 'color' and sibling_swatch -%}
+              {%- if block.settings.swatch_type == 'color' -%}
                 {% render 'swatch', swatch: sibling_swatch, mode: 'unscaled' %}
               {%- elsif block.settings.swatch_type == 'image' and sibling_image -%}
                 <img
@@ -299,27 +298,10 @@
     gap: var(--gap-xs);
     text-decoration: none;
     color: inherit;
-    transition: transform var(--animation-speed) var(--animation-easing);
-  }
-
-  .sibling-products__swatch-item:hover {
-    transform: translateY(-2px);
   }
 
   .sibling-products__swatch-item--current {
     position: relative;
-  }
-
-  .sibling-products__swatch-item--current::after {
-    content: '';
-    position: absolute;
-    bottom: -4px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 6px;
-    height: 6px;
-    background-color: rgb(var(--color-foreground-rgb));
-    border-radius: 50%;
   }
 
   .sibling-products__swatch-item--round .swatch,
@@ -332,6 +314,7 @@
     height: var(--sibling-products-swatch-size);
     border: var(--sibling-products-border-width) var(--sibling-products-border-style) rgb(var(--color-foreground-rgb) / var(--sibling-products-border-opacity));
     transition: border-color var(--animation-speed) var(--animation-easing);
+    flex-shrink: 0;
   }
 
   .sibling-products__swatch-item:hover .swatch {
@@ -340,8 +323,6 @@
 
   .sibling-products__swatch-item--current .swatch {
     border-color: rgb(var(--color-foreground-rgb));
-    outline: var(--focus-outline-width) solid rgb(var(--color-foreground-rgb));
-    outline-offset: var(--focus-outline-offset);
   }
 
   .sibling-products__swatch-image {
@@ -351,6 +332,7 @@
     border: var(--sibling-products-border-width) var(--sibling-products-border-style) rgb(var(--color-foreground-rgb) / var(--sibling-products-border-opacity));
     object-fit: cover;
     transition: border-color var(--animation-speed) var(--animation-easing);
+    flex-shrink: 0;
   }
 
   .sibling-products__swatch-item:hover .sibling-products__swatch-image {
@@ -359,8 +341,6 @@
 
   .sibling-products__swatch-item--current .sibling-products__swatch-image {
     border-color: rgb(var(--color-foreground-rgb));
-    outline: var(--focus-outline-width) solid rgb(var(--color-foreground-rgb));
-    outline-offset: var(--focus-outline-offset);
   }
 
   .sibling-products__swatch-title {
