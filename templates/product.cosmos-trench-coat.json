@@ -184,9 +184,9 @@
               "type": "sibling-products",
               "name": "Sibling Products",
               "settings": {
-                "title": "Available Options",
+                "title": "Colours",
                 "display_style": "swatches",
-                "swatch_type": "color",
+                "swatch_type": "image",
                 "swatch_shape": "square",
                 "show_swatches_in_dropdown": true,
                 "show_titles": false,
