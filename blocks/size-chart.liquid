@@ -1,8 +1,9 @@
 {%- liquid
-  assign size_chart_data = product.metafields.custom.size_chart_inches.value
+  assign size_chart_metaobject = product.metafields.custom.size_chart.value
+  assign size_chart_data = size_chart_metaobject.chart.value
 -%}
 
-{%- if size_chart_data and size_chart_data.size > 0 -%}
+{%- if size_chart_metaobject and size_chart_data and size_chart_data.size > 0 -%}
   <size-chart-component
     class="size-chart"
     {{ block.shopify_attributes }}
