@@ -378,14 +378,6 @@
                 "modal_a3mjk4"
               ]
             },
-            "custom_liquid_hRNfYc": {
-              "type": "custom-liquid",
-              "name": "t:names.custom_liquid",
-              "settings": {
-                "custom_liquid": "{% liquid\nfor option in product.options_by_name.color\nfor value in option.values\nif value.swatch\nassign sibling_swatch = value.swatch\nbreak\nendif\nendfor\nif sibling_swatch\nbreak\nendif\nendfor\n%}\n{% render 'swatch': swatch: sibling_swatch, variant_image: product.featured_media, mode: 'unscaled' %}"
-              },
-              "blocks": {}
-            },
             "buy_buttons_eYQEYi": {
               "type": "buy-buttons",
               "settings": {
@@ -703,7 +695,6 @@
             "divider_VJhene",
             "sibling_products_R4ampU",
             "group_jYYaed",
-            "custom_liquid_hRNfYc",
             "buy_buttons_eYQEYi",
             "divider_gtGMf3",
             "group_JbmQwr",
