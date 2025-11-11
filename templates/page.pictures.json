@@ -63,7 +63,7 @@
       "type": "custom-liquid",
       "name": "t:names.custom_liquid",
       "settings": {
-        "custom_liquid": "<script type='text/javascript' src='https://sehkelly.tumblr.com/js'></script>",
+        "custom_liquid": "<script src=\"https://elfsightcdn.com/platform.js\" async></script>\n<div class=\"elfsight-app-f046da5d-480e-45ec-bed8-f6d725a19269\" data-elfsight-app-lazy></div>",
         "color_scheme": "",
         "section_width": "page-width",
         "padding-block-start": 0,
