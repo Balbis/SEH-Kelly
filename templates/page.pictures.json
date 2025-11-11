@@ -19,7 +19,8 @@
             "text": "<h1>{{ closest.page.title }}</h1>",
             "width": "100%",
             "max_width": "normal",
-            "alignment": "left",
+            "custom_max_width": 100,
+            "content_alignment": "flex-start",
             "type_preset": "h1",
             "font": "var(--font-primary--family)",
             "font_size": "",
@@ -27,9 +28,11 @@
             "letter_spacing": "normal",
             "case": "none",
             "wrap": "pretty",
+            "alignment": "left",
             "color": "",
             "background": false,
             "background_color": "#00000026",
+            "corner_radius": 0,
             "padding-block-start": 0,
             "padding-block-end": 0,
             "padding-inline-start": 0,
@@ -47,6 +50,7 @@
         "heading",
         "page-content"
       ],
+      "disabled": true,
       "settings": {
         "content_direction": "column",
         "gap": 32,
@@ -54,9 +58,21 @@
         "padding-block-start": 40,
         "padding-block-end": 80
       }
+    },
+    "custom_liquid_kMA8Bn": {
+      "type": "custom-liquid",
+      "name": "t:names.custom_liquid",
+      "settings": {
+        "custom_liquid": "<script type='text/javascript' src='https://sehkelly.tumblr.com/js'></script>",
+        "color_scheme": "",
+        "section_width": "page-width",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "custom_liquid_kMA8Bn"
   ]
 }
