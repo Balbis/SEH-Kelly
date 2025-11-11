@@ -19,7 +19,8 @@
             "text": "<h1>{{ closest.page.title }}</h1>",
             "width": "100%",
             "max_width": "normal",
-            "alignment": "left",
+            "custom_max_width": 100,
+            "content_alignment": "flex-start",
             "type_preset": "h1",
             "font": "var(--font-primary--family)",
             "font_size": "",
@@ -27,9 +28,11 @@
             "letter_spacing": "normal",
             "case": "none",
             "wrap": "pretty",
+            "alignment": "left",
             "color": "",
             "background": false,
             "background_color": "#00000026",
+            "corner_radius": 0,
             "padding-block-start": 0,
             "padding-block-end": 0,
             "padding-inline-start": 0,
@@ -47,6 +50,7 @@
         "heading",
         "page-content"
       ],
+      "disabled": true,
       "settings": {
         "content_direction": "column",
         "gap": 32,
@@ -54,9 +58,108 @@
         "padding-block-start": 40,
         "padding-block-end": 80
       }
+    },
+    "section_w3Hc6g": {
+      "type": "section",
+      "blocks": {
+        "text_nqNEbC": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h1>About</h1>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "custom_max_width": 100,
+            "content_alignment": "flex-start",
+            "type_preset": "h4",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "alignment": "justify",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_VmCRiT": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>An enduring type of garment is the speciality here. Has been since 2009. Something which lasts, in other words; something which stands the test of time, not only by design, but by quality and by value, too.</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "custom_max_width": 100,
+            "content_alignment": "flex-start",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "alignment": "justify",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_nqNEbC",
+        "text_VmCRiT"
+      ],
+      "name": "t:names.custom_section",
+      "settings": {
+        "layout_type": "flex",
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "grid_columns": "1",
+        "grid_columns_mobile": "1",
+        "bento_columns": "3",
+        "bento_rows": "6",
+        "section_width": "page-width",
+        "section_height": "small",
+        "section_height_custom": 50,
+        "color_scheme": "",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "section_w3Hc6g"
   ]
 }
