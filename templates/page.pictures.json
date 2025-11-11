@@ -61,6 +61,9 @@
     },
     "custom_liquid_kMA8Bn": {
       "type": "custom-liquid",
+      "custom_css": [
+        ".WidgetBackground__ContentContainer-sc a:last-child {display: none !important;}"
+      ],
       "name": "t:names.custom_liquid",
       "settings": {
         "custom_liquid": "<script src=\"https://elfsightcdn.com/platform.js\" async></script>\n<div class=\"elfsight-app-f046da5d-480e-45ec-bed8-f6d725a19269\" data-elfsight-app-lazy></div>",
