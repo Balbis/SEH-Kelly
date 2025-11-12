@@ -1,6 +1,14 @@
 {%- liquid
     assign current_product = closest.product
-    assign siblings = current_product.metafields.custom.siblings.value
+    assign product_collections = current_product.collections
+    assign siblings_collection = null
+    for collection in product_collections
+      if collection.handle contains 'siblings'
+        assign siblings_collection = collection
+        break
+      endif
+    endfor
+    assign siblings = siblings_collection.products
     assign siblings_count = 0
     for sibling in siblings
         assign siblings_count = siblings_count | plus: 1
@@ -71,11 +79,13 @@
                   
                   assign sibling_image = sibling.featured_media
                   assign sibling_swatch = null
+                  assign color_name = null
                   
                   for option in sibling.options_with_values
                     for value in option.values
                       if value.swatch
                         assign sibling_swatch = value.swatch
+                        assign color_name = value.name
                         break
                       endif
                     endfor
@@ -88,6 +98,7 @@
                   class="sibling-products__dropdown-swatch-item{% if is_current %} sibling-products__dropdown-swatch-item--current{% endif %}"
                   data-product-id="{{ sibling.id }}"
                   data-product-url="{{ sibling.url }}"
+                  {% if color_name %}data-tooltip="{{ color_name | escape }}"{% endif %}
                 >
                   {%- if block.settings.swatch_type == 'color' and sibling_swatch -%}
                     {% render 'swatch', swatch: sibling_swatch, mode: 'unscaled' %}
@@ -127,11 +138,13 @@
               
               assign sibling_image = sibling.featured_media
               assign sibling_swatch = null
+              assign color_name = null
               
               for option in sibling.options_with_values
                 for value in option.values
                   if value.swatch
                     assign sibling_swatch = value.swatch
+                    assign color_name = value.name
                     break
                   endif
                 endfor
@@ -148,6 +161,7 @@
               data-swatch-type="{% if block.settings.swatch_type == 'color' and sibling_swatch and sibling_swatch.color %}color{% else %}image{% endif %}"
               aria-label="{{ sibling.title | escape }}{% if is_current %} (Current){% endif %}"
               {% if is_current %}aria-current="true"{% endif %}
+              {% if color_name %}data-tooltip="{{ color_name | escape }}"{% endif %}
             >
               {%- if block.settings.swatch_type == 'color' -%}
                 {% render 'swatch', swatch: sibling_swatch, mode: 'unscaled' %}
@@ -298,6 +312,7 @@
     gap: var(--gap-xs);
     text-decoration: none;
     color: inherit;
+    position: relative;
   }
 
   .sibling-products__swatch-item--current {
@@ -347,6 +362,68 @@
     font-size: var(--font-size-sm);
     text-align: center;
     line-height: 1.2;
+  }
+
+  .sibling-products__swatch-item[data-tooltip]:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgb(var(--color-foreground-rgb));
+    color: rgb(var(--color-background-rgb));
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: var(--font-size-xs);
+    white-space: nowrap;
+    z-index: 1000;
+    pointer-events: none;
+  }
+
+  .sibling-products__swatch-item[data-tooltip]:hover::before {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 8px solid rgb(var(--color-foreground-rgb));
+    z-index: 1001;
+    pointer-events: none;
+  }
+
+  .sibling-products__dropdown-swatch-item[data-tooltip]:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgb(var(--color-foreground-rgb));
+    color: rgb(var(--color-background-rgb));
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: var(--font-size-xs);
+    white-space: nowrap;
+    z-index: 1000;
+    pointer-events: none;
+  }
+
+  .sibling-products__dropdown-swatch-item[data-tooltip]:hover::before {
+    content: '';
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 8px solid rgb(var(--color-foreground-rgb));
+    z-index: 1001;
+    pointer-events: none;
   }
 
   @media screen and (max-width: 749px) {
