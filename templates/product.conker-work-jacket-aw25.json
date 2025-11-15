@@ -713,10 +713,10 @@
         "padding-block-end": 40
       }
     },
-    "section_3JywLM": {
+    "section_6XbmTR": {
       "type": "section",
       "blocks": {
-        "product_info_row_ccb3Bq": {
+        "product_info_row_7YdD6c": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -758,11 +758,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_bPbJ4x": {
+            "text_W3Ewik": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Called \"weatherproof\" for a reason, this cloth. Rain, no matter how much, beads up and rolls off. Aramid fibres are highly water resistant, see. It is also as light as a feather, is highly breathable, and has industry-leading heat-transfer properties: when the day is warm, the wearer is cool, and vice-versa.</p>",
+                "text": "<p>The work jacket is a five-button number, fairly short and mostly straight in the body. It's an easy all-rounder. It has a collar of middling size, with gently rounded points, and which is cut such that it caresses the neck when up, but sits pleasingly proud and round when down. No sloppy concavity here.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -786,7 +786,7 @@
               },
               "blocks": {}
             },
-            "image_m6jQW8": {
+            "image_4GcWai": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -812,11 +812,11 @@
             }
           },
           "block_order": [
-            "text_bPbJ4x",
-            "image_m6jQW8"
+            "text_W3Ewik",
+            "image_4GcWai"
           ]
         },
-        "product_info_row_BgxtRN": {
+        "product_info_row_JD6tMg": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -858,7 +858,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_mpJNFP": {
+            "image_h4PALj": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -882,11 +882,11 @@
               },
               "blocks": {}
             },
-            "text_Jwhcrb": {
+            "text_wbHxMh": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p> <em>\"The trench provides, from throat to knees, a double safeguard of the greatest value when exposed to wet and cold,\"</em>goes a century-old trench coat ad. The same seems true then as now: a full-length, double-breasted coat, this, which will cover everything you wear beneath and keep you smart, warm, and dry.</p>",
+                "text": "<p>The buttons on the jacket are solid horn — middling in shade and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -912,11 +912,11 @@
             }
           },
           "block_order": [
-            "image_mpJNFP",
-            "text_Jwhcrb"
+            "image_h4PALj",
+            "text_wbHxMh"
           ]
         },
-        "product_info_row_FpdrEd": {
+        "product_info_row_9mxmDc": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -958,11 +958,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_RBGbD6": {
+            "text_qYNXtV": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The trench, being a trench, is a coat of great versatility. It may be worn open, or buttoned right up to the top, or various intervals between. The collar is large and full, and is cut such that it's just as happy standing up as it is sitting down; that it tidily rolls down at the front; that it cuddles the neck at the side.</p>",
+                "text": "<p>The jacket has what looks like a typical set-in sleeve, such as you would expect to find on a jacket of this kind, but also a large diamond (or kite) panel has taken up residence at the underarm. This is a gusset, and it improves upward and forward lift when in use, and the rest of the time sits neat and flat.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -986,7 +986,7 @@
               },
               "blocks": {}
             },
-            "image_tVpiej": {
+            "image_eUdtDr": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1012,11 +1012,11 @@
             }
           },
           "block_order": [
-            "text_RBGbD6",
-            "image_tVpiej"
+            "text_qYNXtV",
+            "image_eUdtDr"
           ]
         },
-        "product_info_row_JirJgp": {
+        "product_info_row_6hEtER": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1058,7 +1058,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_pTwrnK": {
+            "image_xwewwV": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1082,11 +1082,11 @@
               },
               "blocks": {}
             },
-            "text_kwYqta": {
+            "text_ibzz8M": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There is also the matter of the throat-latch. It may be buttoned across the throat or back on itself, onto the collar-stand, out of sight. Having it dangle out front, insouciantly, isn't out of the question, either.</p>",
+                "text": "<p>The jacket has many pockets — some more obvious than others. The main pockets certainly<em>are</em>obvious, spanning as they do the entire front of the jacket. They're best thought of as buckets for all and every belonging — drop it in there, care and precision be darned — and the insouciant stuffing of the hand.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1112,11 +1112,11 @@
             }
           },
           "block_order": [
-            "image_pTwrnK",
-            "text_kwYqta"
+            "image_xwewwV",
+            "text_ibzz8M"
           ]
         },
-        "product_info_row_FQjmkf": {
+        "product_info_row_zCRCgG": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1158,11 +1158,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_Hr4eYF": {
+            "text_AdpdzQ": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the trench are large, and are horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "text": "<p>There is a chest pocket on the right. It is quite a large one, as such pockets go. With the main pockets mentioned above, it brings the pocket count on the jacket up to three, though that's just those external.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1186,7 +1186,7 @@
               },
               "blocks": {}
             },
-            "image_qm9Rnh": {
+            "image_AyBRQB": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1212,11 +1212,11 @@
             }
           },
           "block_order": [
-            "text_Hr4eYF",
-            "image_qm9Rnh"
+            "text_AdpdzQ",
+            "image_AyBRQB"
           ]
         },
-        "product_info_row_9zVj3J": {
+        "product_info_row_a6ykjz": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1258,7 +1258,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_KYHnxf": {
+            "image_EN7X4p": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1282,11 +1282,11 @@
               },
               "blocks": {}
             },
-            "text_QbPJad": {
+            "text_Lx3nXa": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The belt runs through a channel, hidden beneath the flaps of the pockets, and fastens with a brass buckle at the front. There are two brass components at the back, too: like a bag-strap, the length of the belt can be adjusted to the perfect length, depending on abdominal girth and personal preference.</p>",
+                "text": "<p>Stout little bar tacks can be found at all the most hard-working points on the work jacket — most obviously the entry-points of the pockets.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1310,7 +1310,7 @@
               },
               "blocks": {}
             },
-            "image_PFaPTV": {
+            "image_LU44tE": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1336,12 +1336,12 @@
             }
           },
           "block_order": [
-            "image_KYHnxf",
-            "text_QbPJad",
-            "image_PFaPTV"
+            "image_EN7X4p",
+            "text_Lx3nXa",
+            "image_LU44tE"
           ]
         },
-        "product_info_row_pFBKqW": {
+        "product_info_row_nfUCdV": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1383,11 +1383,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_NA6rky": {
+            "text_T38H73": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Not everyone likes belts, of course — divisive as they are in more ways than one — and since the trench has no belt loops, and the belt runs under the pockets-flaps, no one will be any the wiser if the belt is removed.</p>",
+                "text": "<p>The fifth and sixth pockets on the jacket are on the inside, on the left and right sides. They are precisely the right dimensions and coordinates for the stuffing of mobiles and cards. Taking these two into account, pocketing is thought to cover about three-eighths of the total surface area.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1411,7 +1411,7 @@
               },
               "blocks": {}
             },
-            "image_nm6ff7": {
+            "image_thYFA7": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1437,11 +1437,11 @@
             }
           },
           "block_order": [
-            "text_NA6rky",
-            "image_nm6ff7"
+            "text_T38H73",
+            "image_thYFA7"
           ]
         },
-        "product_info_row_CG6cPz": {
+        "product_info_row_Xfew8J": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1483,7 +1483,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_eHP3pB": {
+            "image_LzJYcR": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1507,11 +1507,11 @@
               },
               "blocks": {}
             },
-            "text_UitgRM": {
+            "text_LVGBHE": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are additional brass fixtures at the cuff, where a cuff strap resides, with a handful of eyelets (alarmingly known as \"grommets\" in some parts of the world) to adjust to a preferred degree of tightness.</p>",
+                "text": "<p>The armholes on the jacket are very slightly lapped, which gives a subtle but definitely-there depth at the shoulder. Not just for show, either: the lapping shields the armhole seam from the rigours of the outside world, prolonging durability, and is a trapping of thoughtful workwear since the year dot.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1537,11 +1537,11 @@
             }
           },
           "block_order": [
-            "image_eHP3pB",
-            "text_UitgRM"
+            "image_LzJYcR",
+            "text_LVGBHE"
           ]
         },
-        "product_info_row_QmPn3D": {
+        "product_info_row_rePVfi": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1583,11 +1583,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_p4ap6p": {
+            "text_AVWXne": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The yoke is low and deep — running fully over the upper back — and the storm-flap at the front is a little shorter, though still deep. Effectively, you have two layers of cloth protecting the back — plus the lining, on which more later — and, with the double breast at the front, you have a coat impervious to rain.</p>",
+                "text": "<p>The sleeves are a standard sort of width, but they taper sharply at the elbow and fasten snugly around the wrist with gusset-laden cuffs.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1611,7 +1611,7 @@
               },
               "blocks": {}
             },
-            "image_kKgU9f": {
+            "image_prNWqP": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1637,11 +1637,11 @@
             }
           },
           "block_order": [
-            "text_p4ap6p",
-            "image_kKgU9f"
+            "text_AVWXne",
+            "image_prNWqP"
           ]
         },
-        "product_info_row_WtPKVw": {
+        "product_info_row_AUzqE9": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1683,7 +1683,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_nGwNp6": {
+            "image_pWFaY7": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1709,10 +1709,10 @@
             }
           },
           "block_order": [
-            "image_nGwNp6"
+            "image_pWFaY7"
           ]
         },
-        "product_info_row_fdgCft": {
+        "product_info_row_gpB8n6": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1754,7 +1754,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_R3DHYi": {
+            "image_mKFfpt": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1778,35 +1778,11 @@
               },
               "blocks": {}
             },
-            "image_BhLQQe": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-10m_2x_3c18b01d-ae2c-4b58-8acf-9b0f223d1b17.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_BinL6D": {
+            "text_ydz9kq": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Bellows pockets sit at the front, accessible from the top and the sides. In effect, then, you have four pockets at the front of the coat, for hands and for belongings. These pockets are strengthened, top and bottom, with bar-tacks: there are indeed more bar-tacks on the pockets (at least 12) than on most coats.</p>",
+                "text": "<p>The jacket is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the jacket on and off. Indeed, despite the outer cloth being so firm and rigid, the \"putting on\" experience is as if rendered in Teflon. The sleeves are lined with the same cloth.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1832,12 +1808,11 @@
             }
           },
           "block_order": [
-            "image_R3DHYi",
-            "image_BhLQQe",
-            "text_BinL6D"
+            "image_mKFfpt",
+            "text_ydz9kq"
           ]
         },
-        "product_info_row_c4nPtm": {
+        "product_info_row_fUmfNc": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1879,11 +1854,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_PfhDBm": {
+            "text_R9UMQw": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>With the outside being so eventful, the interior is as clean as it is simple, with a jetted chest pocket on the left side as worn.</p>",
+                "text": "<p>Wearing a moleskin jacket is — or should be — one of life's quotidian pleasures, with a warmth and softness unmatched anywhere else in the cotton kingdom married to an everyday rinse-wash-repeat readiness. This is a heavy variant, but still breathable and practical for all months save summer.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1907,7 +1882,7 @@
               },
               "blocks": {}
             },
-            "image_TLFfjV": {
+            "image_tWegP3": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1933,226 +1908,24 @@
             }
           },
           "block_order": [
-            "text_PfhDBm",
-            "image_TLFfjV"
-          ]
-        },
-        "product_info_row_GJEJ8f": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_xfzfQA": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-12m_2x_5aa4f1e6-0c9c-4ac8-a833-e089b03ab639.jpg",
-                "link": "",
-                "image_ratio": "landscape",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_iYqL6f": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The trench has a half-lining of even more weatherproof ripstop. In this way, when also taking into account the facing on the inside-front of the coat, you have a double-layer of cloth on the most weather-exposed parts of the exterior. Elsewhere, meanwhile, the seams are bound smartly with black cotton.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_xfzfQA",
-            "text_iYqL6f"
-          ]
-        },
-        "product_info_row_zgGnHW": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_cXnrYV": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The trench has a half-lining of even more weatherproof ripstop. In this way, when also taking into account the facing on the inside-front of the coat, you have a double-layer of cloth on the most weather-exposed parts of the exterior. Elsewhere, meanwhile, the seams are bound smartly with black cotton.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_xMbr8W": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-20m_2x_c39e3678-5810-494d-87c9-04f05c85883a.jpg",
-                "link": "",
-                "image_ratio": "landscape",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_cXnrYV",
-            "image_xMbr8W"
+            "text_R9UMQw",
+            "image_tWegP3"
           ]
         }
       },
       "block_order": [
-        "product_info_row_ccb3Bq",
-        "product_info_row_BgxtRN",
-        "product_info_row_FpdrEd",
-        "product_info_row_JirJgp",
-        "product_info_row_FQjmkf",
-        "product_info_row_9zVj3J",
-        "product_info_row_pFBKqW",
-        "product_info_row_CG6cPz",
-        "product_info_row_QmPn3D",
-        "product_info_row_WtPKVw",
-        "product_info_row_fdgCft",
-        "product_info_row_c4nPtm",
-        "product_info_row_GJEJ8f",
-        "product_info_row_zgGnHW"
+        "product_info_row_7YdD6c",
+        "product_info_row_JD6tMg",
+        "product_info_row_9mxmDc",
+        "product_info_row_6hEtER",
+        "product_info_row_zCRCgG",
+        "product_info_row_a6ykjz",
+        "product_info_row_nfUCdV",
+        "product_info_row_Xfew8J",
+        "product_info_row_rePVfi",
+        "product_info_row_AUzqE9",
+        "product_info_row_gpB8n6",
+        "product_info_row_fUmfNc"
       ],
       "name": "Product Content",
       "settings": {
@@ -5638,7 +5411,7 @@
   },
   "order": [
     "main",
-    "section_3JywLM",
+    "section_6XbmTR",
     "divider_KTxBmV",
     "section_ggcyy3",
     "divider_NNj3WX",
