@@ -2242,6 +2242,10 @@ deferred-media[class] :is(.deferred-media__poster-button img, .deferred-media__p
     justify-content: var(--vertical-alignment-mobile);
   }
 
+  .mobile-reverse {
+    flex-direction: column-reverse;
+  }
+
   .layout-panel-flex--row:not(.mobile-column) {
     .text-block {
       flex: 1 1 var(--max-width--display-tight);
