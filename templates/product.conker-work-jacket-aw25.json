@@ -3282,7 +3282,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>Never have I felt so criminally elegant and impervious to the elements as when swathed in the magnificent trench you have crafted. Genuinely, what a marvelous design, with its splendid execution and technical — though beautiful — fabric to boot. As it is wearing-in, it becomes more compliant, laying exactly as you’d ask of it, while accommodating all manner of layers beneath. I am thrilled to own it and look forward to wearing it whenever possible — however unlikely it is that I may call on all its faculties.</em></p>",
+                "text": "<p><em>I picked up the jacket yesterday. It is an absolutely stunning masterpiece! In particular, the ventilation is very neat.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3440,7 +3440,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>I'd like to give you a review on the Herdwick trench coat. It completely lives up to its reputation. Old world functionality at its finest. We had an especially cold and bitter winter, even a few white-out condition snow storms, so I was able to really test the coat in the elements. I wore it while making snowmen and hiking in wind-driven snow flurries. Neither the wind, cold, nor snow could penetrate this tweed. The trench kept me toasty warm and dry throughout all conditions. And it came out looking no worse for wear, after it dried up. Very impressive stuff!</em></p>",
+                "text": "<p><em>The jacket has just safely arrived and I am very pleased. It fits very well due to using your size chart, is of a substantial cord, and the quality of manufacture and design are self-evident. I will no doubt purchase other items in the future.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3598,7 +3598,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>What an amazing coat! This purchase experience has been exceptional with super fast shipping and nice packaging. Many thanks to you for crafting such beautiful garments with materials of exceptional quality. The size is perfect, especially the back length, as some long coats make my leg appear short. Thank you again for offering such amazing garments with superb quality, while being extremely reasonably priced. It is so nice to have your shop to look at for some proper clothes — do please keep the great work!</em></p>",
+                "text": "<p><em>Yet another beautiful (and functional) thing.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3756,7 +3756,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>I am pleased to say the trench has landed. The coat is a thing of beauty, and the fabric is wonderful in its intricacy.</em></p>",
+                "text": "<p><em>As with my overshirt, I am very pleased with the work jacket, too. Your things are very distinctive, without being at all gimmicky, and are beautifully made. Thank you.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3914,7 +3914,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>Many thanks for sending the coat to me. I've worn it to work this morning and it's a fine piece altogether — very smart, and beautifully put together. I do like the craftsmanship in your work, so do keep up the good work.</em></p>",
+                "text": "<p><em>After a brief detention in a mountain-top post office, the [work] jacket has arrived and is unsurprisingly delightful.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -4020,85 +4020,6 @@
           },
           "block_order": [
             "text_eUGyfN"
-          ]
-        },
-        "group_DcEc3p": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "1",
-            "grid_column_end": "4",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 12,
-            "sticky": true,
-            "sticky_gap": 30,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_agfQaA": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p><em>Boy, am I glad I took your advice and did not do any alterations. The sleeve-length and overall length of the coat are just right, and most importantly, the build quality is superb. I've never been able to buy an off-the-rack coat that fits me this well. I'm glad I found your company, and got my hands on this beautiful trench coat. Hopefully, one day, I'll be able to visit your workshop. Until then, stay classy.</em></p>",
-                "width": "100%",
-                "max_width": "none",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "custom",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "loose",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 50,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_agfQaA"
           ]
         },
         "group_mRwFtC": {
@@ -4509,7 +4430,6 @@
         "group_CaeVdD",
         "group_4REJMw",
         "group_BhQLkz",
-        "group_DcEc3p",
         "group_mRwFtC",
         "group_xJzkkV",
         "group_9XcEtD",
