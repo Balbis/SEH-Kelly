@@ -791,7 +791,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -863,7 +863,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -991,7 +991,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1063,7 +1063,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1191,7 +1191,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_5.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1263,7 +1263,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1391,7 +1391,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_12.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1463,7 +1463,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_3.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1563,7 +1563,7 @@
               "name": "t:names.text",
               "settings": {
                 "text": "<p>The sleeves are a standard sort of width, but they taper sharply at the elbow and fasten snugly around the wrist with gusset-laden cuffs.</p>",
-                "width": "100%",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
@@ -1591,7 +1591,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1663,7 +1663,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_11.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1791,7 +1791,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_13.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Acorn_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",

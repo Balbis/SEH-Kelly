@@ -1563,7 +1563,7 @@
               "name": "t:names.text",
               "settings": {
                 "text": "<p>The sleeves are a standard sort of width, but they taper sharply at the elbow and fasten snugly around the wrist with gusset-laden cuffs.</p>",
-                "width": "100%",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
