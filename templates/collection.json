@@ -12,39 +12,11 @@
     "section": {
       "type": "section",
       "blocks": {
-        "text_tqQTNE": {
-          "type": "text",
-          "name": "Collection title",
-          "settings": {
-            "text": "<p>{{ closest.collection.title }}</p>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "custom_max_width": 100,
-            "content_alignment": "flex-start",
-            "type_preset": "h1",
-            "font": "var(--font-primary--family)",
-            "font_size": "",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "alignment": "left",
-            "color": "",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
         "text_twGGkJ": {
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "{{ closest.collection.description }}",
+            "text": "<p>Shipping is always free of charge, orders are always wrapped and dispatched in a handful of working days, and prices are always the same.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "custom_max_width": 100,
@@ -70,7 +42,6 @@
         }
       },
       "block_order": [
-        "text_tqQTNE",
         "text_twGGkJ"
       ],
       "name": "Heading",
@@ -115,8 +86,8 @@
           "static": true,
           "settings": {
             "enable_filtering": true,
-            "filter_style": "horizontal",
-            "filter_width": "centered",
+            "filter_style": "vertical",
+            "filter_width": "full-width",
             "text_label_case": "default",
             "show_swatch_label": false,
             "show_filter_label": false,
