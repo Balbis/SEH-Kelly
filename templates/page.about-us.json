@@ -174,8 +174,11 @@
           "type": "image",
           "name": "t:names.image",
           "settings": {
-            "image_mode": "single",
+            "image_mode": "multiple",
             "image": "shopify://shop_images/image-for-background-2_2x_a946ac19-64f9-4097-aff8-de91eb3a7cec.jpg",
+            "image_2": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-new-worn-5s_2x_d3b876fb-32b8-4f86-b111-5ec53142f9c2.jpg",
+            "image_3": "shopify://shop_images/clothes-made-in-england-acc-1_2x_f934c59b-a8ac-4ba1-8483-d5ddfedbe201.jpg",
+            "image_4": "shopify://shop_images/clothes-made-in-england-jackets-2_2x22_efeab022-8203-4d21-b6fd-caf465d42c6e.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
