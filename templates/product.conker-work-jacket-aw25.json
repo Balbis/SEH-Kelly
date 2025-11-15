@@ -791,7 +791,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/parka-minor-weatherproof-ripstop-cosmos-18m_2x_8c0de233-e6ac-4c80-8884-a85d990519c6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -863,7 +863,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-19m_2x_51a3dca4-e753-4833-9cf2-a7f0c6dfda42.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -991,7 +991,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-2m_2x_a1541985-affa-4a1f-bfe0-f228e4709558.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1063,7 +1063,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-3m_2x_ef9e59ae-26d9-47d9-8d98-7c09d1271f41.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1086,7 +1086,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The jacket has many pockets — some more obvious than others. The main pockets certainly<em>are</em>obvious, spanning as they do the entire front of the jacket. They're best thought of as buckets for all and every belonging — drop it in there, care and precision be darned — and the insouciant stuffing of the hand.</p>",
+                "text": "<p>The jacket has many pockets — some more obvious than others. The main pockets certainly <em>are </em>obvious, spanning as they do the entire front of the jacket. They're best thought of as buckets for all and every belonging — drop it in there, care and precision be darned — and the insouciant stuffing of the hand.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1191,7 +1191,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-5m_2x_79283c5c-7cc8-4dcc-a45e-045c68df574d.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_5.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1258,16 +1258,16 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_EN7X4p": {
+            "image_LU44tE": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-6m_2x_8cf17fd0-18ea-421d-925e-430029245464.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 65,
+                "width": "fill",
+                "custom_width": 100,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
                 "height": "fit",
@@ -1309,36 +1309,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_LU44tE": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-4s_2x_94531d51-0b4d-45e9-b8d7-ec2b8e0b54d8.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "image_EN7X4p",
-            "text_Lx3nXa",
-            "image_LU44tE"
+            "image_LU44tE",
+            "text_Lx3nXa"
           ]
         },
         "product_info_row_nfUCdV": {
@@ -1416,7 +1391,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-19m_2x_51a3dca4-e753-4833-9cf2-a7f0c6dfda42.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1488,7 +1463,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-9m_2x_19f90ead-a72f-42f1-a58d-0c07d3f2108b.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_3.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1616,7 +1591,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-8m_2x_fcb0f035-27ce-49e4-81b0-09fab7e3b5fb.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1639,77 +1614,6 @@
           "block_order": [
             "text_AVWXne",
             "image_prNWqP"
-          ]
-        },
-        "product_info_row_AUzqE9": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_pWFaY7": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-16s_2x_834ca129-909e-42bc-8f3c-a2700660786b.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_pWFaY7"
           ]
         },
         "product_info_row_gpB8n6": {
@@ -1759,7 +1663,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-14s_2x_1c8c93d9-2c46-4006-bd7b-69f6491cbd88.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1887,7 +1791,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-11m_2x_ed4a090f-2ab8-4d97-b5c4-038f7e54ce90.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1923,7 +1827,6 @@
         "product_info_row_nfUCdV",
         "product_info_row_Xfew8J",
         "product_info_row_rePVfi",
-        "product_info_row_AUzqE9",
         "product_info_row_gpB8n6",
         "product_info_row_fUmfNc"
       ],
