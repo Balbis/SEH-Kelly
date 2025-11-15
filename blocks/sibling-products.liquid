@@ -3,7 +3,7 @@
     assign product_collections = current_product.collections
     assign siblings_collection = null
     for collection in product_collections
-      if collection.handle contains 'siblings'
+      if collection.handle contains 'sibling'
         assign siblings_collection = collection
         break
       endif
