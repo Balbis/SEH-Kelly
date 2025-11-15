@@ -103,14 +103,7 @@
                   {%- if block.settings.swatch_type == 'color' and sibling_swatch -%}
                     {% render 'swatch', swatch: sibling_swatch, mode: 'unscaled' %}
                   {%- elsif block.settings.swatch_type == 'image' and sibling_image -%}
-                    <img
-                      src="{{ sibling_image | image_url: width: 40, height: 40, crop: 'center' }}"
-                      alt="{{ sibling.title | escape }}"
-                      width="20"
-                      height="20"
-                      loading="lazy"
-                      class="sibling-products__swatch-image"
-                    >
+                    {{ sibling_image | image_url: width: 40, crop: 'center' | image_tag: alt: sibling.title, class: "sibling-products__swatch-image test" }}"
                   {%- endif -%}
                 </div>
               {%- endfor -%}
@@ -166,14 +159,7 @@
               {%- if block.settings.swatch_type == 'color' -%}
                 {% render 'swatch', swatch: sibling_swatch, mode: 'unscaled' %}
               {%- elsif block.settings.swatch_type == 'image' and sibling_image -%}
-                <img
-                  src="{{ sibling_image | image_url: width: 80, height: 80, crop: 'center' }}"
-                  alt="{{ sibling.title | escape }}"
-                  width="40"
-                  height="40"
-                  loading="lazy"
-                  class="sibling-products__swatch-image"
-                >
+                {{ sibling_image | image_url: width: 40, crop: 'center' | image_tag: alt: sibling.title, class: "sibling-products__swatch-image" }}
               {%- endif -%}
               {%- if block.settings.show_titles -%}
                 <span class="sibling-products__swatch-title">{{ sibling.title | escape }}</span>
@@ -342,7 +328,6 @@
 
   .sibling-products__swatch-image {
     width: var(--sibling-products-swatch-size);
-    height: var(--sibling-products-swatch-size);
     border-radius: var(--sibling-products-border-radius);
     border: var(--sibling-products-border-width) var(--sibling-products-border-style) rgb(var(--color-foreground-rgb) / var(--sibling-products-border-opacity));
     object-fit: cover;
