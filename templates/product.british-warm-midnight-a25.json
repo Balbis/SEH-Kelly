@@ -2267,10 +2267,10 @@
         "padding-block-end": 16
       }
     },
-    "section_UmaynW": {
+    "section_XwAkN9": {
       "type": "section",
       "blocks": {
-        "text_pfXYL8": {
+        "text_HprAB3": {
           "type": "text",
           "name": "t:names.text",
           "settings": {
@@ -2299,7 +2299,7 @@
           },
           "blocks": {}
         },
-        "product_info_row_TqDPNc": {
+        "product_info_row_jGJdX3": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2342,7 +2342,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_xgPect": {
+            "text_bKByC4": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2371,7 +2371,7 @@
               },
               "blocks": {}
             },
-            "image_E4djgU": {
+            "image_Pd6VmR": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2397,11 +2397,11 @@
             }
           },
           "block_order": [
-            "text_xgPect",
-            "image_E4djgU"
+            "text_bKByC4",
+            "image_Pd6VmR"
           ]
         },
-        "product_info_row_MJdJY4": {
+        "product_info_row_AzJmAX": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2444,7 +2444,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_NXwc3U": {
+            "image_3wJNcn": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2468,7 +2468,7 @@
               },
               "blocks": {}
             },
-            "image_xiHk4m": {
+            "image_Df4Azb": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2494,11 +2494,11 @@
             }
           },
           "block_order": [
-            "image_NXwc3U",
-            "image_xiHk4m"
+            "image_3wJNcn",
+            "image_Df4Azb"
           ]
         },
-        "product_info_row_tmjH3T": {
+        "product_info_row_FBYmpz": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2541,7 +2541,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_RnGUEx": {
+            "image_jBHzmf": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2565,7 +2565,7 @@
               },
               "blocks": {}
             },
-            "text_6Cakwi": {
+            "text_JW9GBp": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2596,11 +2596,11 @@
             }
           },
           "block_order": [
-            "image_RnGUEx",
-            "text_6Cakwi"
+            "image_jBHzmf",
+            "text_JW9GBp"
           ]
         },
-        "product_info_row_AGLmyT": {
+        "product_info_row_TGJHKx": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2643,7 +2643,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_n3rmVN": {
+            "image_eVb8De": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2667,7 +2667,7 @@
               },
               "blocks": {}
             },
-            "image_qQRw8N": {
+            "image_W7Qc6E": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2693,11 +2693,11 @@
             }
           },
           "block_order": [
-            "image_n3rmVN",
-            "image_qQRw8N"
+            "image_eVb8De",
+            "image_W7Qc6E"
           ]
         },
-        "product_info_row_ezWhVq": {
+        "product_info_row_GE9Yxc": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2740,253 +2740,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_K8EEbe": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The brass hardware is made by a foundry in the West Midlands, which was founded in the 1800s. It is the last such foundry in an area once heaving with them. Its sand-casting method — which sees 940°c molten brass poured by hand from a crucible into sand-made moulds — is ancient and infallible.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_AUpEW4": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-1.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_K8EEbe",
-            "image_AUpEW4"
-          ]
-        },
-        "product_info_row_Xx8tCA": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_ieKdjq": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-grid-4.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_ieKdjq"
-          ]
-        },
-        "product_info_row_7fCPhQ": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_LtwQ3E": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-grid-5.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_LtwQ3E"
-          ]
-        },
-        "product_info_row_bzWdXL": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_HCKpXa": {
+            "image_YWQ8ix": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -3010,7 +2764,7 @@
               },
               "blocks": {}
             },
-            "text_a8hFHR": {
+            "text_CR3q8J": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -3041,11 +2795,11 @@
             }
           },
           "block_order": [
-            "image_HCKpXa",
-            "text_a8hFHR"
+            "image_YWQ8ix",
+            "text_CR3q8J"
           ]
         },
-        "product_info_row_YmeV7q": {
+        "product_info_row_nmTJnQ": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -3088,7 +2842,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_EXXyzj": {
+            "image_cNgdA8": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -3112,7 +2866,7 @@
               },
               "blocks": {}
             },
-            "image_TXBhz8": {
+            "image_zCwTJt": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -3138,22 +2892,19 @@
             }
           },
           "block_order": [
-            "image_EXXyzj",
-            "image_TXBhz8"
+            "image_cNgdA8",
+            "image_zCwTJt"
           ]
         }
       },
       "block_order": [
-        "text_pfXYL8",
-        "product_info_row_TqDPNc",
-        "product_info_row_MJdJY4",
-        "product_info_row_tmjH3T",
-        "product_info_row_AGLmyT",
-        "product_info_row_ezWhVq",
-        "product_info_row_Xx8tCA",
-        "product_info_row_7fCPhQ",
-        "product_info_row_bzWdXL",
-        "product_info_row_YmeV7q"
+        "text_HprAB3",
+        "product_info_row_jGJdX3",
+        "product_info_row_AzJmAX",
+        "product_info_row_FBYmpz",
+        "product_info_row_TGJHKx",
+        "product_info_row_GE9Yxc",
+        "product_info_row_nmTJnQ"
       ],
       "name": "Makers of",
       "settings": {
@@ -4327,7 +4078,7 @@
     "divider_KTxBmV",
     "section_ggcyy3",
     "divider_NNj3WX",
-    "section_UmaynW",
+    "section_XwAkN9",
     "section_yPRNJr",
     "product_recommendations_qggXJq"
   ]
