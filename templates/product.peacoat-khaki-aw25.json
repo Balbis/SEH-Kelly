@@ -770,8 +770,8 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The British warm is a long, double-breasted overcoat in the tailored tradition, with a name that stems back to the coats worn by generals of the British Army in World War II. This one is less tailored than those of yore: a softer style of shoulder, a longer length, and a slightly more tailored body.</p>",
-                "width": "100%",
+                "text": "<p>But, first off, what we have here is a large, heavy, and immensely warm coat, made to serve its wearer all winter long. It has a large collar, and is just about long enough to cover a suit jacket.</p>",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -896,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are four pockets on the outside of the British warm. Two of them are large and deep and sit at the waist, and are covered by flaps. Then there's a smaller ticket pocket on the right side as worn, likewise flap-covered, and an even smaller chest pocket which is covered by a slightly unorthodox upside-down flap.</p>",
+                "text": "<p>The peacoat has what's known, at least in the garment trade of east and north-east London, as an Ulster collar. It is cut such that it is just as happy to stand upright, skimming the neck at the sides and back, as it is sitting down — but even then, it is proud, and is never concave or flat or in any way apologetic.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -926,30 +926,6 @@
             "image_h4PALj",
             "text_wbHxMh"
           ]
-        },
-        "image_V7CMfd": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_8.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_9mxmDc": {
           "type": "product-info-row",
@@ -998,8 +974,8 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the coat are large, solid horn — middling in shade and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
-                "width": "100%",
+                "text": "<p>The peacoat has a front of six buttons, stationed in three pairs, plus a further pair of smaller buttons which are hidden under the collar. These latter buttons enable the coat to be fastened right across the neck, serving as a formidable guard against the very worst of Mother Nature.</p>",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-end",
@@ -1028,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1052,30 +1028,6 @@
             "text_qYNXtV",
             "image_eUdtDr"
           ]
-        },
-        "image_LGFdqH": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_3.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_BHDAEB": {
           "type": "product-info-row",
@@ -1125,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1148,8 +1100,8 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Running up the back of the coat is an inverted pleat, which is there to give shoulders more room to flex. There's a half-belt running across the small of the back, meanwhile. This breaks up the length of the coat, and also serves as the starting point for the long vent that runs the rest of the way to the hem.</p>",
-                "width": "100%",
+                "text": "<p>The buttons on the peacoat are large, solid horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
@@ -1226,7 +1178,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The warm has a saddle shoulder, which is unusual for this type of coat — or indeed, for any coat beyond the bounds of the workshop — and happens to offer up the best of a classic set-in sleeve, with the clean and structured lines, and the raglan, with the soft profile over the shoulder.</p>",
+                "text": "<p>There are two pockets on each side of the peacoat, which work in tandem to make life as pleasing as possible for the wearer. Its patch pockets are the most obvious ones, since they're of elephantine proportions. They're strengthened on both sides with bar-tacks — as every stress-point on the peacoat.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1256,7 +1208,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_11.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1329,7 +1281,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_11.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1352,7 +1304,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are three buttons at the cuff, with the buttonholes cut open. It is a working cuff, in other words, though has no quarrel whatsoever with cuffs that cannot work or do not work.</p>",
+                "text": "<p>Less obvious are the \"warmer\" pockets, built into the body seam. These are partly submerged within the aforementioned patch pockets. In this way, they occupy a lower position on the body, making the resting of tired hands or the stuffing of cold ones among the most satisfying physical actions imaginable.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1382,6 +1334,30 @@
             "image_dz64gT",
             "text_TDaycw"
           ]
+        },
+        "image_K9tGwg": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_2.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_6hEtER": {
           "type": "product-info-row",
@@ -1430,7 +1406,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There's handiwork here and there on the British warm, such as under the collar, where the lapel and collar are coaxed together with a criss-cross \"duck-stitch\".</p>",
+                "text": "<p>The coat has half-cuffs at the end of its sleeves. A nod to tradition, these, which are more typically seen on uniform coats and more formal styles of outerwear. These are more conservative than the great half-cuffs of yore, and serve no purpose other than to introduce a little pinch of grandeur.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1460,7 +1436,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1484,6 +1460,30 @@
             "text_ibzz8M",
             "image_xwewwV"
           ]
+        },
+        "image_hAahVM": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_3.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_6G9Pmb": {
           "type": "product-info-row",
@@ -1533,10 +1533,10 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_13.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
-                "width": "custom",
+                "width": "fill",
                 "custom_width": 66,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
@@ -1556,7 +1556,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat is fully lined with a slinky, lightweight satin, making donning and undonning it a breeze, and helping to reduce friction with whatever is worn underneath. There are two pockets on the inside of the coat, too — both of them at chest height, for wallets or phones, and made in a neat, traditional jetted style.</p>",
+                "text": "<p>The peacoat has an innovative sleeve. It is a one-piece sleeve which is cut to combine the sharp, smart — not to mention traditional — look of an inset sleeve at the front, with the ease and comfort of a raglan at the back. It equals a very, very soft shoulder, draping naturally over the lines of the wearer.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1634,7 +1634,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Hearty cloth, this, with the pleasing pebbly texture of a fairly chunky two-ply hopsack. It is dense cloth, and therefore warm, but it has an easy, clean drape, and its density does not come at the expense of a looming sense of bulk or inelegance.</p>",
+                "text": "<p>Inside, the peacoat has a chest pocket on the left-side as worn. Handy. Perhaps more importantly, though, the inside of the coat is faced with an extra layer of outer cloth — meaning that, when fully done up, there are <em>four layers </em>of thick cloth between the chest of the wearer and the harsh winds of the world outside.</p><p>The peacoat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the peacoat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1664,7 +1664,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_charcoal_AW25_13.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1688,20 +1688,123 @@
             "text_Lx3nXa",
             "image_LU44tE"
           ]
+        },
+        "product_info_row_YWkr8F": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_PqFVza": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_13.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_TDgXDt": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The wool melton is a replica of cloth woven by the same mill, on the same premises, over half a century ago for the British Army. It is heavy, sure, but with tremendous drape and flow. The yarn from which it is woven — of British sheep — is worsted-spun, hence is more lustrous than usual.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_PqFVza",
+            "text_TDgXDt"
+          ]
         }
       },
       "block_order": [
         "product_info_row_7YdD6c",
         "product_info_row_JD6tMg",
-        "image_V7CMfd",
         "product_info_row_9mxmDc",
-        "image_LGFdqH",
         "product_info_row_BHDAEB",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
+        "image_K9tGwg",
         "product_info_row_6hEtER",
+        "image_hAahVM",
         "product_info_row_6G9Pmb",
-        "product_info_row_a6ykjz"
+        "product_info_row_a6ykjz",
+        "product_info_row_YWkr8F"
       ],
       "name": "Product Content",
       "settings": {
