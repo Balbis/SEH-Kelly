@@ -300,7 +300,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Meanwhile, on the banks of the Moray Firth, there is weaving afoot — inside a repurposed boat-shed of just the right size, on a loom built over a century ago.</p>",
+                    "text": "<p>Meanwhile, on the banks of the Moray Firth, there is weaving afoot — inside a repurposed boat-shed of just the right size, on a loom built over a century ago. <em>Read more</em></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
@@ -465,7 +465,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Its name might be synonymous for melancholy, and its first loom was built by the local coffin-maker, but the cloth made here — little in the Isles so vital.</p>",
+                    "text": "<p>Its name might be synonymous for melancholy, and its first loom was built by the local coffin-maker, but the cloth made here — little in the Isles so vital. <em>Read more</em></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
@@ -630,7 +630,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for over 200 years.</p>",
+                    "text": "<p>The most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for over 200 years. <em>Read more</em></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
@@ -720,7 +720,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "shopify://pages/makers-tweed-mill-morayshire",
+                "link": "shopify://pages/makers-horn-works-lancashire",
                 "open_in_new_tab": false,
                 "grid_column_start": "auto",
                 "grid_column_end": "auto",
@@ -766,7 +766,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>Tweed Mill</h2>",
+                    "text": "<h2>Horn works</h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -795,7 +795,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Morayshire</p>",
+                    "text": "<p>Lancashire</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -825,7 +825,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image_mode": "single",
-                    "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_1.jpg",
+                    "image": "shopify://shop_images/SEH_Kelly_Horn_works3.jpg",
                     "link": "",
                     "image_ratio": "adapt",
                     "width": "fill",
@@ -848,7 +848,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Meanwhile, on the banks of the Moray Firth, there is weaving afoot — inside a repurposed boat-shed of just the right size, on a loom built over a century ago.</p>",
+                    "text": "<p>A cornucopia if ever there was one: shaping, and polishing cow horn — and, in so doing, making things like toggles for duffle coats — since the 1700s. <em>Read more</em></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
@@ -885,7 +885,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "shopify://pages/makers-weaving-studio-mourne-mountains",
+                "link": "shopify://pages/makers-woollen-mill-inner-hebrides",
                 "open_in_new_tab": false,
                 "grid_column_start": "auto",
                 "grid_column_end": "auto",
@@ -931,7 +931,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>Weaving Studio</h2>",
+                    "text": "<h2>Woollen mill</h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -960,7 +960,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Mourne Mountains</p>",
+                    "text": "<p>Inner Hebrides</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -990,7 +990,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image_mode": "single",
-                    "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_17.jpg",
+                    "image": "shopify://shop_images/SEH_Kelly_Woollen_mill_Inner_Hebrides_14.jpg",
                     "link": "",
                     "image_ratio": "adapt",
                     "width": "fill",
@@ -1013,7 +1013,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Its name might be synonymous for melancholy, and its first loom was built by the local coffin-maker, but the cloth made here — little in the Isles so vital.</p>",
+                    "text": "<p>Within the context of cloth, the Inner Hebrides are the<em>other</em>Hebrides. They're the Hebrides where you can have any colour you like, so long as it's sheep. <em>Read more</em></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
@@ -1050,7 +1050,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "shopify://pages/makers-melton-mill-west-yorkshire",
+                "link": "shopify://pages/makers-linen-weaver-outer-hebrides",
                 "open_in_new_tab": false,
                 "grid_column_start": "auto",
                 "grid_column_end": "auto",
@@ -1096,7 +1096,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<p>Melton mill</p>",
+                    "text": "<p>Linen weaver</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -1125,7 +1125,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>West Yorkshire</p>",
+                    "text": "<p>Outer Hebrides</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -1155,7 +1155,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image_mode": "single",
-                    "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_10.jpg",
+                    "image": "shopify://shop_images/SEH_Kelly_Linen_weaver_outer_hebrides_4.jpg",
                     "link": "",
                     "image_ratio": "adapt",
                     "width": "fill",
@@ -1178,7 +1178,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for over 200 years.</p>",
+                    "text": "<p>Linen woven in the old traditions of Hebridean linen — which is to say, an original, one of a kind, against-grain endeavour, in the land of tweed. <em>Read more</em></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
