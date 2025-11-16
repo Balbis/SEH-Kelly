@@ -3648,10 +3648,10 @@
         "padding-block-end": 30
       }
     },
-    "section_yPRNJr": {
+    "section_QRmqTP": {
       "type": "section",
       "blocks": {
-        "group_ieKXji": {
+        "group_gai7FT": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3697,7 +3697,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "divider_YTNWbr": {
+            "divider_PLhLUY": {
               "type": "_divider",
               "name": "t:names.divider",
               "settings": {
@@ -3709,7 +3709,7 @@
               },
               "blocks": {}
             },
-            "text_6dadrh": {
+            "text_CQbrxz": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -3740,11 +3740,11 @@
             }
           },
           "block_order": [
-            "divider_YTNWbr",
-            "text_6dadrh"
+            "divider_PLhLUY",
+            "text_CQbrxz"
           ]
         },
-        "group_KTAwfY": {
+        "group_8gPeXp": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3790,11 +3790,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_6fEgn7": {
+            "text_4mGQjf": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>I picked up the jacket yesterday. It is an absolutely stunning masterpiece! In particular, the ventilation is very neat.</em></p>",
+                "text": "<p><em>I received my peacoat. This must be the best purchase decision I've made on clothes. [...] First of all, the presentation is superb: the way the coat was packaged in paper as opposed to plastic; the personal letter it came with following up on the enquiry I had via email; the complementary tote bag that feels premium. The peacoat itself is nearly perfect. I love how unassuming the hand-warmer pockets are. The way they are aligned under the large open pockets at the bottom. The way the detailed lining meets up to the armpit. It's like this one smooth transition from chest to hip. It's such a pleasing look. I also love the cuffs. Functionally, I understand that they're unnecessary, but it makes it stand out from other peacoats I've seen on the market. And the best part, like many other features typical of S.E.H Kelly clothing, is that it's lowkey. You look at it and say, \"Wow that peacoat is beautiful, but I can't exactly pinpoint what it is.\" Similarly, the raglan sleeves from the back profile are such a nice touch. Again, one of those features that can easily go unnoticed if you don't pay attention, but looks right. I also love how the collar can be buttoned to protect against the wind and rain, so I don't need to bring a scarf with me. The structure of the peacoat is perfect. A lot of peacoats look terrible unbuttoned, but the way your peacoat sits looks exactly like the way the model wears it. I can really see myself wearing the coat for a lifetime. This is such a beautiful product.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3821,10 +3821,10 @@
             }
           },
           "block_order": [
-            "text_6fEgn7"
+            "text_4mGQjf"
           ]
         },
-        "group_9VdQry": {
+        "group_yRKR66": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3870,11 +3870,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_Arca7k": {
+            "text_pYwywm": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>A happy man in Germany, and his work jacket in heavy corduroy, in May 2020.</p>",
+                "text": "<p>A happy customer in Canada, who kindly purchased up the peacoat in heavy melton in November 2022.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3901,10 +3901,10 @@
             }
           },
           "block_order": [
-            "text_Arca7k"
+            "text_pYwywm"
           ]
         },
-        "group_NqKKwz": {
+        "group_UpAnAJ": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3950,11 +3950,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_xgY7tc": {
+            "text_FMKWXe": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>The jacket has just safely arrived and I am very pleased. It fits very well due to using your size chart, is of a substantial cord, and the quality of manufacture and design are self-evident. I will no doubt purchase other items in the future.</em></p>",
+                "text": "<p><em>I'm very glad I waited to get a new peacoat — yours is perfect. I wore it this morning while drinking coffee, indoors, like a kid wearing his new Christmas pyjamas.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3981,10 +3981,10 @@
             }
           },
           "block_order": [
-            "text_xgY7tc"
+            "text_FMKWXe"
           ]
         },
-        "group_fmkFq8": {
+        "group_f6XFQA": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4030,11 +4030,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_8tU4GF": {
+            "text_eFb7TD": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>So spoke a man in the north-west, who purchased the work jacket in very heavy cord in September 2019.</p>",
+                "text": "<p>Warm feedback from a chap in Sante Fe, who picked up the peacoat in melton in October 2019.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -4061,10 +4061,10 @@
             }
           },
           "block_order": [
-            "text_8tU4GF"
+            "text_eFb7TD"
           ]
         },
-        "group_DaaWbn": {
+        "group_PQfJpG": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4110,11 +4110,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_4GKYyL": {
+            "text_nJHDiN": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>Yet another beautiful (and functional) thing.</em></p>",
+                "text": "<p><em>I just wanted to let you know how pleased I am with the peacoat. I've been searching for one, for three winters now, that is neither too fashion-influenced nor too faithful a vintage military replica and, crucially, that fits. Very glad to have finally found one that ticks all the boxes. Fantastic design, particularly with the shoulders and the pockets.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -4141,10 +4141,10 @@
             }
           },
           "block_order": [
-            "text_4GKYyL"
+            "text_nJHDiN"
           ]
         },
-        "group_CzfCj7": {
+        "group_JPDbmK": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4190,11 +4190,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_PxYKhG": {
+            "text_VBEhWE": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Feedback from a chap in London, who picked up the work jacket in heavy cord in October 2018.</p>",
+                "text": "<p>Kind words from a gentleman in New York, who purchased a peacoat in uniform melton in October 2019.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -4221,10 +4221,10 @@
             }
           },
           "block_order": [
-            "text_PxYKhG"
+            "text_VBEhWE"
           ]
         },
-        "group_tFJyEE": {
+        "group_taYEkD": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4270,11 +4270,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_CwFcDG": {
+            "text_LgFxBy": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>As with my overshirt, I am very pleased with the work jacket, too. Your things are very distinctive, without being at all gimmicky, and are beautifully made. Thank you.</em></p>",
+                "text": "<p><em>The coat was delivered this week. It is a thing of beauty and fits me perfectly, so please keep using those measurements. I will probably break down and wear it much sooner than the weather will allow, which is the sign of a pretty great coat.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -4301,10 +4301,10 @@
             }
           },
           "block_order": [
-            "text_CwFcDG"
+            "text_LgFxBy"
           ]
         },
-        "group_CaeVdD": {
+        "group_XQ8z49": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4350,11 +4350,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_PWcLaR": {
+            "text_hNdDUG": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>On the heels of an overshirt acquired one week earlier, this gent bought the jacket in melton in August 2017.</p>",
+                "text": "<p>So spoke a man who purchased the peacoat in merino hopsack in September of 2018.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -4381,10 +4381,10 @@
             }
           },
           "block_order": [
-            "text_PWcLaR"
+            "text_hNdDUG"
           ]
         },
-        "group_4REJMw": {
+        "group_c8kGWn": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4430,11 +4430,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_CtQwJx": {
+            "text_kmaCFC": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>After a brief detention in a mountain-top post office, the [work] jacket has arrived and is unsurprisingly delightful.</em></p>",
+                "text": "<p><em>The peacoat turned up, and it is fantastic. Beautiful detailing, and the quality is exceptional. I love it. Thanks again for all your help and impeccable customer service.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -4461,10 +4461,10 @@
             }
           },
           "block_order": [
-            "text_CtQwJx"
+            "text_kmaCFC"
           ]
         },
-        "group_BhQLkz": {
+        "group_VLPd9X": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -4510,11 +4510,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_eUGyfN": {
+            "text_G4aFna": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This gent bought a rare thing indeed — the jacket in wool-angora — in September of 2016.</p>",
+                "text": "<p>So said a gentleman who bought the peacoat in a camel-coloured melton in January 2018.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -4541,22 +4541,508 @@
             }
           },
           "block_order": [
-            "text_eUGyfN"
+            "text_G4aFna"
+          ]
+        },
+        "group_QfTjY7": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 12,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_UjL6CH": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>What a wonderful coat. I've been on an obsessive hunt for the ultimate peacoat for I-can't-tell-you-how-long, and this is genuinely a thing of beauty. Thank you. Also, my wife thanks you for her not having to discuss collar-width, hand-warmers, or Three Days of the Condor any more.</em></p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_UjL6CH"
+          ]
+        },
+        "group_xFFF3Q": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "5",
+            "grid_column_end": "6",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 50,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_nttWMG": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Kindly said by a gent who purchased the peacoat in heavy worsted overcoating in November 2017.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_nttWMG"
+          ]
+        },
+        "group_FELryG": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 12,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_PBWb88": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I bought a peacoat from you last year, I believe: amazing quality and nothing but compliments from everyone.</em></p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_PBWb88"
+          ]
+        },
+        "group_rGGkVN": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "5",
+            "grid_column_end": "6",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 50,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_qmXQar": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>This gent bought the peacoat in Donegal's finest in October 2014.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_qmXQar"
+          ]
+        },
+        "group_CwA6YQ": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 12,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_bdfjw3": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I picked up the peacoat today. Of course, it looks impeccable. The tweed is really something. Thank you.</em></p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_bdfjw3"
+          ]
+        },
+        "group_ztcRbJ": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "5",
+            "grid_column_end": "6",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 50,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_BjAUeN": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Another pleased peacoat purchaser, from November of 2015.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_BjAUeN"
           ]
         }
       },
       "block_order": [
-        "group_ieKXji",
-        "group_KTAwfY",
-        "group_9VdQry",
-        "group_NqKKwz",
-        "group_fmkFq8",
-        "group_DaaWbn",
-        "group_CzfCj7",
-        "group_tFJyEE",
-        "group_CaeVdD",
-        "group_4REJMw",
-        "group_BhQLkz"
+        "group_gai7FT",
+        "group_8gPeXp",
+        "group_yRKR66",
+        "group_UpAnAJ",
+        "group_f6XFQA",
+        "group_PQfJpG",
+        "group_JPDbmK",
+        "group_taYEkD",
+        "group_XQ8z49",
+        "group_c8kGWn",
+        "group_VLPd9X",
+        "group_QfTjY7",
+        "group_xFFF3Q",
+        "group_FELryG",
+        "group_rGGkVN",
+        "group_CwA6YQ",
+        "group_ztcRbJ"
       ],
       "name": "So They Say",
       "settings": {
@@ -4568,7 +5054,7 @@
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "center",
-        "gap": 12,
+        "gap": 30,
         "grid_columns": "6",
         "grid_columns_mobile": "1",
         "bento_columns": "3",
@@ -4787,7 +5273,7 @@
     "section_ggcyy3",
     "divider_NNj3WX",
     "section_UmaynW",
-    "section_yPRNJr",
+    "section_QRmqTP",
     "product_recommendations_qggXJq"
   ]
 }
