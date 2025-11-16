@@ -767,7 +767,7 @@
           },
           "blocks": {}
         },
-        "group_xR7cGi": {
+        "group_memBEr": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -813,7 +813,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "group_bVDacM": {
+            "group_eAzeU6": {
               "type": "group",
               "name": "t:names.group",
               "settings": {
@@ -833,8 +833,8 @@
                 "gap": 30,
                 "sticky": false,
                 "sticky_gap": 20,
-                "width": "fill",
-                "custom_width": 100,
+                "width": "custom",
+                "custom_width": 50,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
                 "height": "fit",
@@ -859,7 +859,7 @@
                 "padding-inline-end": 0
               },
               "blocks": {
-                "image_XzMHcf": {
+                "image_9RMnJ3": {
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
@@ -882,45 +882,147 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {}
+                },
+                "group_zdYfCT": {
+                  "type": "group",
+                  "name": "t:names.group",
+                  "settings": {
+                    "link": "",
+                    "open_in_new_tab": false,
+                    "grid_column_start": "auto",
+                    "grid_column_end": "auto",
+                    "grid_row_start": "auto",
+                    "grid_row_end": "auto",
+                    "content_direction": "row",
+                    "vertical_on_mobile": true,
+                    "horizontal_alignment": "flex-end",
+                    "vertical_alignment": "center",
+                    "align_baseline": false,
+                    "horizontal_alignment_flex_direction_column": "flex-start",
+                    "vertical_alignment_flex_direction_column": "center",
+                    "gap": 30,
+                    "sticky": false,
+                    "sticky_gap": 20,
+                    "width": "fill",
+                    "custom_width": 100,
+                    "width_mobile": "fill",
+                    "custom_width_mobile": 100,
+                    "height": "fit",
+                    "custom_height": 100,
+                    "inherit_color_scheme": true,
+                    "color_scheme": "",
+                    "background_media": "none",
+                    "video_position": "cover",
+                    "background_image_position": "cover",
+                    "border": "none",
+                    "border_width": 1,
+                    "border_opacity": 100,
+                    "border_radius": 0,
+                    "placeholder": "",
+                    "toggle_overlay": false,
+                    "overlay_color": "#00000026",
+                    "overlay_style": "solid",
+                    "gradient_direction": "to top",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {
+                    "image_FUmydD": {
+                      "type": "image",
+                      "name": "t:names.image",
+                      "settings": {
+                        "image_mode": "single",
+                        "image": "shopify://shop_images/SEH_Kelly_Linen_weaver_outer_hebrides_26.jpg",
+                        "link": "",
+                        "image_ratio": "adapt",
+                        "width": "fill",
+                        "custom_width": 50,
+                        "width_mobile": "fill",
+                        "custom_width_mobile": 100,
+                        "height": "fit",
+                        "border": "none",
+                        "border_width": 1,
+                        "border_opacity": 100,
+                        "border_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
+                    },
+                    "image_H4tpLW": {
+                      "type": "image",
+                      "name": "t:names.image",
+                      "settings": {
+                        "image_mode": "single",
+                        "image": "shopify://shop_images/SEH_Kelly_Linen_weaver_outer_hebrides_27.jpg",
+                        "link": "",
+                        "image_ratio": "adapt",
+                        "width": "fill",
+                        "custom_width": 50,
+                        "width_mobile": "fill",
+                        "custom_width_mobile": 100,
+                        "height": "fit",
+                        "border": "none",
+                        "border_width": 1,
+                        "border_opacity": 100,
+                        "border_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "image_FUmydD",
+                    "image_H4tpLW"
+                  ]
                 }
               },
               "block_order": [
-                "image_XzMHcf"
+                "image_9RMnJ3",
+                "group_zdYfCT"
               ]
+            },
+            "text_cXtFcM": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>There is the influence here not only of local tradition, but of local infrastructure, too. The Hattersley loom, the diminutive warping mill that feeds it, the services of the woollen industry’s many outposts dotted across the islands — the washing, drying, and finishing always with contraptions built with tweed in mind — they too make the linen made here what it is: its texture, its feel, its appearance, its qualities and wearing over time. Whether your raw material is flax or fleece, when you make cloth on these islands, there are some things which just happen. You get a thick cloth. You get herringbones and stripes. You get a textured, open weave; one writ through with grit and character.</p><p>The weaver also specialises in linen-wool. \"Linsey-woolsey\", as they call it, came about — one version of textile history has it — with settlers heading over barren landscapes way back when, unsure of the temperature and climate of tomorrow. And so they hedged their bets: taking with them both flax seeds and sheep. Sheep perish, weave linen; seeds don’t like soil, then wool all round. Of course, if fortune favours both, then you end up with the best of both. The linen-wool is thick, textured, and coarse — but also springy and breathable, so good in all weathers.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "group_bVDacM"
+            "group_eAzeU6",
+            "text_cXtFcM"
           ]
-        },
-        "text_iD7pAX": {
-          "type": "text",
-          "name": "t:names.text",
-          "settings": {
-            "text": "<p>The weaver also specialises in linen-wool. \"Linsey-woolsey\", as they call it, came about — one version of textile history has it — with settlers heading over barren landscapes way back when, unsure of the temperature and climate of tomorrow. And so they hedged their bets: taking with them both flax seeds and sheep. Sheep perish, weave linen; seeds don’t like soil, then wool all round. Of course, if fortune favours both, then you end up with the best of both. The linen-wool is thick, textured, and coarse — but also springy and breathable, so good in all weathers.</p>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "custom_max_width": 100,
-            "content_alignment": "flex-start",
-            "type_preset": "rte",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "italic": "none",
-            "wrap": "pretty",
-            "alignment": "justify",
-            "color": "var(--color-foreground)",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "group_Px4NMd": {
           "type": "group",
@@ -1583,81 +1685,6 @@
             "text_tzqiGz"
           ]
         },
-        "group_JfnRbj": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "auto",
-            "grid_column_end": "auto",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-end",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 12,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_rtWnFM": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Woollen_mill_Inner_Hebrides_36.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 75,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_rtWnFM"
-          ]
-        },
         "image_4NAcRp": {
           "type": "image",
           "name": "t:names.image",
@@ -1691,15 +1718,13 @@
         "group_TCaCPt",
         "image_K7bXJE",
         "image_kdQxdb",
-        "group_xR7cGi",
-        "text_iD7pAX",
+        "group_memBEr",
         "group_Px4NMd",
         "image_wpcfeG",
         "image_d4hACr",
         "group_kbtYLN",
         "image_NyNVDb",
         "group_w4zhTB",
-        "group_JfnRbj",
         "image_4NAcRp"
       ],
       "name": "Content",
