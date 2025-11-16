@@ -302,6 +302,23 @@
     },
     {
       "type": "select",
+      "id": "italic",
+      "label": "Italics",
+      "options": [
+        {
+          "value": "none",
+          "label": "t:options.default"
+        },
+        {
+          "value": "italics",
+          "label": "Italics"
+        }
+      ],
+      "default": "none",
+      "visible_if": "{{ block.settings.type_preset == 'custom' }}"
+    },
+    {
+      "type": "select",
       "id": "wrap",
       "label": "t:settings.wrap",
       "options": [

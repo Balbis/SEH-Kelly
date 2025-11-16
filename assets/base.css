@@ -2168,6 +2168,7 @@ deferred-media[class] :is(.deferred-media__poster-button img, .deferred-media__p
   font-family: var(--font-family);
   font-weight: var(--font-weight);
   text-transform: var(--text-transform);
+  font-style: var(--font-style);
   text-wrap: var(--text-wrap);
   line-height: var(--line-height);
   letter-spacing: var(--letter-spacing);
