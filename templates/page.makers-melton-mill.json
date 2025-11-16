@@ -90,7 +90,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Weaving Studio</h1>",
+                "text": "<h1>Melton mill</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -170,7 +170,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Meanwhile, on the banks of the Moray Firth, there is weaving afoot, on a loom built in the early 19th century, and disassembled and reassembled many times since. It resides with other well-restored and conditioned contraptions of comparable vintage in a repurposed boat-shed of just the right size, and operated by a weaver whose prowess has taken her almost as far around the globe as the distance covered every year pedalling that loom.</p><p></p><p></p>",
+                "text": "<p>What they make here, in the Heavy Woollen District of West Yorkshire, is the most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for two centuries.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -199,7 +199,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -229,7 +229,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -253,7 +253,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -277,7 +277,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -301,7 +301,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -325,7 +325,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -349,7 +349,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -373,7 +373,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -397,7 +397,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -419,6 +419,7 @@
         "image_UKdrUz": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_10.jpg",
@@ -443,6 +444,7 @@
         "image_UbegQa": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_11.jpg",
@@ -467,6 +469,7 @@
         "image_iBcBW6": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_12.jpg",
