@@ -91,7 +91,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Flannel mill</h1>",
+                "text": "<h1>Spinning mill</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -120,7 +120,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Somerset</p>",
+                "text": "<p>County Donegal Ireland</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -202,7 +202,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This place is most famous for flannel. That’s flannel as in the twill, woven with carded yarn, and heavily milled on one side — and the fame comes about mostly because this is where it was invented. But you don’t get far these days by sticking to the tried and tested, and so meltons, worsteds, double-cloths, and much else besides come off these hallowed looms, too — all steered by a multi-volumed archive going back to the times of GeorgeIII.</p>",
+                "text": "<p>When it comes to yarn of the Donegal variety, accept no substitutes: unless dyed and spun and carded and nepped and burred here, it just won’t do. </p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -232,7 +232,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Flannel_mill1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Spinning_mill1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -262,7 +262,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -286,7 +286,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -310,7 +310,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -334,7 +334,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -358,7 +358,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -382,7 +382,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -406,7 +406,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -430,7 +430,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -454,7 +454,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill10.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill10.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -478,7 +478,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill11.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill11.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -500,6 +500,7 @@
         "image_iBcBW6": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Flannel_mill12.jpg",
@@ -524,6 +525,7 @@
         "image_8yKWhe": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Flannel_mill13.jpg",
