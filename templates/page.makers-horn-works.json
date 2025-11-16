@@ -73,7 +73,6 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
-                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -91,7 +90,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Weaving Studio</h1>",
+                "text": "<h1>Horn works</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -102,38 +101,8 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
-                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_F6bwcH": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Mourne Mountains</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "custom",
-                "font": "var(--font-accent--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "italics",
-                "wrap": "pretty",
-                "alignment": "left",
                 "color": "var(--color-foreground)",
                 "background": false,
                 "background_color": "#00000026",
@@ -148,8 +117,7 @@
           },
           "block_order": [
             "text_dzQDny",
-            "text_XyPCib",
-            "text_F6bwcH"
+            "text_XyPCib"
           ]
         },
         "group_TMdiw9": {
@@ -202,7 +170,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>A three-generation mill in the foothills of the Mourne Mountains of Northern Ireland, where old wooden hand-looms — the first of them built half a century ago by the local coffin-maker — plus slubby custom-spun yarn equals among the most remarkable cloth in the Isles.</p>",
+                "text": "<p>A north-west cornucopia if ever there was one, this place. They’ve been heating, shaping, and polishing cow, ram, and deer horn — and, in so doing, making things like toggles for duffle coats — in east Lancashire since the 1700s.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -213,7 +181,6 @@
                 "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
-                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "left",
                 "color": "var(--color-foreground)",
@@ -232,7 +199,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_21.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -262,7 +229,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -286,7 +253,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -310,7 +277,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -334,7 +301,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -358,7 +325,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -382,7 +349,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -406,7 +373,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -430,7 +397,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -452,9 +419,10 @@
         "image_UKdrUz": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_10.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_10.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -476,9 +444,10 @@
         "image_UbegQa": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_11.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_11.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -500,9 +469,10 @@
         "image_iBcBW6": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_12.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_12.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -524,9 +494,10 @@
         "image_8yKWhe": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_13.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_13.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -548,6 +519,7 @@
         "image_6TTDfe": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_14.jpg",
@@ -572,6 +544,7 @@
         "image_AqKkyh": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_16.jpg",
@@ -596,6 +569,7 @@
         "image_Hzt3LF": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_17.jpg",
@@ -620,6 +594,7 @@
         "image_GGe96a": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_18.jpg",
@@ -644,6 +619,7 @@
         "image_hYhEMp": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_19.jpg",
@@ -668,6 +644,7 @@
         "image_THE6Qi": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_20.jpg",
