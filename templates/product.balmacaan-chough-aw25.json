@@ -1532,7 +1532,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The peacoat has an innovative sleeve. It is a one-piece sleeve which is cut to combine the sharp, smart — not to mention traditional — look of an inset sleeve at the front, with the ease and comfort of a raglan at the back. It equals a very, very soft shoulder, draping naturally over the lines of the wearer.</p>",
+                "text": "<p>Round the rear lurks a deep vent which runs from the belt line to the hem. It is constructed in the old-fashioned and faintly over-complicated manner of mid-century British walking coats, and means there's more coat to the coat to expand when the wearer lurches forwards or sideways.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1562,7 +1562,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1585,108 +1585,6 @@
           "block_order": [
             "text_QRGwGX",
             "image_aawGP8"
-          ]
-        },
-        "product_info_row_a6ykjz": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_Lx3nXa": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Inside, the peacoat has a chest pocket on the left-side as worn. Handy. Perhaps more importantly, though, the inside of the coat is faced with an extra layer of outer cloth — meaning that, when fully done up, there are <em>four layers </em>of thick cloth between the chest of the wearer and the harsh winds of the world outside.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_LU44tE": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-14m_2x_b874c9c0-3c47-438c-94b7-4171a961ab76.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_Lx3nXa",
-            "image_LU44tE"
           ]
         },
         "product_info_row_3gQgQe": {
@@ -1737,7 +1635,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-13m_2x_306ddd15-dfad-427e-8533-a41d83bcfb7c.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1760,7 +1658,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The peacoat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the peacoat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "text": "<p>One more pocket: this time on the inside, on the left-side as worn, and set a little lower than normal to make things easier on the elbows. It is a chest pocket of standard wallet- or mobile-size.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1838,7 +1736,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The wool melton is a replica of cloth woven by the same mill, on the same premises, over half a century ago for the British Army. It is heavy, sure, but with tremendous drape and flow. The yarn from which it is woven — of British sheep — is worsted-spun, hence is more lustrous than usual.</p>",
+                "text": "<p>The coat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the balmacaan on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1868,7 +1766,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_12.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1905,7 +1803,6 @@
         "product_info_row_n4NWfW",
         "product_info_row_6hEtER",
         "product_info_row_6G9Pmb",
-        "product_info_row_a6ykjz",
         "product_info_row_3gQgQe",
         "product_info_row_YWkr8F"
       ],
