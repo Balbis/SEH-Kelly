@@ -127,6 +127,7 @@
                     "line_height": "normal",
                     "letter_spacing": "normal",
                     "case": "none",
+                    "italic": "none",
                     "wrap": "pretty",
                     "alignment": "justify",
                     "color": "",
@@ -256,7 +257,7 @@
                   },
                   "blocks": {}
                 },
-                "modal_a3mjk4": {
+                "modal_MRM3FM": {
                   "type": "modal",
                   "name": "Modal",
                   "settings": {
@@ -297,11 +298,11 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {
-                    "text_VizBQ9": {
+                    "text_6qtiwq": {
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The trench fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his neck — is wearing a size M.</p>",
+                        "text": "<p>The work jacket fits true to size, so the wooden person here, who is as standard a 40 chest as ever there has been, is happily wearing size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
@@ -312,6 +313,7 @@
                         "line_height": "normal",
                         "letter_spacing": "normal",
                         "case": "none",
+                        "italic": "none",
                         "wrap": "pretty",
                         "alignment": "justify",
                         "color": "var(--color-foreground)",
@@ -325,7 +327,7 @@
                       },
                       "blocks": {}
                     },
-                    "size_chart_3gB7hF": {
+                    "size_chart_TtLKKi": {
                       "type": "size-chart",
                       "name": "Size Chart",
                       "settings": {
@@ -336,46 +338,17 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
-                    },
-                    "text_mYGVkj": {
-                      "type": "text",
-                      "name": "t:names.text",
-                      "settings": {
-                        "text": "<p>The method of sleeve construction, with the sleeve cut as one continuous panel from neck to cuff, means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
-                        "width": "100%",
-                        "max_width": "none",
-                        "custom_max_width": 100,
-                        "content_alignment": "flex-start",
-                        "type_preset": "rte",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "wrap": "pretty",
-                        "alignment": "justify",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
                     }
                   },
                   "block_order": [
-                    "text_VizBQ9",
-                    "size_chart_3gB7hF",
-                    "text_mYGVkj"
+                    "text_6qtiwq",
+                    "size_chart_TtLKKi"
                   ]
                 }
               },
               "block_order": [
                 "variant_picker_i8ePmy",
-                "modal_a3mjk4"
+                "modal_MRM3FM"
               ]
             },
             "buy_buttons_eYQEYi": {
@@ -545,6 +518,7 @@
                         "line_height": "normal",
                         "letter_spacing": "normal",
                         "case": "none",
+                        "italic": "none",
                         "wrap": "pretty",
                         "alignment": "justify",
                         "color": "",
@@ -636,6 +610,7 @@
                         "line_height": "normal",
                         "letter_spacing": "normal",
                         "case": "none",
+                        "italic": "none",
                         "wrap": "pretty",
                         "alignment": "justify",
                         "color": "",
@@ -676,6 +651,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "",
@@ -710,7 +686,8 @@
         "gap": 48,
         "color_scheme": "",
         "padding-block-start": 40,
-        "padding-block-end": 40
+        "padding-block-end": 40,
+        "hide_top_padding_on_mobile": true
       }
     },
     "section_6XbmTR": {
@@ -774,6 +751,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -899,6 +877,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -976,6 +955,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1101,6 +1081,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1178,6 +1159,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1303,6 +1285,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1380,6 +1363,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1505,6 +1489,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1582,6 +1567,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1707,6 +1693,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1784,6 +1771,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -1907,6 +1895,7 @@
             "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
+            "italic": "none",
             "wrap": "pretty",
             "alignment": "justify",
             "color": "var(--color-foreground)",
@@ -2002,6 +1991,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -2238,6 +2228,7 @@
             "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
+            "italic": "none",
             "wrap": "pretty",
             "alignment": "justify",
             "color": "var(--color-foreground)",
@@ -2309,6 +2300,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -2531,6 +2523,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -2705,6 +2698,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -2974,6 +2968,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3213,6 +3208,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3293,6 +3289,7 @@
                 "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3372,6 +3369,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3451,6 +3449,7 @@
                 "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3530,6 +3529,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3609,6 +3609,7 @@
                 "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3688,6 +3689,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3767,6 +3769,7 @@
                 "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3846,6 +3849,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -3925,6 +3929,7 @@
                 "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -4004,6 +4009,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -4088,6 +4094,7 @@
             "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
+            "italic": "none",
             "wrap": "pretty",
             "alignment": "justify",
             "color": "",
