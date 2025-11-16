@@ -1886,6 +1886,30 @@
           },
           "blocks": {}
         },
+        "image_CYP7hD": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Peacoat_as_worn_AW25_1.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "product_info_row_ddmqKk": {
           "type": "product-info-row",
           "name": "Product Info Row",
@@ -1933,7 +1957,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The gentleman here is 38 in chest, 6ft 1in in height, 12 stone in weight, and wears the British warm in sizeS.</p>",
+                "text": "<p>The gentleman here has a chest of 38, a height of 6ft 1in, and weight of 12 stone, and is happiest wearing the peacoat in sizeS</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1963,7 +1987,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_British_warm_as_worn_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_as_worn_AW25_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2313,6 +2337,7 @@
       },
       "block_order": [
         "text_zra87V",
+        "image_CYP7hD",
         "product_info_row_ddmqKk",
         "image_Gy9xCm",
         "image_9JRTck",
