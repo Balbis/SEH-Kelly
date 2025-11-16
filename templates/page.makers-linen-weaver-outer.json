@@ -91,7 +91,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Woollen mill</h1>",
+                "text": "<h1>Linen weaver</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -120,7 +120,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Inner Hebrides</p>",
+                "text": "<p>Outer Hebrides</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
