@@ -724,6 +724,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -824,6 +825,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -924,6 +926,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1024,6 +1027,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1124,6 +1128,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1224,6 +1229,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1324,6 +1330,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1424,6 +1431,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1524,6 +1532,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1624,6 +1633,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1724,6 +1734,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -1830,7 +1841,7 @@
         "product_info_row_gpB8n6",
         "product_info_row_fUmfNc"
       ],
-      "name": "Product Content",
+      "name": "Product Details - Acorn Work Jacket",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -1917,6 +1928,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2017,6 +2029,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2088,6 +2101,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2158,7 +2172,7 @@
         "product_info_row_6HgRRr",
         "product_info_row_n8dph6"
       ],
-      "name": "Product Content",
+      "name": "As Worn - Work Jacket",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -2245,6 +2259,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2345,6 +2360,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2441,6 +2457,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2541,6 +2558,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2637,6 +2655,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2737,6 +2756,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2808,6 +2828,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2879,6 +2900,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -2979,6 +3001,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -3080,7 +3103,7 @@
         "product_info_row_bzWdXL",
         "product_info_row_YmeV7q"
       ],
-      "name": "Product Content",
+      "name": "Makers Of - Outerwear Factory",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -3114,10 +3137,10 @@
         "padding-block-end": 30
       }
     },
-    "section_yPRNJr": {
+    "section_wqRMJh": {
       "type": "section",
       "blocks": {
-        "group_ieKXji": {
+        "group_ERVHmP": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3163,7 +3186,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "divider_YTNWbr": {
+            "divider_apNgqK": {
               "type": "_divider",
               "name": "t:names.divider",
               "settings": {
@@ -3175,7 +3198,7 @@
               },
               "blocks": {}
             },
-            "text_6dadrh": {
+            "text_K9KAnL": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -3205,11 +3228,11 @@
             }
           },
           "block_order": [
-            "divider_YTNWbr",
-            "text_6dadrh"
+            "divider_apNgqK",
+            "text_K9KAnL"
           ]
         },
-        "group_KTAwfY": {
+        "group_HjJMgG": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3255,19 +3278,19 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_6fEgn7": {
+            "text_MPN8di": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>Never have I felt so criminally elegant and impervious to the elements as when swathed in the magnificent trench you have crafted. Genuinely, what a marvelous design, with its splendid execution and technical — though beautiful — fabric to boot. As it is wearing-in, it becomes more compliant, laying exactly as you’d ask of it, while accommodating all manner of layers beneath. I am thrilled to own it and look forward to wearing it whenever possible — however unlikely it is that I may call on all its faculties.</em></p>",
+                "text": "<p><em>I picked up the jacket yesterday. It is an absolutely stunning masterpiece! In particular, the ventilation is very neat.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1.25rem",
-                "line_height": "normal",
+                "font_size": "1rem",
+                "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
                 "wrap": "pretty",
@@ -3285,10 +3308,10 @@
             }
           },
           "block_order": [
-            "text_6fEgn7"
+            "text_MPN8di"
           ]
         },
-        "group_9VdQry": {
+        "group_xLkUMx": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3334,11 +3357,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_Arca7k": {
+            "text_kiAqPR": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>So says a man in Portugal about his trench in weatherproof ripstop in April 2023.</p>",
+                "text": "<p>A happy man in Germany, and his work jacket in heavy corduroy, in May 2020.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3364,10 +3387,10 @@
             }
           },
           "block_order": [
-            "text_Arca7k"
+            "text_kiAqPR"
           ]
         },
-        "group_NqKKwz": {
+        "group_fj9Djf": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3413,19 +3436,19 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_xgY7tc": {
+            "text_4fTnpx": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>I'd like to give you a review on the Herdwick trench coat. It completely lives up to its reputation. Old world functionality at its finest. We had an especially cold and bitter winter, even a few white-out condition snow storms, so I was able to really test the coat in the elements. I wore it while making snowmen and hiking in wind-driven snow flurries. Neither the wind, cold, nor snow could penetrate this tweed. The trench kept me toasty warm and dry throughout all conditions. And it came out looking no worse for wear, after it dried up. Very impressive stuff!</em></p>",
+                "text": "<p><em>The jacket has just safely arrived and I am very pleased. It fits very well due to using your size chart, is of a substantial cord, and the quality of manufacture and design are self-evident. I will no doubt purchase other items in the future.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1.25rem",
-                "line_height": "normal",
+                "font_size": "1rem",
+                "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
                 "wrap": "pretty",
@@ -3443,10 +3466,10 @@
             }
           },
           "block_order": [
-            "text_xgY7tc"
+            "text_4fTnpx"
           ]
         },
-        "group_fmkFq8": {
+        "group_BBFyxn": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3492,11 +3515,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_8tU4GF": {
+            "text_xVRK6J": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Warming words from a man who purchased the trench in Herdwick tweed in October 2021.</p>",
+                "text": "<p>So spoke a man in the north-west, who purchased the work jacket in very heavy cord in September 2019.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3522,10 +3545,10 @@
             }
           },
           "block_order": [
-            "text_8tU4GF"
+            "text_xVRK6J"
           ]
         },
-        "group_DaaWbn": {
+        "group_bEqnaB": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3571,19 +3594,19 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_4GKYyL": {
+            "text_tgWjgP": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>What an amazing coat! This purchase experience has been exceptional with super fast shipping and nice packaging. Many thanks to you for crafting such beautiful garments with materials of exceptional quality. The size is perfect, especially the back length, as some long coats make my leg appear short. Thank you again for offering such amazing garments with superb quality, while being extremely reasonably priced. It is so nice to have your shop to look at for some proper clothes — do please keep the great work!</em></p>",
+                "text": "<p><em>Yet another beautiful (and functional) thing.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1.25rem",
-                "line_height": "normal",
+                "font_size": "1rem",
+                "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
                 "wrap": "pretty",
@@ -3601,10 +3624,10 @@
             }
           },
           "block_order": [
-            "text_4GKYyL"
+            "text_tgWjgP"
           ]
         },
-        "group_CzfCj7": {
+        "group_6BF7qH": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3650,11 +3673,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_PxYKhG": {
+            "text_fz3LNk": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>A man very generous with his feedback, following purchase of the trench in tweed in late November 2019.</p>",
+                "text": "<p>Feedback from a chap in London, who picked up the work jacket in heavy cord in October 2018.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3680,10 +3703,10 @@
             }
           },
           "block_order": [
-            "text_PxYKhG"
+            "text_fz3LNk"
           ]
         },
-        "group_tFJyEE": {
+        "group_pPexh6": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3729,19 +3752,19 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_CwFcDG": {
+            "text_mejGUL": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>I am pleased to say the trench has landed. The coat is a thing of beauty, and the fabric is wonderful in its intricacy.</em></p>",
+                "text": "<p><em>As with my overshirt, I am very pleased with the work jacket, too. Your things are very distinctive, without being at all gimmicky, and are beautifully made. Thank you.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1.25rem",
-                "line_height": "normal",
+                "font_size": "1rem",
+                "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
                 "wrap": "pretty",
@@ -3759,10 +3782,10 @@
             }
           },
           "block_order": [
-            "text_CwFcDG"
+            "text_mejGUL"
           ]
         },
-        "group_CaeVdD": {
+        "group_TEfKUc": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3808,11 +3831,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_PWcLaR": {
+            "text_jDW99i": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>So said a man in Spain who picked up the trench in heavy tweed in November 2019.</p>",
+                "text": "<p>On the heels of an overshirt acquired one week earlier, this gent bought the jacket in melton in August 2017.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3838,10 +3861,10 @@
             }
           },
           "block_order": [
-            "text_PWcLaR"
+            "text_jDW99i"
           ]
         },
-        "group_4REJMw": {
+        "group_RFQj6B": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3887,19 +3910,19 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_CtQwJx": {
+            "text_faKbbV": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>Many thanks for sending the coat to me. I've worn it to work this morning and it's a fine piece altogether — very smart, and beautifully put together. I do like the craftsmanship in your work, so do keep up the good work.</em></p>",
+                "text": "<p><em>After a brief detention in a mountain-top post office, the [work] jacket has arrived and is unsurprisingly delightful.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1.25rem",
-                "line_height": "normal",
+                "font_size": "1rem",
+                "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
                 "wrap": "pretty",
@@ -3917,10 +3940,10 @@
             }
           },
           "block_order": [
-            "text_CtQwJx"
+            "text_faKbbV"
           ]
         },
-        "group_BhQLkz": {
+        "group_yNjxza": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3966,11 +3989,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_eUGyfN": {
+            "text_rCm9ab": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Feedback from a man in the States, who purchased the trench coat in weatherproof ripstop in August 2019.</p>",
+                "text": "<p>This gent bought a rare thing indeed — the jacket in wool-angora — in September of 2016.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3996,504 +4019,24 @@
             }
           },
           "block_order": [
-            "text_eUGyfN"
-          ]
-        },
-        "group_DcEc3p": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "1",
-            "grid_column_end": "4",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 12,
-            "sticky": true,
-            "sticky_gap": 30,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_agfQaA": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p><em>Boy, am I glad I took your advice and did not do any alterations. The sleeve-length and overall length of the coat are just right, and most importantly, the build quality is superb. I've never been able to buy an off-the-rack coat that fits me this well. I'm glad I found your company, and got my hands on this beautiful trench coat. Hopefully, one day, I'll be able to visit your workshop. Until then, stay classy.</em></p>",
-                "width": "100%",
-                "max_width": "none",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "custom",
-                "font": "var(--font-body--family)",
-                "font_size": "1.25rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 50,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_agfQaA"
-          ]
-        },
-        "group_mRwFtC": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "5",
-            "grid_column_end": "6",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 50,
-            "sticky": true,
-            "sticky_gap": 30,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_jLW3qk": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Enthusiastic feedback from Finland, regarding a trench coat in Bedford cord, bought in September of 2018.</p>",
-                "width": "fit-content",
-                "max_width": "narrow",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_jLW3qk"
-          ]
-        },
-        "group_xJzkkV": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "1",
-            "grid_column_end": "4",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 12,
-            "sticky": true,
-            "sticky_gap": 30,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_faTL4L": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p><em>I received the trench, and it is beautiful and quite subtle...</em></p>",
-                "width": "100%",
-                "max_width": "none",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "custom",
-                "font": "var(--font-body--family)",
-                "font_size": "1.25rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 50,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_faTL4L"
-          ]
-        },
-        "group_9XcEtD": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "5",
-            "grid_column_end": "6",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 50,
-            "sticky": true,
-            "sticky_gap": 30,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_YezmVw": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Kind words from a gentleman in the States who purchased the trench in Bedford cord in September 2018.</p>",
-                "width": "fit-content",
-                "max_width": "narrow",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_YezmVw"
-          ]
-        },
-        "group_WPCYbD": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "1",
-            "grid_column_end": "4",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 12,
-            "sticky": true,
-            "sticky_gap": 30,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_r4mM8e": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p><em>The trench coat has just arrived, and has already passed the </em>She Who Must Be Obeyed<em> test with flying colours.</em></p>",
-                "width": "100%",
-                "max_width": "none",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "custom",
-                "font": "var(--font-body--family)",
-                "font_size": "1.25rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 50,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_r4mM8e"
-          ]
-        },
-        "group_47PcBg": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "5",
-            "grid_column_end": "6",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 50,
-            "sticky": true,
-            "sticky_gap": 30,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_zr7z6W": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The gentleman here bought a trench in Shetland woollen twill back in January 2016.</p>",
-                "width": "fit-content",
-                "max_width": "narrow",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_zr7z6W"
+            "text_rCm9ab"
           ]
         }
       },
       "block_order": [
-        "group_ieKXji",
-        "group_KTAwfY",
-        "group_9VdQry",
-        "group_NqKKwz",
-        "group_fmkFq8",
-        "group_DaaWbn",
-        "group_CzfCj7",
-        "group_tFJyEE",
-        "group_CaeVdD",
-        "group_4REJMw",
-        "group_BhQLkz",
-        "group_DcEc3p",
-        "group_mRwFtC",
-        "group_xJzkkV",
-        "group_9XcEtD",
-        "group_WPCYbD",
-        "group_47PcBg"
+        "group_ERVHmP",
+        "group_HjJMgG",
+        "group_xLkUMx",
+        "group_fj9Djf",
+        "group_BBFyxn",
+        "group_bEqnaB",
+        "group_6BF7qH",
+        "group_pPexh6",
+        "group_TEfKUc",
+        "group_RFQj6B",
+        "group_yNjxza"
       ],
-      "name": "t:names.custom_section",
+      "name": "So They Say",
       "settings": {
         "layout_type": "grid",
         "content_direction": "column",
@@ -4509,7 +4052,7 @@
         "bento_columns": "3",
         "bento_rows": "6",
         "section_width": "page-width",
-        "section_height": "auto",
+        "section_height": "small",
         "section_height_custom": 50,
         "color_scheme": "",
         "background_media": "none",
@@ -4707,7 +4250,6 @@
       "block_order": [
         "text_cbcgyb"
       ],
-      "disabled": true,
       "name": "t:names.product_recommendations",
       "settings": {
         "product": "{{ closest.product }}",
@@ -4736,7 +4278,7 @@
     "section_ggcyy3",
     "divider_NNj3WX",
     "section_UmaynW",
-    "section_yPRNJr",
+    "section_wqRMJh",
     "product_recommendations_qggXJq"
   ]
 }
