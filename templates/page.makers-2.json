@@ -1,0 +1,273 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_w3Hc6g": {
+      "type": "section",
+      "blocks": {
+        "group_Y9eGVP": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "auto",
+            "grid_column_end": "auto",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "custom",
+            "custom_width": 60,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 30,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_XyPCib": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h1>About</h1>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_dzQDny": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>An enduring type of garment is the speciality here. Has been since 2009. Something which lasts, in other words; something which stands the test of time, not only by design, but by quality and by value, too.</p>",
+                "width": "fit-content",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_XyPCib",
+            "text_dzQDny"
+          ]
+        },
+        "image_TGN9Tf": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "multiple",
+            "image": "shopify://shop_images/image-for-background-2_2x_a946ac19-64f9-4097-aff8-de91eb3a7cec.jpg",
+            "image_2": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-new-worn-5s_2x_d3b876fb-32b8-4f86-b111-5ec53142f9c2.jpg",
+            "image_3": "shopify://shop_images/clothes-made-in-england-acc-1_2x_f934c59b-a8ac-4ba1-8483-d5ddfedbe201.jpg",
+            "image_4": "shopify://shop_images/clothes-made-in-england-jackets-2_2x22_efeab022-8203-4d21-b6fd-caf465d42c6e.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 30,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "group_Wrfykt": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "auto",
+            "grid_column_end": "auto",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "custom",
+            "custom_width": 60,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 30,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_DB3yYP": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>What that starts with, then, is a design which meets the needs not only of today and tomorrow, but the tomorrow after tomorrow, too, and of any number of tomorrows after that. It is a design which has designs to be, above all, pleasing to wear and satisfying to use, and, all the while, to go about its business in a way described best as unassuming.</p><p>Less unassuming is how the design is manufactured, involving as it does makers, if not the best at what they do, then certainly in the top one. Shirts and jackets and trousers are cut and sewn in workrooms which do so only for shirts or for jackets or for trousers. Knitwear is hand-framed in one or another far-flung corner of an island. Cloth comes from mills very much above, if you will, the run of most mills. Buttons, buckles, and toggles are made by old hands in old establishments. Made in the British Isles, the lot.</p><p>Having worked a while on Savile Row, it seems, all in all, the most sensible way to go. Comes with costs, this way, true, but sales have always been four-letter words at the workshop, so there’s never a penny priced in today for markdown tomorrow. Same goes for the prices, then, as the values. They endure. They stay always but always the same.</p>",
+                "width": "fit-content",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_DB3yYP"
+          ]
+        }
+      },
+      "block_order": [
+        "group_Y9eGVP",
+        "image_TGN9Tf",
+        "group_Wrfykt"
+      ],
+      "name": "t:names.custom_section",
+      "settings": {
+        "layout_type": "flex",
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "grid_columns": "1",
+        "grid_columns_mobile": "1",
+        "bento_columns": "3",
+        "bento_rows": "6",
+        "section_width": "page-width",
+        "section_height": "small",
+        "section_height_custom": 50,
+        "color_scheme": "",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 40,
+        "padding-block-end": 0
+      }
+    }
+  },
+  "order": [
+    "section_w3Hc6g"
+  ]
+}
