@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1004,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1077,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_10.jpg",
+                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-9m_2x_2a4addc8-9a6c-400b-8bda-c926625e885d.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1208,7 +1208,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_11.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_5.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1281,7 +1281,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1340,7 +1340,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1436,7 +1436,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1466,7 +1466,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1533,7 +1533,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1634,7 +1634,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Inside, the peacoat has a chest pocket on the left-side as worn. Handy. Perhaps more importantly, though, the inside of the coat is faced with an extra layer of outer cloth — meaning that, when fully done up, there are <em>four layers </em>of thick cloth between the chest of the wearer and the harsh winds of the world outside.</p><p>The peacoat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the peacoat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "text": "<p>Inside, the peacoat has a chest pocket on the left-side as worn. Handy. Perhaps more importantly, though, the inside of the coat is faced with an extra layer of outer cloth — meaning that, when fully done up, there are <em>four layers </em>of thick cloth between the chest of the wearer and the harsh winds of the world outside.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1664,7 +1664,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_12.jpg",
+                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-14m_2x_b874c9c0-3c47-438c-94b7-4171a961ab76.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1687,6 +1687,108 @@
           "block_order": [
             "text_Lx3nXa",
             "image_LU44tE"
+          ]
+        },
+        "product_info_row_3gQgQe": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_4jyNfp": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-13m_2x_306ddd15-dfad-427e-8533-a41d83bcfb7c.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_L6NWdK": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The peacoat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the peacoat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_4jyNfp",
+            "text_L6NWdK"
           ]
         },
         "product_info_row_YWkr8F": {
@@ -1732,30 +1834,6 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_PqFVza": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Khaki_AW25_13.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_TDgXDt": {
               "type": "text",
               "name": "t:names.text",
@@ -1784,11 +1862,35 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_PqFVza": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_PqFVza",
-            "text_TDgXDt"
+            "text_TDgXDt",
+            "image_PqFVza"
           ]
         }
       },
@@ -1804,6 +1906,7 @@
         "image_hAahVM",
         "product_info_row_6G9Pmb",
         "product_info_row_a6ykjz",
+        "product_info_row_3gQgQe",
         "product_info_row_YWkr8F"
       ],
       "name": "Product Content",
