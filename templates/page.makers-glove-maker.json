@@ -91,7 +91,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Tweed Mill</h1>",
+                "text": "<h1>Glove maker</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -119,6 +119,7 @@
             "text_FbezBN": {
               "type": "text",
               "name": "t:names.text",
+              "disabled": true,
               "settings": {
                 "text": "<p>Morayshire</p>",
                 "width": "fit-content",
@@ -202,7 +203,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Meanwhile, on the banks of the Moray Firth, there is weaving afoot, on a loom built in the early 19th century, and disassembled and reassembled many times since. It resides with other well-restored and conditioned contraptions of comparable vintage in a repurposed boat-shed of just the right size, and operated by a weaver whose prowess has taken her almost as far around the globe as the distance covered every year pedalling that loom.</p><p></p><p></p>",
+                "text": "<p>Every day, here in the crucible of English glove-making, a surprisingly small team of craftspeople enact the old adage about silk purses and sows’ ears.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -232,7 +233,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Glove_maker1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -262,7 +263,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -286,7 +287,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -310,7 +311,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -334,7 +335,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -358,7 +359,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -382,7 +383,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -406,7 +407,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -430,7 +431,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -454,7 +455,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_10.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker10.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -478,7 +479,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_11.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker11.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -502,7 +503,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_12.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker12.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -524,10 +525,9 @@
         "image_8yKWhe": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_13.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker13.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -549,10 +549,9 @@
         "image_6TTDfe": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_14.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker14.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -574,10 +573,9 @@
         "image_AqKkyh": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_16.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Glove_maker15.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
