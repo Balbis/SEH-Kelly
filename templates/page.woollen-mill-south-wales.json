@@ -91,7 +91,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Tweed Mill</h1>",
+                "text": "<h1>Woollen mill</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -120,7 +120,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Morayshire</p>",
+                "text": "<p>South Wales</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -202,7 +202,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Meanwhile, on the banks of the Moray Firth, there is weaving afoot, on a loom built in the early 19th century, and disassembled and reassembled many times since. It resides with other well-restored and conditioned contraptions of comparable vintage in a repurposed boat-shed of just the right size, and operated by a weaver whose prowess has taken her almost as far around the globe as the distance covered every year pedalling that loom.</p><p></p><p></p>",
+                "text": "<p>They know a thing or two about wool here in south-west Wales — there are, after all, more sheep than people in this part of the world. Ovine-owning sorts have brought their fleeces down into the coastal valley of the mill for a couple of hundred years, and the looms have whirred ever since.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -232,7 +232,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Woollen_mill1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -262,31 +262,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_2.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_wpcfeG": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -310,7 +286,31 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill3_43ca2c4f-ed96-4289-b900-602a39b21de6.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_wpcfeG": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -334,7 +334,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -358,7 +358,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -382,7 +382,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -406,7 +406,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -430,7 +430,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -454,7 +454,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_10.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill10.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -476,6 +476,7 @@
         "image_UbegQa": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_11.jpg",
@@ -500,6 +501,7 @@
         "image_iBcBW6": {
           "type": "image",
           "name": "t:names.image",
+          "disabled": true,
           "settings": {
             "image_mode": "single",
             "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_12.jpg",
@@ -701,8 +703,8 @@
         "group_Y9eGVP",
         "group_TMdiw9",
         "image_K7bXJE",
-        "image_wpcfeG",
         "image_d4hACr",
+        "image_wpcfeG",
         "image_NyNVDb",
         "image_qeFBCe",
         "image_CgQGnx",
