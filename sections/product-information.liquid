@@ -49,7 +49,7 @@
 <div class="section-background color-{{ section.settings.color_scheme }}"></div>
 <div
   class="product-information section section--{{ content_width }} spacing-style color-{{ section.settings.color_scheme }} relative"
-  style="{% render 'spacing-style', settings: section.settings %} --gap: {{ section.settings.gap }}px;"
+  style="{% render 'spacing-style', settings: section.settings %} --gap: {{ section.settings.gap }}px;{% if section.settings.hide_top_padding_on_mobile %} padding-block-start: 0;{% endif %}"
 >
   {% if section.settings.desktop_media_position == 'left' and product_has_media %}
     {% assign product_href = '#ProductInformation-' | append: section.id %}
@@ -387,6 +387,12 @@
       "step": 1,
       "unit": "px",
       "default": 0
+    },
+    {
+      "type": "checkbox",
+      "id": "hide_top_padding_on_mobile",
+      "label": "Hide top padding on mobile",
+      "default": true
     }
   ],
   "presets": []
