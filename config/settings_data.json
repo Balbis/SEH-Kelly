@@ -100,6 +100,17 @@
       }
     },
     "content_for_index": [],
+    "blocks": {
+      "3666930443836633170": {
+        "type": "shopify://apps/swap-shipping-returns/blocks/in_shop_experience/426b831c-4ffb-41ea-a80c-2ee608d00358",
+        "disabled": false,
+        "settings": {
+          "colour": "#000000",
+          "text_colour": "#ffffff",
+          "custom_button_text": ""
+        }
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
