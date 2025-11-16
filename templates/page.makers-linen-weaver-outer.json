@@ -222,29 +222,130 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_KciDMC": {
-              "type": "image",
-              "name": "t:names.image",
+            "group_NnjmWm": {
+              "type": "group",
+              "name": "t:names.group",
               "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Woollen_mill_Inner_Hebrides_24.jpg",
                 "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 50,
+                "open_in_new_tab": false,
+                "grid_column_start": "auto",
+                "grid_column_end": "auto",
+                "grid_row_start": "auto",
+                "grid_row_end": "auto",
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 30,
+                "sticky": false,
+                "sticky_gap": 20,
+                "width": "fill",
+                "custom_width": 100,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
                 "height": "fit",
+                "custom_height": 100,
+                "inherit_color_scheme": true,
+                "color_scheme": "",
+                "background_media": "none",
+                "video_position": "cover",
+                "background_image_position": "cover",
                 "border": "none",
                 "border_width": 1,
                 "border_opacity": 100,
                 "border_radius": 0,
+                "placeholder": "",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
                 "padding-block-start": 0,
                 "padding-block-end": 0,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
-              "blocks": {}
+              "blocks": {
+                "image_3ciQ7R": {
+                  "type": "image",
+                  "name": "t:names.image",
+                  "settings": {
+                    "image_mode": "single",
+                    "image": "shopify://shop_images/SEH_Kelly_Linen_weaver_outer_hebrides_2.jpg",
+                    "link": "",
+                    "image_ratio": "adapt",
+                    "width": "custom",
+                    "custom_width": 50,
+                    "width_mobile": "fill",
+                    "custom_width_mobile": 100,
+                    "height": "fit",
+                    "border": "none",
+                    "border_width": 1,
+                    "border_opacity": 100,
+                    "border_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "image_KUAhix": {
+                  "type": "image",
+                  "name": "t:names.image",
+                  "settings": {
+                    "image_mode": "single",
+                    "image": "shopify://shop_images/SEH_Kelly_Linen_weaver_outer_hebrides_20.jpg",
+                    "link": "",
+                    "image_ratio": "adapt",
+                    "width": "custom",
+                    "custom_width": 50,
+                    "width_mobile": "fill",
+                    "custom_width_mobile": 100,
+                    "height": "fit",
+                    "border": "none",
+                    "border_width": 1,
+                    "border_opacity": 100,
+                    "border_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "image_7KX7Nd": {
+                  "type": "image",
+                  "name": "t:names.image",
+                  "settings": {
+                    "image_mode": "single",
+                    "image": "shopify://shop_images/SEH_Kelly_Linen_weaver_outer_hebrides_4.jpg",
+                    "link": "",
+                    "image_ratio": "adapt",
+                    "width": "fill",
+                    "custom_width": 100,
+                    "width_mobile": "fill",
+                    "custom_width_mobile": 100,
+                    "height": "fit",
+                    "border": "none",
+                    "border_width": 1,
+                    "border_opacity": 100,
+                    "border_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "image_3ciQ7R",
+                "image_KUAhix",
+                "image_7KX7Nd"
+              ]
             },
             "group_qDQhww": {
               "type": "group",
@@ -296,7 +397,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The Hebrides have always been synonymous with weaving; with weaving an always coarse and often colourful tweed, which will occupy the days of a crofter, in a tin shed, somewhere on an otherwise unpopulated little island. But that, though, is the Outer Hebrides. The Inner Hebrides — now they are a different proposition entirely.</p><p></p><p></p>",
+                    "text": "<p>Linen: it doesn’t grow on trees. And, even if it did, those trees wouldn’t be anywhere on the British Isles. And, even if they were, you'd need fields and fields of these trees, and certainly more than will ever be found on an island off an island off an island off the north-west coast of Scotland. The island is so remote that the only way to reach it, until about ten years ago, was by boat. It is here that a weaver sits alone in a shed of tin on its second-highest point. She peddles on a Hattersley Mark I loom, built at the start of the last century, to weave linen in the land of tweed.<br/></p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -325,7 +426,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>When it comes to cloth, the Inner Hebrides are the <em>other</em> Hebrides. They are the Hebrides not buffeted by the North Atlantic to an extent so severe as the Outers. The Hebrides which don’t get so much as a mention on the Shipping Forecast, in fact, and so are in less immediate need for lanolin-packed and possibly urine-soaked overcoating. They are the Hebrides without much tradition in weaving at all. There is, nonetheless, weaving on these Hebrides. There is weaving going on right this minute.</p>",
+                    "text": "<p>The only documented attempt ever to grow flax on this particular island in the Outer Hebrides was not a very successful one. The flax blossomed and shone for a month, but was soon battered down by hail and wind. This, for some, would be something of an omen; a warning against trying to do anything too clever with linen in this part of the world. But not the weaver. Her flax might have shimmered purple only for a few weeks, but she has nevertheless been weaving linen for going on a decade. Not just any old linen, either. The weaver makes an unusual type of linen — one which is both familiar and unfamiliar, and which like a lot of good things can only be truly understood and treasured once you have the tale behind it.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -358,7 +459,7 @@
             }
           },
           "block_order": [
-            "image_KciDMC",
+            "group_NnjmWm",
             "group_qDQhww"
           ]
         },
@@ -1327,7 +1428,85 @@
             "image_rtWnFM"
           ]
         },
-        "group_r7GTgR": {
+        "image_4NAcRp": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill_Inner_Hebrides_22.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "group_Y9eGVP",
+        "image_grETQa",
+        "group_TMdiw9",
+        "group_xR7cGi",
+        "group_Px4NMd",
+        "group_TCaCPt",
+        "image_K7bXJE",
+        "image_wpcfeG",
+        "image_d4hACr",
+        "group_kbtYLN",
+        "image_NyNVDb",
+        "group_w4zhTB",
+        "group_JfnRbj",
+        "image_4NAcRp"
+      ],
+      "name": "Content",
+      "settings": {
+        "layout_type": "flex",
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 30,
+        "grid_columns": "1",
+        "grid_columns_mobile": "1",
+        "bento_columns": "3",
+        "bento_rows": "6",
+        "section_width": "page-width",
+        "section_height": "small",
+        "section_height_custom": 50,
+        "color_scheme": "",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 40,
+        "padding-block-end": 0
+      }
+    },
+    "section_CqYnRR": {
+      "type": "section",
+      "blocks": {
+        "group_FxNQRh": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -1373,7 +1552,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "group_DUcQ9f": {
+            "group_VFACiN": {
               "type": "group",
               "name": "t:names.group",
               "settings": {
@@ -1419,7 +1598,7 @@
                 "padding-inline-end": 0
               },
               "blocks": {
-                "image_wtzaL6": {
+                "image_f3iT6z": {
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
@@ -1443,7 +1622,7 @@
                   },
                   "blocks": {}
                 },
-                "image_NQ8D9e": {
+                "image_VpieEr": {
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
@@ -1469,11 +1648,11 @@
                 }
               },
               "block_order": [
-                "image_wtzaL6",
-                "image_NQ8D9e"
+                "image_f3iT6z",
+                "image_VpieEr"
               ]
             },
-            "group_8P7ypE": {
+            "group_AtkXaa": {
               "type": "group",
               "name": "t:names.group",
               "settings": {
@@ -1519,7 +1698,7 @@
                 "padding-inline-end": 0
               },
               "blocks": {
-                "image_CPX94G": {
+                "image_BRUPU7": {
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
@@ -1543,7 +1722,7 @@
                   },
                   "blocks": {}
                 },
-                "image_YUtXf6": {
+                "image_T3yL6e": {
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
@@ -1569,11 +1748,11 @@
                 }
               },
               "block_order": [
-                "image_CPX94G",
-                "image_YUtXf6"
+                "image_BRUPU7",
+                "image_T3yL6e"
               ]
             },
-            "text_zYC3gN": {
+            "text_H7Yj3M": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -1604,36 +1783,12 @@
             }
           },
           "block_order": [
-            "group_DUcQ9f",
-            "group_8P7ypE",
-            "text_zYC3gN"
+            "group_VFACiN",
+            "group_AtkXaa",
+            "text_H7Yj3M"
           ]
         },
-        "image_4NAcRp": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_mill_Inner_Hebrides_22.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "group_KKpVVD": {
+        "group_LxPQNw": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -1679,7 +1834,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_VRL4ib": {
+            "image_jwn8HL": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1705,65 +1860,9 @@
             }
           },
           "block_order": [
-            "image_VRL4ib"
+            "image_jwn8HL"
           ]
-        }
-      },
-      "block_order": [
-        "group_Y9eGVP",
-        "image_grETQa",
-        "group_TMdiw9",
-        "group_xR7cGi",
-        "group_Px4NMd",
-        "group_TCaCPt",
-        "image_K7bXJE",
-        "image_wpcfeG",
-        "image_d4hACr",
-        "group_kbtYLN",
-        "image_NyNVDb",
-        "group_w4zhTB",
-        "group_JfnRbj",
-        "group_r7GTgR",
-        "image_4NAcRp",
-        "group_KKpVVD"
-      ],
-      "name": "Content",
-      "settings": {
-        "layout_type": "flex",
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "center",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 30,
-        "grid_columns": "1",
-        "grid_columns_mobile": "1",
-        "bento_columns": "3",
-        "bento_rows": "6",
-        "section_width": "page-width",
-        "section_height": "small",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 40,
-        "padding-block-end": 0
-      }
-    },
-    "section_CqYnRR": {
-      "type": "section",
-      "blocks": {
+        },
         "group_amQqeQ": {
           "type": "group",
           "name": "t:names.group",
@@ -1846,6 +1945,8 @@
         }
       },
       "block_order": [
+        "group_FxNQRh",
+        "group_LxPQNw",
         "group_amQqeQ"
       ],
       "name": "Content",
