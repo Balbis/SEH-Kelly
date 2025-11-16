@@ -2677,7 +2677,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image_mode": "single",
-                    "image": "shopify://shop_images/SEH_Kelly_Horn_button_maker9.jpg",
+                    "image": "shopify://shop_images/SEH_Kelly_Horn_button_maker12.jpg",
                     "link": "",
                     "image_ratio": "adapt",
                     "width": "fill",
@@ -2700,7 +2700,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The premises might've changed, but what they make at the old West Midlands button-maker have changed barely even a jot since the American Civil War. <em>Read more</em></p>",
+                    "text": "<p>A cacophony of contraptions suggests things are going in the right direction at the newest button-maker in the Midlands. Full report soon — and for the moment. <em>Read more</em></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
@@ -2737,7 +2737,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "shopify://pages/makers-spinning-factory-county-donegal",
+                "link": "shopify://pages/makers-hat-maker-south-east-england",
                 "open_in_new_tab": false,
                 "grid_column_start": "auto",
                 "grid_column_end": "auto",
@@ -2783,7 +2783,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<p>Spinning Factory</p>",
+                    "text": "<p>Hat maker</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -2812,7 +2812,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>County Donegal</p>",
+                    "text": "<p>South-east England</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -2842,7 +2842,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image_mode": "single",
-                    "image": "shopify://shop_images/SEH_Kelly_Spinning_mill6.jpg",
+                    "image": "shopify://shop_images/SEH_Kelly_Cap_Hat_maker7.jpg",
                     "link": "",
                     "image_ratio": "adapt",
                     "width": "fill",
@@ -2865,7 +2865,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>When it comes to yarn of the Donegal variety, accept no substitutes: unless dyed and spun and carded and nepped and burred here, it just won't do. <em>Read more</em></p>",
+                    "text": "<p>The hat maker: top dog in the blocking, brushing, and brim-curling game since some time between the Napoleonic Wars and the American Revolution. <em>Read more</em></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
