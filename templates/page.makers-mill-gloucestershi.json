@@ -91,7 +91,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Melton mill</h1>",
+                "text": "<h1>Woollen mill</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -116,11 +116,11 @@
               },
               "blocks": {}
             },
-            "text_7wfkRg": {
+            "text_FbezBN": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>West Yorkshire</p>",
+                "text": "<p>Gloucestershire</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -149,7 +149,7 @@
           "block_order": [
             "text_dzQDny",
             "text_XyPCib",
-            "text_7wfkRg"
+            "text_FbezBN"
           ]
         },
         "group_TMdiw9": {
@@ -202,7 +202,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>What they make here, in the Heavy Woollen District of West Yorkshire, is the most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for two centuries.</p>",
+                "text": "<p>Here be 200 year-old weavers of industry-leading saxony tweeds, double-cloths, cavalry twills, and a weighty back-catalogue of other to-be-reckoned-with jacketings.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -232,7 +232,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -262,7 +262,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -286,7 +286,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -310,7 +310,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -334,7 +334,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -358,7 +358,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -382,7 +382,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -406,7 +406,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -430,7 +430,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -452,10 +452,9 @@
         "image_UKdrUz": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_10.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire10.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -477,10 +476,9 @@
         "image_UbegQa": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_11.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire11.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -502,10 +500,9 @@
         "image_iBcBW6": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_12.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire12.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -527,10 +524,9 @@
         "image_8yKWhe": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_13.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire13.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -552,35 +548,9 @@
         "image_6TTDfe": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_14.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_AqKkyh": {
-          "type": "image",
-          "name": "t:names.image",
-          "disabled": true,
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_16.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire14.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -602,85 +572,9 @@
         "image_Hzt3LF": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_17.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_GGe96a": {
-          "type": "image",
-          "name": "t:names.image",
-          "disabled": true,
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_18.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_hYhEMp": {
-          "type": "image",
-          "name": "t:names.image",
-          "disabled": true,
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_19.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_THE6Qi": {
-          "type": "image",
-          "name": "t:names.image",
-          "disabled": true,
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_20.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_Gloucestershire15.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -716,11 +610,7 @@
         "image_iBcBW6",
         "image_8yKWhe",
         "image_6TTDfe",
-        "image_AqKkyh",
-        "image_Hzt3LF",
-        "image_GGe96a",
-        "image_hYhEMp",
-        "image_THE6Qi"
+        "image_Hzt3LF"
       ],
       "name": "Content",
       "settings": {

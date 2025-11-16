@@ -73,6 +73,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -101,6 +102,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -181,6 +183,7 @@
                 "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "left",
                 "color": "var(--color-foreground)",
@@ -199,7 +202,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Horn_works1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -229,7 +232,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -253,7 +256,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -277,7 +280,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -301,7 +304,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -325,7 +328,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -349,7 +352,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -373,7 +376,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -397,7 +400,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -419,10 +422,9 @@
         "image_UKdrUz": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_10.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works10.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -444,10 +446,9 @@
         "image_UbegQa": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_11.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works11.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -469,10 +470,9 @@
         "image_iBcBW6": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_12.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works13.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -494,10 +494,9 @@
         "image_8yKWhe": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_13.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works14.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -519,10 +518,9 @@
         "image_6TTDfe": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_14.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works15.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -544,10 +542,9 @@
         "image_AqKkyh": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_16.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Horn_works16.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",

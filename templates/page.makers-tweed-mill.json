@@ -73,6 +73,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
                 "color": "var(--color-foreground)",
@@ -90,7 +91,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Weaving Studio</h1>",
+                "text": "<h1>Tweed Mill</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -101,8 +102,38 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_FbezBN": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Morayshire</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-accent--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "italic",
+                "wrap": "pretty",
+                "alignment": "left",
                 "color": "var(--color-foreground)",
                 "background": false,
                 "background_color": "#00000026",
@@ -117,7 +148,8 @@
           },
           "block_order": [
             "text_dzQDny",
-            "text_XyPCib"
+            "text_XyPCib",
+            "text_FbezBN"
           ]
         },
         "group_TMdiw9": {
@@ -181,6 +213,7 @@
                 "line_height": "loose",
                 "letter_spacing": "normal",
                 "case": "none",
+                "italic": "none",
                 "wrap": "pretty",
                 "alignment": "left",
                 "color": "var(--color-foreground)",

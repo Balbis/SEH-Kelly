@@ -91,7 +91,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Melton mill</h1>",
+                "text": "<h1>Spinning mill</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -116,11 +116,11 @@
               },
               "blocks": {}
             },
-            "text_7wfkRg": {
+            "text_FbezBN": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>West Yorkshire</p>",
+                "text": "<p>County Donegal Ireland</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -149,7 +149,7 @@
           "block_order": [
             "text_dzQDny",
             "text_XyPCib",
-            "text_7wfkRg"
+            "text_FbezBN"
           ]
         },
         "group_TMdiw9": {
@@ -202,7 +202,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>What they make here, in the Heavy Woollen District of West Yorkshire, is the most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for two centuries.</p>",
+                "text": "<p>When it comes to yarn of the Donegal variety, accept no substitutes: unless dyed and spun and carded and nepped and burred here, it just won’t do. </p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -232,7 +232,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Spinning_mill1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -262,7 +262,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -286,7 +286,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -310,7 +310,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -334,31 +334,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_5.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_qeFBCe": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -382,7 +358,31 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill6.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_qeFBCe": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -406,7 +406,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -430,7 +430,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -452,10 +452,9 @@
         "image_UKdrUz": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_10.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill10.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -477,10 +476,9 @@
         "image_UbegQa": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_11.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spinning_mill11.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -505,7 +503,7 @@
           "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_12.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill12.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -530,7 +528,7 @@
           "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_13.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Flannel_mill13.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -707,8 +705,8 @@
         "image_wpcfeG",
         "image_d4hACr",
         "image_NyNVDb",
-        "image_qeFBCe",
         "image_CgQGnx",
+        "image_qeFBCe",
         "image_EeAkxX",
         "image_iMdyPb",
         "image_UKdrUz",

@@ -91,7 +91,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Melton mill</h1>",
+                "text": "<h1>Spectacle-frame factory</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -116,11 +116,12 @@
               },
               "blocks": {}
             },
-            "text_7wfkRg": {
+            "text_FbezBN": {
               "type": "text",
               "name": "t:names.text",
+              "disabled": true,
               "settings": {
-                "text": "<p>West Yorkshire</p>",
+                "text": "<p>Morayshire</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -149,7 +150,7 @@
           "block_order": [
             "text_dzQDny",
             "text_XyPCib",
-            "text_7wfkRg"
+            "text_FbezBN"
           ]
         },
         "group_TMdiw9": {
@@ -202,7 +203,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>What they make here, in the Heavy Woollen District of West Yorkshire, is the most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for two centuries.</p>",
+                "text": "<p>The last spectacle-frame factory in Britain is a factory in many ways in name only; more a four-storey house of craftspeople and technicians, buzzing around its floors, cutting, buffing, polishing, soldering, bending, and crimping the many dozen parts which go into every hand-made frame.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -232,7 +233,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -262,7 +263,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -286,7 +287,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -310,7 +311,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -334,7 +335,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -358,7 +359,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_6.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -382,7 +383,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory7.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -406,7 +407,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory8.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -430,7 +431,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_9.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -452,10 +453,9 @@
         "image_UKdrUz": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_10.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory10.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -477,10 +477,9 @@
         "image_UbegQa": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_11.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory11.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -502,10 +501,9 @@
         "image_iBcBW6": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_12.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory12.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -527,10 +525,9 @@
         "image_8yKWhe": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_13.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory13.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -552,10 +549,9 @@
         "image_6TTDfe": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_14.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory14.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -577,10 +573,9 @@
         "image_AqKkyh": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_16.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory15.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -602,10 +597,9 @@
         "image_Hzt3LF": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_17.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory16.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -627,10 +621,9 @@
         "image_GGe96a": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_18.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory17.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -652,10 +645,9 @@
         "image_hYhEMp": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_19.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory18.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -677,10 +669,9 @@
         "image_THE6Qi": {
           "type": "image",
           "name": "t:names.image",
-          "disabled": true,
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_20.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Spectacle-frame_factory19.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
