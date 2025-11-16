@@ -770,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The polo coat. There's a continuum on which all overcoats, indeed perhaps all garments, sit, which at one end is labelled formal and at the other is flamboyant. It's not a theory much honed, and on reflection might have multiple axes, since probably a coat can be both, but in any case, the polo coat here is quite flamboyant. </p>",
+                "text": "<p>The British warm is a long, double-breasted overcoat in the tailored tradition, with a name that stems back to the coats worn by generals of the British Army in World War II. This one is less tailored than those of yore: a softer style of shoulder, a longer length, and a slightly more tailored body.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -896,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>It has a semi-raglan sleeve, which nods to the peculiar split set-in sleeves of very old polo coats — the distinctive seam running down the flank of the arm — but brings also breezy comfort and ease.</p>",
+                "text": "<p>There are four pockets on the outside of the British warm. Two of them are large and deep and sit at the waist, and are covered by flaps. Then there's a smaller ticket pocket on the right side as worn, likewise flap-covered, and an even smaller chest pocket which is covered by a slightly unorthodox upside-down flap.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -926,6 +926,30 @@
             "image_h4PALj",
             "text_wbHxMh"
           ]
+        },
+        "image_V7CMfd": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_8.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_9mxmDc": {
           "type": "product-info-row",
@@ -974,7 +998,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>It has especially large patch pockets, too, which when rendered in cloth of the chunkiness on display here seem to have as much heft as some other garments do in entirety. </p>",
+                "text": "<p>The buttons on the coat are large, solid horn — middling in shade and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1004,7 +1028,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1034,7 +1058,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1053,7 +1077,7 @@
           },
           "blocks": {}
         },
-        "product_info_row_6hEtER": {
+        "product_info_row_BHDAEB": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1096,12 +1120,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_xwewwV": {
+            "image_xDWbHn": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1120,11 +1144,11 @@
               },
               "blocks": {}
             },
-            "text_ibzz8M": {
+            "text_fCU6Cg": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>And it has only two buttons, an optional extra really, in salute to the traditions of polo coats of more than a century ago, when the standard use-case was being slinked on and off in and around actual games of polo, and thus such coats were treated more as outdoor dressing gowns — has laissez ever been more faire — rather than regular everyday outerwear.</p>",
+                "text": "<p>Running up the back of the coat is an inverted pleat, which is there to give shoulders more room to flex. There's a half-belt running across the small of the back, meanwhile. This breaks up the length of the coat, and also serves as the starting point for the long vent that runs the rest of the way to the hem.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1151,132 +1175,8 @@
             }
           },
           "block_order": [
-            "image_xwewwV",
-            "text_ibzz8M"
-          ]
-        },
-        "image_BBF3mE": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_6.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "group_BLrEKk": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "auto",
-            "grid_column_end": "auto",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_EXykU7": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_10.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_EGfJiL": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_4.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_EXykU7",
-            "image_EGfJiL"
+            "image_xDWbHn",
+            "text_fCU6Cg"
           ]
         },
         "product_info_row_zCRCgG": {
@@ -1326,7 +1226,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The tielocken is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the coat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "text": "<p>The warm has a saddle shoulder, which is unusual for this type of coat — or indeed, for any coat beyond the bounds of the workshop — and happens to offer up the best of a classic set-in sleeve, with the clean and structured lines, and the raglan, with the soft profile over the shoulder.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1356,7 +1256,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_10.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1379,6 +1279,312 @@
           "block_order": [
             "text_AdpdzQ",
             "image_AyBRQB"
+          ]
+        },
+        "product_info_row_n4NWfW": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_dz64gT": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_5.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_TDaycw": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>There are three buttons at the cuff, with the buttonholes cut open. It is a working cuff, in other words, though has no quarrel whatsoever with cuffs that cannot work or do not work.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_dz64gT",
+            "text_TDaycw"
+          ]
+        },
+        "product_info_row_6hEtER": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_ibzz8M": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>There's handiwork here and there on the British warm, such as under the collar, where the lapel and collar are coaxed together with a criss-cross \"duck-stitch\".</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_xwewwV": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_11.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_ibzz8M",
+            "image_xwewwV"
+          ]
+        },
+        "product_info_row_6G9Pmb": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_aawGP8": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_QRGwGX": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The coat is fully lined with a slinky, lightweight satin, making donning and undonning it a breeze, and helping to reduce friction with whatever is worn underneath. There are two pockets on the inside of the coat, too — both of them at chest height, for wallets or phones, and made in a neat, traditional jetted style.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_aawGP8",
+            "text_QRGwGX"
           ]
         },
         "product_info_row_a6ykjz": {
@@ -1424,35 +1630,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_LU44tE": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_11.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 60,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_Lx3nXa": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "",
+                "text": "<p>Hearty cloth, this, with the pleasing pebbly texture of a fairly chunky two-ply hopsack. It is dense cloth, and therefore warm, but it has an easy, clean drape, and its density does not come at the expense of a looming sense of bulk or inelegance.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1476,23 +1658,49 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_LU44tE": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_British_warm_midnight_AW25_13.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_LU44tE",
-            "text_Lx3nXa"
+            "text_Lx3nXa",
+            "image_LU44tE"
           ]
         }
       },
       "block_order": [
         "product_info_row_7YdD6c",
         "product_info_row_JD6tMg",
+        "image_V7CMfd",
         "product_info_row_9mxmDc",
         "image_LGFdqH",
-        "product_info_row_6hEtER",
-        "image_BBF3mE",
-        "group_BLrEKk",
+        "product_info_row_BHDAEB",
         "product_info_row_zCRCgG",
+        "product_info_row_n4NWfW",
+        "product_info_row_6hEtER",
+        "product_info_row_6G9Pmb",
         "product_info_row_a6ykjz"
       ],
       "name": "Product Content",
