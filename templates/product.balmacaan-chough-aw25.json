@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The peacoat fits true to size <em>for a peacoat</em> — which is to say, it is closer in shape to a jacket than an overcoat. For a more relaxed look, with more potential for layering, go up one size.</p>",
+                        "text": "<p>The balmacaan fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his chest — is wearing a size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
