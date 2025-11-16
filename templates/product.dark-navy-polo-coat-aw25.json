@@ -710,7 +710,8 @@
         "gap": 48,
         "color_scheme": "",
         "padding-block-start": 40,
-        "padding-block-end": 40
+        "padding-block-end": 40,
+        "hide_top_padding_on_mobile": true
       }
     },
     "section_6XbmTR": {
@@ -792,7 +793,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Dark_Navy_polo_coat_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
