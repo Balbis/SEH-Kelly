@@ -770,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>But, first off, what we have here is a large, heavy, and immensely warm coat, made to serve its wearer all winter long. It has a large collar, and is just about long enough to cover a suit jacket.</p>",
+                "text": "<p>The tweed is sober by colour, impressive by weight, but way off the scales by texture. The man responsible for its weaving, in the foothills of the Mourne Mountains, asks us to look at the \"<em>shadow of the weave — and the tonal qualities within it. In many ways this as important to its design as the tones found in the yarn itself.\"</em></p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -846,7 +846,7 @@
             "custom_width": 100,
             "width_mobile": "fill",
             "custom_width_mobile": 100,
-            "height": "fit",
+            "height": "fill",
             "custom_height": 100,
             "inherit_color_scheme": true,
             "color_scheme": "",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -896,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The peacoat has what's known, at least in the garment trade of east and north-east London, as an Ulster collar. It is cut such that it is just as happy to stand upright, skimming the neck at the sides and back, as it is sitting down — but even then, it is proud, and is never concave or flat or in any way apologetic.</p>",
+                "text": "<p>A classic walking coat, this: long and single-breasted, and with a two-piece raglan sleeve that allows a great range of movement in the upper body. Very helpful when it comes to layering, too. \"Balmacaan\" is the traditional name for this style of coat — from the Balmacaan forest in Scotland.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -926,6 +926,54 @@
             "image_h4PALj",
             "text_wbHxMh"
           ]
+        },
+        "image_wyLcic": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_4.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_NmkeEQ": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_7.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_9mxmDc": {
           "type": "product-info-row",
@@ -970,6 +1018,30 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "image_eUdtDr": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_5.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_qYNXtV": {
               "type": "text",
               "name": "t:names.text",
@@ -998,35 +1070,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_eUdtDr": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_4.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_qYNXtV",
-            "image_eUdtDr"
+            "image_eUdtDr",
+            "text_qYNXtV"
           ]
         },
         "product_info_row_BHDAEB": {
@@ -1072,35 +1120,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_xDWbHn": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-9m_2x_2a4addc8-9a6c-400b-8bda-c926625e885d.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_fCU6Cg": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the peacoat are large, solid horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "text": "<p>There's a short cuff tab, running backwards from the outer sleeve seam, which offers two levels of tightness.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1124,11 +1148,35 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_xDWbHn": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_8.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_xDWbHn",
-            "text_fCU6Cg"
+            "text_fCU6Cg",
+            "image_xDWbHn"
           ]
         },
         "product_info_row_zCRCgG": {
@@ -1174,11 +1222,35 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "image_AyBRQB": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_9.jpg",
+                "link": "",
+                "image_ratio": "landscape",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_AdpdzQ": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are two pockets on each side of the peacoat, which work in tandem to make life as pleasing as possible for the wearer. Its patch pockets are the most obvious ones, since they're of elephantine proportions. They're strengthened on both sides with bar-tacks — as every stress-point on the peacoat.</p>",
+                "text": "<p>The buttons on the coat are horn, dark in colour and matte in finish. Because each is a thing of nature, they each differ subtly in shade and marking, one to the next. The coat has a fly-front, with the buttons hidden away when fastened, so less likely to snag on barbed wire, bramble, and other outdoor perils.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1202,35 +1274,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_AyBRQB": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_5.jpg",
-                "link": "",
-                "image_ratio": "landscape",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_AdpdzQ",
-            "image_AyBRQB"
+            "image_AyBRQB",
+            "text_AdpdzQ"
           ]
         },
         "product_info_row_n4NWfW": {
@@ -1276,35 +1324,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_dz64gT": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_6.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_TDaycw": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Less obvious are the \"warmer\" pockets, built into the body seam. These are partly submerged within the aforementioned patch pockets. In this way, they occupy a lower position on the body, making the resting of tired hands or the stuffing of cold ones among the most satisfying physical actions imaginable.</p>",
+                "text": "<p>The pockets are set at just the right height for the comfortable plunging of hands, and they're covered by flaps to shield wrists from wind and rain. They also have a secret: as well as being deep pockets in their own right, they contain a channel that serves as an entrance into and / or exit from the inside of the coat.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1328,36 +1352,36 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_dz64gT": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_6.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_dz64gT",
-            "text_TDaycw"
+            "text_TDaycw",
+            "image_dz64gT"
           ]
-        },
-        "image_K9tGwg": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_7.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_6hEtER": {
           "type": "product-info-row",
@@ -1402,11 +1426,35 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "image_xwewwV": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_ibzz8M": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat has half-cuffs at the end of its sleeves. A nod to tradition, these, which are more typically seen on uniform coats and more formal styles of outerwear. These are more conservative than the great half-cuffs of yore, and serve no purpose other than to introduce a little pinch of grandeur.</p>",
+                "text": "<p>Outerwear history says this originates in army coats from a century or more ago — making it easy to access the shirt or jacket or trouser worn underneath the coat. It is both a great party trick and an easy way to access your personal effects with your weaker hand if your lead hand is clutching a coffee.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1430,60 +1478,12 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_xwewwV": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_8.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_ibzz8M",
-            "image_xwewwV"
+            "image_xwewwV",
+            "text_ibzz8M"
           ]
-        },
-        "image_hAahVM": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_9.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_6G9Pmb": {
           "type": "product-info-row",
@@ -1528,30 +1528,6 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_aawGP8": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_10.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_QRGwGX": {
               "type": "text",
               "name": "t:names.text",
@@ -1580,11 +1556,35 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_aawGP8": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_10.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_aawGP8",
-            "text_QRGwGX"
+            "text_QRGwGX",
+            "image_aawGP8"
           ]
         },
         "product_info_row_a6ykjz": {
@@ -1897,13 +1897,13 @@
       "block_order": [
         "product_info_row_7YdD6c",
         "product_info_row_JD6tMg",
+        "image_wyLcic",
+        "image_NmkeEQ",
         "product_info_row_9mxmDc",
         "product_info_row_BHDAEB",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
-        "image_K9tGwg",
         "product_info_row_6hEtER",
-        "image_hAahVM",
         "product_info_row_6G9Pmb",
         "product_info_row_a6ykjz",
         "product_info_row_3gQgQe",
