@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The trench fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his neck — is wearing a size M.</p>",
+                        "text": "<p>The British warm fits true to size, so the mannequin — so standard a 40 chest he has it branded on his chest — is wearing a size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
