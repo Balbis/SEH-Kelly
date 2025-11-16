@@ -337,7 +337,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "shopify://pages/makers-tweed-mill-morayshire",
+                "link": "shopify://pages/makers-weaving-studio-mourne-mountains",
                 "open_in_new_tab": false,
                 "grid_column_start": "auto",
                 "grid_column_end": "auto",
@@ -383,7 +383,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>Tweed Mill</h2>",
+                    "text": "<h2>Weaving Studio</h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -412,7 +412,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Morayshire</p>",
+                    "text": "<p>Mourne Mountains</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -442,7 +442,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image_mode": "single",
-                    "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_1.jpg",
+                    "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_17.jpg",
                     "link": "",
                     "image_ratio": "adapt",
                     "width": "fill",
@@ -465,7 +465,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Meanwhile, on the banks of the Moray Firth, there is weaving afoot — inside a repurposed boat-shed of just the right size, on a loom built over a century ago.</p>",
+                    "text": "<p>Its name might be synonymous for melancholy, and its first loom was built by the local coffin-maker, but the cloth made here — little in the Isles so vital.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
@@ -502,7 +502,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "shopify://pages/makers-tweed-mill-morayshire",
+                "link": "shopify://pages/makers-melton-mill-west-yorkshire",
                 "open_in_new_tab": false,
                 "grid_column_start": "auto",
                 "grid_column_end": "auto",
@@ -548,7 +548,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>Tweed Mill</h2>",
+                    "text": "<p>Melton mill</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -577,7 +577,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Morayshire</p>",
+                    "text": "<p>West Yorkshire</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "custom_max_width": 100,
@@ -607,7 +607,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image_mode": "single",
-                    "image": "shopify://shop_images/SEH_Kelly_Woollen_Mill_North_East_1.jpg",
+                    "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_10.jpg",
                     "link": "",
                     "image_ratio": "adapt",
                     "width": "fill",
@@ -630,7 +630,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Meanwhile, on the banks of the Moray Firth, there is weaving afoot — inside a repurposed boat-shed of just the right size, on a loom built over a century ago.</p>",
+                    "text": "<p>The most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for over 200 years.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "custom_max_width": 100,
