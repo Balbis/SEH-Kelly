@@ -131,7 +131,7 @@
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
-                "italic": "italic",
+                "italic": "italics",
                 "wrap": "pretty",
                 "alignment": "left",
                 "color": "var(--color-foreground)",
