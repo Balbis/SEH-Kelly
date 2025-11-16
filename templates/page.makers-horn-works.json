@@ -90,7 +90,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1>Melton mill</h1>",
+                "text": "<h1>Horn works</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -170,7 +170,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>What they make here, in the Heavy Woollen District of West Yorkshire, is the most dense, the most intensively milled, and the most heavily brushed woollens anywhere in the Isles — supplied to the military for two centuries.</p>",
+                "text": "<p>A north-west cornucopia if ever there was one, this place. They’ve been heating, shaping, and polishing cow, ram, and deer horn — and, in so doing, making things like toggles for duffle coats — in east Lancashire since the 1700s.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
