@@ -2777,7 +2777,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/melton-maker-1m_2x_ad93f03f-6778-46a4-8159-70018f6f72bc.jpg",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2800,7 +2800,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat is made in north-east London. It is a very specialised skill, assembling coats from heavy cloth, and every reasonable step — and the odd unreasonable step — is taken to ensure things are built to last, from the cutting of the pattern to the work on the machine, but without the results being stiff or bulky.</p>",
+                "text": "<p>Mourne Textiles rests in the foothills the Mourne Mountains in Northern Ireland. It was established in 1949 by a textile designer of (appropriately) the mid-century school, and work and weaving there today is led by her daughter — herself a master-weaver — and the generations thereof.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2879,7 +2879,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/mohair-mill-yorkshire-10.jpg",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2903,7 +2903,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/mohair-mill-yorkshire-11.jpg",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2975,7 +2975,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The brass hardware is made by a foundry in the West Midlands, which was founded in the 1800s. It is the last such foundry in an area once heaving with them. Its sand-casting method — which sees 940°c molten brass poured by hand from a crucible into sand-made moulds — is ancient and infallible.</p>",
+                "text": "<p>They work with hand-operated looms — the first assembled half a century ago by the local coffin-maker. As is the way with such things, this imparts great character and pleasingly imperfect artisan qualities. Combined with their slubby custom yarn, you get some of the most eyebrow-raising materials in the Isles.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -3005,7 +3005,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-1.jpg",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -3078,7 +3078,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-grid-4.jpg",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -3150,7 +3150,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-grid-5.jpg",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
