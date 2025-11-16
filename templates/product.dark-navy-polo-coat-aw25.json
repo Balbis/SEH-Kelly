@@ -1828,7 +1828,8 @@
         "product_info_row_6HgRRr",
         "product_info_row_n8dph6"
       ],
-      "name": "Product Content",
+      "disabled": true,
+      "name": "As worn",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -2764,7 +2765,8 @@
         "product_info_row_bzWdXL",
         "product_info_row_YmeV7q"
       ],
-      "name": "Product Content",
+      "disabled": true,
+      "name": "Makers of",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -3708,6 +3710,7 @@
         "group_4REJMw",
         "group_BhQLkz"
       ],
+      "disabled": true,
       "name": "So They Say",
       "settings": {
         "layout_type": "grid",
