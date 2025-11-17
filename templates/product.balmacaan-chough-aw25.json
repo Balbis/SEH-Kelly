@@ -1046,7 +1046,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The peacoat has a front of six buttons, stationed in three pairs, plus a further pair of smaller buttons which are hidden under the collar. These latter buttons enable the coat to be fastened right across the neck, serving as a formidable guard against the very worst of Mother Nature.</p>",
+                "text": "<p>The coat has a collar of sizeable proportions, cut to sit straight when down, and really hug the neck when up. On one side there is a little tab. This buttons across, one side to the other, and keeps the collar upright when the going gets gusty. It can be buttoned back, too, or let to hang loose and lopsided.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
