@@ -34,6 +34,16 @@ class FacetsFormComponent extends Component {
 
     newParameters.delete('page');
 
+    const hasSizeFilter =
+      Array.from(newParameters.keys()).some((key) => key.startsWith('filter.v.t.shopify.size')) ||
+      this.refs.facetsForm?.querySelector('input[name^="filter.v.t.shopify.size"]:checked') !== null;
+
+    if (hasSizeFilter) {
+      newParameters.set('filter.v.availability', '1');
+    } else {
+      newParameters.delete('filter.v.availability');
+    }
+
     const searchQuery = this.#getSearchQuery();
     if (searchQuery) newParameters.set(SEARCH_QUERY, searchQuery);
 
