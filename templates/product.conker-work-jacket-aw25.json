@@ -2489,7 +2489,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/shop-maker-cotton-1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Woollen_mill_Inner_Hebrides_17.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2512,7 +2512,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>They work with hand-operated looms — the first assembled half a century ago by the local coffin-maker. As is the way with such things, this imparts great character and pleasingly imperfect artisan qualities. Combined with their slubby custom yarn, you get some of the most eyebrow-raising materials in the Isles.</p>",
+                "text": "<p>The woollen cloth hails from a mill in the Inner Hebridges, spun using a four-ton Victorian Dobcross power-loom operated by a man who for decades had his hand on the levers of a hundred such contraptions; a man who earned his stripes many times over in the Dobcross wonderland of mid-20th-century West Yorkshire.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2751,7 +2751,6 @@
         "product_info_row_BRjtpd",
         "product_info_row_4NkWT8"
       ],
-      "disabled": true,
       "name": "Makers Of - Outerwear Factory",
       "settings": {
         "layout_type": "flex",
