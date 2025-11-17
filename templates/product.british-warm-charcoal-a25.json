@@ -1830,7 +1830,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The gentleman here is 38 in chest, 6ft 1in in height, 12 stone in weight, and wears the British warm in sizeS.</p>",
+                "text": "<p>The gentleman here is 38 in chest, 6ft 1in in height, 12 stone in weight, and wears the British warm in size S.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
