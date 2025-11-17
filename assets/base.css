@@ -2380,6 +2380,10 @@ deferred-media[class] :is(.deferred-media__poster-button img, .deferred-media__p
   }
 }
 
+.shopify-policy__title h1 {
+  font-size: var(--font-size--3xl);
+}
+
 .shopify-policy__container {
   padding-block: var(--padding-xl);
 }
