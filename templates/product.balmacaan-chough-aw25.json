@@ -257,7 +257,7 @@
                   },
                   "blocks": {}
                 },
-                "modal_MRM3FM": {
+                "modal_a3mjk4": {
                   "type": "modal",
                   "name": "Modal",
                   "settings": {
@@ -298,11 +298,11 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {
-                    "text_6qtiwq": {
+                    "text_VizBQ9": {
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The work jacket fits true to size, so the wooden person here, who is as standard a 40 chest as ever there has been, is happily wearing size M.</p>",
+                        "text": "<p>The balmacaan fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his chest — is wearing a size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
@@ -327,7 +327,7 @@
                       },
                       "blocks": {}
                     },
-                    "size_chart_TtLKKi": {
+                    "size_chart_3gB7hF": {
                       "type": "size-chart",
                       "name": "Size Chart",
                       "settings": {
@@ -338,17 +338,47 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
+                    },
+                    "text_mYGVkj": {
+                      "type": "text",
+                      "name": "t:names.text",
+                      "settings": {
+                        "text": "<p>The method of sleeve construction, with the sleeve cut as one continuous panel from neck to cuff, means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
+                        "width": "100%",
+                        "max_width": "none",
+                        "custom_max_width": 100,
+                        "content_alignment": "flex-start",
+                        "type_preset": "rte",
+                        "font": "var(--font-body--family)",
+                        "font_size": "1rem",
+                        "line_height": "normal",
+                        "letter_spacing": "normal",
+                        "case": "none",
+                        "italic": "none",
+                        "wrap": "pretty",
+                        "alignment": "justify",
+                        "color": "var(--color-foreground)",
+                        "background": false,
+                        "background_color": "#00000026",
+                        "corner_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
                     }
                   },
                   "block_order": [
-                    "text_6qtiwq",
-                    "size_chart_TtLKKi"
+                    "text_VizBQ9",
+                    "size_chart_3gB7hF",
+                    "text_mYGVkj"
                   ]
                 }
               },
               "block_order": [
                 "variant_picker_i8ePmy",
-                "modal_MRM3FM"
+                "modal_a3mjk4"
               ]
             },
             "buy_buttons_eYQEYi": {
@@ -740,8 +770,8 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The work jacket is a five-button number, fairly short and mostly straight in the body. It's an easy all-rounder. It has a collar of middling size, with gently rounded points, and which is cut such that it caresses the neck when up, but sits pleasingly proud and round when down. No sloppy concavity here.</p>",
-                "width": "100%",
+                "text": "<p>The tweed is sober by colour, impressive by weight, but way off the scales by texture. The man responsible for its weaving, in the foothills of the Mourne Mountains, asks us to look at the \"<em>shadow of the weave — and the tonal qualities within it. In many ways this as important to its design as the tones found in the yarn itself.\"</em></p>",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
@@ -770,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -816,7 +846,7 @@
             "custom_width": 100,
             "width_mobile": "fill",
             "custom_width_mobile": 100,
-            "height": "fit",
+            "height": "fill",
             "custom_height": 100,
             "inherit_color_scheme": true,
             "color_scheme": "",
@@ -843,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -866,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the jacket are solid horn — middling in shade and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "text": "<p>A classic walking coat, this: long and single-breasted, and with a two-piece raglan sleeve that allows a great range of movement in the upper body. Very helpful when it comes to layering, too. \"Balmacaan\" is the traditional name for this style of coat — from the Balmacaan forest in Scotland.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -896,6 +926,54 @@
             "image_h4PALj",
             "text_wbHxMh"
           ]
+        },
+        "image_wyLcic": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_4.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_NmkeEQ": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_7.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_9mxmDc": {
           "type": "product-info-row",
@@ -940,12 +1018,36 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "image_eUdtDr": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_5.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_qYNXtV": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The jacket has what looks like a typical set-in sleeve, such as you would expect to find on a jacket of this kind, but also a large diamond (or kite) panel has taken up residence at the underarm. This is a gusset, and it improves upward and forward lift when in use, and the rest of the time sits neat and flat.</p>",
-                "width": "100%",
+                "text": "<p>The peacoat has a front of six buttons, stationed in three pairs, plus a further pair of smaller buttons which are hidden under the collar. These latter buttons enable the coat to be fastened right across the neck, serving as a formidable guard against the very worst of Mother Nature.</p>",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-end",
@@ -968,13 +1070,91 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_eUdtDr",
+            "text_qYNXtV"
+          ]
+        },
+        "product_info_row_BHDAEB": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_fCU6Cg": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>There's a short cuff tab, running backwards from the outer sleeve seam, which offers two levels of tightness.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             },
-            "image_eUdtDr": {
+            "image_xDWbHn": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -995,8 +1175,212 @@
             }
           },
           "block_order": [
-            "text_qYNXtV",
-            "image_eUdtDr"
+            "text_fCU6Cg",
+            "image_xDWbHn"
+          ]
+        },
+        "product_info_row_zCRCgG": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_AyBRQB": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_9.jpg",
+                "link": "",
+                "image_ratio": "landscape",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_AdpdzQ": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The buttons on the coat are horn, dark in colour and matte in finish. Because each is a thing of nature, they each differ subtly in shade and marking, one to the next. The coat has a fly-front, with the buttons hidden away when fastened, so less likely to snag on barbed wire, bramble, and other outdoor perils.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_AyBRQB",
+            "text_AdpdzQ"
+          ]
+        },
+        "product_info_row_n4NWfW": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_TDaycw": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The pockets are set at just the right height for the comfortable plunging of hands, and they're covered by flaps to shield wrists from wind and rain. They also have a secret: as well as being deep pockets in their own right, they contain a channel that serves as an entrance into and / or exit from the inside of the coat.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_dz64gT": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_6.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_TDaycw",
+            "image_dz64gT"
           ]
         },
         "product_info_row_6hEtER": {
@@ -1047,7 +1431,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1070,8 +1454,8 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The jacket has many pockets — some more obvious than others. The main pockets certainly <em>are </em>obvious, spanning as they do the entire front of the jacket. They're best thought of as buckets for all and every belonging — drop it in there, care and precision be darned — and the insouciant stuffing of the hand.</p>",
-                "width": "100%",
+                "text": "<p>Outerwear history says this originates in army coats from a century or more ago — making it easy to access the shirt or jacket or trouser worn underneath the coat. It is both a great party trick and an easy way to access your personal effects with your weaker hand if your lead hand is clutching a coffee.</p>",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
@@ -1101,109 +1485,7 @@
             "text_ibzz8M"
           ]
         },
-        "product_info_row_zCRCgG": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_AdpdzQ": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>There is a chest pocket on the right. It is quite a large one, as such pockets go. With the main pockets mentioned above, it brings the pocket count on the jacket up to three, though that's just those external.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_AyBRQB": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_5.jpg",
-                "link": "",
-                "image_ratio": "landscape",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_AdpdzQ",
-            "image_AyBRQB"
-          ]
-        },
-        "product_info_row_a6ykjz": {
+        "product_info_row_6G9Pmb": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1246,35 +1528,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_LU44tE": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_9.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_Lx3nXa": {
+            "text_QRGwGX": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Stout little bar tacks can be found at all the most hard-working points on the work jacket — most obviously the entry-points of the pockets.</p>",
+                "text": "<p>Round the rear lurks a deep vent which runs from the belt line to the hem. It is constructed in the old-fashioned and faintly over-complicated manner of mid-century British walking coats, and means there's more coat to the coat to expand when the wearer lurches forwards or sideways.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1298,95 +1556,17 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_LU44tE",
-            "text_Lx3nXa"
-          ]
-        },
-        "product_info_row_nfUCdV": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_T38H73": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The fifth and sixth pockets on the jacket are on the inside, on the left and right sides. They are precisely the right dimensions and coordinates for the stuffing of mobiles and cards. Taking these two into account, pocketing is thought to cover about three-eighths of the total surface area.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             },
-            "image_thYFA7": {
+            "image_aawGP8": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_12.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
-                "custom_width": 100,
+                "custom_width": 66,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
                 "height": "fit",
@@ -1403,11 +1583,11 @@
             }
           },
           "block_order": [
-            "text_T38H73",
-            "image_thYFA7"
+            "text_QRGwGX",
+            "image_aawGP8"
           ]
         },
-        "product_info_row_Xfew8J": {
+        "product_info_row_3gQgQe": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1450,147 +1630,16 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_LzJYcR": {
+            "image_4jyNfp": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_3.jpg",
-                "link": "",
-                "image_ratio": "landscape",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_LVGBHE": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The armholes on the jacket are very slightly lapped, which gives a subtle but definitely-there depth at the shoulder. Not just for show, either: the lapping shields the armhole seam from the rigours of the outside world, prolonging durability, and is a trapping of thoughtful workwear since the year dot.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_LzJYcR",
-            "text_LVGBHE"
-          ]
-        },
-        "product_info_row_rePVfi": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_AVWXne": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The sleeves are a standard sort of width, but they taper sharply at the elbow and fasten snugly around the wrist with gusset-laden cuffs.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_prNWqP": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
+                "width": "custom",
+                "custom_width": 66,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
                 "height": "fit",
@@ -1604,14 +1653,43 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "text_L6NWdK": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>One more pocket: this time on the inside, on the left-side as worn, and set a little lower than normal to make things easier on the elbows. It is a chest pocket of standard wallet- or mobile-size.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "text_AVWXne",
-            "image_prNWqP"
+            "image_4jyNfp",
+            "text_L6NWdK"
           ]
         },
-        "product_info_row_gpB8n6": {
+        "product_info_row_YWkr8F": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1654,114 +1732,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_mKFfpt": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_11.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fill",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_ydz9kq": {
+            "text_TDgXDt": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The jacket is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the jacket on and off. Indeed, despite the outer cloth being so firm and rigid, the \"putting on\" experience is as if rendered in Teflon. The sleeves are lined with the same cloth.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_mKFfpt",
-            "text_ydz9kq"
-          ]
-        },
-        "product_info_row_fUmfNc": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_R9UMQw": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Wearing a wool jacket is — or should be — one of life's quotidian pleasures, with a warmth and softness unmatched anywhere else in the cotton kingdom married to an everyday rinse-wash-repeat readiness. This is a heavy variant, but still breathable and practical for all months save summer.</p>",
-                "width": "100%",
+                "text": "<p>The coat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the balmacaan on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
@@ -1785,16 +1761,16 @@
               },
               "blocks": {}
             },
-            "image_tWegP3": {
+            "image_PqFVza": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Work_Jacket_Conker_13.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
+                "width": "custom",
+                "custom_width": 66,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
                 "height": "fit",
@@ -1811,23 +1787,24 @@
             }
           },
           "block_order": [
-            "text_R9UMQw",
-            "image_tWegP3"
+            "text_TDgXDt",
+            "image_PqFVza"
           ]
         }
       },
       "block_order": [
         "product_info_row_7YdD6c",
         "product_info_row_JD6tMg",
+        "image_wyLcic",
+        "image_NmkeEQ",
         "product_info_row_9mxmDc",
-        "product_info_row_6hEtER",
+        "product_info_row_BHDAEB",
         "product_info_row_zCRCgG",
-        "product_info_row_a6ykjz",
-        "product_info_row_nfUCdV",
-        "product_info_row_Xfew8J",
-        "product_info_row_rePVfi",
-        "product_info_row_gpB8n6",
-        "product_info_row_fUmfNc"
+        "product_info_row_n4NWfW",
+        "product_info_row_6hEtER",
+        "product_info_row_6G9Pmb",
+        "product_info_row_3gQgQe",
+        "product_info_row_YWkr8F"
       ],
       "name": "Product Content",
       "settings": {
@@ -1952,12 +1929,189 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "text_jrbHhD": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The gentleman here is 6'1\" and 12 stone and 38 in chest. The coat here, then, is a sizeS.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-end",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "image_wGN4mC": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/work-jacket-cotton-linen-hopsack-chimney-worn-3_2x_e75e33e3-d4ff-4ab9-a415-c06df4277647.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_1.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_jrbHhD",
+            "image_wGN4mC"
+          ]
+        },
+        "image_Gy9xCm": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_3.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_9JRTck": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_4.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_3byd8V": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_5.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "group_VEWHHP": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "auto",
+            "grid_column_end": "auto",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_BWMeLa": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1976,12 +2130,109 @@
               },
               "blocks": {}
             },
-            "text_jrbHhD": {
+            "image_FVQhHD": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_7.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_BWMeLa",
+            "image_FVQhHD"
+          ]
+        },
+        "product_info_row_aRECjx": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_gggHKE": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_8.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_3p7fyn": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The gent here has a very standard 38 chest, height of 6ft 1in and weight of 12 stone. The work jacket he's wearing here, then, is a sizeS, and it is arguably just right.</p>",
-                "width": "100%",
+                "text": "<p>The balmacaan here is again the same size (sizeS) and indeed so again is the man (38 chest). It is really just shown here to showcase the exit — or entry, depending on the point of view — that is built into the top of the pocket bag.</p>",
+                "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-end",
@@ -2007,11 +2258,35 @@
             }
           },
           "block_order": [
-            "image_wGN4mC",
-            "text_jrbHhD"
+            "image_gggHKE",
+            "text_3p7fyn"
           ]
         },
-        "product_info_row_6HgRRr": {
+        "image_BXaBQT": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_9.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "product_info_row_9KFAAT": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2021,7 +2296,7 @@
             "vertical_on_mobile": true,
             "reverse_on_mobile": false,
             "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
+            "vertical_alignment": "flex-start",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "center",
@@ -2054,12 +2329,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_Mc99J4": {
+            "image_f4Vm9y": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/work-jacket-cotton-linen-hopsack-chimney-worn-3_2x_e75e33e3-d4ff-4ab9-a415-c06df4277647.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2077,92 +2352,105 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "text_MRMq7e": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>More of the same gentleman wearing more of the same coat.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-end",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_Mc99J4"
+            "image_f4Vm9y",
+            "text_MRMq7e"
           ]
         },
-        "product_info_row_n8dph6": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
+        "image_9AJUam": {
+          "type": "image",
+          "name": "t:names.image",
           "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_11.jpg",
             "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
+            "image_ratio": "adapt",
             "width": "fill",
             "custom_width": 100,
             "width_mobile": "fill",
             "custom_width_mobile": 100,
             "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
             "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
             "padding-block-start": 0,
             "padding-block-end": 0,
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
-          "blocks": {
-            "image_hE4wek": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/work-jacket-cotton-linen-hopsack-chimney-worn-2_2x_f1b653fd-f156-4508-ad0d-97527e4c4372.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
+          "blocks": {}
+        },
+        "image_wabk4H": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_12.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
           },
-          "block_order": [
-            "image_hE4wek"
-          ]
+          "blocks": {}
         }
       },
       "block_order": [
         "text_zra87V",
         "product_info_row_ddmqKk",
-        "product_info_row_6HgRRr",
-        "product_info_row_n8dph6"
+        "image_Gy9xCm",
+        "image_9JRTck",
+        "image_3byd8V",
+        "group_VEWHHP",
+        "product_info_row_aRECjx",
+        "image_BXaBQT",
+        "product_info_row_9KFAAT",
+        "image_9AJUam",
+        "image_wabk4H"
       ],
-      "name": "Product Content",
+      "name": "As worn",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -2210,10 +2498,10 @@
         "padding-block-end": 16
       }
     },
-    "section_LTjQxW": {
+    "section_UmaynW": {
       "type": "section",
       "blocks": {
-        "text_aCUt8H": {
+        "text_pfXYL8": {
           "type": "text",
           "name": "t:names.text",
           "settings": {
@@ -2242,7 +2530,7 @@
           },
           "blocks": {}
         },
-        "product_info_row_kCk3pj": {
+        "product_info_row_TqDPNc": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2285,7 +2573,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_Tt9br4": {
+            "text_xgPect": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2314,7 +2602,7 @@
               },
               "blocks": {}
             },
-            "image_DJpDYB": {
+            "image_E4djgU": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2340,11 +2628,11 @@
             }
           },
           "block_order": [
-            "text_Tt9br4",
-            "image_DJpDYB"
+            "text_xgPect",
+            "image_E4djgU"
           ]
         },
-        "product_info_row_d4GGQa": {
+        "product_info_row_MJdJY4": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2387,7 +2675,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_KwgNFj": {
+            "image_NXwc3U": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2411,7 +2699,7 @@
               },
               "blocks": {}
             },
-            "image_KMBrtD": {
+            "image_xiHk4m": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2437,11 +2725,11 @@
             }
           },
           "block_order": [
-            "image_KwgNFj",
-            "image_KMBrtD"
+            "image_NXwc3U",
+            "image_xiHk4m"
           ]
         },
-        "product_info_row_aidXa4": {
+        "product_info_row_tmjH3T": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2484,12 +2772,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_3GF8gK": {
+            "image_RnGUEx": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/shop-maker-cotton-1.jpg",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2508,7 +2796,182 @@
               },
               "blocks": {}
             },
-            "text_j3X8GX": {
+            "text_6Cakwi": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Mourne Textiles rests in the foothills the Mourne Mountains in Northern Ireland. It was established in 1949 by a textile designer of (appropriately) the mid-century school, and work and weaving there today is led by her daughter — herself a master-weaver — and the generations thereof.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_RnGUEx",
+            "text_6Cakwi"
+          ]
+        },
+        "product_info_row_AGLmyT": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_n3rmVN": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-4.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_qQRw8N": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-8.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_n3rmVN",
+            "image_qQRw8N"
+          ]
+        },
+        "product_info_row_ezWhVq": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_K8EEbe": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2536,14 +2999,38 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_AUpEW4": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-5.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_3GF8gK",
-            "text_j3X8GX"
+            "text_K8EEbe",
+            "image_AUpEW4"
           ]
         },
-        "product_info_row_BRjtpd": {
+        "product_info_row_Xx8tCA": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2586,7 +3073,175 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_XpYWNA": {
+            "image_ieKdjq": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-11.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_ieKdjq"
+          ]
+        },
+        "product_info_row_7fCPhQ": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_LtwQ3E": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_LtwQ3E"
+          ]
+        },
+        "product_info_row_bzWdXL": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_HCKpXa": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_a8hFHR": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2614,38 +3269,14 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_w3TtKa": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_XpYWNA",
-            "image_w3TtKa"
+            "image_HCKpXa",
+            "text_a8hFHR"
           ]
         },
-        "product_info_row_4NkWT8": {
+        "product_info_row_YmeV7q": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2688,7 +3319,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_Y7j6Ug": {
+            "image_EXXyzj": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2712,7 +3343,7 @@
               },
               "blocks": {}
             },
-            "image_kgFgaK": {
+            "image_TXBhz8": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2738,20 +3369,24 @@
             }
           },
           "block_order": [
-            "image_Y7j6Ug",
-            "image_kgFgaK"
+            "image_EXXyzj",
+            "image_TXBhz8"
           ]
         }
       },
       "block_order": [
-        "text_aCUt8H",
-        "product_info_row_kCk3pj",
-        "product_info_row_d4GGQa",
-        "product_info_row_aidXa4",
-        "product_info_row_BRjtpd",
-        "product_info_row_4NkWT8"
+        "text_pfXYL8",
+        "product_info_row_TqDPNc",
+        "product_info_row_MJdJY4",
+        "product_info_row_tmjH3T",
+        "product_info_row_AGLmyT",
+        "product_info_row_ezWhVq",
+        "product_info_row_Xx8tCA",
+        "product_info_row_7fCPhQ",
+        "product_info_row_bzWdXL",
+        "product_info_row_YmeV7q"
       ],
-      "name": "Makers Of - Outerwear Factory",
+      "name": "Makers of",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -2931,7 +3566,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>I picked up the jacket yesterday. It is an absolutely stunning masterpiece! In particular, the ventilation is very neat.</em></p>",
+                "text": "<p><em>Thoroughly astounded to have received the balmacaan in less than a day! Size XL is perfect on me, I’m very glad about it. The garment is on a whole other level. Thick and rough as I like, yet light and fluid in motion. It is so beautifully made, from the cloth, an absolute marvel of no-fuss weaving, to the cut that melds classical timelessness with functional modernism to stunning effect. Undeniably the sturdy and stylish paragon of a balmacaan I was after.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3011,7 +3646,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>A happy man in Germany, and his work jacket in heavy corduroy, in May 2020.</p>",
+                "text": "<p>So said a man in France about his balmacaan in tweed from Donegal over Christmas 2021.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3091,7 +3726,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>The jacket has just safely arrived and I am very pleased. It fits very well due to using your size chart, is of a substantial cord, and the quality of manufacture and design are self-evident. I will no doubt purchase other items in the future.</em></p>",
+                "text": "<p><em>Let me tell you — the balmacaan is a work of art. From the texture and colour to the drape of the whole piece, it is so thoughtfully put together that every wear is a pleasure!</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3171,7 +3806,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>So spoke a man in the north-west, who purchased the work jacket in very heavy cord in September 2019.</p>",
+                "text": "<p>A happy customer in Germany, who purchased the balmacaan in heavy barleycorn Donegal tweed in October 2020.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3251,7 +3886,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>Yet another beautiful (and functional) thing.</em></p>",
+                "text": "<p><em>The coat is wonderful. I have in my time worn</em> [list of established British coat-makers]<em> and, in their prime, </em>[another very notable British coat-maker]<em> and none hold a candle to this. It is lightweight, has a great hand and texture, its fit is perfect for me, and so is its cut. Thank you very much. It also arrived beautifully boxed and intact.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3331,7 +3966,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Feedback from a chap in London, who picked up the work jacket in heavy cord in October 2018.</p>",
+                "text": "<p>So commented a gent in the States about the balmacaan in the Flyweight quality of Ventile in May 2017.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3411,7 +4046,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>As with my overshirt, I am very pleased with the work jacket, too. Your things are very distinctive, without being at all gimmicky, and are beautifully made. Thank you.</em></p>",
+                "text": "<p><em>The balmacaan arrived yesterday, intact, beautifully wrapped and boxed. It is beautiful and fits perfectly. Over a suit with cell phone, stethoscope, and assorted EDC gear on board, it is comfortable and not baggy. And the fabric is amazing. A soft hand and drape but seems as if it will wear forever. Love the Donegal slubs, too. I often wear a popped collar — a throwback to my preppy days — and the collar here really pops. I couldn't be more pleased. Thank you again for you great service and superior craftsmanship.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3441,7 +4076,7 @@
             "text_CwFcDG"
           ]
         },
-        "group_CaeVdD": {
+        "group_frLKVD": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3487,11 +4122,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_PWcLaR": {
+            "text_fftB4V": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>On the heels of an overshirt acquired one week earlier, this gent bought the jacket in melton in August 2017.</p>",
+                "text": "<p>The words of a man who purchased a tweed version of the balmacaan in September 2017.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3518,7 +4153,7 @@
             }
           },
           "block_order": [
-            "text_PWcLaR"
+            "text_fftB4V"
           ]
         },
         "group_4REJMw": {
@@ -3571,7 +4206,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>After a brief detention in a mountain-top post office, the [work] jacket has arrived and is unsurprisingly delightful.</em></p>",
+                "text": "<p><em>I have gotten the urge to advance further into the world of well-dressed people, and I was one of the lucky people who got their hands on the sturdy balmacaan in Ventile Canvas.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -3599,6 +4234,486 @@
           },
           "block_order": [
             "text_CtQwJx"
+          ]
+        },
+        "group_CaeVdD": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "5",
+            "grid_column_end": "6",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 50,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_PWcLaR": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>This is what a gentleman who acquired the balmacaan in (sturdy indeed) Ventile Canvas had to say in February 2016.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_PWcLaR"
+          ]
+        },
+        "group_rGWEGK": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 12,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_aTqBgp": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>The balmacaan has arrived. It is beautiful.</em></p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_aTqBgp"
+          ]
+        },
+        "group_bpzFyR": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "5",
+            "grid_column_end": "6",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 50,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_k7KP6r": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Succinct words from a man who bought the coat in January 2016.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_k7KP6r"
+          ]
+        },
+        "group_jEiDw6": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 12,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_QQgFhi": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I have received the tweed balmacaan and it is even more beautiful than I remembered. Thank you very much again.</em></p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_QQgFhi"
+          ]
+        },
+        "group_KKPcnQ": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "5",
+            "grid_column_end": "6",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 50,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_CCXPdD": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>This man had been waiting for a tweed balmacaan for nearly two years, and finally got his hands on one in September 2017.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_CCXPdD"
+          ]
+        },
+        "group_MrTrHx": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 12,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_i6i4Lp": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I'm very pleased — it's beautifully made and detailed.</em></p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_i6i4Lp"
           ]
         },
         "group_BhQLkz": {
@@ -3651,7 +4766,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This gent bought a rare thing indeed — the jacket in wool-angora — in September of 2016.</p>",
+                "text": "<p>More succinct words, by a chap who bought the bal in March 2016.</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "custom_max_width": 100,
@@ -3680,6 +4795,166 @@
           "block_order": [
             "text_eUGyfN"
           ]
+        },
+        "group_BUT3Tf": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 12,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_dDaqCN": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I thought I'd let you know that I'm really pleased with my balmacaan. I've already given it a couple wears despite the weather being a bit chilly, and I love it. The fit and cut is wonderful — modern and classic at the same time, great silhouette and a perfect collar. And the fabric is great, looks and feels lovely, and the way it creases, especially up and down the arms, is amazing. I imagine it ageing very well. A proper rain coat. I'm eagerly anticipating a rainy spring.</em></p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_dDaqCN"
+          ]
+        },
+        "group_TBMDRP": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "5",
+            "grid_column_end": "6",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 50,
+            "sticky": true,
+            "sticky_gap": 30,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_HqYC4W": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Kind words by a man who purchased the balmacaan in canopy cotton in March 2018.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_HqYC4W"
+          ]
         }
       },
       "block_order": [
@@ -3691,9 +4966,17 @@
         "group_DaaWbn",
         "group_CzfCj7",
         "group_tFJyEE",
-        "group_CaeVdD",
+        "group_frLKVD",
         "group_4REJMw",
-        "group_BhQLkz"
+        "group_CaeVdD",
+        "group_rGWEGK",
+        "group_bpzFyR",
+        "group_jEiDw6",
+        "group_KKPcnQ",
+        "group_MrTrHx",
+        "group_BhQLkz",
+        "group_BUT3Tf",
+        "group_TBMDRP"
       ],
       "name": "So They Say",
       "settings": {
@@ -3923,7 +5206,7 @@
     "divider_KTxBmV",
     "section_ggcyy3",
     "divider_NNj3WX",
-    "section_LTjQxW",
+    "section_UmaynW",
     "section_yPRNJr",
     "product_recommendations_qggXJq"
   ]
