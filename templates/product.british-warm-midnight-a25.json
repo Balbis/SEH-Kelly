@@ -2569,7 +2569,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat is made in north-east London. It is a very specialised skill, assembling coats from heavy cloth, and every reasonable step — and the odd unreasonable step — is taken to ensure things are built to last, from the cutting of the pattern to the work on the machine, but without the results being stiff or bulky.</p>",
+                "text": "<p>The woollen cloth hails from a mill founded in the Scottish Highlands over two hundred years ago. Carding, blending, spinning, and weaving — it all happens on the same premises. This unique arrangement means that the fleece’s change into top-grade cloth could not be more tightly tuned.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
