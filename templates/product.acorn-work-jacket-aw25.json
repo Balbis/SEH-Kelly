@@ -2210,10 +2210,10 @@
         "padding-block-end": 16
       }
     },
-    "section_UmaynW": {
+    "section_KDxWe9": {
       "type": "section",
       "blocks": {
-        "text_pfXYL8": {
+        "text_4yN4Xx": {
           "type": "text",
           "name": "t:names.text",
           "settings": {
@@ -2242,7 +2242,7 @@
           },
           "blocks": {}
         },
-        "product_info_row_TqDPNc": {
+        "product_info_row_MMnh88": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2285,7 +2285,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_xgPect": {
+            "text_pj79Nx": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2314,7 +2314,7 @@
               },
               "blocks": {}
             },
-            "image_E4djgU": {
+            "image_nAKG7i": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2340,11 +2340,11 @@
             }
           },
           "block_order": [
-            "text_xgPect",
-            "image_E4djgU"
+            "text_pj79Nx",
+            "image_nAKG7i"
           ]
         },
-        "product_info_row_MJdJY4": {
+        "product_info_row_X7AyED": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2387,7 +2387,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_NXwc3U": {
+            "image_3dBPaV": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2411,7 +2411,7 @@
               },
               "blocks": {}
             },
-            "image_xiHk4m": {
+            "image_Gr8K9E": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2437,11 +2437,11 @@
             }
           },
           "block_order": [
-            "image_NXwc3U",
-            "image_xiHk4m"
+            "image_3dBPaV",
+            "image_Gr8K9E"
           ]
         },
-        "product_info_row_tmjH3T": {
+        "product_info_row_7GFd6y": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2484,12 +2484,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_RnGUEx": {
+            "image_8KgEBF": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/shop-maker-cotton-1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Woollen_mill_Inner_Hebrides_17.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2508,11 +2508,11 @@
               },
               "blocks": {}
             },
-            "text_6Cakwi": {
+            "text_K3jfVm": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>They work with hand-operated looms — the first assembled half a century ago by the local coffin-maker. As is the way with such things, this imparts great character and pleasingly imperfect artisan qualities. Combined with their slubby custom yarn, you get some of the most eyebrow-raising materials in the Isles.</p>",
+                "text": "<p>The woollen cloth hails from a mill in the Inner Hebridges, spun using a four-ton Victorian Dobcross power-loom operated by a man who for decades had his hand on the levers of a hundred such contraptions; a man who earned his stripes many times over in the Dobcross wonderland of mid-20th-century West Yorkshire.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2539,11 +2539,11 @@
             }
           },
           "block_order": [
-            "image_RnGUEx",
-            "text_6Cakwi"
+            "image_8KgEBF",
+            "text_K3jfVm"
           ]
         },
-        "product_info_row_bzWdXL": {
+        "product_info_row_GK9x3j": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2586,7 +2586,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_a8hFHR": {
+            "text_RJUPJR": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2615,7 +2615,7 @@
               },
               "blocks": {}
             },
-            "image_HCKpXa": {
+            "image_LWBiFn": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2641,11 +2641,11 @@
             }
           },
           "block_order": [
-            "text_a8hFHR",
-            "image_HCKpXa"
+            "text_RJUPJR",
+            "image_LWBiFn"
           ]
         },
-        "product_info_row_YmeV7q": {
+        "product_info_row_K6MmU9": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2688,7 +2688,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_EXXyzj": {
+            "image_XyVwpk": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2712,7 +2712,7 @@
               },
               "blocks": {}
             },
-            "image_TXBhz8": {
+            "image_nby67x": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2738,18 +2738,18 @@
             }
           },
           "block_order": [
-            "image_EXXyzj",
-            "image_TXBhz8"
+            "image_XyVwpk",
+            "image_nby67x"
           ]
         }
       },
       "block_order": [
-        "text_pfXYL8",
-        "product_info_row_TqDPNc",
-        "product_info_row_MJdJY4",
-        "product_info_row_tmjH3T",
-        "product_info_row_bzWdXL",
-        "product_info_row_YmeV7q"
+        "text_4yN4Xx",
+        "product_info_row_MMnh88",
+        "product_info_row_X7AyED",
+        "product_info_row_7GFd6y",
+        "product_info_row_GK9x3j",
+        "product_info_row_K6MmU9"
       ],
       "name": "Makers Of - Outerwear Factory",
       "settings": {
@@ -3923,7 +3923,7 @@
     "divider_KTxBmV",
     "section_ggcyy3",
     "divider_NNj3WX",
-    "section_UmaynW",
+    "section_KDxWe9",
     "section_wqRMJh",
     "product_recommendations_qggXJq"
   ]
