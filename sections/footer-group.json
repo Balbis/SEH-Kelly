@@ -107,7 +107,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The workshop was built over a century ago, and for the past decade or more has served competently and compactly as company headquarters. Garments aren’t made here, of course — that’s the purview now of makers across the British Isles — but it is quite handy for the development of them. <a href=\"https://www.sehkelly.com/workshop/\">More</a></p>",
+                "text": "<p>The workshop was built over a century ago, and for the past decade or more has served competently and compactly as company headquarters. Garments aren’t made here, of course — that’s the purview now of makers across the British Isles — but it is quite handy for the development of them.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
