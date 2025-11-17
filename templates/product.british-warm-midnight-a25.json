@@ -3850,6 +3850,7 @@
         "group_4REJMw",
         "group_BhQLkz"
       ],
+      "disabled": true,
       "name": "So They Say",
       "settings": {
         "layout_type": "grid",
@@ -3882,6 +3883,20 @@
         "gradient_direction": "to top",
         "padding-block-start": 30,
         "padding-block-end": 0
+      }
+    },
+    "divider_N9LD7Y": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "page-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
       }
     },
     "product_recommendations_qggXJq": {
@@ -4080,6 +4095,7 @@
     "divider_NNj3WX",
     "section_XwAkN9",
     "section_yPRNJr",
+    "divider_N9LD7Y",
     "product_recommendations_qggXJq"
   ]
 }
