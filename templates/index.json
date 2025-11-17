@@ -499,7 +499,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>If it's a classic type of garment and you can append to it the word \"coat\", it might very well be found here. Trench coats, car coats, peacoats, duffle coats — this way. <a href=\"https://www.sehkelly.com/shop/coats/\">More</a></p>",
+                "text": "<p>If it's a classic type of garment and you can append to it the word \"coat\", it might very well be found here. Trench coats, car coats, peacoats, duffle coats — this way.</p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -637,7 +637,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>They run the gamut, here, do jackets — from the casual type made from cotton or cord, and the more tailored type, made with wool, perhaps, or cashmere. <a href=\"https://www.sehkelly.com/shop/jackets/\">More</a></p>",
+                "text": "<p>They run the gamut, here, do jackets — from the casual type made from cotton or cord, and the more tailored type, made with wool, perhaps, or cashmere.</p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
