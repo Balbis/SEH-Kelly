@@ -11,7 +11,7 @@
   "accessibility": {
     "account": "Open account dropdown",
     "cart": "Basket",
-    "cart_count": "Total items in cart",
+    "cart_count": "Total items in basket",
     "close_dialog": "Close dialog",
     "country_region": "Country/Region",
     "country_results_count": "{{ count }} results",
@@ -29,7 +29,7 @@
     "menu": "Menu",
     "nested_product": "{{ product_title }} for {{ parent_title }}",
     "new_window": "Opens in a new window.",
-    "open_cart_drawer": "Open cart",
+    "open_cart_drawer": "Open basket",
     "open_search_modal": "Open search modal",
     "quantity": "Quantity",
     "pause_video": "Pause video",
@@ -55,7 +55,7 @@
   },
   "actions": {
     "add": "Add",
-    "add_to_cart": "Add to cart",
+    "add_to_cart": "Add to basket",
     "added": "Added",
     "apply": "Apply",
     "back": "Back",
@@ -139,14 +139,14 @@
     "account_profile": "Profile",
     "blog_details_separator": "|",
     "cart_estimated_total": "Estimated total",
-    "cart_title": "Cart",
+    "cart_title": "Basket",
     "cart_subtotal": "Subtotal",
-    "cart_total": "Cart total",
+    "cart_total": "Basket total",
     "checkout": "Check out",
     "collection_placeholder": "Collection title",
     "discount_code": "Discount code",
     "shipping_discount_error": "Shipping discounts are shown at checkout after adding an address",
-    "discount_code_error": "Discount code cannot be applied to your cart",
+    "discount_code_error": "Discount code cannot be applied to your basket",
     "discounts": "Discounts",
     "duties_and_taxes_included": "Duties and taxes included.",
     "duties_and_taxes_included_shipping_at_checkout_with_policy_html": "Duties and taxes included. Discounts and <a href=\"{{ link }}\">shipping</a> calculated at checkout.",
@@ -239,7 +239,7 @@
     "unavailable": "Unavailable",
     "use_fewer_filters_html": "Try using fewer filters, or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all filters</a>.",
     "view_more_details": "View more details",
-    "your_cart_is_empty": "Your cart is empty",
+    "your_cart_is_empty": "Your basket is empty",
     "product_count": "Product count",
     "errors": "Errors",
     "wrong_password": "Wrong password"
@@ -269,12 +269,71 @@
   },
   "products": {
     "product": {
-      "add_to_cart": "Add to cart",
+      "add_to_cart": "Add to basket",
       "adding_to_cart": "Adding...",
-      "added_to_cart": "Added to cart",
-      "add_to_cart_error": "Error adding to cart",
+      "added_to_cart": "Added to basket",
+      "add_to_cart_error": "Error adding to basket",
       "sold_out": "Sold out",
       "unavailable": "Unavailable"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "cart": "Basket",
+        "back_to_cart": "Return to basket",
+        "errors": {
+          "delivery": {
+            "only_one_delivery_line_allowed": "Basket must only have one delivery line"
+          },
+          "discount": {
+            "allocations_mismatch": "Your discount code has changed. Review your basket and try again."
+          }
+        }
+      },
+      "stock": {
+        "removed_from_cart_notice": "Removed from basket.",
+        "remove_from_cart_button_label": "Remove from basket.",
+        "go_back_to_cart_button_label": "Go back to my basket.",
+        "empty_cart_label": "Your basket is empty.",
+        "quantity_update": {
+          "description": "Available quantities for these items have changed, and have been updated in your basket."
+        },
+        "unpurchasable_product": {
+          "header": "Some items were removed from your basket."
+        },
+        "unpurchasable_product_generic": {
+          "header": "Some items were removed from your basket."
+        },
+        "unshippable_product": {
+          "message": {
+            "one": "This item will be removed from your basket because there are no delivery methods available for your address.",
+            "other": "These items will be removed from your basket because there are no delivery methods available for your address."
+          }
+        },
+        "price_update": {
+          "description": "Prices for these items have changed and are update in your basket."
+        }
+      },
+      "throttle": {
+        "cart_summary_heading": "Your basket"
+      },
+      "notice_banner": {
+        "return_to_cart_link_text": "Return to basket"
+      },
+      "review_address_modal": {
+        "return_to_cart": "Return to basket"
+      }
+    },
+    "notices": {
+      "cart": {
+        "merchandise_line_transformers": {
+          "run_error": "An error occured in your basket"
+        }
+      }
+    },
+    "page_titles": {
+      "shopping_cart": "Your basket"
     }
   }
 }
