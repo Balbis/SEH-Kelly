@@ -397,7 +397,7 @@
           "type": "group",
           "name": "t:names.group",
           "settings": {
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/shop",
             "open_in_new_tab": false,
             "grid_column_start": "1",
             "grid_column_end": "3",
@@ -535,7 +535,7 @@
           "type": "group",
           "name": "t:names.group",
           "settings": {
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/shop",
             "open_in_new_tab": false,
             "grid_column_start": "3",
             "grid_column_end": "auto",
@@ -673,7 +673,7 @@
           "type": "group",
           "name": "t:names.group",
           "settings": {
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/shop",
             "open_in_new_tab": false,
             "grid_column_start": "1",
             "grid_column_end": "auto",
@@ -811,7 +811,7 @@
           "type": "group",
           "name": "t:names.group",
           "settings": {
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/shop",
             "open_in_new_tab": false,
             "grid_column_start": "2",
             "grid_column_end": "auto",
@@ -946,7 +946,7 @@
           "type": "group",
           "name": "t:names.group",
           "settings": {
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/shop",
             "open_in_new_tab": false,
             "grid_column_start": "3",
             "grid_column_end": "auto",
