@@ -770,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark green and a weft of black — is alive with little flecks of unexpected shades, from amber to lime to magenta. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark grey and a weft of black — is alive with little flecks of unexpected shades, from amber to magenta. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
