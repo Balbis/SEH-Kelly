@@ -2152,7 +2152,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Same man, same coat, and same size (sizeS).</p>",
+                "text": "<p>Same man, same coat, and same size (size S).</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
