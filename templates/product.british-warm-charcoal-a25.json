@@ -2267,6 +2267,20 @@
         "padding-block-end": 16
       }
     },
+    "divider_fjMYjd": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "page-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
+      }
+    },
     "section_UmaynW": {
       "type": "section",
       "blocks": {
@@ -3850,6 +3864,7 @@
         "group_4REJMw",
         "group_BhQLkz"
       ],
+      "disabled": true,
       "name": "So They Say",
       "settings": {
         "layout_type": "grid",
@@ -4079,6 +4094,7 @@
     "section_ggcyy3",
     "divider_NNj3WX",
     "section_UmaynW",
+    "divider_fjMYjd",
     "section_yPRNJr",
     "product_recommendations_qggXJq"
   ]
