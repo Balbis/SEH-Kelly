@@ -12,6 +12,35 @@
     "section": {
       "type": "section",
       "blocks": {
+        "text_Rzn8B3": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>Shop</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "custom_max_width": 100,
+            "content_alignment": "flex-start",
+            "type_preset": "h4",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "italic": "none",
+            "wrap": "pretty",
+            "alignment": "justify",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "text_twGGkJ": {
           "type": "text",
           "name": "t:names.text",
@@ -27,6 +56,7 @@
             "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
+            "italic": "none",
             "wrap": "pretty",
             "alignment": "left",
             "color": "",
@@ -42,6 +72,7 @@
         }
       },
       "block_order": [
+        "text_Rzn8B3",
         "text_twGGkJ"
       ],
       "name": "Heading",
