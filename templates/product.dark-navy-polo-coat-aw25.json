@@ -1326,7 +1326,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The tielocken is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the coat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "text": "<p>The polo coat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the coat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
