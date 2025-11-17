@@ -41,7 +41,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting. <a href=\"https://www.sehkelly.com/shop/\">More</a></p>",
+            "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting. <a href=\"/collections/all\" title=\"All products\">More</a></p>",
             "width": "100%",
             "max_width": "narrow",
             "custom_max_width": 100,
@@ -1663,7 +1663,7 @@
                 "image_2": "shopify://shop_images/made-in-england-sehkelly-about-1_2x_5c5778af-cf44-42fa-a479-578b81fa5f32.jpg",
                 "image_3": "shopify://shop_images/made-in-england-sehkelly-about-6_2x_fefdea10-c09d-41ff-a893-3dcdfcd99c1d.jpg",
                 "image_4": "shopify://shop_images/made-in-england-sehkelly-about-5_2x_d63b7be4-b200-4416-987e-25db06b41a2f.jpg",
-                "link": "",
+                "link": "shopify://pages/about",
                 "image_ratio": "adapt",
                 "width": "fill",
                 "custom_width": 100,
