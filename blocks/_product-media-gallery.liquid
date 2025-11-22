@@ -470,6 +470,47 @@
 </media-gallery>
 
 {% stylesheet %}
+  zoom-dialog dialog {
+    background: transparent;
+    opacity: 0;
+    transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  zoom-dialog dialog::backdrop {
+    background: rgba(0, 0, 0, 0);
+    transition: background 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  zoom-dialog dialog.dialog--open {
+    opacity: 1;
+  }
+
+  zoom-dialog dialog.dialog--open::backdrop {
+    background: rgba(0, 0, 0, 0.9);
+  }
+
+  zoom-dialog dialog.dialog--closed {
+    opacity: 0;
+  }
+
+  zoom-dialog dialog.dialog--closed::backdrop {
+    background: rgba(0, 0, 0, 0);
+  }
+
+  zoom-dialog dialog .dialog-zoomed-gallery {
+    opacity: 0;
+    transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1) 0.1s;
+  }
+
+  zoom-dialog dialog.dialog--open .dialog-zoomed-gallery {
+    opacity: 1;
+  }
+
+  zoom-dialog dialog.dialog--closed .dialog-zoomed-gallery {
+    opacity: 0;
+    transition-delay: 0s;
+  }
+
   .dialog-zoomed-gallery {
     cursor: zoom-out;
   }

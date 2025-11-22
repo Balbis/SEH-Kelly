@@ -50,16 +50,24 @@ export class ZoomDialog extends Component {
 
     const open = () => {
       dialog.showModal();
-
-      for (const target of [targetThumbnail, targetImage]) {
-        target?.scrollIntoView({ behavior: 'instant' });
-      }
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          dialog.classList.add('dialog--open');
+          for (const target of [targetThumbnail, targetImage]) {
+            target?.scrollIntoView({ behavior: 'instant' });
+          }
+        });
+      });
     };
 
     /** @type {HTMLElement | null} */
     const sourceImage = event.target instanceof Element ? event.target.closest('li,slideshow-slide') : null;
 
-    if (!supportsViewTransitions || !sourceImage || !targetImage) return open();
+    if (!supportsViewTransitions || !sourceImage || !targetImage) {
+      open();
+      this.selectThumbnail(index, { behavior: 'instant' });
+      return;
+    }
 
     const transitionName = `gallery-item`;
     sourceImage.style.setProperty('view-transition-name', transitionName);
@@ -70,7 +78,9 @@ export class ZoomDialog extends Component {
       targetImage.style.setProperty('view-transition-name', transitionName);
     });
 
-    targetImage.style.removeProperty('view-transition-name');
+    setTimeout(() => {
+      targetImage.style.removeProperty('view-transition-name');
+    }, 400);
 
     this.selectThumbnail(index, { behavior: 'instant' });
   }
@@ -131,7 +141,14 @@ export class ZoomDialog extends Component {
   async close() {
     const { dialog, media } = this.refs;
 
-    if (!supportsViewTransitions) return this.closeDialog();
+    dialog.classList.remove('dialog--open');
+    dialog.classList.add('dialog--closed');
+
+    if (!supportsViewTransitions) {
+      await new Promise((resolve) => setTimeout(resolve, 300));
+      this.closeDialog();
+      return;
+    }
 
     // Find the most visible image using IntersectionObserver
     const mostVisibleElement = await getMostVisibleElement(media);
@@ -148,11 +165,13 @@ export class ZoomDialog extends Component {
 
     const slide = slideshowActive ? mediaGallery.slideshow?.slides?.[activeIndex] : mediaGallery?.media?.[activeIndex];
 
-    if (!slide) return this.closeDialog();
+    if (!slide) {
+      await new Promise((resolve) => setTimeout(resolve, 300));
+      this.closeDialog();
+      return;
+    }
 
-    dialog.classList.add('dialog--closed');
-
-    await onAnimationEnd(this.refs.thumbnails);
+    await new Promise((resolve) => setTimeout(resolve, 50));
 
     mostVisibleElement.style.setProperty('view-transition-name', transitionName);
 
@@ -162,12 +181,15 @@ export class ZoomDialog extends Component {
       this.closeDialog();
     });
 
-    slide.style.removeProperty('view-transition-name');
-    dialog.classList.remove('dialog--closed');
+    setTimeout(() => {
+      slide.style.removeProperty('view-transition-name');
+      dialog.classList.remove('dialog--closed');
+    }, 400);
   }
 
   closeDialog() {
     const { dialog } = this.refs;
+    dialog.classList.remove('dialog--open', 'dialog--closed');
     dialog.close();
     window.dispatchEvent(new DialogCloseEvent());
   }

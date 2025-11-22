@@ -5,12 +5,29 @@
   @param {string} children - The children of the section
 {%- enddoc -%}
 
+{%- if section.settings.image_zoom -%}
+  <script
+    src="{{ 'section-image-zoom.js' | asset_url }}"
+    type="module"
+    fetchpriority="low"
+  ></script>
+  <script
+    src="{{ 'drag-zoom-wrapper.js' | asset_url }}"
+    type="module"
+    fetchpriority="low"
+  ></script>
+{%- endif -%}
+
 <div class="section-background color-{{ section.settings.color_scheme }}"></div>
 <div
   class="section section--{{ section.settings.section_width }} color-{{ section.settings.color_scheme }}"
 
   {% if request.visual_preview_mode %}
     data-shopify-visual-preview
+  {% endif %}
+
+  {% if section.settings.image_zoom %}
+    data-section-image-zoom
   {% endif %}
 
   style="
