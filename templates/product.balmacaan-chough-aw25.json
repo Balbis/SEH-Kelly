@@ -1836,6 +1836,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": true,
         "padding-block-start": 30,
         "padding-block-end": 30
       }
@@ -2480,6 +2481,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 30,
         "padding-block-end": 30
       }
@@ -3167,6 +3169,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 30,
         "padding-block-end": 30
       }
@@ -4759,6 +4762,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 30,
         "padding-block-end": 0
       }
