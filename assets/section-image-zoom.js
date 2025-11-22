@@ -273,6 +273,12 @@ function createSharedDialog() {
       color: white;
       mix-blend-mode: difference;
       z-index: var(--layer-raised);
+      outline: none;
+    }
+
+    section-image-zoom-dialog .dialog-zoomed-gallery__close-button:focus,
+    section-image-zoom-dialog .dialog-zoomed-gallery__close-button:focus-visible {
+      outline: none;
     }
 
     section-image-zoom-dialog .product-media-container {
