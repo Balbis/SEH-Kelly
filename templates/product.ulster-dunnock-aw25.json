@@ -1986,7 +1986,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The gentleman here is 6'1\" and 12 stone and 38 in chest. The coat here, then, is a sizeS.</p>",
+                "text": "<p>Him, here, is as standard a 38 chest as ever there was, along with a height of 6ft 1in and weight of 12 British stone. He is thus wearing a sizeS.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2016,7 +2016,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2046,7 +2046,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2070,7 +2070,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2094,7 +2094,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_5.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2164,7 +2164,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2188,7 +2188,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2261,7 +2261,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_as_worn_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2279,40 +2279,10 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "text_3p7fyn": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The balmacaan here is again the same size (sizeS) and indeed so again is the man (38 chest). It is really just shown here to showcase the exit — or entry, depending on the point of view — that is built into the top of the pocket bag.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-end",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "image_gggHKE",
-            "text_3p7fyn"
+            "image_gggHKE"
           ]
         },
         "image_BXaBQT": {
