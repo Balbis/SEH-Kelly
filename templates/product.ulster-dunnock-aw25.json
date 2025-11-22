@@ -2622,7 +2622,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Spinning_mill12.jpg",
+                "image": "shopify://shop_images/imgi_27_donegal-mill-3s.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2645,7 +2645,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The material comes from yarn that is dyed and spun and carded and nepped and burred in Donegal.</p>",
+                "text": "<p>The cloth is woven by a sixth-generation mill in County Donegal in Ireland. Every inch of the cloth, every step of the way — from the designing to the warping to the weaving — is overseen by two people: a father and son, who continue the flecked tweed traditions of this part of Ireland.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2724,7 +2724,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Spinning_mill7.jpg",
+                "image": "shopify://shop_images/imgi_28_donegal-mill-2s.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2748,7 +2748,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Spinning_mill3.jpg",
+                "image": "shopify://shop_images/imgi_29_donegal-mill-1s.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
