@@ -723,7 +723,7 @@
     "section_6XbmTR": {
       "type": "section",
       "blocks": {
-        "product_info_row_7YdD6c": {
+        "product_info_row_66zwRM": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -766,11 +766,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_W3Ewik": {
+            "text_ejJixj": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark grey and a weft of black — is alive with little flecks of unexpected shades, from amber to magenta. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "text": "<p>The Ulster is one of the certifiable big-hitters of traditional British outerwear — a long, double-breasted, large-collared slugger, hailing legend has it from the dockyards of Belfast circa 1850. This one follows and respects true Ulster orthodoxy, but has an updated moveset for everyday usefulness and userfriendliness.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -795,12 +795,12 @@
               },
               "blocks": {}
             },
-            "image_4GcWai": {
+            "image_8UTq8i": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_13.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -821,8 +821,8 @@
             }
           },
           "block_order": [
-            "text_W3Ewik",
-            "image_4GcWai"
+            "text_ejJixj",
+            "image_8UTq8i"
           ]
         },
         "product_info_row_JD6tMg": {
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -896,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>A classic walking coat, this: long and single-breasted, and with a two-piece raglan sleeve that allows a great range of movement in the upper body. Very helpful when it comes to layering, too. \"Balmacaan\" is the traditional name for this style of coat — from the Balmacaan forest in Scotland.</p>",
+                "text": "<p>The Ulster has what's known as, yes, an Ulster collar. It is sharply angled at the front, but with points slightly rounded, and is cut to be just as happy standing up, skimming the neck at the sides and back, as it is sitting down — but even then, it is proud, and is never concave or flat or in any way apologetic.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -926,54 +926,6 @@
             "image_h4PALj",
             "text_wbHxMh"
           ]
-        },
-        "image_wyLcic": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_4.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_NmkeEQ": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_7.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_9mxmDc": {
           "type": "product-info-row",
@@ -1018,35 +970,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_eUdtDr": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_5.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_qYNXtV": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat has a collar of sizeable proportions, cut to sit straight when down, and really hug the neck when up. On one side there is a little tab. This buttons across, one side to the other, and keeps the collar upright when the going gets gusty. It can be buttoned back, too, or let to hang loose and lopsided.</p>",
+                "text": "<p>The lapel may be swept across the front and fastened to a small button partially obscured beneath the collar — an instant four layers of tweed gained between man and world. There is then the option to keep the collar up with the help of another tiny button, or to fold it down again over the front.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1070,91 +998,13 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_eUdtDr",
-            "text_qYNXtV"
-          ]
-        },
-        "product_info_row_BHDAEB": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_fCU6Cg": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>There's a short cuff tab, running backwards from the outer sleeve seam, which offers two levels of tightness.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             },
-            "image_xDWbHn": {
+            "image_eUdtDr": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1175,8 +1025,8 @@
             }
           },
           "block_order": [
-            "text_fCU6Cg",
-            "image_xDWbHn"
+            "text_qYNXtV",
+            "image_eUdtDr"
           ]
         },
         "product_info_row_zCRCgG": {
@@ -1227,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_10.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1250,7 +1100,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the coat are horn, dark in colour and matte in finish. Because each is a thing of nature, they each differ subtly in shade and marking, one to the next. The coat has a fly-front, with the buttons hidden away when fastened, so less likely to snag on barbed wire, bramble, and other outdoor perils.</p>",
+                "text": "<p>The buttons on the Ulster are large, and are horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1328,7 +1178,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The pockets are set at just the right height for the comfortable plunging of hands, and they're covered by flaps to shield wrists from wind and rain. They also have a secret: as well as being deep pockets in their own right, they contain a channel that serves as an entrance into and / or exit from the inside of the coat.</p>",
+                "text": "<p>The Ulster has four pockets at the front: below the large flap pockets can be found in-seam pockets, stationed at just the right lateral and longitudinal coordinates for the instinctive plunging-in of hands. Two additional pockets — jetted in-breast pockets — are on the inside of the coat.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1358,7 +1208,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1431,7 +1281,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_12.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1454,7 +1304,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Outerwear history says this originates in army coats from a century or more ago — making it easy to access the shirt or jacket or trouser worn underneath the coat. It is both a great party trick and an easy way to access your personal effects with your weaker hand if your lead hand is clutching a coffee.</p>",
+                "text": "<p>An innovative sleeve, this, combining the sharp and smart and traditional look of a inset sleeve at the front — such as always on coats of this ilk — with the ease and comfort of a Dolman sleeve at the back. It equals a very soft shoulder, draping smoothly over the lines of the wearer, and great movement.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1562,7 +1412,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1635,7 +1485,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_11.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1658,7 +1508,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>One more pocket: this time on the inside, on the left-side as worn, and set a little lower than normal to make things easier on the elbows. It is a chest pocket of standard wallet- or mobile-size.</p>",
+                "text": "<p>Also at the back is a fixed belt, running between the rear seams. It breaks up what is a fairly long body, and helps pull the situation together, both literally and figuratively, by introducing a sense of shape at the middle.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1736,7 +1586,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the balmacaan on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "text": "<p>The coat has turn-back cuffs at the end of its sleeves. A nod to tradition, these, being more typically seen on uniform coats and formal styles of outerwear. The cuff starts at the outer sleeve seam, skims around the sleeve, and its circumnavigation is rewarded with a button in its slightly curved top corner.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1766,7 +1616,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Balmacaan_Chough_AW25_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1790,21 +1640,224 @@
             "text_TDgXDt",
             "image_PqFVza"
           ]
+        },
+        "product_info_row_gQ3aMd": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_G9EgeT": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_11.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_hWTTU4": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The Ulster is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps greatly with sliding the coat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_G9EgeT",
+            "text_hWTTU4"
+          ]
+        },
+        "product_info_row_DBmpUp": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_D9wmtq": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark grey and a weft of brown — is alive with little flecks of unexpected shades. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_bRdXBw": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_D9wmtq",
+            "image_bRdXBw"
+          ]
         }
       },
       "block_order": [
-        "product_info_row_7YdD6c",
+        "product_info_row_66zwRM",
         "product_info_row_JD6tMg",
-        "image_wyLcic",
-        "image_NmkeEQ",
         "product_info_row_9mxmDc",
-        "product_info_row_BHDAEB",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
         "product_info_row_6hEtER",
         "product_info_row_6G9Pmb",
         "product_info_row_3gQgQe",
-        "product_info_row_YWkr8F"
+        "product_info_row_YWkr8F",
+        "product_info_row_gQ3aMd",
+        "product_info_row_DBmpUp"
       ],
       "name": "Product Content",
       "settings": {
