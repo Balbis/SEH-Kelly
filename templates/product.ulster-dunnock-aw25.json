@@ -200,7 +200,7 @@
             },
             "group_jYYaed": {
               "type": "group",
-              "name": "t:names.group",
+              "name": "Variant picker and Size chart",
               "settings": {
                 "link": "",
                 "open_in_new_tab": false,
@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The balmacaan fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his chest — is wearing a size M.</p>",
+                        "text": "<p>The Ulster fits true to size, so the wooden man — a perfect 40 chest — has on his usual size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
