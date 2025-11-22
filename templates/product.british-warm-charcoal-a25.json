@@ -1733,6 +1733,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": true,
         "padding-block-start": 30,
         "padding-block-end": 30
       }
@@ -2249,25 +2250,12 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": true,
         "padding-block-start": 30,
         "padding-block-end": 30
       }
     },
     "divider_NNj3WX": {
-      "type": "divider",
-      "name": "t:names.divider_section",
-      "settings": {
-        "color_scheme": "",
-        "section_width": "page-width",
-        "thickness": 1,
-        "corner_radius": "square",
-        "width_percent": 100,
-        "alignment_horizontal": "center",
-        "padding-block-start": 16,
-        "padding-block-end": 16
-      }
-    },
-    "divider_fjMYjd": {
       "type": "divider",
       "name": "t:names.divider_section",
       "settings": {
@@ -2950,8 +2938,23 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": true,
         "padding-block-start": 30,
         "padding-block-end": 30
+      }
+    },
+    "divider_fjMYjd": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "page-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
       }
     },
     "section_yPRNJr": {
@@ -3895,6 +3898,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 30,
         "padding-block-end": 0
       }
