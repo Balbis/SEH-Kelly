@@ -323,6 +323,9 @@
       },
       "review_address_modal": {
         "return_to_cart": "Return to basket"
+      },
+      "order_summary": {
+        "shipping_label": "Shipping, Taxes & Duties"
       }
     },
     "notices": {
