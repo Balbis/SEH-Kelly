@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_middling_sheep_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_middling_sheep_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -843,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_middling_sheep_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_middling_sheep_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
