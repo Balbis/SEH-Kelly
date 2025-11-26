@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1004,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1077,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-9m_2x_2a4addc8-9a6c-400b-8bda-c926625e885d.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1208,7 +1208,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_6.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1281,7 +1281,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1340,7 +1340,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_7.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_9.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1436,7 +1436,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1460,30 +1460,6 @@
             "text_ibzz8M",
             "image_xwewwV"
           ]
-        },
-        "image_hAahVM": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_9.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_6G9Pmb": {
           "type": "product-info-row",
@@ -1533,7 +1509,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1664,7 +1640,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-14m_2x_b874c9c0-3c47-438c-94b7-4171a961ab76.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1737,7 +1713,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/peacoat-heavy-melton-wool-dark-navy-13m_2x_306ddd15-dfad-427e-8533-a41d83bcfb7c.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1868,7 +1844,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Peacoat_Navy_AW25_12.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_peacoat_in_camel_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1903,7 +1879,6 @@
         "product_info_row_n4NWfW",
         "image_K9tGwg",
         "product_info_row_6hEtER",
-        "image_hAahVM",
         "product_info_row_6G9Pmb",
         "product_info_row_a6ykjz",
         "product_info_row_3gQgQe",
