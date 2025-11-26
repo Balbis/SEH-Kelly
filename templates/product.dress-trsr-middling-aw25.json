@@ -2559,7 +2559,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/shop-maker-cotton-1.jpg",
+                "image": "shopify://shop_images/heavy-woollens-mill-13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2582,7 +2582,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is sourced from a mill in Lancashire, in north-west England. Cottons have rolled off its line for nearly a century and a half. Industry-leading methods of weaving, dyeing, and finishing — unimproved in decades — along with steadfast adherence to quality, result in some truly first-rate cloth.</p>",
+                "text": "<p>Local production — this cloth is an exemplar of it. The wool which goes into the worsted comes from the backs of white-face Cheviot sheep in North Yorkshire, and is spun, washed, and woven at textile facilities, all within a small radius around the boundary North and West Yorkshire.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
