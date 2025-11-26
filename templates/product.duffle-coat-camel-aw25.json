@@ -770,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster is one of the certifiable big-hitters of traditional British outerwear — a long, double-breasted, large-collared slugger, hailing legend has it from the dockyards of Belfast circa 1850. This one follows and respects true Ulster orthodoxy, but has an updated moveset for everyday usefulness and userfriendliness.</p>",
+                "text": "<p>What we have here is a duffle coat rooted in the traditions of the form — foremost in being a very substantial woollen coat, made with deep winter firmly in mind. But there is novelty and innovation here and there, too, to make it more useful and interesting to wear than perhaps a run-of-the-dull miffle.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,79 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_3.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fill",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_h4PALj"
+          ]
+        },
+        "product_info_row_iB9X3p": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_PH8ALg": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -892,11 +964,11 @@
               },
               "blocks": {}
             },
-            "text_wbHxMh": {
+            "text_dGgyWG": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster has what's known as, yes, an Ulster collar. It is sharply angled at the front, but with points slightly rounded, and is cut to be just as happy standing up, skimming the neck at the sides and back, as it is sitting down — but even then, it is proud, and is never concave or flat or in any way apologetic.</p>",
+                "text": "<p>The hood covers all parts of the head save the face — such as is the least requirement for a hood — and, with shapely three-panel construction, hugs the crown and curves cleanly around the forehead and temple. There is a small tab at the back of the hood to adjust its fit for the small of head / short of neck.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -923,8 +995,8 @@
             }
           },
           "block_order": [
-            "image_h4PALj",
-            "text_wbHxMh"
+            "image_PH8ALg",
+            "text_dGgyWG"
           ]
         },
         "product_info_row_9mxmDc": {
@@ -970,11 +1042,83 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_qYNXtV": {
+            "image_eUdtDr": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_5.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_eUdtDr"
+          ]
+        },
+        "product_info_row_pz4TPX": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_GA6zD4": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The lapel may be swept across the front and fastened to a small button partially obscured beneath the collar — an instant four layers of tweed gained between man and world. There is then the option to keep the collar up with the help of another tiny button, or to fold it down again over the front.</p>",
+                "text": "<p>The toggles are horn, and are handmade individually by a maker with some two-centuries experience, in the north of England. They are large, heavy, and clunk in a satisfying sort of way when knocked together. Being as they are a natural product, the colour and markings of each one is unique.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -999,12 +1143,12 @@
               },
               "blocks": {}
             },
-            "image_eUdtDr": {
+            "image_XF8aXH": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1025,8 +1169,8 @@
             }
           },
           "block_order": [
-            "text_qYNXtV",
-            "image_eUdtDr"
+            "text_GA6zD4",
+            "image_XF8aXH"
           ]
         },
         "product_info_row_zCRCgG": {
@@ -1077,7 +1221,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_7.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1100,7 +1244,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the Ulster are large, and are horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "text": "<p>The toggles are fixed to the coat with rope — a jute rope, braided in the traditional way with a loose-laid single yarn, in the south of England. It has a deep, rich colour, and while it has a fairly gnarly appearance, is soft and smooth in the hand, so that opening and closing the coat is fast and frictionless.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1178,7 +1322,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster has four pockets at the front: below the large flap pockets can be found in-seam pockets, stationed at just the right lateral and longitudinal coordinates for the instinctive plunging-in of hands. Two additional pockets — jetted in-breast pockets — are on the inside of the coat.</p>",
+                "text": "<p>Two brass press-studs here, to open and close the neck of the coat. The cloth is so thick that the neck stands up anyway, so you can get a good amount of winter-protection even with the coat half-open.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1208,7 +1352,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1281,7 +1425,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1304,7 +1448,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>An innovative sleeve, this, combining the sharp and smart and traditional look of a inset sleeve at the front — such as always on coats of this ilk — with the ease and comfort of a Dolman sleeve at the back. It equals a very soft shoulder, draping smoothly over the lines of the wearer, and great movement.</p>",
+                "text": "<p>The coat has two pockets at the front, which are each covered with a large flap. They are positioned at a height such that cold hands are instinctively compelled to make regular use of them.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1382,7 +1526,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Round the rear lurks a deep vent which runs from the belt line to the hem. It is constructed in the old-fashioned and faintly over-complicated manner of mid-century British walking coats, and means there's more coat to the coat to expand when the wearer lurches forwards or sideways.</p>",
+                "text": "<p>Bar-tacks make frequent appearances on the duffle coat, such as at the entrance to the pockets. They serve to strengthen the coat at all points of stress. Long-term wear without the tear.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1412,7 +1556,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1485,7 +1629,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1508,7 +1652,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Also at the back is a fixed belt, running between the rear seams. It breaks up what is a fairly long body, and helps pull the situation together, both literally and figuratively, by introducing a sense of shape at the middle.</p>",
+                "text": "<p>The coat has one further pocket: hidden in plain sight at the front of the coat, beneath the left-side of the yoke. It is a vertical opening between the first and second toggles. Just the right size, this pocket, for wallets, keys, mobiles, or cigarette packets.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1586,7 +1730,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat has turn-back cuffs at the end of its sleeves. A nod to tradition, these, being more typically seen on uniform coats and formal styles of outerwear. The cuff starts at the outer sleeve seam, skims around the sleeve, and its circumnavigation is rewarded with a button in its slightly curved top corner.</p>",
+                "text": "<p>The duffle coat has a somewhat innovative construction, in that, at the front, it has what looks to be a set-in sleeve. A standard type of sleeve, this — the norm for a duffle coat — where the seam follows the line of the wearer's shoulder. From the front, then, the coat has a structured, smart appearance.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1616,7 +1760,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1689,7 +1833,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_11.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1712,7 +1856,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps greatly with sliding the coat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "text": "<p>At the back, however, is a raglan sleeve — the giveaway being the seam running diagonally into the neck. This sort of sleeve brings much more freedom to the upper body, and means that despite the bulk of the coat, the wearer can still move with ease — all the while enjoying the clean line at the front.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1743,7 +1887,7 @@
             "text_hWTTU4"
           ]
         },
-        "product_info_row_DBmpUp": {
+        "product_info_row_jcDEXa": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1786,11 +1930,83 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_D9wmtq": {
+            "image_HGr66E": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_14.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_HGr66E"
+          ]
+        },
+        "product_info_row_iUMMCe": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_gcNCVt": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark grey and a weft of brown — is alive with little flecks of unexpected shades. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "text": "<p>The coat has cuff tabs which fasten to one of two levels of tightness with the help of press-studs (of the same species as at the neck).</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1815,12 +2031,12 @@
               },
               "blocks": {}
             },
-            "image_bRdXBw": {
+            "image_DB8mxL": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_12.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_15.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1841,15 +2057,293 @@
             }
           },
           "block_order": [
-            "text_D9wmtq",
-            "image_bRdXBw"
+            "text_gcNCVt",
+            "image_DB8mxL"
+          ]
+        },
+        "product_info_row_EPNdeC": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_PPAXty": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_16.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_PPAXty"
+          ]
+        },
+        "product_info_row_PGQLTy": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_7cPiP7": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_17.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_T7cJrj": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The coat is unlined. Duffle coats, traditionally, are — not always, but most often — and rely on the warmth and quality of the outer cloth to keep the wearer happy. The duffle coat here is no exception. With no lining to cover them, all internal seams are neatly finished with grey cotton binding.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_7cPiP7",
+            "text_T7cJrj"
+          ]
+        },
+        "product_info_row_ArnWbV": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_fgKcpq": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The wool melton is a replica of cloth woven by the same mill, on the same premises, over half a century ago for the British Army. It is heavy, sure, but with tremendous drape and flow. The yarn from which it is woven — of British sheep — is worsted-spun, hence is more lustrous than usual.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_E7cmji": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_18.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_fgKcpq",
+            "image_E7cmji"
           ]
         }
       },
       "block_order": [
         "product_info_row_66zwRM",
         "product_info_row_JD6tMg",
+        "product_info_row_iB9X3p",
         "product_info_row_9mxmDc",
+        "product_info_row_pz4TPX",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
         "product_info_row_6hEtER",
@@ -1857,7 +2351,11 @@
         "product_info_row_3gQgQe",
         "product_info_row_YWkr8F",
         "product_info_row_gQ3aMd",
-        "product_info_row_DBmpUp"
+        "product_info_row_jcDEXa",
+        "product_info_row_iUMMCe",
+        "product_info_row_EPNdeC",
+        "product_info_row_PGQLTy",
+        "product_info_row_ArnWbV"
       ],
       "name": "Product Content",
       "settings": {
