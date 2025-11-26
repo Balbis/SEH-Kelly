@@ -1047,7 +1047,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_2_c7d21229-900c-4212-ad85-15c5018a5ecb.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_5_49ab3972-34bb-414e-b523-719808545936.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1407,108 +1407,6 @@
             "image_Tx6gVU"
           ]
         },
-        "product_info_row_CG6cPz": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_eHP3pB": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_5_49ab3972-34bb-414e-b523-719808545936.jpg",
-                "link": "",
-                "image_ratio": "landscape",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_UitgRM": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The inside legs have French seams, and are thus durable such that you'd have to do something dramatic — acrobatic, even — to split them open. The outside legs are flat seam, however, to achieve a smooth silhouette. Bar-tacks, meanwhile, abound, with at least a dozen supporting the points of most wear and tear.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_eHP3pB",
-            "text_UitgRM"
-          ]
-        },
         "product_info_row_QmPn3D": {
           "type": "product-info-row",
           "name": "Product Info Row",
@@ -1552,6 +1450,30 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "image_kKgU9f": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_9_ba1129cf-1051-45a2-9b23-b01c631d518d.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_p4ap6p": {
               "type": "text",
               "name": "t:names.text",
@@ -1580,35 +1502,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_kKgU9f": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_9_ba1129cf-1051-45a2-9b23-b01c631d518d.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_p4ap6p",
-            "image_kKgU9f"
+            "image_kKgU9f",
+            "text_p4ap6p"
           ]
         },
         "product_info_row_GJEJ8f": {
@@ -1654,30 +1552,6 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_xfzfQA": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_10_3081bc4f-002c-49dd-be24-2e5a2a5a4909.jpg",
-                "link": "",
-                "image_ratio": "landscape",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_iYqL6f": {
               "type": "text",
               "name": "t:names.text",
@@ -1706,11 +1580,35 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_xfzfQA": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_10_3081bc4f-002c-49dd-be24-2e5a2a5a4909.jpg",
+                "link": "",
+                "image_ratio": "landscape",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_xfzfQA",
-            "text_iYqL6f"
+            "text_iYqL6f",
+            "image_xfzfQA"
           ]
         }
       },
@@ -1722,7 +1620,6 @@
         "product_info_row_FQjmkf",
         "product_info_row_9zVj3J",
         "product_info_row_LKFqfY",
-        "product_info_row_CG6cPz",
         "product_info_row_QmPn3D",
         "product_info_row_GJEJ8f"
       ],
