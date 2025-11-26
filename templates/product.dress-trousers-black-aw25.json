@@ -200,7 +200,7 @@
             },
             "group_jYYaed": {
               "type": "group",
-              "name": "t:names.group",
+              "name": "Variants & size chart",
               "settings": {
                 "link": "",
                 "open_in_new_tab": false,
@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The trench fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his neck — is wearing a size M.</p>",
+                        "text": "<p>If in doubt, ignore what your current trousers <em>say</em> they are, and measure them instead. Lay them out flat and straight, measure from one side of the waistband to the other, right along the top edge, then double. That's your size (not to be confused with your physical waist size).</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
@@ -338,41 +338,11 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
-                    },
-                    "text_mYGVkj": {
-                      "type": "text",
-                      "name": "t:names.text",
-                      "settings": {
-                        "text": "<p>The method of sleeve construction, with the sleeve cut as one continuous panel from neck to cuff, means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
-                        "width": "100%",
-                        "max_width": "none",
-                        "custom_max_width": 100,
-                        "content_alignment": "flex-start",
-                        "type_preset": "rte",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "italic": "none",
-                        "wrap": "pretty",
-                        "alignment": "justify",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
                     }
                   },
                   "block_order": [
                     "text_VizBQ9",
-                    "size_chart_3gB7hF",
-                    "text_mYGVkj"
+                    "size_chart_3gB7hF"
                   ]
                 }
               },
