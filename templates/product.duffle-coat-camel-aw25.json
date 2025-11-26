@@ -2948,7 +2948,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_27_donegal-mill-3s.jpg",
+                "image": "shopify://shop_images/melton-maker-1m_2x_ad93f03f-6778-46a4-8159-70018f6f72bc.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2971,7 +2971,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is woven by a sixth-generation mill in County Donegal in Ireland. Every inch of the cloth, every step of the way — from the designing to the warping to the weaving — is overseen by two people: a father and son, who continue the flecked tweed traditions of this part of Ireland.</p>",
+                "text": "<p>The wool cloth hails from a mill founded in the Heavy Woollen District of West Yorkshire in the 1800s. Carding, blending, spinning, and weaving — it all happens on the same premises. This unique arrangement means that the fleece’s change into top-grade cloth could not be more tightly tuned.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -3050,7 +3050,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_28_donegal-mill-2s.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -3074,7 +3074,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_29_donegal-mill-1s.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -3147,7 +3147,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "image": "shopify://shop_images/horn-maker-2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -3170,7 +3170,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The horn buttons are cut, shaped, and polished by the last horn button-makers in Britain. Relocated from the Midlands to the Cotswolds, they continue a tradition going back to the 18th century.<em>\"It is no easy task,\"</em>claimed William Hutton in 1780,<em>\"to enumerate the infinite diversity of buttons made in Birmingham.\"</em></p>",
+                "text": "<p>The toggles are made in the north-west of England by a small team of expert horn-handlers. The making of the toggles is based on the deceptively simple centuries-old practice of slowly heating cow horn over flame, bringing to just the right temperature, moulding it by hand, and then polishing it up to the nth degree.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -3249,7 +3249,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-6.jpg",
+                "image": "shopify://shop_images/horn-works-north-west-england-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -3273,7 +3273,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-5.jpg",
+                "image": "shopify://shop_images/horn-works-north-west-england-21.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
