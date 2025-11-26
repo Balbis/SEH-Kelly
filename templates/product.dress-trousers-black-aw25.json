@@ -740,7 +740,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Called \"weatherproof\" for a reason, this cloth. Rain, no matter how much, beads up and rolls off. Aramid fibres are highly water resistant, see. It is also as light as a feather, is highly breathable, and has industry-leading heat-transfer properties: when the day is warm, the wearer is cool, and vice-versa.</p>",
+                "text": "<p>The dress trousers are fundamentally trousers of the old school, with a moderately high rise, plenty of room in and around the seat for comfort, and fullness built into the upper leg to avoid pull and stretch. They taper, gently, from the knee down, with the end result being middling: neither wide nor slim.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/parka-minor-weatherproof-ripstop-cosmos-18m_2x_8c0de233-e6ac-4c80-8884-a85d990519c6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -843,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-19m_2x_51a3dca4-e753-4833-9cf2-a7f0c6dfda42.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -866,7 +866,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p> <em>\"The trench provides, from throat to knees, a double safeguard of the greatest value when exposed to wet and cold,\"</em>goes a century-old trench coat ad. The same seems true then as now: a full-length, double-breasted coat, this, which will cover everything you wear beneath and keep you smart, warm, and dry.</p>",
+                "text": "<p>The trousers fasten with a buckle at the side. How this works is, the waistband keeps going, past the fly, and meets a buckle attached to a tab on the right side as worn. Works like a belt, gives a clean look at the front, and means the wearer can adjust the size should they shrink or grow over the passage of time.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -944,7 +944,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The trench, being a trench, is a coat of great versatility. It may be worn open, or buttoned right up to the top, or various intervals between. The collar is large and full, and is cut such that it's just as happy standing up as it is sitting down; that it tidily rolls down at the front; that it cuddles the neck at the side.</p>",
+                "text": "<p>The front of the trousers has two pleats on each side. They are stitched down by a length of two inches from the base of the waistband, and then, with horizontal bar-tacks as punctuation, fan out, providing the front of the trousers with shape, comfort, and ample room for pocket-rummaging.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -974,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-2m_2x_a1541985-affa-4a1f-bfe0-f228e4709558.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1047,7 +1047,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-3m_2x_ef9e59ae-26d9-47d9-8d98-7c09d1271f41.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1070,7 +1070,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There is also the matter of the throat-latch. It may be buttoned across the throat or back on itself, onto the collar-stand, out of sight. Having it dangle out front, insouciantly, isn't out of the question, either.</p>",
+                "text": "<p>There are five pockets on the trousers, the main ones of which are tucked into the outer side seams. They're barely visible, but are deep and sturdily made, using very fine but very strong cotton, so are exceptionally pleasing to plunge hands into.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1148,7 +1148,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the trench are large, and are horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "text": "<p>Never overlook the little coin pocket, built into the waistband. It lurks ready for the storage of loose change or keys, even a bank card or two, on the right side as worn.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1178,7 +1178,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-5m_2x_79283c5c-7cc8-4dcc-a45e-045c68df574d.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_6.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1251,7 +1251,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-6m_2x_8cf17fd0-18ea-421d-925e-430029245464.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1274,7 +1274,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The belt runs through a channel, hidden beneath the flaps of the pockets, and fastens with a brass buckle at the front. There are two brass components at the back, too: like a bag-strap, the length of the belt can be adjusted to the perfect length, depending on abdominal girth and personal preference.</p>",
+                "text": "<p>With so much activity on the front of the trousers, the back is comparatively sparse. There are, however, two pockets lurking back there — tucked into the waistband seam on the left and right sides. No diminutive coin pockets, these: they're as deep or deeper than the pockets on any comparable trousers.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1298,36 +1298,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_PFaPTV": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-4s_2x_94531d51-0b4d-45e9-b8d7-ec2b8e0b54d8.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "image_KYHnxf",
-            "text_QbPJad",
-            "image_PFaPTV"
+            "text_QbPJad"
           ]
         },
         "product_info_row_pFBKqW": {
@@ -1373,11 +1348,83 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_NA6rky": {
+            "image_nm6ff7": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_8.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_nm6ff7"
+          ]
+        },
+        "product_info_row_LKFqfY": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_rQJJfy": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Not everyone likes belts, of course — divisive as they are in more ways than one — and since the trench has no belt loops, and the belt runs under the pockets-flaps, no one will be any the wiser if the belt is removed.</p>",
+                "text": "<p>The buttons on the trousers are real horn, middling in colour and matte in finish. The trousers have a button fly of three such buttons, as well as two others, which fasten the fly-guard and the front of the trousers before the belt is swept across.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1402,12 +1449,12 @@
               },
               "blocks": {}
             },
-            "image_nm6ff7": {
+            "image_Tx6gVU": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-19m_2x_51a3dca4-e753-4833-9cf2-a7f0c6dfda42.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1428,8 +1475,8 @@
             }
           },
           "block_order": [
-            "text_NA6rky",
-            "image_nm6ff7"
+            "text_rQJJfy",
+            "image_Tx6gVU"
           ]
         },
         "product_info_row_CG6cPz": {
@@ -1480,7 +1527,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-9m_2x_19f90ead-a72f-42f1-a58d-0c07d3f2108b.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_10.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1503,7 +1550,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are additional brass fixtures at the cuff, where a cuff strap resides, with a handful of eyelets (alarmingly known as \"grommets\" in some parts of the world) to adjust to a preferred degree of tightness.</p>",
+                "text": "<p>The inside legs have French seams, and are thus durable such that you'd have to do something dramatic — acrobatic, even — to split them open. The outside legs are flat seam, however, to achieve a smooth silhouette. Bar-tacks, meanwhile, abound, with at least a dozen supporting the points of most wear and tear.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1532,108 +1579,6 @@
           "block_order": [
             "image_eHP3pB",
             "text_UitgRM"
-          ]
-        },
-        "product_info_row_QmPn3D": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_p4ap6p": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The yoke is low and deep — running fully over the upper back — and the storm-flap at the front is a little shorter, though still deep. Effectively, you have two layers of cloth protecting the back — plus the lining, on which more later — and, with the double breast at the front, you have a coat impervious to rain.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_kKgU9f": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-8m_2x_fcb0f035-27ce-49e4-81b0-09fab7e3b5fb.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_p4ap6p",
-            "image_kKgU9f"
           ]
         },
         "product_info_row_WtPKVw": {
@@ -1684,7 +1629,31 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/trench-coat-weatherproof-ripstop-cosmos-16s_2x_834ca129-909e-42bc-8f3c-a2700660786b.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_11.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_WTwtqm": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1705,7 +1674,110 @@
             }
           },
           "block_order": [
-            "image_nGwNp6"
+            "image_nGwNp6",
+            "image_WTwtqm"
+          ]
+        },
+        "product_info_row_QmPn3D": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_p4ap6p": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>They are lined to the knee, front and back, with soft, breathable satin. The way this lining is constructed makes the trousers as tidy when turned inside-out as outside-out, as is cut on the selvedge for a flat finish. The lining makes it easy — nay, pleasurable — to slide one's legs up and down and all around.</p>",
+                "width": "100%",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_kKgU9f": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_13.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_p4ap6p",
+            "image_kKgU9f"
           ]
         },
         "product_info_row_fdgCft": {
@@ -2150,9 +2222,10 @@
         "product_info_row_FQjmkf",
         "product_info_row_9zVj3J",
         "product_info_row_pFBKqW",
+        "product_info_row_LKFqfY",
         "product_info_row_CG6cPz",
-        "product_info_row_QmPn3D",
         "product_info_row_WtPKVw",
+        "product_info_row_QmPn3D",
         "product_info_row_fdgCft",
         "product_info_row_c4nPtm",
         "product_info_row_GJEJ8f",
