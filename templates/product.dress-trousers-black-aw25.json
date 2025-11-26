@@ -2432,7 +2432,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat is made in north-east London. It is a very specialised skill, assembling coats from heavy cloth, and every reasonable step — and the odd unreasonable step — is taken to ensure things are built to last, from the cutting of the pattern to the work on the machine, but without the results being stiff or bulky.</p>",
+                "text": "<p>The trousers are made in London by a factory which — since they are so sturdily built, particularly at the seams — specialises in heavy outerwear. Making them, in fact, can be a gruelling task, entailing as it does umpteen more stages than most trousers — at least five of which demand a hammer.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2462,7 +2462,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/outerwear-factory-london-n16-7.jpg",
+                "image": "shopify://shop_images/trouser-factory-maker-of-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2535,7 +2535,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/outerwear-factory-london-n16-50.jpg",
+                "image": "shopify://shop_images/trouser-factory-maker-of-3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2559,7 +2559,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/outerwear-factory-london-n16-10.jpg",
+                "image": "shopify://shop_images/trouser-factory-maker-of-4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2632,7 +2632,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/melton-maker-1m_2x_ad93f03f-6778-46a4-8159-70018f6f72bc.jpg",
+                "image": "shopify://shop_images/shop-maker-cotton-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2655,7 +2655,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The woollen cloth hails from a mill founded in the Scottish Highlands over two hundred years ago. Carding, blending, spinning, and weaving — it all happens on the same premises. This unique arrangement means that the fleece’s change into top-grade cloth could not be more tightly tuned.</p>",
+                "text": "<p>The cloth is sourced from a mill in Lancashire, in north-west England. Cottons have rolled off its line for nearly a century and a half. Industry-leading methods of weaving, dyeing, and finishing — unimproved in decades — along with steadfast adherence to quality, result in some truly first-rate cloth.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2684,103 +2684,6 @@
           "block_order": [
             "image_RnGUEx",
             "text_6Cakwi"
-          ]
-        },
-        "product_info_row_AGLmyT": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_n3rmVN": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/mohair-mill-yorkshire-10.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_qQRw8N": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/mohair-mill-yorkshire-11.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_n3rmVN",
-            "image_qQRw8N"
           ]
         },
         "product_info_row_ezWhVq": {
@@ -3234,7 +3137,6 @@
         "product_info_row_TqDPNc",
         "product_info_row_MJdJY4",
         "product_info_row_tmjH3T",
-        "product_info_row_AGLmyT",
         "product_info_row_ezWhVq",
         "product_info_row_Xx8tCA",
         "product_info_row_7fCPhQ",
@@ -3422,7 +3324,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>Never have I felt so criminally elegant and impervious to the elements as when swathed in the magnificent trench you have crafted. Genuinely, what a marvelous design, with its splendid execution and technical — though beautiful — fabric to boot. As it is wearing-in, it becomes more compliant, laying exactly as you’d ask of it, while accommodating all manner of layers beneath. I am thrilled to own it and look forward to wearing it whenever possible — however unlikely it is that I may call on all its faculties.</em></p>",
+                "text": "<p><em>The standard trousers arrived today. Man o' man — how in the world did you manage to surpass even my most wildest of expectations? Your obvious reverence for craftsmanship in addition to the care you gave me before, during, and after the purchase will always be remembered when I spring for additional purchases in the near future.</em></p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
