@@ -3380,6 +3380,9 @@
         "group_x7kH4f",
         "group_VmcEfL"
       ],
+      "custom_css": [
+        "@media (min-width: 750px) {.group-block-content {display: grid; grid-template-columns: 2fr 1fr; gap: 50px; }}"
+      ],
       "name": "So They Say",
       "settings": {
         "layout_type": "flex",
