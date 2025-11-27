@@ -740,7 +740,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The trucker jacket —<em>road haulier and vehicular logistics personnel </em>jacket to some — packs a great deal into its relatively diminutive form. Take its collar, for starters, which is shapely and full and cut in a slightly hooked shape, and which can be worn just as happily wide open as buttoned to the top.</p>",
+                "text": "<p>The SB is a single-breasted tailored jacket. It has a two-button front, a slightly nipped waist, and a just-barely peaked lapel of moderate size. There's very little structure to be found here — it is foremost a light and casual jacket — but it has the proportions and the silhouette of a smart suit or sports jacket.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -795,7 +795,7 @@
             "image_8UTq8i"
           ]
         },
-        "product_info_row_JD6tMg": {
+        "product_info_row_4AgMxU": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -803,7 +803,7 @@
             "open_in_new_tab": false,
             "content_direction": "row",
             "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
+            "reverse_on_mobile": true,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-end",
             "align_baseline": false,
@@ -816,7 +816,7 @@
             "custom_width": 100,
             "width_mobile": "fill",
             "custom_width_mobile": 100,
-            "height": "fill",
+            "height": "fit",
             "custom_height": 100,
             "inherit_color_scheme": true,
             "color_scheme": "",
@@ -838,19 +838,19 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_h4PALj": {
+            "image_D4Rf7U": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
                 "custom_width": 100,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
-                "height": "fill",
+                "height": "fit",
                 "border": "none",
                 "border_width": 1,
                 "border_opacity": 100,
@@ -861,10 +861,40 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "text_qrGBNd": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The SB is a single-breasted tailored jacket. It has a two-button front, a slightly nipped waist, and a just-barely peaked lapel of moderate size. There's very little structure to be found here — it is foremost a light and casual jacket — but it has the proportions and the silhouette of a smart suit or sports jacket.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_h4PALj"
+            "image_D4Rf7U",
+            "text_qrGBNd"
           ]
         },
         "product_info_row_iB9X3p": {
@@ -914,7 +944,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The jacket has fairly large \"warmer\" pockets at the front, one on each side — though you perhaps wouldn't realise so at first glance, since they are tucked away entirely out of sight within the pleats that run down the front.</p>",
+                "text": "<p>There are three buttons at the cuff, with the buttonholes cut open. It is a working cuff, in other words, though has no quarrel whatsoever with cuffs that cannot work or do not work.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -944,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1017,7 +1047,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1035,40 +1065,10 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "text_LxwpXG": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Pockets at the chest, too, built into the jacket's chest seam.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-end",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "image_hXaeMD",
-            "text_LxwpXG"
+            "image_hXaeMD"
           ]
         },
         "product_info_row_pz4TPX": {
@@ -1118,7 +1118,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The jacket is, to coin a phrase overused, built to last. The cloth is thick, the seams are turned, and while it is a fairly complex little number, it is designed and engineered in the simplest and cleanest and strongest manner. It is also finished to counter wear-and-tear — e.g. bar-tacks abound, such as at the mouths of pockets.</p>",
+                "text": "<p>At the front of the jacket are two large patch pockets, which are strengthened with bar-tacks at the top corners. At the chest, meanwhile, on the left side as worn, there's another pocket — most notable for being a somewhat unorthdox upturned flap, and its corners, too, strengthened with little bar-tacks.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1148,7 +1148,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1171,6 +1171,103 @@
           "block_order": [
             "text_GA6zD4",
             "image_XF8aXH"
+          ]
+        },
+        "product_info_row_QYXpht": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_EpTeUP": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_7.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_8RRTMF": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_8.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_EpTeUP",
+            "image_8RRTMF"
           ]
         },
         "product_info_row_zCRCgG": {
@@ -1221,7 +1318,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_9.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1244,7 +1341,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The chest seam at the front of the jacket is mirrored at the back, where a yoke runs across the shoulder blades. From this yoke emanate two additional pleats — just like those at the front — which run down at approximate kidney coordinates all the way to the hem.</p>",
+                "text": "<p>Some hand-sewing here. The chain-stitch below the button-hole helps hold in place a boutonnière (a flower, for instance). The criss-cross (\"duck\") stitch, meanwhile, holds together the lapel and the collar so that, over time, one doesn't flap around independently of the other. Helpful little hidden handiwork.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1323,7 +1420,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1394,7 +1491,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>At the back, too, is a belt, which runs between those aforementioned rear pleats, fastening with two brass loops, and allowing the body to be tightened up a little. It's handy if you wish to wear your jacket open, but in a nice and neat fashion, keeping it from swinging around too much at the front.</p>",
+                "text": "<p>The jacket has an in-breast pocket — an internal chest pocket, that is, of the jetted variety — on both the left and right sides.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1424,7 +1521,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1497,7 +1594,79 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_xwewwV"
+          ]
+        },
+        "product_info_row_FKPyBM": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_fbqwN6": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1516,11 +1685,11 @@
               },
               "blocks": {}
             },
-            "text_ibzz8M": {
+            "text_Upggt4": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the jacket are solid horn — middling in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "text": "<p>The jacket has a buggy lining, across the upper back, of smooth, slinky satin. Likewise the sleeves. The jacket thus slides on and off with ease. The lower regions are unlined. This is an unstructured and travel-friendly jacket, after all. The exposed seams are finished cleanly and carefully with cotton binding.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1547,8 +1716,8 @@
             }
           },
           "block_order": [
-            "image_xwewwV",
-            "text_ibzz8M"
+            "image_fbqwN6",
+            "text_Upggt4"
           ]
         },
         "product_info_row_6G9Pmb": {
@@ -1598,7 +1767,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The sleeves run down to a fairly tight cuff — a pleat at the front of the sleeve helping with this narrowing — and with the under-seam opening up a few inches from the end. It's effectively a shirt-style cuff, but with a large button, or like a denim jacket cuff, but with a button rather than a snap.</p>",
+                "text": "<p>The cloth — made with the wool of British sheep — is a high-twist worsted, ergo springy, and with an open weave, ergo breathable. It is crisp and dry, and more coarse in texture than a bog-standard suiting cloth. Great for travelling, too, being as it has excellent fibre strength and doesn't much crease.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1628,7 +1797,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_11.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_in_lead_grey_14.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1652,431 +1821,21 @@
             "text_QRGwGX",
             "image_aawGP8"
           ]
-        },
-        "product_info_row_3gQgQe": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_4jyNfp": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_12.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_L6NWdK": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_4jyNfp",
-            "text_L6NWdK"
-          ]
-        },
-        "product_info_row_YWkr8F": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_TDgXDt": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>With things so eventful on the outside of the jacket, inside, things are kept as clean and as simple as can be, with a jetted chest pocket on the left and right sides.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_PqFVza": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_13.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_TDgXDt",
-            "image_PqFVza"
-          ]
-        },
-        "product_info_row_gQ3aMd": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_G9EgeT": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_14.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_hWTTU4": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The jacket is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the jacket on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_G9EgeT",
-            "text_hWTTU4"
-          ]
-        },
-        "product_info_row_iUMMCe": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_gcNCVt": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>This is corduroy of some substance: heavy, thick, and wide of wale. Still, corduroy being corduroy, despite its stern exterior, deep down this is a very soft cotton — wonderfully smooth and warm against the skin, surprisingly breathable, and with a character enriched with time and wear.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_DB8mxL": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_15.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_gcNCVt",
-            "image_DB8mxL"
-          ]
         }
       },
       "block_order": [
         "product_info_row_66zwRM",
-        "product_info_row_JD6tMg",
+        "product_info_row_4AgMxU",
         "product_info_row_iB9X3p",
         "product_info_row_NPQPzd",
         "product_info_row_pz4TPX",
+        "product_info_row_QYXpht",
         "product_info_row_zCRCgG",
         "product_info_row_jcDEXa",
         "product_info_row_n4NWfW",
         "product_info_row_6hEtER",
-        "product_info_row_6G9Pmb",
-        "product_info_row_3gQgQe",
-        "product_info_row_YWkr8F",
-        "product_info_row_gQ3aMd",
-        "product_info_row_iUMMCe"
+        "product_info_row_FKPyBM",
+        "product_info_row_6G9Pmb"
       ],
       "name": "Product Content",
       "settings": {
