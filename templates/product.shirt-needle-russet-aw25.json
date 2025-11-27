@@ -740,7 +740,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The dress trousers are fundamentally trousers of the old school, with a moderately high rise, plenty of room in and around the seat for comfort, and fullness built into the upper leg to avoid pull and stretch. They taper, gently, from the knee down, with the end result being middling: neither wide nor slim.</p>",
+                "text": "<p>The shirt is intended to be worn tucked or untucked. That's both. It has a fitted shape, so when tucked in, it rolls tidily into the trouser — but it is also casual, so when untucked it won't look like you've stepped out in an office shirt. It is a standard length: falling a couple of inches below the belt-line on most people.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_3_45c6f04d-0ca6-4965-8d8f-a79622562cd0.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_in_russet_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -843,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_6_b171cb02-322e-4bc8-8c15-8bd458f6720b.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_in_russet_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -866,7 +866,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The trousers fasten with a buckle at the side. How this works is, the waistband keeps going, past the fly, and meets a buckle attached to a tab on the right side as worn. Works like a belt, gives a clean look at the front, and means the wearer can adjust the size should they shrink or grow over the passage of time.</p>",
+                "text": "<p>The shirt has a button-down collar of moderate size and roll. The collar skims the neck-circle at the sides and back, and elongates as it reaches the front — and then the buttons step in. When the points are fixed to said buttons, the collar rears up and the satisfying bulging roll of the button-down reveals itself.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -944,7 +944,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The front of the trousers has two pleats on each side. They are stitched down by a length of two inches from the base of the waistband, and then, with horizontal bar-tacks as punctuation, fan out, providing the front of the trousers with shape, comfort, and ample room for pocket-rummaging.</p>",
+                "text": "<p>The shirt has a front of six horn buttons — each of them, in their own natural way, different from one to the next. Meanwhile, every significant seam on the shirt is what's known as a single-needle, lock-stitch, French seam. They take twice as long as standard seams, but look nicer, wear better, and last longer.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -974,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_4_5c690651-c966-4a02-953b-83c6b491222f.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_in_russet_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1047,7 +1047,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_5_49ab3972-34bb-414e-b523-719808545936.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_in_russet_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1065,40 +1065,10 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "text_kwYqta": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>There are five pockets on the trousers, the main ones of which are tucked into the outer side seams. They're barely visible, but are deep and sturdily made, using very fine but very strong cotton, so are exceptionally pleasing to plunge hands into.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "image_pTwrnK",
-            "text_kwYqta"
+            "image_pTwrnK"
           ]
         },
         "product_info_row_FQjmkf": {
@@ -1148,7 +1118,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Never overlook the little coin pocket, built into the waistband. It lurks ready for the storage of loose change or keys, even a bank card or two, on the right side as worn.</p>",
+                "text": "<p>The shirt has a chest pocket, with a narrow section on the inside-edge — for a pen, pencil, or chip fork, say — which is established with a long bar-tack. Bar-tacks also appear at the top corners of the pocket, for great strength, as well as several other parts of the shirt subject to the most wear and tear.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1178,7 +1148,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_7_e2c34001-72a5-41f5-855a-a58a00809a4a.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_in_russet_6.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1251,7 +1221,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_2_c7d21229-900c-4212-ad85-15c5018a5ecb.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_in_russet_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1274,7 +1244,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>With so much activity on the front of the trousers, the back is comparatively sparse. There are, however, two pockets lurking back there — tucked into the waistband seam on the left and right sides. No diminutive coin pockets, these: they're as deep or deeper than the pockets on any comparable trousers.</p>",
+                "text": "<p>The cuffs of the shirt are unapologetically tight, so the sleeve can't step over the line that is the start of the hand, and they fasten with a single button. The corner of the cuffs is gently curved, echoing the collar.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1352,7 +1322,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the trousers are real horn, middling in colour and matte in finish. The trousers have a button fly of three such buttons, as well as two others, which fasten the fly-guard and the front of the trousers before the belt is swept across.</p>",
+                "text": "<p>The question is, \"why would you<em>not</em>want to wear corduroy?\" It is exceptionally soft, particularly its interior, but, in being a traditional working cloth, is also very hard-wearing. And, despite being warm on cooler days, it is eminently breathable, so is great on warm days — especially this feather-light variant.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1382,7 +1352,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_8_1b47019e-c476-4689-8538-23e5a1833e9d.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_in_russet_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1406,210 +1376,6 @@
             "text_rQJJfy",
             "image_Tx6gVU"
           ]
-        },
-        "product_info_row_QmPn3D": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_kKgU9f": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_9_ba1129cf-1051-45a2-9b23-b01c631d518d.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_p4ap6p": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>They are lined to the knee, front and back, with soft, breathable satin. The way this lining is constructed makes the trousers as tidy when turned inside-out as outside-out, as is cut on the selvedge for a flat finish. The lining makes it easy — nay, pleasurable — to slide one's legs up and down and all around.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_kKgU9f",
-            "text_p4ap6p"
-          ]
-        },
-        "product_info_row_GJEJ8f": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_iYqL6f": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Bedford cord is best thought of as \"like corduroy but not as soft\". Doesn't have the same cut pile, see, which gives standard corduroy its trademark velvet-like handle. Bedford cord, though also cotton, is made in an entirely different way, and is more utilitarian: firmer, stronger, and more understated.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_xfzfQA": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_in_black_10_3081bc4f-002c-49dd-be24-2e5a2a5a4909.jpg",
-                "link": "",
-                "image_ratio": "landscape",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_iYqL6f",
-            "image_xfzfQA"
-          ]
         }
       },
       "block_order": [
@@ -1619,9 +1385,7 @@
         "product_info_row_JirJgp",
         "product_info_row_FQjmkf",
         "product_info_row_9zVj3J",
-        "product_info_row_LKFqfY",
-        "product_info_row_QmPn3D",
-        "product_info_row_GJEJ8f"
+        "product_info_row_LKFqfY"
       ],
       "name": "Product Content",
       "settings": {
@@ -1752,7 +1516,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1775,7 +1539,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The gent here has a waist of 33\" — an awkward size, but here he is wearing a sizeM, and with the belt tightened at the back. And it's a fair cop: these are the slim trousers, not the dress trousers. They're similar in fit, but the slims taper more from the knee to the ankle.</p>",
+                "text": "<p>The gent here is as standard a 38 chest as you could ever wish to meet, and with a height of 6ft 1in and weight of about 12 stone, and the shirt he's wearing is an S.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1854,7 +1618,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1926,7 +1690,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1992,35 +1756,7 @@
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
-          "blocks": {
-            "image_hE4wek": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_4.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_hE4wek"
-          ]
+          "blocks": {}
         }
       },
       "block_order": [
