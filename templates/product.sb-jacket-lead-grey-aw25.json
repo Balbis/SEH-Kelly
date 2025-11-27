@@ -2873,7 +2873,7 @@
               "settings": {
                 "text": "<p><em>The green trucker has arrived. What a beauty. I wasn't expecting it to have such weight: it’s lovely. For what it's worth. I'd prefer half an inch more on the sleeve length. But you can feel the quality. And I'm loving the lined sleeves: this is the quality detail that generates repeat business.</em></p>",
                 "width": "100%",
-                "max_width": "custom",
+                "max_width": "none",
                 "custom_max_width": 70,
                 "content_alignment": "flex-start",
                 "type_preset": "custom",
@@ -2937,7 +2937,7 @@
         "group_KTAwfY"
       ],
       "custom_css": [
-        "@media (min-width: 750px) {.group-block-content {display: grid; grid-template-columns: 2fr 1fr; gap: 30px; }}"
+        "@media (min-width: 750px) {.group-block-content {display: grid; grid-template-columns: 2fr 1fr; gap: 50px; }}"
       ],
       "name": "So They Say",
       "settings": {
