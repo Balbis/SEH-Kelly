@@ -2025,7 +2025,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_as_worn_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_SB_jacket_as_worn_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2049,7 +2049,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_as_worn_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_SB_jacket_as_worn_3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2073,7 +2073,55 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_as_worn_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_SB_jacket_as_worn_4.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_XHt8gT": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_SB_jacket_as_worn_5.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_EDqcPa": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/SEH_Kelly_SB_jacket_as_worn_6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2098,7 +2146,9 @@
         "product_info_row_ddmqKk",
         "image_Gy9xCm",
         "image_9JRTck",
-        "image_3byd8V"
+        "image_3byd8V",
+        "image_XHt8gT",
+        "image_EDqcPa"
       ],
       "name": "As worn",
       "settings": {
@@ -2135,7 +2185,7 @@
         "padding-block-end": 30
       }
     },
-    "divider_NNj3WX": {
+    "divider_hE9xhD": {
       "type": "divider",
       "name": "t:names.divider_section",
       "settings": {
@@ -2228,7 +2278,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat is made in north-east London. It is a very specialised skill, assembling coats from heavy cloth, and every reasonable step — and the odd unreasonable step — is taken to ensure things are built to last, from the cutting of the pattern to the work on the machine, but without the results being stiff or bulky.</p>",
+                "text": "<p>The jacket is made at an outerwear factory in London: the best, many agree, in the capital. The jacket is cut by the hands of a cutter with some 30 years in the trade, and sewn by one of four seamsters whose meticulousness and pursuit of perfection would be caricature were the end results not always so good.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2258,7 +2308,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/outerwear-factory-london-n16-7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_outerwear_factory_in_London_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2331,7 +2381,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/outerwear-factory-london-n16-50.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_outerwear_factory_in_London_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2355,7 +2405,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/outerwear-factory-london-n16-10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_outerwear_factory_in_London_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2428,7 +2478,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/shop-maker-cotton-1.jpg",
+                "image": "shopify://shop_images/heavy-woollens-mill-13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2451,7 +2501,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is sourced from a mill in Lancashire, in north-west England. Cottons have rolled off its line for nearly a century and a half. Industry-leading methods of weaving, dyeing, and finishing — unimproved in decades — along with steadfast adherence to quality, result in some truly first-rate cloth.</p>",
+                "text": "<p>Local production — this cloth is an exemplar of it. The wool which goes into the worsted comes from the backs of white-face Cheviot sheep in North Yorkshire, and is spun, washed, and woven at textile facilities, all within a small radius around the boundary North and West Yorkshire.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2480,205 +2530,6 @@
           "block_order": [
             "image_RnGUEx",
             "text_6Cakwi"
-          ]
-        },
-        "product_info_row_faAQHb": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_phiNRJ": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>The brass hardware is made by a foundry in the West Midlands, which was founded in the 1800s. It is the last such foundry in an area once heaving with them. Its sand-casting method — which sees 940°c molten brass poured by hand from a crucible into sand-made moulds — is ancient and infallible.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_TVEdpk": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-1.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_phiNRJ",
-            "image_TVEdpk"
-          ]
-        },
-        "product_info_row_amAEPg": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_dBziwE": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-grid-4.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_XpNERz": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/brass-buckles-making-grid-5.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_dBziwE",
-            "image_XpNERz"
           ]
         },
         "product_info_row_DJkCJd": {
@@ -2724,30 +2575,6 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_tmVij8": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_V876PB": {
               "type": "text",
               "name": "t:names.text",
@@ -2776,11 +2603,35 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_tmVij8": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_tmVij8",
-            "text_V876PB"
+            "text_V876PB",
+            "image_tmVij8"
           ]
         },
         "product_info_row_e6Rd4p": {
@@ -2886,8 +2737,6 @@
         "product_info_row_TqDPNc",
         "product_info_row_MJdJY4",
         "product_info_row_tmjH3T",
-        "product_info_row_faAQHb",
-        "product_info_row_amAEPg",
         "product_info_row_DJkCJd",
         "product_info_row_e6Rd4p"
       ],
@@ -2926,101 +2775,51 @@
         "padding-block-end": 30
       }
     },
+    "divider_NNj3WX": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "page-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
+      }
+    },
     "section_yPRNJr": {
       "type": "section",
       "blocks": {
-        "group_ieKXji": {
-          "type": "group",
-          "name": "t:names.group",
+        "text_tkV4GP": {
+          "type": "text",
+          "name": "t:names.text",
           "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "1",
-            "grid_column_end": "7",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 12,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
+            "text": "<p>So they say</p>",
+            "width": "100%",
+            "max_width": "normal",
+            "custom_max_width": 100,
+            "content_alignment": "flex-start",
+            "type_preset": "h5",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "italic": "none",
+            "wrap": "pretty",
+            "alignment": "left",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
             "padding-block-start": 0,
             "padding-block-end": 30,
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
-          "blocks": {
-            "divider_YTNWbr": {
-              "type": "_divider",
-              "name": "t:names.divider",
-              "settings": {
-                "thickness": 1,
-                "corner_radius": "square",
-                "width_percent": 100,
-                "padding-block-start": 0,
-                "padding-block-end": 30
-              },
-              "blocks": {}
-            },
-            "text_6dadrh": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>So they say</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "h5",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "divider_YTNWbr",
-            "text_6dadrh"
-          ]
+          "blocks": {}
         },
         "group_KTAwfY": {
           "type": "group",
@@ -3134,8 +2933,11 @@
         }
       },
       "block_order": [
-        "group_ieKXji",
+        "text_tkV4GP",
         "group_KTAwfY"
+      ],
+      "custom_css": [
+        "@media (min-width: 750px) {.group-block-content {display: grid; grid-template-columns: 2fr 1fr; gap: 30px; }}"
       ],
       "name": "So They Say",
       "settings": {
@@ -3148,12 +2950,12 @@
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "center",
         "gap": 12,
-        "grid_columns": "6",
+        "grid_columns": "3",
         "grid_columns_mobile": "1",
         "bento_columns": "3",
         "bento_rows": "6",
         "section_width": "page-width",
-        "section_height": "small",
+        "section_height": "auto",
         "section_height_custom": 50,
         "color_scheme": "",
         "background_media": "none",
@@ -3169,7 +2971,7 @@
         "gradient_direction": "to top",
         "image_zoom": false,
         "padding-block-start": 30,
-        "padding-block-end": 0
+        "padding-block-end": 30
       }
     },
     "product_recommendations_qggXJq": {
@@ -3365,8 +3167,9 @@
     "section_6XbmTR",
     "divider_KTxBmV",
     "section_ggcyy3",
-    "divider_NNj3WX",
+    "divider_hE9xhD",
     "section_UmaynW",
+    "divider_NNj3WX",
     "section_yPRNJr",
     "product_recommendations_qggXJq"
   ]
