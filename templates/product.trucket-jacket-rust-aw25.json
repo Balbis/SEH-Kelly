@@ -2206,7 +2206,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This gentleman has a chest of almost exactly 38, a height of 6ft 1in, and a weight of 12 stone, and is wearing his coat here in sizeS.</p>",
+                "text": "<p>Him, here, is as standard a 38 chest as ever there was, and he has a height of 6ft 1in and weight of 12 stone. He is wearing the trucker here in sizeS.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2236,7 +2236,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_as_worn_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_as_worn_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2266,7 +2266,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_duffle_coat_as_worn_2.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_as_worn_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2290,7 +2290,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_duffle_coat_as_worn_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_as_worn_3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2314,7 +2314,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_duffle_coat_as_worn_4.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_as_worn_4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2669,7 +2669,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/melton-maker-1m_2x_ad93f03f-6778-46a4-8159-70018f6f72bc.jpg",
+                "image": "shopify://shop_images/shop-maker-cotton-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2692,7 +2692,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The wool cloth hails from a mill founded in the Heavy Woollen District of West Yorkshire in the 1800s. Carding, blending, spinning, and weaving — it all happens on the same premises. This unique arrangement means that the fleece’s change into top-grade cloth could not be more tightly tuned.</p>",
+                "text": "<p>The cloth is sourced from a mill in Lancashire, in north-west England. Cottons have rolled off its line for nearly a century and a half. Industry-leading methods of weaving, dyeing, and finishing — unimproved in decades — along with steadfast adherence to quality, result in some truly first-rate cloth.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2723,7 +2723,7 @@
             "text_6Cakwi"
           ]
         },
-        "product_info_row_AGLmyT": {
+        "product_info_row_faAQHb": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2766,23 +2766,28 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_n3rmVN": {
-              "type": "image",
-              "name": "t:names.image",
+            "text_phiNRJ": {
+              "type": "text",
+              "name": "t:names.text",
               "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_5.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
+                "text": "<p>The brass hardware is made by a foundry in the West Midlands, which was founded in the 1800s. It is the last such foundry in an area once heaving with them. Its sand-casting method — which sees 940°c molten brass poured by hand from a crucible into sand-made moulds — is ancient and infallible.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
                 "padding-block-start": 0,
                 "padding-block-end": 0,
                 "padding-inline-start": 0,
@@ -2790,12 +2795,12 @@
               },
               "blocks": {}
             },
-            "image_qQRw8N": {
+            "image_TVEdpk": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
+                "image": "shopify://shop_images/brass-buckles-making-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2816,11 +2821,11 @@
             }
           },
           "block_order": [
-            "image_n3rmVN",
-            "image_qQRw8N"
+            "text_phiNRJ",
+            "image_TVEdpk"
           ]
         },
-        "product_info_row_bzWdXL": {
+        "product_info_row_amAEPg": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2863,12 +2868,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_HCKpXa": {
+            "image_dBziwE": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-maker-2.jpg",
+                "image": "shopify://shop_images/brass-buckles-making-grid-4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2887,11 +2892,108 @@
               },
               "blocks": {}
             },
-            "text_a8hFHR": {
+            "image_XpNERz": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/brass-buckles-making-grid-5.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_dBziwE",
+            "image_XpNERz"
+          ]
+        },
+        "product_info_row_DJkCJd": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_tmVij8": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_V876PB": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The toggles are made in the north-west of England by a small team of expert horn-handlers. The making of the toggles is based on the deceptively simple centuries-old practice of slowly heating cow horn over flame, bringing to just the right temperature, moulding it by hand, and then polishing it up to the nth degree.</p>",
+                "text": "<p>The horn buttons are cut, shaped, and polished by the last horn button-makers in Britain. Relocated from the Midlands to the Cotswolds, they continue a tradition going back to the 18th century.<em>\"It is no easy task,\"</em>claimed William Hutton in 1780,<em>\"to enumerate the infinite diversity of buttons made in Birmingham.\"</em></p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2918,11 +3020,11 @@
             }
           },
           "block_order": [
-            "image_HCKpXa",
-            "text_a8hFHR"
+            "image_tmVij8",
+            "text_V876PB"
           ]
         },
-        "product_info_row_YmeV7q": {
+        "product_info_row_e6Rd4p": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2965,12 +3067,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_EXXyzj": {
+            "image_PH6enR": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-works-north-west-england-1.jpg",
+                "image": "shopify://shop_images/horn-button-maker-england-6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2989,12 +3091,12 @@
               },
               "blocks": {}
             },
-            "image_TXBhz8": {
+            "image_bFxTnq": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-works-north-west-england-21.jpg",
+                "image": "shopify://shop_images/horn-button-maker-england-5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -3015,8 +3117,8 @@
             }
           },
           "block_order": [
-            "image_EXXyzj",
-            "image_TXBhz8"
+            "image_PH6enR",
+            "image_bFxTnq"
           ]
         }
       },
@@ -3025,9 +3127,10 @@
         "product_info_row_TqDPNc",
         "product_info_row_MJdJY4",
         "product_info_row_tmjH3T",
-        "product_info_row_AGLmyT",
-        "product_info_row_bzWdXL",
-        "product_info_row_YmeV7q"
+        "product_info_row_faAQHb",
+        "product_info_row_amAEPg",
+        "product_info_row_DJkCJd",
+        "product_info_row_e6Rd4p"
       ],
       "name": "Makers of",
       "settings": {
