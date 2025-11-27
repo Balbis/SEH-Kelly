@@ -2789,10 +2789,10 @@
         "padding-block-end": 16
       }
     },
-    "section_yPRNJr": {
+    "section_E9c8Bz": {
       "type": "section",
       "blocks": {
-        "text_tkV4GP": {
+        "text_Vn8nYY": {
           "type": "text",
           "name": "t:names.text",
           "settings": {
@@ -2821,7 +2821,7 @@
           },
           "blocks": {}
         },
-        "group_KTAwfY": {
+        "group_jbzc6M": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -2867,7 +2867,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_6fEgn7": {
+            "text_J8MkHY": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2896,11 +2896,11 @@
               },
               "blocks": {}
             },
-            "text_rUkefy": {
+            "text_q6z8xM": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>So confided a gentleman about the Donegal tweedSBin May 2016.</p>",
+                "text": "<p>So confided a gentleman about the Donegal tweed SB in May 2016.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 70,
@@ -2927,11 +2927,11 @@
             }
           },
           "block_order": [
-            "text_6fEgn7",
-            "text_rUkefy"
+            "text_J8MkHY",
+            "text_q6z8xM"
           ]
         },
-        "group_fLPq4Q": {
+        "group_nWKtTU": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -2977,7 +2977,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_kXALnW": {
+            "text_NDaUBL": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -3006,11 +3006,11 @@
               },
               "blocks": {}
             },
-            "text_VcBTUV": {
+            "text_NiYGYx": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Another acquire of anSBin Donegal tweed — defying seasonal norms in November of 2015.</p>",
+                "text": "<p>Another acquire of an SB in Donegal tweed — defying seasonal norms in November of 2015.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 70,
@@ -3037,11 +3037,11 @@
             }
           },
           "block_order": [
-            "text_kXALnW",
-            "text_VcBTUV"
+            "text_NDaUBL",
+            "text_NiYGYx"
           ]
         },
-        "group_zj6bPc": {
+        "group_7micXz": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3087,7 +3087,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_6RkqYV": {
+            "text_FAr8f7": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -3116,11 +3116,11 @@
               },
               "blocks": {}
             },
-            "text_EbptB9": {
+            "text_HYFdUh": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Kind words from a gentleman who bought a cotton-drill version of theSBback in 2014.</p>",
+                "text": "<p>Kind words from a gentleman who bought a cotton-drill version of the SB back in 2014.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 70,
@@ -3147,11 +3147,11 @@
             }
           },
           "block_order": [
-            "text_6RkqYV",
-            "text_EbptB9"
+            "text_FAr8f7",
+            "text_HYFdUh"
           ]
         },
-        "group_gqjmAQ": {
+        "group_x7kH4f": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3197,7 +3197,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_YFFD4T": {
+            "text_EFjzUp": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -3226,11 +3226,11 @@
               },
               "blocks": {}
             },
-            "text_HeDUkK": {
+            "text_QGgXNN": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>His \"object of desire\" was theSBin a blue herringbone linen, acquired in May 2015.</p>",
+                "text": "<p>His \"object of desire\" was the SB in a blue herringbone linen, acquired in May 2015.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 70,
@@ -3257,11 +3257,11 @@
             }
           },
           "block_order": [
-            "text_YFFD4T",
-            "text_HeDUkK"
+            "text_EFjzUp",
+            "text_QGgXNN"
           ]
         },
-        "group_3BLLCi": {
+        "group_VmcEfL": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -3307,7 +3307,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_BnBnFQ": {
+            "text_8GhWRa": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -3336,11 +3336,11 @@
               },
               "blocks": {}
             },
-            "text_MKHwMT": {
+            "text_JxGNwe": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Encouraging words from a chap who bought a woollenSBin February of 2017.</p>",
+                "text": "<p>Encouraging words from a chap who bought a woollen SB in February of 2017.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 70,
@@ -3367,21 +3367,18 @@
             }
           },
           "block_order": [
-            "text_BnBnFQ",
-            "text_MKHwMT"
+            "text_8GhWRa",
+            "text_JxGNwe"
           ]
         }
       },
       "block_order": [
-        "text_tkV4GP",
-        "group_KTAwfY",
-        "group_fLPq4Q",
-        "group_zj6bPc",
-        "group_gqjmAQ",
-        "group_3BLLCi"
-      ],
-      "custom_css": [
-        "@media (min-width: 750px) {.group-block-content {display: grid; grid-template-columns: 2fr 1fr; gap: 50px; }}"
+        "text_Vn8nYY",
+        "group_jbzc6M",
+        "group_nWKtTU",
+        "group_7micXz",
+        "group_x7kH4f",
+        "group_VmcEfL"
       ],
       "name": "So They Say",
       "settings": {
@@ -3614,7 +3611,7 @@
     "divider_hE9xhD",
     "section_UmaynW",
     "divider_NNj3WX",
-    "section_yPRNJr",
+    "section_E9c8Bz",
     "product_recommendations_qggXJq"
   ]
 }
