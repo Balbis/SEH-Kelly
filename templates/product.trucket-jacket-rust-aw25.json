@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The Ulster fits true to size, so the wooden man — a perfect 40 chest — has on his usual size M.</p>",
+                        "text": "<p>The trucker jacket fits true to size, and therefore the calico man here, as standard a 40 as ever there has been, is wearing it in size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
@@ -338,41 +338,11 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
-                    },
-                    "text_mYGVkj": {
-                      "type": "text",
-                      "name": "t:names.text",
-                      "settings": {
-                        "text": "<p>The method of sleeve construction, with the sleeve cut as one continuous panel from neck to cuff, means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
-                        "width": "100%",
-                        "max_width": "none",
-                        "custom_max_width": 100,
-                        "content_alignment": "flex-start",
-                        "type_preset": "rte",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "italic": "none",
-                        "wrap": "pretty",
-                        "alignment": "left",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
                     }
                   },
                   "block_order": [
                     "text_VizBQ9",
-                    "size_chart_3gB7hF",
-                    "text_mYGVkj"
+                    "size_chart_3gB7hF"
                   ]
                 }
               },
