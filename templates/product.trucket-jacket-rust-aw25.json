@@ -740,7 +740,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>What we have here is a duffle coat rooted in the traditions of the form — foremost in being a very substantial woollen coat, made with deep winter firmly in mind. But there is novelty and innovation here and there, too, to make it more useful and interesting to wear than perhaps a run-of-the-dull miffle.</p>",
+                "text": "<p>The trucker jacket —<em>road haulier and vehicular logistics personnel </em>jacket to some — packs a great deal into its relatively diminutive form. Take its collar, for starters, which is shapely and full and cut in a slightly hooked shape, and which can be worn just as happily wide open as buttoned to the top.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_duffle_coat_in_camel_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_in_rust_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
