@@ -1965,7 +1965,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Him, here, is as standard a 38 chest as ever there was, and he has a height of 6ft 1in and weight of 12 stone. He is wearing the trucker here in sizeS.</p>",
+                "text": "<p>Him, here, is as standard a 38 as ever there was, with a height of 6ft 1in and a weight of 12 stone. He's wearing one size larger than his usual here — it's a size M, meant for a 40 chest — hence the more relaxed than usual fit.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1995,7 +1995,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_trucke_jacket_as_worn_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_SB_jacket_as_worn_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
