@@ -111,8 +111,8 @@
           "custom_button_text": ""
         }
       },
-      "11349500561483629931": {
-        "type": "shopify://apps/notify-me/blocks/app-embed/b399b727-6c85-44fc-9e21-63114bd72054",
+      "5766431726679614263": {
+        "type": "shopify://apps/restock-alert-waitlist-mini/blocks/mini_app_embed/01004166-ff91-4d61-a580-355decef49d6",
         "disabled": false,
         "settings": {}
       }
