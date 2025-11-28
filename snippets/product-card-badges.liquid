@@ -14,8 +14,17 @@
   assign custom_badge = false
 
   if product.metafields.custom.product_badge != blank
-    assign custom_badge = true
-    assign custom_badge_text = product.metafields.custom.product_badge.value
+    if product.metafields.custom.badge_expiry != blank
+      assign badge_expiry = product.metafields.custom.badge_expiry.value | date: '%Y-%m-%d %H:%M:%S'
+      assign current_time = 'now' | date: '%Y-%m-%d %H:%M:%S'
+      if badge_expiry > current_time
+        assign custom_badge = true
+        assign custom_badge_text = product.metafields.custom.product_badge.value
+      endif
+    else
+      assign custom_badge = true
+      assign custom_badge_text = product.metafields.custom.product_badge.value
+    endif
   endif
 
   if product.available == false
