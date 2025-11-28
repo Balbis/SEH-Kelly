@@ -1790,7 +1790,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark grey and a weft of brown — is alive with little flecks of unexpected shades. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "text": "<p>Pray you never run into some Herdwick sheep on a dark night in the Lake District. They're a tough, rough breed, see, and the character which sees them endure the wind and rain of Cumbria at 3,000 feet finds its way into this cloth. It's a heavy, coarse, wiry tweed, very much at one with the great outdoors.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
