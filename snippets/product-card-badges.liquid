@@ -8,28 +8,49 @@
   {% render 'product-card-badges', product: product, settings: settings %}
 {%- enddoc -%}
 
-<div
-  class="product-badges product-badges--{{ settings.badge_position }}"
-  style="
-    --badge-border-radius: {{ settings.badge_corner_radius }}px;
-    --badge-font-family: var(--font-{{ settings.badge_font_family }}--family); --badge-font-weight: var(--font-{{ settings.badge_font_family }}--weight); --badge-text-transform: {{ settings.badge_text_transform }};
-  "
->
-  {%- if product.available == false or product.compare_at_price > product.price and product.available -%}
-    <div
-      class="
-        product-badges__badge product-badges__badge--rectangle
-        {% if product.available == false %} color-{{ settings.badge_sold_out_color_scheme }}{% elsif product.compare_at_price > product.price %} color-{{ settings.badge_sale_color_scheme }}{% endif %}
-      "
-    >
-      {%- if product.available == false -%}
-        {{ 'content.product_badge_sold_out' | t }}
-      {%- elsif product.compare_at_price > product.price -%}
-        {{ 'content.product_badge_sale' | t }}
-      {%- endif -%}
-    </div>
-  {%- endif -%}
-</div>
+{% liquid
+  assign show_sold_out_badge = false
+  assign show_sale_badge = false
+  assign custom_badge = false
+
+  if product.metafields.custom.product_badge != blank
+    assign custom_badge = true
+    assign custom_badge_text = product.metafields.custom.product_badge.value
+  endif
+
+  if product.available == false
+    assign show_sold_out_badge = true
+  endif
+
+  if product.compare_at_price > product.price and product.available
+    assign show_sale_badge = true
+  endif
+%}
+
+{% if custom_badge or show_sold_out_badge or show_sale_badge %}
+  <div
+    class="product-badges product-badges--{{ settings.badge_position }}"
+    style="
+      --badge-border-radius: {{ settings.badge_corner_radius }}px;
+      --badge-font-family: var(--font-{{ settings.badge_font_family }}--family); --badge-font-weight: var(--font-{{ settings.badge_font_family }}--weight); --badge-text-transform: {{ settings.badge_text_transform }};
+    "
+  >
+      <div
+        class="
+          product-badges__badge product-badges__badge--rectangle
+          {% if show_sold_out_badge %} color-{{ settings.badge_sold_out_color_scheme }}{% else %} color-{{ settings.badge_sale_color_scheme }}{% endif %}
+        "
+      >
+        {% if custom_badge %}
+          {{ custom_badge_text }}
+        {%- elsif show_sold_out_badge -%}
+          {{ 'content.product_badge_sold_out' | t }}
+        {%- elsif show_sale_badge -%}
+          {{ 'content.product_badge_sale' | t }}
+        {%- endif -%}
+      </div>
+  </div>
+{% endif %}
 
 {% stylesheet %}
   .product-badges {
