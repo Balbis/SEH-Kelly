@@ -110,6 +110,11 @@
           "text_colour": "#ffffff",
           "custom_button_text": ""
         }
+      },
+      "15393088698543645836": {
+        "type": "shopify://apps/essential-preorder/blocks/app-embed/bb7e7a06-2a82-4e7d-8984-c3918deb1c2a",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
