@@ -4219,11 +4219,11 @@ text-component {
   }
 }
 
-.mini-vac-embedded-form {
-    padding: 0 !important;
-    border: none !important;
-  }
+#mini-vac-embedded-form {
+  padding: 0 !important;
+  border: none !important;
+}
 
-  .mini-vac-notify-email-input {
-    border-radius: 0 !important;
-  }
+#mini-vac-notify-email-input {
+  border-radius: 0 !important;
+}
