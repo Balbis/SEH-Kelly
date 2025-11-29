@@ -4218,3 +4218,12 @@ text-component {
     font-size: max(1rem, 100%);
   }
 }
+
+.mini-vac-embedded-form {
+    padding: 0 !important;
+    border: none !important;
+  }
+
+  .mini-vac-notify-email-input {
+    border-radius: 0 !important;
+  }
