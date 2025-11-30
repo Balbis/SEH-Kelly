@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The trucker jacket fits true to size, and therefore the calico man here, as standard a 40 as ever there has been, is wearing it in size M.</p>",
+                        "text": "<p>The SB jacket fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his chest — is wearing a size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
