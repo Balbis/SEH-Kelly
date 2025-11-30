@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>If in doubt, ignore what your current trousers <em>say</em> they are, and measure them instead. Lay them out flat and straight, measure from one side of the waistband to the other, right along the top edge, then double. That's your size (not to be confused with your physical waist size).</p>",
+                        "text": "<p>The shirt fits true to size. The body is slim, and the sleeves taper to a very tight cuff. The mannequin is a 40 — the most standard 40 in the whole world — and is thus wearing size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
