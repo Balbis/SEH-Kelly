@@ -1848,7 +1848,6 @@
         "product_info_row_x7AEhB": {
           "type": "product-info-row",
           "name": "Product Info Row",
-          "disabled": true,
           "settings": {
             "link": "",
             "open_in_new_tab": false,
@@ -1894,7 +1893,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_middling_grey_14.jpg",
+                "image": "shopify://shop_images/ulster-herdwick-cut-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
