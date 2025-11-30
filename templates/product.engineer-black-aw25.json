@@ -770,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster is one of the certifiable big-hitters of traditional British outerwear — a long, double-breasted, large-collared slugger, hailing legend has it from the dockyards of Belfast circa 1850. This one follows and respects true Ulster orthodoxy, but has an updated moveset for everyday usefulness and userfriendliness.</p>",
+                "text": "<p>The engineer jacket is a style of workwear jacket which is short of body, abundant of pocket, lacking entirely of collar, and which goes about its business in a quietly unconventional way.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_middling_grey_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Engineer_jacket_in_black_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_middling_grey_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Engineer_jacket_in_black_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -896,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster has what's known as, yes, an Ulster collar. It is sharply angled at the front, but with points slightly rounded, and is cut to be just as happy standing up, skimming the neck at the sides and back, as it is sitting down — but even then, it is proud, and is never concave or flat or in any way apologetic.</p>",
+                "text": "<p>Rather than bother with a collar, the engineer jacket has, instead, no collar. It has an open, gently curved front — the sort of setup one sees sometimes on engineer and railroad-type jackets from yesteryear — and a placket panel that runs on both sides.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -974,7 +974,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The lapel may be swept across the front and fastened to a small button partially obscured beneath the collar — an instant four layers of tweed gained between man and world. There is then the option to keep the collar up with the help of another tiny button, or to fold it down again over the front.</p>",
+                "text": "<p>There are four pockets on the outside of the jacket, the first of which (starting from the top) are at the chest, and are tucked right up close to the seams of the placket. They are fairly sensible in width and capacity — wide for chest pockets, maybe, but not in the grand scheme of pocketing.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1004,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_middling_grey_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Engineer_jacket_in_black_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1050,7 +1050,7 @@
             "custom_width": 100,
             "width_mobile": "fill",
             "custom_width_mobile": 100,
-            "height": "fit",
+            "height": "fill",
             "custom_height": 100,
             "inherit_color_scheme": true,
             "color_scheme": "",
@@ -1077,9 +1077,9 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_middling_grey_13.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Engineer_jacket_in_black_5.jpg",
                 "link": "",
-                "image_ratio": "landscape",
+                "image_ratio": "adapt",
                 "width": "fill",
                 "custom_width": 100,
                 "width_mobile": "fill",
@@ -1100,7 +1100,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the Ulster are large, and are horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "text": "<p>The second pockets, meanwhile, are grander than grand. They span the distance from the front placket panel to the rear body seam (which just so happens to be the armhole seam). They're whoppers, in short, and are unsurprisingly covered by suitably whoppering flaps.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
