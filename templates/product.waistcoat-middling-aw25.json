@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -800,7 +800,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_3.jpg",
+            "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -867,7 +867,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -998,7 +998,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1071,7 +1071,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1202,7 +1202,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1275,7 +1275,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1377,7 +1377,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_9.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1508,7 +1508,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_10.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1581,7 +1581,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/peacoat-herdwick-tweed-light-sheep-grey-20_2x_c9f7df76-404d-4472-a605-e49653267790.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_midding_sheep_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1806,7 +1806,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/ulster-coat-herdwick-tweed-light-sheep-worn-3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_waistcoat_as_worn_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
