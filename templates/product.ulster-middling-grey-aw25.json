@@ -2090,7 +2090,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Him, here, is as standard a 38 chest as ever there was, along with a height of 6ft 1in and weight of 12 British stone. He is thus wearing a sizeS.</p>",
+                "text": "<p>Him, here, is as standard a 38 chest as ever there was, along with a height of 6ft 1in and weight of 12 British stone. He is thus wearing a size S.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
