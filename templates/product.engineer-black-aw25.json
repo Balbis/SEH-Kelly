@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The Ulster fits true to size, so the wooden man — a perfect 40 chest — has on his usual size M.</p>",
+                        "text": "<p>The engineer jacket fits true to size. The man of wood and cloth here is as standard a 40 chest as ever there was, and is wearing his usual M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
@@ -343,7 +343,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The method of sleeve construction, with the sleeve cut as one continuous panel from neck to cuff, means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
+                        "text": "<p>The method of sleeve construction on the jacket means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
