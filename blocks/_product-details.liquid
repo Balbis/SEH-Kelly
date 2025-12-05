@@ -23,6 +23,7 @@
       </a>
     </div>
     {% content_for 'blocks' %}
+    {% content_for 'block', type: 'text', id: 'product-delivery-info', closest.product: closest.product %}
   {% endcapture %}
 
   {% render 'group', children: children, settings: block.settings, shopify_attributes: block.shopify_attributes %}
