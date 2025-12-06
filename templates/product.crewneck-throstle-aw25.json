@@ -1571,35 +1571,6 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_nqE7wG": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>There are reports — neither confirmed nor denied — than the gentleman here has a chest of 38, a height of 6ft 1in, and a weight of 12 stone. He's wearing a sizeShere and it seems to fit him well.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-end",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "image_BxMYLK": {
               "type": "image",
               "name": "t:names.image",
@@ -1623,11 +1594,40 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "text_nqE7wG": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>There are reports — neither confirmed nor denied — than the gentleman here has a chest of 38, a height of 6ft 1in, and a weight of 12 stone. He's wearing a size S here and it seems to fit him well.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-end",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "text_nqE7wG",
-            "image_BxMYLK"
+            "image_BxMYLK",
+            "text_nqE7wG"
           ]
         },
         "image_kE468F": {
