@@ -15,7 +15,7 @@
       {% render 'spacing-style', settings: section.settings %}
     "
   >
-    <header>
+    <header class="blog-post-header">
       {%- content_for 'block', id: 'blog-post-title', type: 'text' %}
       {%- content_for 'block', id: 'blog-post-details', type: '_blog-post-info-text' %}
     </header>
@@ -59,7 +59,7 @@
 </script>
 
 {% stylesheet %}
-  .blog-post-comments-container {
+  .blog-post-comments-container, .blog-post-header {
     width: 100%;
     max-width: var(--normal-content-width);
     margin: 0 auto;
