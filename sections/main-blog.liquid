@@ -5,6 +5,16 @@
   type="module"
   fetchpriority="low"
 ></script>
+<script
+    src="{{ 'section-image-zoom.js' | asset_url }}"
+    type="module"
+    fetchpriority="low"
+  ></script>
+  <script
+    src="{{ 'drag-zoom-wrapper.js' | asset_url }}"
+    type="module"
+    fetchpriority="low"
+  ></script>
 
 <blog-posts-list section-id="{{ section.id }}">
   <div class="section-background color-{{ section.settings.color_scheme }}"></div>
@@ -17,6 +27,7 @@
       size-style
     "
     style="{% render 'spacing-style', settings: section.settings %}"
+    data-section-image-zoom
   >
     {% content_for 'blocks' %}
 
