@@ -5,12 +5,6 @@
     assign max_items = section_articles.size
   elsif section.settings.layout_type == 'editorial'
     assign max_items = section.settings.max_articles
-  elsif section.settings.layout_type == 'bento'
-    assign max_items = 4
-  elsif section.settings.layout_type == 'carousel'
-    assign max_items = section.settings.columns | plus: 2
-  elsif section.settings.layout_type == 'grid'
-    assign max_items = section.settings.columns
   endif
 
   case section.settings.layout_type
@@ -23,12 +17,14 @@
         echo '--resource-list-columns-mobile: repeat(' | append: section.settings.mobile_columns | append: ', 1fr);'
         echo '--column-count-mobile: ' | append: section.settings.mobile_columns | append: ';'
       endcapture
+    assign max_items = section.settings.columns
     when 'bento'
       assign classes = 'resource-list--bento'
       capture styles
         echo '--resource-list-column-gap-desktop: ' | append: section.settings.bento_gap | append: 'px;'
         echo '--bento-gap: var(--resource-list-column-gap);'
       endcapture
+    assign max_items = 4
     when 'carousel'
       assign classes = 'resource-list__carousel'
       capture styles
@@ -37,6 +33,7 @@
         echo '--column-count-mobile: 1;'
         echo '--mobile-card-size: ' | append: section.settings.mobile_card_size | append: ';'
       endcapture
+    assign max_items = section.settings.columns | plus: 2
   endcase
 %}
 
