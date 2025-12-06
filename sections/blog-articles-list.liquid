@@ -3,6 +3,10 @@
     assign selected_blog = section.settings.blog | default: blogs.first
     assign section_articles = selected_blog.articles
     assign max_items = section_articles.size
+    if template.name == 'article'
+      assign current_blog_handle = blog.handle
+      assign section_articles = section_articles | reject: 'handle', current_blog_handle
+    endif
   elsif section.settings.layout_type == 'editorial'
     assign max_items = section.settings.max_articles
   endif
