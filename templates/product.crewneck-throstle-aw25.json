@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The waistcoat fits true to size, and is intended to be neat and close-fitting. The mannequin here, then, with his unwavering 40 chest, is wearing the waistcoat in his usual size of M.</p>",
+                        "text": "<p>The crewneck fits true to size, and thus the mannequin — a standard 40 — is wearing M. The sleeves are meant to be turned back when worn — reflected in the measurements below.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
