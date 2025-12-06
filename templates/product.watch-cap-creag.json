@@ -302,48 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The cardigan fits true to size, so the mannequin (a standard 40) is wearing a size M. It fits like a relaxed jacket rather than a slim cardigan. The sleeves are intended to be turned back when worn — reflected in the measurements below.</p>",
-                        "width": "100%",
-                        "max_width": "none",
-                        "custom_max_width": 100,
-                        "content_alignment": "flex-start",
-                        "type_preset": "rte",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "italic": "none",
-                        "wrap": "pretty",
-                        "alignment": "left",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
-                    },
-                    "size_chart_3gB7hF": {
-                      "type": "size-chart",
-                      "name": "Size Chart",
-                      "settings": {
-                        "title": "",
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
-                    },
-                    "text_6zjyrp": {
-                      "type": "text",
-                      "name": "t:names.text",
-                      "settings": {
-                        "text": "<p>The method of sleeve construction, with the sleeve cut as one continuous panel from neck to cuff, means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
+                        "text": "<p>The watch cap, being a thing largely of rib, is suited well to crania of every size and shape.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
@@ -370,9 +329,7 @@
                     }
                   },
                   "block_order": [
-                    "text_VizBQ9",
-                    "size_chart_3gB7hF",
-                    "text_6zjyrp"
+                    "text_VizBQ9"
                   ]
                 }
               },
@@ -1687,7 +1644,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The garment is hand-framed by a knitwear maker founded 100 years ago. They work with small, hand-operated machines overseen by one person, rather than automated machines, making them one of the last makers still to do so in Britain. It is slow going, but the results always bear out the work put in.</p>",
+                "text": "<p>The hat is made by knitters in the south of Britain. Founded 100 years ago, they work with small, hand-operated contraptions overseen by one person — rather than huge, automated machines. It is perhaps the only maker to do so in Britain: slow going, but results bearing out the toil involved.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
