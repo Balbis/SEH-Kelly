@@ -51,6 +51,7 @@
             "heading": {
               "type": "_heading",
               "name": "t:names.title",
+              "disabled": true,
               "static": true,
               "settings": {
                 "type_preset": "h4",
@@ -77,7 +78,7 @@
               "name": "t:names.details",
               "static": true,
               "settings": {
-                "show_date": false,
+                "show_date": true,
                 "show_author": false,
                 "type_preset": "",
                 "alignment": "left",
@@ -89,6 +90,7 @@
             },
             "content": {
               "type": "_blog-post-description",
+              "disabled": true,
               "static": true,
               "settings": {
                 "type_preset": "rte",
@@ -106,7 +108,6 @@
             },
             "image": {
               "type": "_blog-post-image",
-              "disabled": true,
               "static": true,
               "settings": {
                 "height": "large",
