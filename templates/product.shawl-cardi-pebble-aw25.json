@@ -770,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The crewneck is ten-ply, which means it is preposterously thick. Wear one and it'll feel like summer no matter the true climate. It is hand-framed — i.e. made by a single skilful knitter, who controls the quality and tension of the stitch on an old and hand-operated contraption. A true rarity, this, these days.</p>",
+                "text": "<p>The cardigan is, in knitwear speak, ten-ply. Preposterously thick is what this means, with its great weight apparent the moment it is beheld. Moreover, the collar — that great pythonic collar there — is a double layer of knit, which logically makes it twenty-ply, and akin thus to wearing an incredibly thick scarf.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_crewneck_charcoal_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_crewneck_charcoal_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -896,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The crewneck can make another boast in the world of luxury-grade knitwear bingo: it is fully fashioned. That is to say, the sleeve and body are individually shaped and engineered — just like a tailored jacket, say — to achieve the best shape. This is not ordinary; it demands knitting expertise of black-belt standard.</p>",
+                "text": "<p>The density of the shawl cardigan, comparable to heavy seafaring gear, does not come at the expense of comfort. See, it is made with superfine lambswool — 1/14 Nm, to be exact — and is cosy and comfortable to an incomparable extent. If one were prone to superlatives, it could be called sumptuous.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -974,7 +974,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The density of the crewneck, comparable to heavy seafaring gear, does not come at the expense of comfort. See, it is made with superfine lambswool — 1/14 Nm, to be exact — and is cosy and comfortable to an incomparable extent. If one were prone to superlatives, it could be called sumptuous.</p>",
+                "text": "<p>The cardigan is assembled by hand-linking — i.e. body and sleeve, or sleeve and cuff, are not stitched together. Instead, the tiny knitted loops of each section are joined, with a needle, by hand. Painfully slow work, as you might imagine, but the only way to achieve a soft and seamless finish.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1004,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_crewneck_charcoal_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
