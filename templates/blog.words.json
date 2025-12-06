@@ -99,7 +99,7 @@
                 "case": "none",
                 "wrap": "pretty",
                 "color": "var(--color-foreground)",
-                "padding-block-start": 16,
+                "padding-block-start": 0,
                 "padding-block-end": 0
               },
               "blocks": {}
