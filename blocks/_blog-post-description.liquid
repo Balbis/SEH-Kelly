@@ -40,9 +40,6 @@
 
 {% if content %}
   {% assign truncatewords = 30 %}
-  {% unless article.image %}
-    {% assign truncatewords = 90 %}
-  {% endunless %}
 
   {% liquid
     assign element = 'div'
