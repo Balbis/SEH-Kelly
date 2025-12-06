@@ -1077,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_crewneck_throstle_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1208,7 +1208,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_crewneck_throstle_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1281,7 +1281,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_crewneck_throstle_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1378,30 +1378,6 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_czR8Mq": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_waistcoat_in_light_sheep_9.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_Cax3GN": {
               "type": "text",
               "name": "t:names.text",
@@ -1430,11 +1406,35 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_czR8Mq": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_crewneck_throstle_6.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_czR8Mq",
-            "text_Cax3GN"
+            "text_Cax3GN",
+            "image_czR8Mq"
           ]
         }
       },
