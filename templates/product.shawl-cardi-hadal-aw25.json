@@ -830,7 +830,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_cosmos_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -903,7 +903,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_cosmos_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1034,7 +1034,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_cosmos_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1107,7 +1107,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_5.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_cosmos_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1238,7 +1238,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_6.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_cosmos_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1311,7 +1311,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_7.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_cosmos_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1442,7 +1442,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_8.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_cosmos_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
