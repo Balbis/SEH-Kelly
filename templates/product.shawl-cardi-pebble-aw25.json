@@ -1107,7 +1107,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_crewneck_charcoal_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1130,7 +1130,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The back of the body and the sleeves are thinner than the front: they're six-ply, compared to ten. The thinking is that this frees up some space for wearing a jacket or coat over the top. The sleeves are also raglan, which means no shoulder seam, which means even more space and freedom of movement.</p>",
+                "text": "<p>It is hand-framed — i.e. made by a single knitter, who controls the quality and tension of the stitch on an old and hand-operated contraption, rather than a whizzing and thumping, entirely automated and utterly soulless behemoth. It brings an intangible, warm, and human quality to the knit.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1208,7 +1208,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>It is hand-linked — i.e. body and sleeve, or sleeve and cuff, are not stitched together. Instead, the tiny knit loops of each part are linked together, with a knitting needle, by hand. Painfully slow work, as you might imagine — but the only way to achieve a soft, seamless finish. The seam here, for example: where is it?</p>",
+                "text": "<p>The construction of the cardigan is unusual. The sleeve and upper back are a single panel, and join the lower body with a horizontal seam across the back but a traditional inset seam at the front. It fits like a one-piece raglan sleeve, with a soft, smooth shoulder following unimpeded the lines of the wearer.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1238,7 +1238,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_crewneck_charcoal_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1311,7 +1311,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_crewneck_charcoal_4.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1334,7 +1334,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The neck, hem, and cuffs of the jumper are all rib-stitch, which keeps them nice and tight. The cuffs are turn-back: twice as long as usual, so they can be turned back on themselves. It is a nice thing to play around with — and useful, too, in that the sleeves can be shortened or lengthened at the behest of the wearer.</p>",
+                "text": "<p>The cardigan has a front of five horn buttons, which are middling in size, dark in colour, and matte in finish. Because each button is a thing of nature — rather than an ersatz replica — they are all unique, differing to lesser and greater degrees from one to the next in colour and shade and markings and so on.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1412,7 +1412,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are three shades of yarn at play here — one dark grey, one mid-brown, and one light brown. The yarn is knitted into a tuck-stitch, which has a layered, textured appearance. It is dense, on the one hand, but springy and breathable on the other. And just look at it — marvellously textured, the tuck.</p>",
+                "text": "<p>The yarn is knitted into a tuck-stitch, which has a layered, textured appearance. It is dense, on the one hand, but springy and breathable on the other. And just look at it — marvellously textured, the tuck.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1442,7 +1442,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_crewneck_charcoal_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shawl_cardigan_pebble_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
