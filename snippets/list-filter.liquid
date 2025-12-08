@@ -15,10 +15,6 @@
   assign is_swatch = false
   assign swatch_index = filter.values | find_index: 'swatch'
 
-  if swatch_index != null
-    assign is_swatch = true
-  endif
-
   assign is_image = false
   if filter.presentation == 'image'
     assign is_image = true
