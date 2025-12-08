@@ -1382,7 +1382,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are three shades of yarn at play here — one dark grey, one mid-brown, and one light brown. The yarn is knitted into a tuck-stitch, which has a layered, textured appearance. It is dense, on the one hand, but springy and breathable on the other. And just look at it — marvellously textured, the tuck.</p>",
+                "text": "<p>There are three shades of yarn at play here — one black, one dark grey, and one light light grey. The yarn is knitted into a tuck-stitch, which has a layered, textured appearance. It is dense, on the one hand, but springy and breathable on the other. And just look at it — marvellously textured, the tuck.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
