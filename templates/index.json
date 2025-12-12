@@ -859,8 +859,10 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
-                "image_mode": "single",
+                "image_mode": "multiple",
                 "image": "shopify://shop_images/clothes-made-in-england-mid-4_2x_16de719b-ad7a-4579-b680-89834c28bb3a.jpg",
+                "image_2": "shopify://shop_images/clothes-made-in-england-mid-5_2x_d1650212-ebe8-4948-8406-42ee4e693163.jpg",
+                "image_3": "shopify://shop_images/clothes-made-in-england-mid-2_2x_8569fda1-90b0-4b6b-8c0c-b85fd062757e.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
