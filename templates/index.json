@@ -1175,8 +1175,11 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
-                "image_mode": "single",
+                "image_mode": "multiple",
                 "image": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_1.jpg",
+                "image_2": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_2.jpg",
+                "image_3": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_4.jpg",
+                "image_4": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
