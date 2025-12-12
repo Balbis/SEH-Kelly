@@ -101,6 +101,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 30,
         "padding-block-end": 25
       }
@@ -386,6 +387,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 0,
         "padding-block-end": 0
       }
@@ -858,7 +860,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/clothes-made-in-england-coats-7_2x_f687899a-06a5-4337-a97c-dbfa4cb7b785.jpg",
+                "image": "shopify://shop_images/clothes-made-in-england-mid-4_2x_16de719b-ad7a-4579-b680-89834c28bb3a.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -993,7 +995,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/clothes-made-in-england-coats-7_2x_f687899a-06a5-4337-a97c-dbfa4cb7b785.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1115,6 +1117,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 0,
         "padding-block-end": 30
       }
@@ -1173,7 +1176,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/clothes-made-in-england-coats-7_2x_f687899a-06a5-4337-a97c-dbfa4cb7b785.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_dress_trousers_as_worn_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1427,6 +1430,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 0,
         "padding-block-end": 0
       }
@@ -1722,6 +1726,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
+        "image_zoom": false,
         "padding-block-start": 0,
         "padding-block-end": 0
       }
