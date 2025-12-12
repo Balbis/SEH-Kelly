@@ -326,6 +326,9 @@
       },
       "order_summary": {
         "shipping_label": "Shipping, Taxes & Duties"
+      },
+      "shop_policies": {
+        "refund_policy": "Returns"
       }
     },
     "notices": {
@@ -337,6 +340,13 @@
     },
     "page_titles": {
       "shopping_cart": "Your basket"
+    }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "returns": {
+        "return_and_refund_modal_header": "Returns"
+      }
     }
   }
 }
