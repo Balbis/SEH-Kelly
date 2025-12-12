@@ -994,8 +994,11 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
-                "image_mode": "single",
+                "image_mode": "multiple",
                 "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_1.jpg",
+                "image_2": "shopify://shop_images/119713961934.jpg",
+                "image_3": "shopify://shop_images/93799133675.jpg",
+                "image_4": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_b2cb20d7-dabc-4f3c-843b-1435750db7c5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1315,6 +1318,9 @@
               "settings": {
                 "image_mode": "multiple",
                 "image": "shopify://shop_images/clothes-made-in-england-acc-1_2x_7d41e20c-a0b9-4041-95d8-2e4743f676fc.jpg",
+                "image_2": "shopify://shop_images/SEH_Kelly_watch_cap_as_worn_2.jpg",
+                "image_3": "shopify://shop_images/SEH_Kelly_watch_cap_as_worn_3.jpg",
+                "image_4": "shopify://shop_images/67859569305.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
