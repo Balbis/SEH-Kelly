@@ -4227,3 +4227,15 @@ text-component {
 #mini-vac-notify-email-input {
   border-radius: 0 !important;
 }
+
+.blog-grid {
+  display: grid;
+  grid-template-columns: 1;
+  gap: 20px;
+}
+
+@media screen and (min-width: 750px) {
+  .blog-grid {
+    grid-template-columns: 2;
+  }
+}
