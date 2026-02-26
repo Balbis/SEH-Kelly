@@ -4230,12 +4230,12 @@ text-component {
 
 .blog-grid {
   display: grid;
-  grid-template-columns: 1;
+  grid-template-columns: 1fr;
   gap: 20px;
 }
 
 @media screen and (min-width: 750px) {
   .blog-grid {
-    grid-template-columns: 2;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
