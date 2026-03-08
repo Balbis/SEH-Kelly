@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_4.jpg",
+                "image": "shopify://shop_images/raincoat_sand_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -843,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_3.jpg",
+                "image": "shopify://shop_images/raincoat_sand_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -974,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_5.jpg",
+                "image": "shopify://shop_images/raincoat_sand_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1047,7 +1047,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_9.jpg",
+                "image": "shopify://shop_images/raincoat_sand_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1178,7 +1178,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_6.jpg",
+                "image": "shopify://shop_images/raincoat_sand_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1251,7 +1251,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_8.jpg",
+                "image": "shopify://shop_images/raincoat_sand_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1382,7 +1382,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_7.jpg",
+                "image": "shopify://shop_images/raincoat_sand_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1455,7 +1455,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_10.jpg",
+                "image": "shopify://shop_images/raincoat_sand_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1586,7 +1586,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_11.jpg",
+                "image": "shopify://shop_images/raincoat_sand_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1659,7 +1659,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/raincoat_navy_12.jpg",
+                "image": "shopify://shop_images/raincoat_sand_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
