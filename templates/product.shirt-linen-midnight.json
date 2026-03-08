@@ -1467,7 +1467,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Him, here, is a card-carrying member of the 38 chest club, and has a weight of 12 stone and a height of 6ft 1in. He is wearing the raincoat in size S.</p>",
+                "text": "<p>The gent here is as standard a 38 chest as you could ever wish to meet, and with a height of 6ft 1in and weight of about 12 stone, and the shirt he's wearing is an S.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1497,7 +1497,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_39_raincoat-cotton-cambric-sand-worn-2_2x_1fe34462-f0c9-464e-b015-eac74717e311.jpg",
+                "image": "shopify://shop_images/imgi_32_shirt-kelly-collar-merino-oxford-grey-worn-3_2x_702d4d1c-b783-4f46-b0cd-e049fe822f72.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1527,7 +1527,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_40_raincoat-cotton-cambric-sand-worn-4_2x_cb888f2a-5287-4d81-bbf3-f11cd5eb18fa.jpg",
+            "image": "shopify://shop_images/imgi_33_shirt-kelly-collar-merino-oxford-grey-worn-1_2x_365a7630-c115-42f7-9565-85e221081328.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1551,7 +1551,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_41_raincoat-cotton-cambric-sand-worn-1_2x_55d66be9-9ae2-443a-b915-4cc94f0a01d0.jpg",
+            "image": "shopify://shop_images/imgi_34_shirt-kelly-collar-merino-oxford-grey-worn-2_2x_d6a04fd2-e8d5-4e72-9f66-befc86e4593a.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1575,7 +1575,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_42_raincoat-cotton-cambric-sand-worn-3_2x_4a0c4cdc-6e48-46c6-9cd2-6f464c74aed8.jpg",
+            "image": "shopify://shop_images/imgi_35_shirt-granddad-corduroy-ivy-green-worn-2_2x_9b00dd59-00de-4d65-a9f1-44e2f2b69b81.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1599,31 +1599,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_43_raincoat-cotton-cambric-sand-worn-5_2x_582b063e-cb20-49a4-a756-acab208a0e4e.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_KU3f3N": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_44_raincoat-cotton-cambric-sand-worn-6_2x_7d9d3dc2-c59e-41a1-b052-66308f81d3ff.jpg",
+            "image": "shopify://shop_images/imgi_36_shirt-granddad-corduroy-ivy-green-worn-1_2x_bc034411-327e-429b-8df6-9efbd8f0d012.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1649,8 +1625,7 @@
         "image_kE468F",
         "image_pU4R3N",
         "image_nCC6Le",
-        "image_Xti6R8",
-        "image_KU3f3N"
+        "image_Xti6R8"
       ],
       "name": "As worn",
       "settings": {
