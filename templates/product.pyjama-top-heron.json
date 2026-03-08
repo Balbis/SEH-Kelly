@@ -257,7 +257,7 @@
                   },
                   "blocks": {}
                 },
-                "modal_a3mjk4": {
+                "modal_9gKcQp": {
                   "type": "modal",
                   "name": "Modal",
                   "settings": {
@@ -298,11 +298,11 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {
-                    "text_VizBQ9": {
+                    "text_idqJe6": {
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The waistcoat fits true to size, and is intended to be neat and close-fitting. The mannequin here, then, with his unwavering 40 chest, is wearing the waistcoat in his usual size of M.</p>",
+                        "text": "<p>The pyjama top fits entirely true to size. The mannequin here — the most standard 40 chest on this planet or any other — is wearing an M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
@@ -327,7 +327,7 @@
                       },
                       "blocks": {}
                     },
-                    "size_chart_3gB7hF": {
+                    "size_chart_FV3wx6": {
                       "type": "size-chart",
                       "name": "Size Chart",
                       "settings": {
@@ -338,17 +338,47 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
+                    },
+                    "text_JranhB": {
+                      "type": "text",
+                      "name": "t:names.text",
+                      "settings": {
+                        "text": "<p>The method of sleeve construction, with the sleeve cut as one continuous panel from neck to cuff, means the shoulders accommodate and drape smoothly over human contours of every shape and size — rendering a shoulder measurement both impossible and irrelevant.</p>",
+                        "width": "100%",
+                        "max_width": "none",
+                        "custom_max_width": 100,
+                        "content_alignment": "flex-start",
+                        "type_preset": "rte",
+                        "font": "var(--font-body--family)",
+                        "font_size": "1rem",
+                        "line_height": "normal",
+                        "letter_spacing": "normal",
+                        "case": "none",
+                        "italic": "none",
+                        "wrap": "pretty",
+                        "alignment": "left",
+                        "color": "var(--color-foreground)",
+                        "background": false,
+                        "background_color": "#00000026",
+                        "corner_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
                     }
                   },
                   "block_order": [
-                    "text_VizBQ9",
-                    "size_chart_3gB7hF"
+                    "text_idqJe6",
+                    "size_chart_FV3wx6",
+                    "text_JranhB"
                   ]
                 }
               },
               "block_order": [
                 "variant_picker_i8ePmy",
-                "modal_a3mjk4"
+                "modal_9gKcQp"
               ]
             },
             "buy_buttons_eYQEYi": {
