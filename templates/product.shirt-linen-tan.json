@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_2.jpg",
+                "image": "shopify://shop_images/linen-spread-collar-shirt_tan_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -843,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_3.jpg",
+                "image": "shopify://shop_images/linen-spread-collar-shirt_tan_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -974,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_6.jpg",
+                "image": "shopify://shop_images/linen-spread-collar-shirt_tan_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1004,7 +1004,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_4.jpg",
+            "image": "shopify://shop_images/linen-spread-collar-shirt_tan_4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1071,7 +1071,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_7.jpg",
+                "image": "shopify://shop_images/linen-spread-collar-shirt_tan_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1202,7 +1202,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_5.jpg",
+                "image": "shopify://shop_images/linen-spread-collar-shirt_tan_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1275,7 +1275,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_8.jpg",
+                "image": "shopify://shop_images/linen-spread-collar-shirt_tan_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
