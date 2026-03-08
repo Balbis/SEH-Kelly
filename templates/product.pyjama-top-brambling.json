@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/pyjama-jacket_grey_2.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_brown_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -843,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/pyjama-jacket_grey_4.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_brown_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -974,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/pyjama-jacket_grey_5.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_brown_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1047,7 +1047,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/pyjama-jacket_grey_3.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_brown_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1178,7 +1178,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/pyjama-jacket_grey_6.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_brown_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1251,7 +1251,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/pyjama-jacket_grey_8.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_brown_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1382,7 +1382,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/pyjama-jacket_grey_7.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_brown_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
