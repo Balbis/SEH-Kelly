@@ -1676,10 +1676,10 @@
         "padding-block-end": 16
       }
     },
-    "section_UmaynW": {
+    "section_beQa6H": {
       "type": "section",
       "blocks": {
-        "text_pfXYL8": {
+        "text_Ketfad": {
           "type": "text",
           "name": "t:names.text",
           "settings": {
@@ -1708,7 +1708,7 @@
           },
           "blocks": {}
         },
-        "product_info_row_TqDPNc": {
+        "product_info_row_YdLiFm": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1751,11 +1751,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_xgPect": {
+            "text_nexeez": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The waistcoat is made at an outerwear factory in London: the best, many agree, in the capital. It is cut by the hands of a cutter with some 30 years in the trade, and sewn by one of four seamsters whose meticulousness and pursuit of perfection would be caricature were the end results not always so good.</p>",
+                "text": "<p>The shirt is made by a shirt-maker in north London. They make shirts and only shirts all day, every day, and so have developed something of a knack for it. They make with time-consuming but strong single-needle lock-stitch seams, and with an out-of-vogue dedication to older \"how shirts used to be made\" contraptions.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1780,12 +1780,12 @@
               },
               "blocks": {}
             },
-            "image_E4djgU": {
+            "image_8GcBaw": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_overshirt_factor_1.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_maker_factory_north_london_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1806,11 +1806,11 @@
             }
           },
           "block_order": [
-            "text_xgPect",
-            "image_E4djgU"
+            "text_nexeez",
+            "image_8GcBaw"
           ]
         },
-        "product_info_row_MJdJY4": {
+        "product_info_row_rTcy6e": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1853,12 +1853,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_NXwc3U": {
+            "image_ezxE4B": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_overshirt_factor_2.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_maker_factory_north_london_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1877,12 +1877,12 @@
               },
               "blocks": {}
             },
-            "image_xiHk4m": {
+            "image_mftYqQ": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_overshirt_factor_3.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_maker_factory_north_london_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1903,11 +1903,11 @@
             }
           },
           "block_order": [
-            "image_NXwc3U",
-            "image_xiHk4m"
+            "image_ezxE4B",
+            "image_mftYqQ"
           ]
         },
-        "product_info_row_tmjH3T": {
+        "product_info_row_nranE8": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1950,12 +1950,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_RnGUEx": {
+            "image_cFcFxt": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/shop-maker-cotton-1_c7b25b83-f235-48e3-97aa-e70774c0852f.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_maker_factory_north_london_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1974,11 +1974,84 @@
               },
               "blocks": {}
             },
-            "text_6Cakwi": {
+            "image_wUCLPJ": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_maker_factory_north_london_4.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_cFcFxt",
+            "image_wUCLPJ"
+          ]
+        },
+        "product_info_row_eBjej9": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_MTEzKD": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cotton comes from Scotland, from a mill on the coast, where the making of heavy, waxed, and otherwise element-proof materials emerged in hand, centuries ago, with local seafaring trades. Industry-strength cottons finished in industry-leading ways is very much the order of the day here.</p>",
+                "text": "<p>The cloth is sourced from a mill in Lancashire, in north-west England. Cottons have rolled off its line for nearly a century and a half. Industry-leading methods of weaving, dyeing, and finishing — unimproved in decades — along with steadfast adherence to quality, result in some truly first-rate cloth.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2002,14 +2075,38 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "image_tBXPyy": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/shop-maker-cotton-1.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_RnGUEx",
-            "text_6Cakwi"
+            "text_MTEzKD",
+            "image_tBXPyy"
           ]
         },
-        "product_info_row_NhCNit": {
+        "product_info_row_heXGqp": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2052,7 +2149,31 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_c9pUyt": {
+            "image_dDgGBk": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_HwaN3A": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2080,38 +2201,14 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_8A8EWa": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_c9pUyt",
-            "image_8A8EWa"
+            "image_dDgGBk",
+            "text_HwaN3A"
           ]
         },
-        "product_info_row_YmeV7q": {
+        "product_info_row_yLrL7A": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2154,7 +2251,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_EXXyzj": {
+            "image_Ld77xk": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2178,7 +2275,7 @@
               },
               "blocks": {}
             },
-            "image_TXBhz8": {
+            "image_bP48wp": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2204,20 +2301,21 @@
             }
           },
           "block_order": [
-            "image_EXXyzj",
-            "image_TXBhz8"
+            "image_Ld77xk",
+            "image_bP48wp"
           ]
         }
       },
       "block_order": [
-        "text_pfXYL8",
-        "product_info_row_TqDPNc",
-        "product_info_row_MJdJY4",
-        "product_info_row_tmjH3T",
-        "product_info_row_NhCNit",
-        "product_info_row_YmeV7q"
+        "text_Ketfad",
+        "product_info_row_YdLiFm",
+        "product_info_row_rTcy6e",
+        "product_info_row_nranE8",
+        "product_info_row_eBjej9",
+        "product_info_row_heXGqp",
+        "product_info_row_yLrL7A"
       ],
-      "name": "Makers of",
+      "name": "Maker",
       "settings": {
         "layout_type": "flex",
         "content_direction": "column",
@@ -2266,10 +2364,10 @@
         "padding-block-end": 0
       }
     },
-    "section_bFXAqM": {
+    "section_HmV9NX": {
       "type": "section",
       "blocks": {
-        "group_gRF8Gn": {
+        "group_eKQqRz": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -2315,7 +2413,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_Uwd3qp": {
+            "text_kE8KAt": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2346,10 +2444,10 @@
             }
           },
           "block_order": [
-            "text_Uwd3qp"
+            "text_kE8KAt"
           ]
         },
-        "group_ia37cm": {
+        "group_zYwAcy": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
@@ -2395,11 +2493,11 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_qACi9p": {
+            "text_tEqchz": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p><em>I just received the pyjama top today. I dunno what to say! It’s awesome. The fabric, the details, the fit ... You were right about the sizing, as the size S is just what I needed. I’m more than happy with this new kid in my wardrobe, and you can be sure that it won’t be the last from your brand.</em></p>",
+                "text": "<p><em>Some words to tell you about the shirts I just received. They are simply beautiful and amazing with a great manufacturing quality. And very comfortable to wear.</em></p>",
                 "width": "100%",
                 "max_width": "custom",
                 "custom_max_width": 70,
@@ -2424,11 +2522,11 @@
               },
               "blocks": {}
             },
-            "text_TJGDid": {
+            "text_B948WL": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Happy words from France, courtesy of a man who picked up the pyjama top in a blend of merino lambswool and cotton in August 2020.</p>",
+                "text": "<p>This chap, in France, purchased a shirt in merino wool and a shirt in cotton in March 2019.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 70,
@@ -2455,16 +2553,1014 @@
             }
           },
           "block_order": [
-            "text_qACi9p",
-            "text_TJGDid"
+            "text_tEqchz",
+            "text_B948WL"
+          ]
+        },
+        "group_XQNeNX": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_m6nKzm": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>Just a quick message to say I picked up the shirt from the post office today and all I can say is: wow. The material is unlike any I have felt before: you have surpassed yourselves with this one! An incredible shirt. I'm extremely pleased with it. Thanks for the recommendation. I think it may well be the most comfortable piece of clothing I've ever worn.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_wnPXB3": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>This gentleman, living in Finland, picked up the shirt in superfine merino in March 2019.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_m6nKzm",
+            "text_wnPXB3"
+          ]
+        },
+        "group_qPGBmN": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_E9hNgL": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I have spent the day speculating on which descriptive superlative to apply to the shirt that has arrived safely here — and I think delightful is the best word. But wonderful and beautiful apply as well. And the cloth itself is amazing.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_KmKqDq": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Kind words from a kind lady in Denmark, who purchased a shirt in superfine merino hopsack in March 2019.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_E9hNgL",
+            "text_KmKqDq"
+          ]
+        },
+        "group_kEbfp8": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_AqPVyU": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I’ve been using this shirt a lot, and I must say it’s outstanding, I really like it. The details in the workmanship are truly amazing, from the stitching to how well the buttons are sewn on. It makes me value the whole garment.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_nM3YAz": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Spoken by a gent who purchased the shirt in desert cotton in the summer of 2017.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_AqPVyU",
+            "text_nM3YAz"
+          ]
+        },
+        "group_3wX93X": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_MbTx6g": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I just received my shirt, and I absolutely love it. It makes me wonder why I waited so long to give your wares a try. I will almost certainly be sending more business your way in the future. Thanks very much for the fast shipping as well.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_GgCLQN": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Kind words from a gentleman who bought the shirt in desert cotton back in March 2017.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_MbTx6g",
+            "text_GgCLQN"
+          ]
+        },
+        "group_wXUtyW": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_JWckHf": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I don't know if I just got lucky or if you folks really know how to make your shirts (I'm inclined to believe the latter) but this is the perfect compromise between freedom of movement and a slim fit in the chest and the shoulders.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_hL6ztc": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>So emailed a man in response to the oxford shirt he purchased back in October 2014.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_JWckHf",
+            "text_hL6ztc"
+          ]
+        },
+        "group_LPFHme": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_DCBfQi": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I received the shirts and they're all very impressive. Especially the desert cotton was a pleasant surprise, definitely something that has to be seen in person. The fit is spot on as well. Now I know my size I will definitely be ordering again. Thanks for the wonderful transaction.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_EgWD8A": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>This chap purchased three shirts, in three cloths, in August 2017.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_DCBfQi",
+            "text_EgWD8A"
+          ]
+        },
+        "group_JKJ7NE": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_PRHn6B": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>I just received the shirt this afternoon. Worth waiting for it. The cloth is soft; the cut not too slim: a perfect casual shirt.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_k7JYBm": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>As said by a man in France on the second day of the year 2016.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_PRHn6B",
+            "text_k7JYBm"
+          ]
+        },
+        "group_CyH98n": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_yxJXQn": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>Wow — it's just beautiful. It is so, so lovely. I'm thrilled.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_mEHKt9": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>A lady said this on buying a desert cotton shirt for her better half, Christmas 2016.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_yxJXQn",
+            "text_mEHKt9"
+          ]
+        },
+        "group_GBrmn7": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "4",
+            "grid_row_start": "auto",
+            "grid_row_end": "auto",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 20,
+            "sticky": true,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_w9MVLC": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><em>Just writing to say \"thank you\" for the delivery of the [trousers and] shirt. I deeply appreciate the thought and effort that goes into creating the garments. I look forward to being a customer of yours for many more years to come.</em></p>",
+                "width": "100%",
+                "max_width": "custom",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_JLanfH": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Nice words by a man back in October 2015.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 70,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "loose",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 50,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_w9MVLC",
+            "text_JLanfH"
           ]
         }
       },
       "block_order": [
-        "group_gRF8Gn",
-        "group_ia37cm"
+        "group_eKQqRz",
+        "group_zYwAcy",
+        "group_XQNeNX",
+        "group_qPGBmN",
+        "group_kEbfp8",
+        "group_3wX93X",
+        "group_wXUtyW",
+        "group_LPFHme",
+        "group_JKJ7NE",
+        "group_CyH98n",
+        "group_GBrmn7"
       ],
-      "disabled": true,
       "name": "So They Say",
       "settings": {
         "layout_type": "flex",
@@ -2496,8 +3592,8 @@
         "overlay_style": "solid",
         "gradient_direction": "to top",
         "image_zoom": false,
-        "padding-block-start": 40,
-        "padding-block-end": 40
+        "padding-block-start": 30,
+        "padding-block-end": 30
       }
     },
     "product_recommendations_qggXJq": {
@@ -2694,9 +3790,9 @@
     "divider_KTxBmV",
     "section_RTMmax",
     "divider_MDTKii",
-    "section_UmaynW",
+    "section_beQa6H",
     "divider_GywMPf",
-    "section_bFXAqM",
+    "section_HmV9NX",
     "product_recommendations_qggXJq"
   ]
 }
