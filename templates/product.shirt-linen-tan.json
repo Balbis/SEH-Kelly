@@ -1298,7 +1298,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This is a corduroy which is middle of weight and narrow of wale. It is a very soft cloth, particularly its interior, but — cord being a traditional working cloth — is exceptionally hard-wearing. And, despite being soft and warm on cooler days, it is eminently breathable, and so really rather good all year round.</p>",
+                "text": "<p>This is a high-count weave of long-staple linen yarn, most notable maybe for having been given the proverbial once-over in a specialised washing and tumbling process at the mill. It has a dry hand, a rumpled texture akin to freshly laundered laundry, and floats breezily away from the skin.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
