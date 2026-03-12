@@ -1812,10 +1812,10 @@
         "padding-block-end": 16
       }
     },
-    "section_UmaynW": {
+    "section_7PVjNp": {
       "type": "section",
       "blocks": {
-        "text_pfXYL8": {
+        "text_4ywTJL": {
           "type": "text",
           "name": "t:names.text",
           "settings": {
@@ -1844,7 +1844,7 @@
           },
           "blocks": {}
         },
-        "product_info_row_TqDPNc": {
+        "product_info_row_PEkQPJ": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1887,7 +1887,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_xgPect": {
+            "text_y8wTek": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -1916,7 +1916,7 @@
               },
               "blocks": {}
             },
-            "image_E4djgU": {
+            "image_MWneNc": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -1942,11 +1942,11 @@
             }
           },
           "block_order": [
-            "text_xgPect",
-            "image_E4djgU"
+            "text_y8wTek",
+            "image_MWneNc"
           ]
         },
-        "product_info_row_MJdJY4": {
+        "product_info_row_qr7pMh": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1989,7 +1989,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_NXwc3U": {
+            "image_bVeRBm": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2013,7 +2013,7 @@
               },
               "blocks": {}
             },
-            "image_xiHk4m": {
+            "image_Rr8pT4": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2039,11 +2039,11 @@
             }
           },
           "block_order": [
-            "image_NXwc3U",
-            "image_xiHk4m"
+            "image_bVeRBm",
+            "image_Rr8pT4"
           ]
         },
-        "product_info_row_tmjH3T": {
+        "product_info_row_HNLfHN": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2086,12 +2086,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_RnGUEx": {
+            "image_hyVCLE": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Weaving_Studio_mourne_mountains_8.jpg",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2110,11 +2110,11 @@
               },
               "blocks": {}
             },
-            "text_6Cakwi": {
+            "text_8xUYNK": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is woven by a linen mill, a few miles south of Belfast in Northern Ireland. The mill was built at the end of the 1800s, back when Belfast was \"Linenopolis\". That it's one of the last mills still standing in the area is testament to its exemplary work in the weaving, dying, and finishing of luxury-grade linen.</p>",
+                "text": "<p>Mourne Textiles rests in the foothills the Mourne Mountains in Northern Ireland. It was established in 1949 by a textile designer of (appropriately) the mid-century school, and work and weaving there today is led by her daughter — herself a master-weaver — and the generations thereof.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2141,11 +2141,11 @@
             }
           },
           "block_order": [
-            "image_RnGUEx",
-            "text_6Cakwi"
+            "image_hyVCLE",
+            "text_8xUYNK"
           ]
         },
-        "product_info_row_NhCNit": {
+        "product_info_row_apPgTF": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2188,7 +2188,327 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_c9pUyt": {
+            "image_gCzWWg": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-4.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_RygiRV": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-8.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_gCzWWg",
+            "image_RygiRV"
+          ]
+        },
+        "product_info_row_NKbYYf": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_Hk9LzH": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>They work with hand-operated looms — the first assembled half a century ago by the local coffin-maker. As is the way with such things, this imparts great character and pleasingly imperfect artisan qualities. Combined with their slubby custom yarn, you get some of the most eyebrow-raising materials in the Isles.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_anXJdh": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-5.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_Hk9LzH",
+            "image_anXJdh"
+          ]
+        },
+        "product_info_row_mU9Y3K": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_zmUezw": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-11.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_FxPHH4": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/mourne-textiles-mill-northern-ireland-12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_zmUezw",
+            "image_FxPHH4"
+          ]
+        },
+        "product_info_row_4E4L8k": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_Ppki34": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_wwUzqQ": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2216,38 +2536,14 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_8A8EWa": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_c9pUyt",
-            "image_8A8EWa"
+            "image_Ppki34",
+            "text_wwUzqQ"
           ]
         },
-        "product_info_row_YmeV7q": {
+        "product_info_row_ffnf4d": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2290,7 +2586,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_EXXyzj": {
+            "image_w67Pqt": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2314,7 +2610,7 @@
               },
               "blocks": {}
             },
-            "image_TXBhz8": {
+            "image_tHUrb9": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2340,18 +2636,21 @@
             }
           },
           "block_order": [
-            "image_EXXyzj",
-            "image_TXBhz8"
+            "image_w67Pqt",
+            "image_tHUrb9"
           ]
         }
       },
       "block_order": [
-        "text_pfXYL8",
-        "product_info_row_TqDPNc",
-        "product_info_row_MJdJY4",
-        "product_info_row_tmjH3T",
-        "product_info_row_NhCNit",
-        "product_info_row_YmeV7q"
+        "text_4ywTJL",
+        "product_info_row_PEkQPJ",
+        "product_info_row_qr7pMh",
+        "product_info_row_HNLfHN",
+        "product_info_row_apPgTF",
+        "product_info_row_NKbYYf",
+        "product_info_row_mU9Y3K",
+        "product_info_row_4E4L8k",
+        "product_info_row_ffnf4d"
       ],
       "name": "Makers of",
       "settings": {
@@ -2829,7 +3128,7 @@
     "divider_KTxBmV",
     "section_RTMmax",
     "divider_MDTKii",
-    "section_UmaynW",
+    "section_7PVjNp",
     "divider_GywMPf",
     "section_bFXAqM",
     "product_recommendations_qggXJq"
