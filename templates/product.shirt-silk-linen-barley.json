@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_5.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_biscuit_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -800,7 +800,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_4.jpg",
+            "image": "shopify://shop_images/linen-standard-collar-shirt_biscuit_4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -867,7 +867,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_3.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_biscuit_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -998,7 +998,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_6.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_biscuit_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1028,7 +1028,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_2.jpg",
+            "image": "shopify://shop_images/linen-standard-collar-shirt_biscuit_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1095,7 +1095,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_7.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_biscuit_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1226,7 +1226,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_8.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_biscuit_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1299,7 +1299,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_9.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_biscuit_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
