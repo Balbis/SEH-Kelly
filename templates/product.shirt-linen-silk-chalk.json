@@ -740,7 +740,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The shirt is intended to be worn tucked or untucked. That's both. It has a fitted shape, so when tucked in, it rolls tidily into the trouser — but it is also casual, so when untucked it won't look like you've stepped out in an office shirt. It is a standard length: falling a couple of inches below the belt-line on most people.</p>",
+                "text": "<p>This here shirt has a standard collar, which isn't to say a collar in any way rote or jejune. Rather, it is a collar free from buttons and tabs and from efforts to strive either this way or that. It is a collar that is balanced. Its size: balanced. Its angle of opening at the front: balanced. The curve of its points: balanced.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_2.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -794,6 +794,30 @@
             "text_ejJixj",
             "image_8UTq8i"
           ]
+        },
+        "image_tEPkgM": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_4.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_zCRCgG": {
           "type": "product-info-row",
@@ -843,7 +867,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_3.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -866,7 +890,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The shirt has a spread collar — i.e. a collar that opens at a wide angle at the front. It is soft and unstructured, and its points are slightly rounded off.</p>",
+                "text": "<p>The shirt is intended to be worn tucked or untucked. That's both. It has a fitted shape, so when tucked in, it rolls tidily into the trouser — but it is also casual, so when untucked it won't look like you've stepped out in an office shirt. It is a standard length: falling a couple of inches below the belt-line on most people.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -974,7 +998,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_6.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -999,12 +1023,12 @@
             "image_dz64gT"
           ]
         },
-        "image_tEPkgM": {
+        "image_izjPbj": {
           "type": "image",
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_4.jpg",
+            "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1071,7 +1095,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_7.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1202,7 +1226,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_5.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1275,7 +1299,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-spread-collar-shirt_dark-navy_8.jpg",
+                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1298,7 +1322,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This is a high-count weave of long-staple linen yarn, most notable maybe for having been given the proverbial once-over in a specialised washing and tumbling process at the mill. It has a dry hand, a rumpled texture akin to freshly laundered laundry, and floats breezily away from the skin.</p>",
+                "text": "<p>This is a high-count weave of long-staple linen and silk yarn, most notable maybe for having been given the proverbial once-over in a specialised washing and tumbling process at the mill. Linen accounts for half the composition, and so the cloth is at heart easy to wear and good on the skin. Silk imparts the slubs and nobbles and rampant loom chatter, as well as airiness.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1332,9 +1356,10 @@
       },
       "block_order": [
         "product_info_row_66zwRM",
+        "image_tEPkgM",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
-        "image_tEPkgM",
+        "image_izjPbj",
         "product_info_row_6hEtER",
         "product_info_row_6G9Pmb",
         "product_info_row_3gQgQe"
@@ -1497,7 +1522,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_32_shirt-kelly-collar-merino-oxford-grey-worn-3_2x_702d4d1c-b783-4f46-b0cd-e049fe822f72.jpg",
+                "image": "shopify://shop_images/imgi_40_shirt-granddad-cotton-silk-linen-wool-sanderling-worn-5_2x_8d8cd45b-55fd-4312-b01d-08c77672763c.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
