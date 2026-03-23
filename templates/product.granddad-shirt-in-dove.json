@@ -740,7 +740,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This here shirt has a standard collar, which isn't to say a collar in any way rote or jejune. Rather, it is a collar free from buttons and tabs and from efforts to strive either this way or that. It is a collar that is balanced. Its size: balanced. Its angle of opening at the front: balanced. The curve of its points: balanced.</p>",
+                "text": "<p>The shirt has a \"granddad collar\" — which is to say, a collar stand, but no actual collar. Quite why it is named for the father of a mother or father is unknown, but it is something that can be made to look smart or casual, depending largely upon whether the top button is fastened or, indeed, unfastened.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_5.jpg",
+                "image": "shopify://shop_images/cashmere-granddad-collar-shirt_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -794,30 +794,6 @@
             "text_ejJixj",
             "image_8UTq8i"
           ]
-        },
-        "image_tEPkgM": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_4.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_zCRCgG": {
           "type": "product-info-row",
@@ -867,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_3.jpg",
+                "image": "shopify://shop_images/cashmere-granddad-collar-shirt_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -998,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_6.jpg",
+                "image": "shopify://shop_images/cashmere-granddad-collar-shirt_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1028,7 +1004,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_2.jpg",
+            "image": "shopify://shop_images/cashmere-granddad-collar-shirt_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1196,7 +1172,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cuffs of the shirt are unapologetically tight, so the sleeve can't step over the line that is the start of the hand, and they fasten with a single button. The corner of the cuffs is gently curved, echoing the collar.</p>",
+                "text": "<p>This is a flecked merino woollen medley of grey and assorted whites. Substantial, yet smooth, and, quite importantly for a woollen shirt, not in the least abrasive; it’s the merino that sees to that. It also sees that the shirt will happily hold its shape from wear to wear. Doesn’t ask much by way of ironing, in other words.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1226,7 +1202,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_8.jpg",
+                "image": "shopify://shop_images/cashmere-granddad-collar-shirt_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1250,119 +1226,15 @@
             "text_QRGwGX",
             "image_aawGP8"
           ]
-        },
-        "product_info_row_3gQgQe": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_4jyNfp": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_9.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "custom",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_L6NWdK": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>This is a high-count weave of long-staple linen and silk yarn, most notable maybe for having been given the proverbial once-over in a specialised washing and tumbling process at the mill. Linen accounts for half the composition, and so the cloth is at heart easy to wear and good on the skin. Silk imparts the slubs and nobbles and rampant loom chatter, as well as airiness.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_4jyNfp",
-            "text_L6NWdK"
-          ]
         }
       },
       "block_order": [
         "product_info_row_66zwRM",
-        "image_tEPkgM",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
         "image_izjPbj",
         "product_info_row_6hEtER",
-        "product_info_row_6G9Pmb",
-        "product_info_row_3gQgQe"
+        "product_info_row_6G9Pmb"
       ],
       "name": "Product Content",
       "settings": {
