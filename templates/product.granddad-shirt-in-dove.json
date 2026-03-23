@@ -2102,7 +2102,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "image": "shopify://shop_images/imgi_53_cashmere-mill-west-yorkshire-7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2125,7 +2125,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The horn buttons are cut, shaped, and polished by the last horn button-makers in Britain. Relocated from the Midlands to the Cotswolds, they continue a tradition going back to the 18th century.<em>\"It is no easy task,\"</em>claimed William Hutton in 1780,<em>\"to enumerate the infinite diversity of buttons made in Birmingham.\"</em></p>",
+                "text": "<p>The cloth comes from a cashere mill in the Heavy Woollen District of West Yorkshire. Now into its third century of existence, nowhere in the British Isles knows machine-finished cashmere better. That the cloth from its loom is of the highest grade is a familiar boast, but is here entirely merited.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2204,7 +2204,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-6.jpg",
+                "image": "shopify://shop_images/imgi_54_cashmere-mill-west-yorkshire-88.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2224,6 +2224,205 @@
               "blocks": {}
             },
             "image_bP48wp": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/imgi_55_cashmere-mill-west-yorkshire-12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_Ld77xk",
+            "image_bP48wp"
+          ]
+        },
+        "product_info_row_bBYiYA": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_qJ4QDW": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The horn buttons are cut, shaped, and polished by the last horn button-makers in Britain. Relocated from the Midlands to the Cotswolds, they continue a tradition going back to the 18th century.<em>\"It is no easy task,\"</em>claimed William Hutton in 1780,<em>\"to enumerate the infinite diversity of buttons made in Birmingham.\"</em></p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_ybRY6z": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_qJ4QDW",
+            "image_ybRY6z"
+          ]
+        },
+        "product_info_row_eXjPfW": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_gjFCD6": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/horn-button-maker-england-6.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_84NrQp": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2249,8 +2448,8 @@
             }
           },
           "block_order": [
-            "image_Ld77xk",
-            "image_bP48wp"
+            "image_gjFCD6",
+            "image_84NrQp"
           ]
         }
       },
@@ -2260,7 +2459,9 @@
         "product_info_row_rTcy6e",
         "product_info_row_nranE8",
         "product_info_row_heXGqp",
-        "product_info_row_yLrL7A"
+        "product_info_row_yLrL7A",
+        "product_info_row_bBYiYA",
+        "product_info_row_eXjPfW"
       ],
       "name": "Maker",
       "settings": {
