@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_32_anorak-weatherproof-cotton-tan-2_2x_3e68f7de-3dab-4b76-a707-fbbe44842f57.jpg",
+                "image": "shopify://shop_images/imgi_31_anorak-weatherproof-cotton-dark-blue-5_2x_ec37979f-f1fe-40a6-ac4e-948d03250c26.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_33_anorak-weatherproof-cotton-tan-3_2x_0536af45-7b5f-4a8c-962d-6ca07341098a.jpg",
+                "image": "shopify://shop_images/imgi_32_anorak-weatherproof-cotton-dark-blue-2_2x_90fa079b-8229-4e55-93a1-2b31ab4173a9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1004,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_34_anorak-weatherproof-cotton-tan-4_2x_1349cf99-3507-468b-91bf-5094eacc0073.jpg",
+                "image": "shopify://shop_images/imgi_33_anorak-weatherproof-cotton-dark-blue-4_2x_2a831202-57de-4bb6-b595-c45778f2f4ea.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1077,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_35_anorak-weatherproof-cotton-tan-7_2x_9bbe3d34-a144-4bda-b38a-dd5efe9c8dd3.jpg",
+                "image": "shopify://shop_images/imgi_34_anorak-weatherproof-cotton-dark-blue-7_2x_005101b6-ece8-4656-85bb-c57792e13c0f.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1129,78 +1129,6 @@
           "block_order": [
             "image_MTXYjM",
             "text_Dya6et"
-          ]
-        },
-        "product_info_row_JirJgp": {
-          "type": "product-info-row",
-          "name": "Product Info Row",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "reverse_on_mobile": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-end",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_pTwrnK": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/imgi_36_anorak-weatherproof-cotton-tan-5_2x_7faf4606-cf43-40d6-8a96-6372f01991e1.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_pTwrnK"
           ]
         },
         "product_info_row_FQjmkf": {
@@ -1280,7 +1208,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_37_anorak-weatherproof-cotton-tan-11_2x_9e7bdd00-14ad-4e8d-b09e-a66f1409c4ee.jpg",
+                "image": "shopify://shop_images/imgi_40_anorak-weatherproof-cotton-dark-blue-11_2x_f9d4a0b0-49e4-41b0-b90d-98509991a8bb.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1397,7 +1325,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_38_anorak-weatherproof-cotton-tan-6_2x_bd11d11b-aa3a-4d4e-b04b-bbb27d51f535.jpg",
+                "image": "shopify://shop_images/imgi_35_anorak-weatherproof-cotton-dark-blue-6_2x_3ac673f5-1e47-4643-b9d6-11903b64c778.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1528,7 +1456,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_39_anorak-weatherproof-cotton-tan-8_2x_26f7e70b-c420-47fd-818c-92605aa20a72.jpg",
+                "image": "shopify://shop_images/imgi_36_anorak-weatherproof-cotton-dark-blue-8_2x_c7eb9c65-dc28-456d-90a8-4b7733768e6d.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1601,7 +1529,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Harrington_Jacket_in_Manila_10.jpg",
+                "image": "shopify://shop_images/imgi_37_anorak-weatherproof-cotton-dark-blue-9_2x_ed9b5e5c-96f9-46e9-b4fe-c275a92d1d14.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1732,7 +1660,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_41_anorak-weatherproof-cotton-tan-10_2x_ca9a8899-95dc-4d97-ae9e-4a90fdca82f2.jpg",
+                "image": "shopify://shop_images/imgi_38_anorak-weatherproof-cotton-dark-blue-10_2x_f4794a58-8474-4ce1-a24e-6ca5a7084076.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1805,7 +1733,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_42_anorak-weatherproof-cotton-tan-12_2x_99417449-4bdc-4f84-b13c-52a7db0c0e4e.jpg",
+                "image": "shopify://shop_images/imgi_39_anorak-weatherproof-cotton-dark-blue-12_2x_c8aa0578-f07e-4e3a-bf2e-94af5dc9a947.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1936,7 +1864,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_43_field-jacket-cotton-cavalry-twill-olive-14_2x_943007c5-78a2-41f0-b688-114bd3bd11f6.jpg",
+                "image": "shopify://shop_images/imgi_41_duster-cotton-cambric-dark-navy-17_2x_253acf4a-079f-43a5-93d8-f1ab12f86be9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2009,7 +1937,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_43_field-jacket-cotton-cavalry-twill-olive-14_2x_943007c5-78a2-41f0-b688-114bd3bd11f6.jpg",
+                "image": "shopify://shop_images/imgi_42_anorak-weatherproof-cotton-dark-blue-13_2x_b9a04ccf-16ea-4b8d-87bc-ab5f3f7da61f.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2069,7 +1997,6 @@
         "product_info_row_BgxtRN",
         "product_info_row_FpdrEd",
         "product_info_row_Y8DrPR",
-        "product_info_row_JirJgp",
         "product_info_row_FQjmkf",
         "product_info_row_mMKMeG",
         "product_info_row_9zVj3J",
