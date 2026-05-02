@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The Harrington fits true to size, with a roomy feel up top, and a neat, trim shape below. The mannequin here is the most standard 40 chest in all of London and is wearing one in size M.</p>",
+                        "text": "<p>The anorak fits true to size. The mannequin here is as standard a 40 chest as ever there was, and so has chosen to pull size M over his head.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
