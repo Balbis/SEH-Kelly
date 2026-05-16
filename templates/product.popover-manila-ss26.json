@@ -1419,7 +1419,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The gent here has a chest of 38, a height of 6ft 1in, and a weight of 12 stone. He wears a sizeSand with room underneath for a t-shirt and / or shirt.</p>",
+                "text": "<p>Him, here, a card-carrying member of the 38 Chest Society — with a height of 6ft 1in and weight of 12 stone — is wearing the popover in sizeS.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1449,7 +1449,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_43_anorak-weatherproof-cotton-tan-worn-2_2x_87a6bd08-7441-450f-bccc-16090e129092.jpg",
+                "image": "shopify://shop_images/imgi_30_popover-linen-poplin-ochre-worn-3_2x_2253e792-6a43-4fb7-90ec-28389b2fce4e.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1479,7 +1479,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_45_anorak-weatherproof-cotton-tan-worn-1_2x_cc428022-ee51-488a-9fb0-2c8e70f136ae.jpg",
+            "image": "shopify://shop_images/imgi_31_popover-linen-poplin-ochre-worn-1_2x_4e994a56-5bb1-438b-b3ff-5e32d7f59a4f.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1503,7 +1503,55 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_44_anorak-weatherproof-cotton-tan-worn-3_2x_b43d394c-afee-447a-9b65-e6f3c36b8b04.jpg",
+            "image": "shopify://shop_images/imgi_32_popover-linen-poplin-ochre-worn-4_2x_56f28738-1aa2-43ab-94da-a105848ae3c4.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_3ypDCA": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_33_popover-linen-poplin-ochre-worn-5_2x_b39c28a1-1695-43fd-b477-fdbae5fd3a27.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_FRMKW3": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_34_popover-linen-poplin-ochre-worn-7_2x_886799bd-fa14-4aad-ba5c-b17ff7873d4c.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1527,7 +1575,9 @@
         "text_4WbJWg",
         "product_info_row_T4y3AU",
         "image_yQhDqA",
-        "image_7yjMmQ"
+        "image_7yjMmQ",
+        "image_3ypDCA",
+        "image_FRMKW3"
       ],
       "name": "As worn",
       "settings": {
@@ -1657,7 +1707,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The jacket is made at an outerwear factory in London: the best, many agree, in the capital. The jacket is cut by the hands of a cutter with some 30 years in the trade, and sewn by one of four seamsters whose meticulousness and pursuit of perfection would be caricature were the end results not always so good.</p>",
+                "text": "<p>The popover is made by a coat and jacket factory in north London. Rather than being made like a shirt, as you might otherwise expect, the popover is instead made to the same standards, and with much the same structure, as robust outerwear, with heavy fusing and turned seams and the like.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
