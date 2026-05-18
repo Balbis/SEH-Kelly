@@ -770,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The anorak is a lightweight, casual jacket, which has the single express purpose of being easy to pull over the head, keep out the wind and rain, and allow the body to move and breathe. It goes about this in a fairly interesting and roundabout way: simple on its face but in fact very much not.</p>",
+                "text": "<p>These are trousers modelled on those of the old school, but executed in the ways of the new. They are constructed in a tremendously sturdy manner, and are high of rise and full of leg. Plenty of room in the seat and thigh is what that means, such that they don't ride up or pull or drag when sitting up or down.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -896,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>It has a supremely high neck, the two sides of which overlap and fasten with a single button. It can be worn open, but comes into its own closed, when the neck is surrounded by weatherproof cloth. The front is cut to curve and sit away from the chin so only the bushiest of beard will sense its touch.</p>",
+                "text": "<p>There is a pleat on either side of the front of the trousers, lending additional room and comfort at the front, and ensuring nothing is pulled unduly out of shape when the pockets are employed. The pleats also help the trousers traverse the gentle curves at the front of the body.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -974,7 +974,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the anorak are horn, are middling in colour and matte in finish. Being as each is an article hewn from nature, they look a little different from one to the next, varying in tone and hue and markings.</p>",
+                "text": "<p>The trousers have what's sometimes known as quarter-top pockets at the sides, which are satisfyingly deep for hands of all sizes, and are shaped such that personal effects distribute equally rather than pooling in the corner and causing wear. It helps, too, that they're lined with unusually tough cotton cloth.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1270,7 +1270,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There's what's known as a patrol pleat or action back at the back, permitting greater range of forward movement thanks to the extra cloth it hides from view. Also hidden from view, concealed under two layers of cloth, is a panel of elastic mesh, so the back snaps back into shape post-stretch.</p>",
+                "text": "<p>Round the back, meanwhile, are two more pockets, built into the seam where yoke meets leg. Their mouths left and right are strengthened with stout little bar-tacks. Such tacks can indeed be found at most other places of stress on the trousers, too — the front pockets, the top of the pleats, the base of the crotch, etc.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1440,7 +1440,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The anorak has cuff tabs which fasten to two levels of tightness — from easy and relaxed to scaphoid-squeezingly tight, which is good when the going gets gusty.</p>",
+                "text": "<p>The waistband rises up at the back — preserving modesty when bending over, and serving as a grab-handle to fetch things up if riding low. This, admittedly, is unlikely: the tabs at either side of the waistband see to that. They permit the trousers to be tightened for comfort by up to two inches.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1518,7 +1518,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The anorak at the fundamental level has a novel style of construction, where the side-body and the armhole are one and the same. This means you get not only a soft shoulder — and who doesn't want that — but also a vast expanse across the chest between which has been inserted an enormous pocket.</p>",
+                "text": "<p>French seams can be found down both sides of the leg. Renownedly durable seams, these, and arduous to sew — especially at the grand junction that is the crotch. Their presence on both seams on the leg means you'd have to do something very dramatic — acrobatic, perhaps, even — for them to wear through.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1644,7 +1644,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are three pockets: the one out at the front, impossible to miss, and two smaller chest pockets inside that one. The latter are good for the safe storage of possessions most prized, while the former is best thought of as a giant bucket, for the absentminded dropping of everything else.</p>",
+                "text": "<p>The buttons on the trousers are horn, dark in colour and matte in finish. The trousers have a button fly of three such buttons, as well as one more hidden out of view for the fly-guard, which fastens behind the front of the trousers to help keep everything just that little bit more secure in the nether region.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1746,7 +1746,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The bottom edge of the main pocket has a bellows strip, allowing it to expand when filled, but made in a way that means it sits flat and discreet the rest of the time.</p>",
+                "text": "<p>The trousers are lined to the knee, front and back, with a soft, breathable satin. The way this lining is constructed makes the trousers as clean and tidy when turned inside-out as outside-out. The presence of this lining makes it easy — nay, downright pleasurable — to slide one's legs up and down and all around.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1872,7 +1872,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are vents at the side-seams which, while only a few inches in height, increase by miles the ease with which the anorak can be pulled up over the head. The wider neck-circle and the unusual body construction — which presents an openT-shape when laid flat — further facilitate an easier on-off action.</p>",
+                "text": "<p>The cloth here is a cotton panama, which is a classic sort of canvas weave of middling weight. The yarn from which it is made is itself high-calibre, and a fairly rigorous milling process after weaving makes for a smooth, soft cloth, and both more comfortable and pliable than your usual cotton canvas.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
