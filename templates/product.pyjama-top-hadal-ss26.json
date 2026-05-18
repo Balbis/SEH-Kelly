@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_32_anorak-weatherproof-cotton-dark-blue-2_2x_90fa079b-8229-4e55-93a1-2b31ab4173a9.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_navy_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1004,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_33_anorak-weatherproof-cotton-dark-blue-4_2x_2a831202-57de-4bb6-b595-c45778f2f4ea.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_navy_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1077,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_34_anorak-weatherproof-cotton-dark-blue-7_2x_005101b6-ece8-4656-85bb-c57792e13c0f.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_navy_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1136,6 +1136,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
+            "image": "shopify://shop_images/pyjama-jacket_navy_5.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1231,7 +1232,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_40_anorak-weatherproof-cotton-dark-blue-11_2x_f9d4a0b0-49e4-41b0-b90d-98509991a8bb.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_navy_7.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1348,7 +1349,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_35_anorak-weatherproof-cotton-dark-blue-6_2x_3ac673f5-1e47-4643-b9d6-11903b64c778.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_navy_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1407,6 +1408,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
+            "image": "shopify://shop_images/pyjama-jacket_navy_4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1502,7 +1504,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_36_anorak-weatherproof-cotton-dark-blue-8_2x_c7eb9c65-dc28-456d-90a8-4b7733768e6d.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_navy_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1575,7 +1577,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_37_anorak-weatherproof-cotton-dark-blue-9_2x_ed9b5e5c-96f9-46e9-b4fe-c275a92d1d14.jpg",
+                "image": "shopify://shop_images/pyjama-jacket_navy_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
