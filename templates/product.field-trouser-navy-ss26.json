@@ -2410,7 +2410,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The jacket is made at an outerwear factory in London: the best, many agree, in the capital. The jacket is cut by the hands of a cutter with some 30 years in the trade, and sewn by one of four seamsters whose meticulousness and pursuit of perfection would be caricature were the end results not always so good.</p>",
+                "text": "<p>The trousers are made in London by a factory which — since they are so sturdily built, particularly at the seams — specialises in heavy outerwear. Making them, in fact, can be a gruelling task, entailing as it does umpteen more stages than most trousers — at least five of which demand a hammer.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2440,7 +2440,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_outerwear_factory_in_London_1.jpg",
+                "image": "shopify://shop_images/trouser-factory-maker-of-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2513,7 +2513,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_outerwear_factory_in_London_3.jpg",
+                "image": "shopify://shop_images/trouser-factory-maker-of-4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2537,7 +2537,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_outerwear_factory_in_London_2.jpg",
+                "image": "shopify://shop_images/trouser-factory-maker-of-3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2609,7 +2609,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cotton comes from Scotland, from a mill on the coast, where the making of heavy, waxed, and otherwise element-proof materials emerged in hand, centuries ago, with local seafaring trades. Industry-strength cottons finished in industry-leading ways is very much the order of the day here.</p>",
+                "text": "<p>The cloth is sourced from a mill in Lancashire, in north-west England. Cottons have rolled off its line for nearly a century and a half. Industry-leading methods of weaving, dyeing, and finishing — unimproved in decades — along with steadfast adherence to quality, result in some truly first-rate cloth.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
