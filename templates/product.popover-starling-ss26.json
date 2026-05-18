@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_23_popover-linen-poplin-manila-2_2x_f366f204-9a9b-4c6a-87f7-24f3fc384f92.jpg",
+                "image": "shopify://shop_images/linen-popover-shirt_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -830,7 +830,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_24_popover-linen-poplin-manila-3_2x_24ed95fb-e194-4adc-96ad-7dd161b478cd.jpg",
+            "image": "shopify://shop_images/linen-popover-shirt_3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -897,7 +897,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_25_popover-linen-poplin-manila-6_2x_cc597eb3-bffc-4d3a-b0b9-6d5c98be655f.jpg",
+                "image": "shopify://shop_images/linen-popover-shirt_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1028,7 +1028,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_26_popover-linen-poplin-manila-4_2x_e90a916c-4cc2-4c17-9d37-8bde61642c91.jpg",
+                "image": "shopify://shop_images/linen-popover-shirt_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1101,7 +1101,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_27_popover-linen-poplin-manila-7_2x_aea90b30-5f3a-434c-be50-175874c84131.jpg",
+                "image": "shopify://shop_images/linen-popover-shirt_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1160,7 +1160,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_28_popover-linen-poplin-manila-5_2x_87d5d46a-2b6a-4f57-a194-17199fb6f8ad.jpg",
+            "image": "shopify://shop_images/linen-popover-shirt_2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1256,7 +1256,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_29_popover-linen-poplin-manila-9_2x_74cf1be7-1e29-4f2c-b501-e337c67b7dfc.jpg",
+                "image": "shopify://shop_images/linen-popover-shirt_8.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
