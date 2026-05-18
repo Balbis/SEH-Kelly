@@ -1372,7 +1372,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are two shades of cotton yarn at play here — two fairly dark, warm greys. They're evenly distributed throughout the knit, as the strands of yarn are twisted together prior to knitting. You thus get a good, satisfying melange — enough to keep the eye occupied, but not so much as to distract.</p>",
+                "text": "<p>There are two shades of cotton yarn at play here — light and dark beige. They're evenly distributed throughout the knit, as the strands of yarn are twisted together prior to knitting. You thus get a good, satisfying melange — enough to keep the eye occupied, but not so much as to distract.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
