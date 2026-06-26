@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The popover is true to size, and as such, the wooden and calico gentleman here, who has 40 right there on his chest, is wearing it in size M.</p>",
+                        "text": "<p>The work jacket fits true to size, so the wooden person here, who is as standard a 40 chest as ever there has been, is happily wearing size M.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
