@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_2.jpg",
+                "image": "shopify://shop_images/imgi_35_sb-jacket-linen-dark-hadal-blue-3_2x_1872d253-dbd3-41b3-9bdf-eece81f71b06.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -843,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_3.jpg",
+                "image": "shopify://shop_images/imgi_36_sb-jacket-linen-dark-hadal-blue-6_2x_e763c349-e103-46c2-b001-d7c9b0fbb548.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -866,7 +866,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The SB is a single-breasted tailored jacket. It has a two-button front, a slightly nipped waist, and a just-barely peaked lapel of moderate size. There's very little structure to be found here — it is foremost a light and casual jacket — but it has the proportions and the silhouette of a smart suit or sports jacket.</p>",
+                "text": "<p>The buttons on the jacket are horn, and are dark matte tortoiseshell in colour. Being as they are an entirely natural thing, each looks different to the next, varying in tone and hue and striatic markings.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -974,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_4.jpg",
+                "image": "shopify://shop_images/imgi_37_sb-jacket-linen-dark-blue-9_2x_a50a36d8-3b0d-46f3-802b-e19298fb0fb5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1047,7 +1047,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_5.jpg",
+                "image": "shopify://shop_images/imgi_38_sb-jacket-linen-dark-hadal-blue-2_2x_39eadb51-c87d-4d26-9539-365a29a4ecee.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1148,7 +1148,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_6.jpg",
+                "image": "shopify://shop_images/imgi_39_sb-jacket-linen-dark-hadal-blue-5_2x_ce85ec8c-32c7-48a9-92fb-bfb363a76ee6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1221,7 +1221,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_7.jpg",
+                "image": "shopify://shop_images/imgi_40_sb-jacket-linen-dark-hadal-blue-14_2x_90a93b98-a946-49f0-aa80-eda7ea5486ba.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1245,7 +1245,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_8.jpg",
+                "image": "shopify://shop_images/imgi_41_sb-jacket-linen-dark-hadal-blue-4_2x_1df9d46c-29a6-477e-9b3e-c9cc964a031e.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1318,7 +1318,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_9.jpg",
+                "image": "shopify://shop_images/imgi_42_sb-jacket-linen-dark-hadal-blue-15_2x_94ab62ca-153e-4184-9a18-4bbd372b6b36.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1420,7 +1420,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_10.jpg",
+                "image": "shopify://shop_images/imgi_43_sb-jacket-linen-dark-hadal-blue-7_2x_2270c1da-488c-4a62-a912-667af8b0a20e.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1521,7 +1521,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_11.jpg",
+                "image": "shopify://shop_images/imgi_44_sb-jacket-linen-dark-blue-12_2x_c010af5a-ac4d-48fc-b88c-78df06f52d41.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1594,7 +1594,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_12.jpg",
+                "image": "shopify://shop_images/imgi_45_sb-jacket-linen-dark-hadal-blue-11_2x_dec7f266-2fb2-49aa-9e28-92c55637f986.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1666,7 +1666,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_13.jpg",
+                "image": "shopify://shop_images/imgi_46_sb-jacket-linen-dark-hadal-blue-10_2x_ac07c7d2-ad74-471f-a124-c4699269fd02.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1767,7 +1767,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth — made with the wool of British sheep — is a high-twist worsted, ergo springy, and with an open weave, ergo breathable. It is crisp and dry, and more coarse in texture than a bog-standard suiting cloth. Great for travelling, too, being as it has excellent fibre strength and doesn't much crease.</p>",
+                "text": "<p>Tremendously earthy, this cloth, but subtle in colouring and smooth in finish, and so staying the right side of smart. It is fine, long-staple linen, mercerised for a sleek look and sanforised to remove shrinkage. It is thick and strong, and creases less than most cottons, let alone crumpled, unkempt linens of stereotype.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1797,7 +1797,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_SB_Jacket_in_Middling_14.jpg",
+                "image": "shopify://shop_images/imgi_47_sb-jacket-linen-dark-blue-17_2x_4c55ece7-1058-4407-8384-de43d9063e29.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
