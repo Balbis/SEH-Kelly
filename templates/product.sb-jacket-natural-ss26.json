@@ -866,7 +866,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the jacket are horn, and are dark matte tortoiseshell in colour. Being as they are an entirely natural thing, each looks different to the next, varying in tone and hue and striatic markings.</p>",
+                "text": "<p>The buttons on the jacket are horn, and are light matte tortoiseshell in colour. Being as they are an entirely natural thing, each looks different to the next, varying in tone and hue and striatic markings.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
