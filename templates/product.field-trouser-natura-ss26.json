@@ -1614,7 +1614,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the trousers are horn, dark in colour and middling matte in finish. The trousers have a button fly of three such buttons, as well as one more hidden out of view for the fly-guard, which fastens behind the front of the trousers to help keep everything just that little bit more secure in the nether region.</p>",
+                "text": "<p>The buttons on the trousers are horn and middling matte in finish. The trousers have a button fly of three such buttons, as well as one more hidden out of view for the fly-guard, which fastens behind the front of the trousers to help keep everything just that little bit more secure in the nether region.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
