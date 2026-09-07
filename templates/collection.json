@@ -45,7 +45,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Shipping is always free of charge, orders are always wrapped and dispatched in a handful of working days, and prices are always the same.</p>",
+            "text": "<p>Shipping is always free of charge, orders are always wrapped and dispatched in a handful of working days, two handfuls at busy times, and prices are always the same.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "custom_max_width": 100,
