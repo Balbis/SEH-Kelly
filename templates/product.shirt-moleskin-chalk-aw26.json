@@ -740,7 +740,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This here shirt has a standard collar, which isn't to say a collar in any way rote or jejune. Rather, it is a collar free from buttons and tabs and from efforts to strive either this way or that. It is a collar that is balanced. Its size: balanced. Its angle of opening at the front: balanced. The curve of its points: balanced.</p>",
+                "text": "<p>The shirt is intended to be worn tucked or untucked. That's both. It has a fitted shape, so when tucked in, it rolls tidily into the trouser — but it is also casual, so when untucked it won't look like you've stepped out in an office shirt. It is a standard length: falling a couple of inches below the belt-line on most people.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -794,30 +794,6 @@
             "text_ejJixj",
             "image_8UTq8i"
           ]
-        },
-        "image_tEPkgM": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/linen-standard-collar-shirt_chalk_4.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_zCRCgG": {
           "type": "product-info-row",
@@ -890,7 +866,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The shirt is intended to be worn tucked or untucked. That's both. It has a fitted shape, so when tucked in, it rolls tidily into the trouser — but it is also casual, so when untucked it won't look like you've stepped out in an office shirt. It is a standard length: falling a couple of inches below the belt-line on most people.</p>",
+                "text": "<p>The shirt has a spread collar — i.e. a collar that opens at a wide angle at the front. It is soft and unstructured, and its points are slightly rounded off.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1322,7 +1298,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This is a high-count weave of long-staple linen and silk yarn, most notable maybe for having been given the proverbial once-over in a specialised washing and tumbling process at the mill. Linen accounts for half the composition, and so the cloth is at heart easy to wear and good on the skin. Silk imparts the slubs and nobbles and rampant loom chatter, as well as airiness.</p>",
+                "text": "<p>Wearing a moleskin shirt is — or should be — one of life's quotidian pleasures, with a warmth and softness unmatched anywhere else in the cotton kingdom married to an everyday rinse-wash-repeat readiness. This is a heavy variant, but still breathable and practical for all months save summer.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1356,7 +1332,6 @@
       },
       "block_order": [
         "product_info_row_66zwRM",
-        "image_tEPkgM",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
         "image_izjPbj",
@@ -1522,7 +1497,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_40_shirt-granddad-cotton-silk-linen-wool-sanderling-worn-5_2x_8d8cd45b-55fd-4312-b01d-08c77672763c.jpg",
+                "image": "shopify://shop_images/imgi_32_shirt-kelly-collar-merino-oxford-grey-worn-3_2x_1319eb4d-b004-461e-9c89-84960a130620.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1552,7 +1527,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_41_shirt-granddad-cotton-silk-linen-wool-sanderling-worn-1_2x_7b5000d0-c076-4c55-af51-3ea4b727a113.jpg",
+            "image": "shopify://shop_images/imgi_33_shirt-kelly-collar-merino-oxford-grey-worn-1_2x_cd3e51db-b9df-41f4-ac1d-d53e4ebe6171.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1576,55 +1551,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_42_shirt-granddad-cotton-silk-linen-wool-sanderling-worn-4_2x_5203b107-0af8-4e48-90be-fa7060e2187c.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_nCC6Le": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_43_shirt-granddad-cotton-silk-linen-wool-sanderling-worn-2_2x_138b9e89-4d82-4c07-9ffb-d681e165fc73.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_Xti6R8": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_44_shirt-granddad-cotton-silk-linen-wool-sanderling-worn-3_2x_68a9c82c-ecb9-4b36-b637-a6b5f6758709.jpg",
+            "image": "shopify://shop_images/imgi_34_shirt-kelly-collar-merino-oxford-grey-worn-2_2x_7a7bea54-38fa-46f4-8c2f-3dbbf8011ecf.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1691,7 +1618,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_45_shirt-sc-cotton-silk-linen-wool-blue-worn-1_2x_191285ae-18c7-4dee-b488-20683559b1c2.jpg",
+                "image": "shopify://shop_images/imgi_36_shirt-granddad-corduroy-ivy-green-worn-1_2x_50a64797-133c-4334-8c4e-af1ef7a2ad32.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1714,7 +1641,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Same man, same shirt, same size.</p>",
+                "text": "<p>This is the same shirt, in the same size, on the very same body.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1750,31 +1677,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_46_shirt-sc-cotton-silk-linen-wool-blue-worn-2_2x_9d83490e-e11a-44d3-b024-6fa7fc6fefdf.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_zgMJ6L": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_47_shirt-sc-cotton-silk-linen-wool-blue-worn-3_2x_a7451da6-f12a-40fc-b777-23d2ebc34634.jpg",
+            "image": "shopify://shop_images/imgi_35_shirt-granddad-corduroy-ivy-green-worn-2_2x_975ca17c-9e2f-457f-b115-cb84a35119b4.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1799,11 +1702,8 @@
         "product_info_row_LkD3aX",
         "image_kE468F",
         "image_pU4R3N",
-        "image_nCC6Le",
-        "image_Xti6R8",
         "product_info_row_TPF9x4",
-        "image_7dmQ3A",
-        "image_zgMJ6L"
+        "image_7dmQ3A"
       ],
       "name": "As worn",
       "settings": {
@@ -2225,12 +2125,114 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "text_HwaN3A": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The cloth is sourced from a mill in Lancashire, in north-west England. Cottons have rolled off its line for nearly a century and a half. Industry-leading methods of weaving, dyeing, and finishing — unimproved in decades — along with steadfast adherence to quality, result in some truly first-rate cloth.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "image_dDgGBk": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/horn-button-maker-england-9.jpg",
+                "image": "shopify://shop_images/shop-maker-cotton-1_c7b25b83-f235-48e3-97aa-e70774c0852f.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_HwaN3A",
+            "image_dDgGBk"
+          ]
+        },
+        "product_info_row_TkKHYh": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_LP6awX": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/horn-button-maker-england-11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2249,7 +2251,7 @@
               },
               "blocks": {}
             },
-            "text_HwaN3A": {
+            "text_64HNPT": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
@@ -2280,8 +2282,8 @@
             }
           },
           "block_order": [
-            "image_dDgGBk",
-            "text_HwaN3A"
+            "image_LP6awX",
+            "text_64HNPT"
           ]
         },
         "product_info_row_yLrL7A": {
@@ -2388,6 +2390,7 @@
         "product_info_row_rTcy6e",
         "product_info_row_nranE8",
         "product_info_row_heXGqp",
+        "product_info_row_TkKHYh",
         "product_info_row_yLrL7A"
       ],
       "name": "Maker",
