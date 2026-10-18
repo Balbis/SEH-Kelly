@@ -740,7 +740,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Can be many things, a popover, but surely they must always pop over the head (hence the name) and be alike in concept and function to a shirt. This one has an open, one-piece collar, as well as a fairly long, relaxed body, so that it may function as a useful mid-layer — over a shirt, even — from time to time.</p>",
+                "text": "<p>The polo shirt here is three-ply, mostly, which means it is light enough to be worn underneath a jacket, but of sufficient substance to be worn with nowt else. It is hand-framed — i.e. made by a single skilled knitter on a hand-operated contraption, which is how things should be but very seldom are.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -890,7 +890,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The popover is open at the front, halfway down the chest, but it can be fastened, for the more conservative amongst us, with the help of a button halfway down, to gently cajole the two sides of the front together. Accordingly, the collar is softly pressed, so rolls out elegantly, rather than with a fixed break.</p>",
+                "text": "<p>The polo has in-set sleeves, but with the shoulder seam pushed forward for a smoother line. This is a tell-tale sign of fully fashioned knitwear, which is an approach to knitting wherein each piece of the garment is individually shaped and engineered — tailored, almost — for the best shape and fit.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -968,7 +968,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The popover has short sleeves, which end just above the elbow on mannequins of typical proportions.</p>",
+                "text": "<p>The sleeves of the polo shirt are noticeably thinner than the body. They are two-ply vs. three. This frees up space for layering the polo with, say, a smart jacket the top. With the very same rationale, the sleeves are also a flat plain-stitch, as opposed to the more textured and chunky tuck-stitch employed elsewhere.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1094,7 +1094,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The hem on the body is straight all the way around. There's a yoke across the upper back, into which is built a hanging loop. Lower down, meanwhile, are vents built into the side seams, which, while only a couple of inches high, increase by miles and miles the ease with which it can be lifted over a head.</p>",
+                "text": "<p>The polo is entirely hand-linked — meaning that, where the neck joins the body, or the sleeve joins the neck, there is no discernible seam or bump. Just a flat, smooth, every-tiny loop-of-yarn-looped-by-hand-and-knitting-needle-onto-the-next-one link (as time-consuming and skilful as it sounds).</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1196,7 +1196,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This is a high-count weave of long-staple linen yarn, most notable maybe for having been given the proverbial once-over in a specialised washing and tumbling process at the mill. It has a dry hand, a rumpled texture akin to freshly laundered laundry, and floats breezily away from the skin.</p>",
+                "text": "<p>It is made from luxury geelong lambswool — merino's even softer brother — and is thus incomparably cosy and comfortable. If one were prone to superlatives, it could be called sumptuous.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1250,6 +1250,108 @@
             "text_Hr4eYF",
             "image_qm9Rnh"
           ]
+        },
+        "product_info_row_U3LPbY": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_bMzfDg": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/imgi_29_popover-linen-poplin-manila-9_2x_74cf1be7-1e29-4f2c-b501-e337c67b7dfc.jpg",
+                "link": "",
+                "image_ratio": "landscape",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_MbrakH": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Three yarns at play here — all of them greys of the dark and middling order. They intermingle both in the plain-stitch sleeves of the polo, and the tuck-stitch of the body. The latter is the main event. It is a dense stitch, but springy and breathable. And just look: wonderfully textured is the tuck.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_bMzfDg",
+            "text_MbrakH"
+          ]
         }
       },
       "block_order": [
@@ -1259,7 +1361,8 @@
         "product_info_row_FpdrEd",
         "product_info_row_Y8DrPR",
         "image_TmpQpP",
-        "product_info_row_FQjmkf"
+        "product_info_row_FQjmkf",
+        "product_info_row_U3LPbY"
       ],
       "name": "Product Content",
       "settings": {
@@ -1389,7 +1492,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Him, here, a card-carrying member of the 38 Chest Society — with a height of 6ft 1in and weight of 12 stone — is wearing the popover in sizeS.</p>",
+                "text": "<p>Him, here, is as standard a 38 chest as you could ever hope to meet. He also has a height of 6ft 1in and a weight of 12 stone. He's wearing the polo in his usual size of S.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1419,7 +1522,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_30_popover-linen-poplin-ochre-worn-3_2x_2253e792-6a43-4fb7-90ec-28389b2fce4e.jpg",
+                "image": "shopify://shop_images/imgi_30_polo-shirt-geelong-lambswool-charcoal-grey-worn-2_2x_989e150a-9c5c-41de-9e7f-4123bb555472.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1449,7 +1552,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_31_popover-linen-poplin-ochre-worn-1_2x_4e994a56-5bb1-438b-b3ff-5e32d7f59a4f.jpg",
+            "image": "shopify://shop_images/imgi_31_polo-shirt-geelong-lambswool-charcoal-grey-worn-1_2x_3b99eb6d-09a1-4130-bbc6-03091c096d4f.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1473,7 +1576,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_32_popover-linen-poplin-ochre-worn-4_2x_56f28738-1aa2-43ab-94da-a105848ae3c4.jpg",
+            "image": "shopify://shop_images/imgi_32_polo-shirt-geelong-lambswool-charcoal-grey-worn-4_2x_66b04bd5-5060-4545-a596-789922b29797.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1497,31 +1600,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_33_popover-linen-poplin-ochre-worn-5_2x_b39c28a1-1695-43fd-b477-fdbae5fd3a27.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "image_FRMKW3": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_34_popover-linen-poplin-ochre-worn-7_2x_886799bd-fa14-4aad-ba5c-b17ff7873d4c.jpg",
+            "image": "shopify://shop_images/imgi_33_polo-shirt-geelong-lambswool-charcoal-grey-worn-5_2x_05e23bb0-a9fe-408f-8b09-faf7fa34a464.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1546,8 +1625,7 @@
         "product_info_row_T4y3AU",
         "image_yQhDqA",
         "image_7yjMmQ",
-        "image_3ypDCA",
-        "image_FRMKW3"
+        "image_3ypDCA"
       ],
       "name": "As worn",
       "settings": {
@@ -1677,7 +1755,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The popover is made by a coat and jacket factory in north London. Rather than being made like a shirt, as you might otherwise expect, the popover is instead made to the same standards, and with much the same structure, as robust outerwear, with heavy fusing and turned seams and the like.</p>",
+                "text": "<p>The garment is hand-framed by a knitwear maker founded 100 years ago. They work with small, hand-operated machines overseen by one person, rather than automated machines, making them one of the last makers still to do so in Britain. It is slow going, but the results always bear out the work put in.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1707,7 +1785,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/overshirt-factory-maker-of-1.jpg",
+                "image": "shopify://shop_images/imgi_34_hand-loom-knitwear-maker-british-20.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1780,7 +1858,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/overshirt-factory-maker-of-3.jpg",
+                "image": "shopify://shop_images/imgi_35_hand-loom-knitwear-maker-british-6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1804,7 +1882,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/overshirt-factory-maker-of-2.jpg",
+                "image": "shopify://shop_images/imgi_36_hand-loom-knitwear-maker-british-1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1829,7 +1907,7 @@
             "image_xiHk4m"
           ]
         },
-        "product_info_row_tmjH3T": {
+        "product_info_row_yjezVX": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -1872,28 +1950,23 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "text_6Cakwi": {
-              "type": "text",
-              "name": "t:names.text",
+            "image_FETdLb": {
+              "type": "image",
+              "name": "t:names.image",
               "settings": {
-                "text": "<p>The silk-linen is woven by a small, family-run mill on the south coast of Ireland. What really sets the cloth apart from (ahem) the run of the mill is the rigorous finishing methods — the secret recipe of softening and scouring and tumbling — which are applied once the cloth has left the loom.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
+                "image_mode": "single",
+                "image": "shopify://shop_images/imgi_37_hand-loom-knitwear-maker-british-14.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
                 "padding-block-start": 0,
                 "padding-block-end": 0,
                 "padding-inline-start": 0,
@@ -1901,12 +1974,12 @@
               },
               "blocks": {}
             },
-            "image_RnGUEx": {
+            "image_wEUTXR": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/maker-cloth-1.jpg",
+                "image": "shopify://shop_images/imgi_38_hand-loom-knitwear-maker-british-3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1927,8 +2000,8 @@
             }
           },
           "block_order": [
-            "text_6Cakwi",
-            "image_RnGUEx"
+            "image_FETdLb",
+            "image_wEUTXR"
           ]
         },
         "product_info_row_bzWdXL": {
@@ -2135,7 +2208,7 @@
         "text_pfXYL8",
         "product_info_row_TqDPNc",
         "product_info_row_MJdJY4",
-        "product_info_row_tmjH3T",
+        "product_info_row_yjezVX",
         "product_info_row_bzWdXL",
         "product_info_row_YmeV7q"
       ],
