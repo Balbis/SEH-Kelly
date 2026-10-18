@@ -1148,7 +1148,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There are two shades of cashmere-cotton here: a very dark, dull blue, and a middling grey. There's more of the former than the latter, but both colours are twisted prior to knitting, and so you thus get a good, satisfying melange through the knit — enough to keep the eye occupied, but not so much as to distract.</p>",
+                "text": "<p>There are two shades of cashmere-cotton here: a dark, warm grey, and a lighter middling green. There's more of the former than the latter, but both colours are twisted prior to knitting, and so you thus get a good, satisfying melange through the knit — enough to keep the eye occupied, but not so much as to distract.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
