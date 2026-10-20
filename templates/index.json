@@ -1052,7 +1052,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting. <a href=\"/collections/all\" title=\"All products\">More</a></p>",
+                "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting.</p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
