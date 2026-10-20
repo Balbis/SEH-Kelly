@@ -443,13 +443,15 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_YDHVPA": {
+            "image_ititqU": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "multiple",
-                "image": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_c15000fa-cc44-464a-a3ea-068657029a6e.jpg",
-                "image_2": "shopify://shop_images/t-shirt-cotton-tuck-knit-dark-navy-worn-4s_2x_741f0cef-f64f-40c5-9180-f9b46a80bf65.jpg",
+                "image": "shopify://shop_images/clothes-made-in-england-knitwear-11_2x_1f70eca4-4fc5-4aa9-98ef-b022e0be5f30.jpg",
+                "image_2": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_b2cb20d7-dabc-4f3c-843b-1435750db7c5.jpg",
+                "image_3": "shopify://shop_images/clothes-made-in-england-knitwear-8_2x_1e6a9d8d-b52c-4ef5-82c7-fe9ed7976467.jpg",
+                "image_4": "shopify://shop_images/clothes-made-in-england-knitwear-7_2x_2994752e-8d88-48a9-bea2-f678d1c67add.jpg",
                 "link": "shopify://collections/shop",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -468,13 +470,13 @@
               },
               "blocks": {}
             },
-            "text_JM4Ckz": {
+            "text_hUh9Lt": {
               "type": "text",
-              "name": "t:names.heading",
+              "name": "t:names.text",
               "settings": {
-                "text": "<h2>T-Shirts</h2>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>Knitwear</p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "h4",
@@ -497,11 +499,11 @@
               },
               "blocks": {}
             },
-            "text_RapQXB": {
+            "text_jgWNH9": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting.</p>",
+                "text": "<p>Hand-framed and fully fashioned crewnecks, rollnecks, polo shirts, and cardigans — made variously with cashmere, wool, linen, and cotton.</p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -528,9 +530,9 @@
             }
           },
           "block_order": [
-            "image_YDHVPA",
-            "text_JM4Ckz",
-            "text_RapQXB"
+            "image_ititqU",
+            "text_hUh9Lt",
+            "text_jgWNH9"
           ]
         },
         "group_C7jPbB": {
@@ -716,15 +718,15 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_AKmMxf": {
+            "image_6AJn7W": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "multiple",
-                "image": "shopify://shop_images/clothes-made-in-england-jackets-1_2x_084ba37c-fcef-4de2-83c5-34b4c93a9d67.jpg",
-                "image_2": "shopify://shop_images/clothes-made-in-england-jackets-2_2x22_efeab022-8203-4d21-b6fd-caf465d42c6e.jpg",
-                "image_3": "shopify://shop_images/clothes-made-in-england-jackets-6_2x_8ca30e10-567f-48f8-9c31-06165cea35f3.jpg",
-                "image_4": "shopify://shop_images/clothes-made-in-england-jackets-8_2x_4891afeb-0e5a-42eb-9db2-a01943e8500d.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_1.jpg",
+                "image_2": "shopify://shop_images/119713961934.jpg",
+                "image_3": "shopify://shop_images/t-shirt-cotton-tuck-knit-dark-navy-worn-3_2x_7387ea5f-976f-4d56-8a63-f1fe7afe9f39.jpg",
+                "image_4": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_3.jpg",
                 "link": "shopify://collections/shop",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -743,13 +745,13 @@
               },
               "blocks": {}
             },
-            "text_AAmQyx": {
+            "text_nJe7Xd": {
               "type": "text",
-              "name": "t:names.heading",
+              "name": "t:names.text",
               "settings": {
-                "text": "<h2>Jackets</h2>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>Shirts</p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "h4",
@@ -772,11 +774,11 @@
               },
               "blocks": {}
             },
-            "text_inPfEj": {
+            "text_cahYYb": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>They run the gamut, here, do jackets — from the casual type made from cotton or cord, and the more tailored type, made with wool, perhaps, or cashmere.</p>",
+                "text": "<p>Some shirts are perennial, some shirts make short-run cameos. Cuffs, collars, sleeves, and yokes, made from cotton, corduroy, linen, wool, and so on.</p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -803,9 +805,9 @@
             }
           },
           "block_order": [
-            "image_AKmMxf",
-            "text_AAmQyx",
-            "text_inPfEj"
+            "image_6AJn7W",
+            "text_nJe7Xd",
+            "text_cahYYb"
           ]
         },
         "group_hmfR4g": {
@@ -854,15 +856,15 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_xeH3we": {
+            "image_qCB7rx": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "multiple",
-                "image": "shopify://shop_images/clothes-made-in-england-knitwear-11_2x_1f70eca4-4fc5-4aa9-98ef-b022e0be5f30.jpg",
-                "image_2": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_b2cb20d7-dabc-4f3c-843b-1435750db7c5.jpg",
-                "image_3": "shopify://shop_images/clothes-made-in-england-knitwear-8_2x_1e6a9d8d-b52c-4ef5-82c7-fe9ed7976467.jpg",
-                "image_4": "shopify://shop_images/clothes-made-in-england-knitwear-7_2x_2994752e-8d88-48a9-bea2-f678d1c67add.jpg",
+                "image": "shopify://shop_images/clothes-made-in-england-jackets-1_2x_084ba37c-fcef-4de2-83c5-34b4c93a9d67.jpg",
+                "image_2": "shopify://shop_images/clothes-made-in-england-jackets-2_2x22_efeab022-8203-4d21-b6fd-caf465d42c6e.jpg",
+                "image_3": "shopify://shop_images/clothes-made-in-england-jackets-6_2x_8ca30e10-567f-48f8-9c31-06165cea35f3.jpg",
+                "image_4": "shopify://shop_images/clothes-made-in-england-jackets-8_2x_4891afeb-0e5a-42eb-9db2-a01943e8500d.jpg",
                 "link": "shopify://collections/shop",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -881,13 +883,13 @@
               },
               "blocks": {}
             },
-            "text_EeaHPK": {
+            "text_c9Mfy4": {
               "type": "text",
-              "name": "t:names.text",
+              "name": "t:names.heading",
               "settings": {
-                "text": "<p>Knitwear</p>",
-                "width": "100%",
-                "max_width": "none",
+                "text": "<h2>Jackets</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "h4",
@@ -910,11 +912,11 @@
               },
               "blocks": {}
             },
-            "text_pPzRYe": {
+            "text_UpxcXp": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Hand-framed and fully fashioned crewnecks, rollnecks, polo shirts, and cardigans — made variously with cashmere, wool, linen, and cotton.</p>",
+                "text": "<p>They run the gamut, here, do jackets — from the casual type made from cotton or cord, and the more tailored type, made with wool, perhaps, or cashmere.</p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -941,9 +943,9 @@
             }
           },
           "block_order": [
-            "image_xeH3we",
-            "text_EeaHPK",
-            "text_pPzRYe"
+            "image_qCB7rx",
+            "text_c9Mfy4",
+            "text_UpxcXp"
           ]
         },
         "group_hJEbfp": {
@@ -992,15 +994,13 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_3VHqPU": {
+            "image_haHtGa": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "multiple",
-                "image": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_1.jpg",
-                "image_2": "shopify://shop_images/119713961934.jpg",
-                "image_3": "shopify://shop_images/t-shirt-cotton-tuck-knit-dark-navy-worn-3_2x_7387ea5f-976f-4d56-8a63-f1fe7afe9f39.jpg",
-                "image_4": "shopify://shop_images/SEH_Kelly_shirt_needlecord_as_worn_3.jpg",
+                "image": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_c15000fa-cc44-464a-a3ea-068657029a6e.jpg",
+                "image_2": "shopify://shop_images/t-shirt-cotton-tuck-knit-dark-navy-worn-4s_2x_741f0cef-f64f-40c5-9180-f9b46a80bf65.jpg",
                 "link": "shopify://collections/shop",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1019,13 +1019,13 @@
               },
               "blocks": {}
             },
-            "text_QjdWjb": {
+            "text_jzVPxp": {
               "type": "text",
-              "name": "t:names.text",
+              "name": "t:names.heading",
               "settings": {
-                "text": "<p>Shirts</p>",
-                "width": "100%",
-                "max_width": "none",
+                "text": "<h2>T-Shirts</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "h4",
@@ -1048,11 +1048,11 @@
               },
               "blocks": {}
             },
-            "text_FbmbnB": {
+            "text_B7LrmN": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Some shirts are perennial, some shirts make short-run cameos. Cuffs, collars, sleeves, and yokes, made from cotton, corduroy, linen, wool, and so on.</p>",
+                "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting.</p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -1079,9 +1079,9 @@
             }
           },
           "block_order": [
-            "image_3VHqPU",
-            "text_QjdWjb",
-            "text_FbmbnB"
+            "image_haHtGa",
+            "text_jzVPxp",
+            "text_B7LrmN"
           ]
         }
       },
