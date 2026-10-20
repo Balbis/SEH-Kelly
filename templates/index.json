@@ -12,13 +12,15 @@
     "section_qPyWHU": {
       "type": "section",
       "blocks": {
-        "image_wfWPJK": {
+        "image_aq896c": {
           "type": "image",
           "name": "t:names.image",
           "settings": {
             "image_mode": "multiple",
-            "image": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_c15000fa-cc44-464a-a3ea-068657029a6e.jpg",
-            "image_2": "shopify://shop_images/t-shirt-cotton-tuck-knit-dark-navy-worn-4s_2x_741f0cef-f64f-40c5-9180-f9b46a80bf65.jpg",
+            "image": "shopify://shop_images/clothes-made-in-england-coats-7_2x_f687899a-06a5-4337-a97c-dbfa4cb7b785.jpg",
+            "image_2": "shopify://shop_images/clothes-made-in-england-coats-6_2x_9c137d56-095b-49dc-a107-70947c97847a.jpg",
+            "image_3": "shopify://shop_images/clothes-made-in-england-coats-10_2x2_04138f7d-5dd1-4bb0-ac44-baaa6d96d1ca.jpg",
+            "image_4": "shopify://shop_images/clothes-made-in-england-coats-11_2x_6cd7f7dc-8363-4960-8c4a-787dc8875acd.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -41,7 +43,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting. <a href=\"/collections/all\" title=\"All products\">More</a></p>",
+            "text": "<p>If it's a classic type of garment and you can append to it the word \"coat\", it might very well be found here. Trench coats, car coats, peacoats, duffle coats — this way.</p>",
             "width": "100%",
             "max_width": "narrow",
             "custom_max_width": 100,
@@ -68,7 +70,7 @@
         }
       },
       "block_order": [
-        "image_wfWPJK",
+        "image_aq896c",
         "text_kKJQxA"
       ],
       "name": "Hero image and text",
@@ -395,15 +397,15 @@
     "section_6UbhKU": {
       "type": "section",
       "blocks": {
-        "group_84hiMg": {
+        "group_C7jPbB": {
           "type": "group",
           "name": "t:names.group",
           "settings": {
             "link": "shopify://collections/shop",
             "open_in_new_tab": false,
-            "grid_column_start": "1",
-            "grid_column_end": "3",
-            "grid_row_start": "1",
+            "grid_column_start": "2",
+            "grid_column_end": "auto",
+            "grid_row_start": "3",
             "grid_row_end": "3",
             "content_direction": "column",
             "vertical_on_mobile": true,
@@ -441,15 +443,14 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_RgMFBt": {
+            "image_iiVxfK": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "multiple",
-                "image": "shopify://shop_images/clothes-made-in-england-coats-7_2x_f687899a-06a5-4337-a97c-dbfa4cb7b785.jpg",
-                "image_2": "shopify://shop_images/clothes-made-in-england-coats-6_2x_9c137d56-095b-49dc-a107-70947c97847a.jpg",
-                "image_3": "shopify://shop_images/clothes-made-in-england-coats-10_2x2_04138f7d-5dd1-4bb0-ac44-baaa6d96d1ca.jpg",
-                "image_4": "shopify://shop_images/clothes-made-in-england-coats-11_2x_6cd7f7dc-8363-4960-8c4a-787dc8875acd.jpg",
+                "image": "shopify://shop_images/imgi_36_pyjama-linen-hopsack-dark-brown-worn-3_2x_61b997aa-0e80-443f-84ba-d6fad4928aa4.jpg",
+                "image_2": "shopify://shop_images/imgi_34_pyjama-linen-hopsack-dark-brown-worn-1_2x_2273c26c-1120-4a80-ad29-bb6dfd1932d2.jpg",
+                "image_3": "shopify://shop_images/clothes-made-in-england-mid-2_2x_8569fda1-90b0-4b6b-8c0c-b85fd062757e.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -468,13 +469,13 @@
               },
               "blocks": {}
             },
-            "text_JM4Ckz": {
+            "text_ndGiwj": {
               "type": "text",
-              "name": "t:names.heading",
+              "name": "t:names.text",
               "settings": {
-                "text": "<h2>Coats</h2>",
-                "width": "fit-content",
-                "max_width": "normal",
+                "text": "<p>Mid-layers</p>",
+                "width": "100%",
+                "max_width": "none",
                 "custom_max_width": 100,
                 "content_alignment": "flex-start",
                 "type_preset": "h4",
@@ -497,11 +498,11 @@
               },
               "blocks": {}
             },
-            "text_RapQXB": {
+            "text_hNMtJG": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>If it's a classic type of garment and you can append to it the word \"coat\", it might very well be found here. Trench coats, car coats, peacoats, duffle coats — this way.</p>",
+                "text": "<p>More than a shirt, but not quite a jacket, and probably very good sandwiched between the two — that's the key parameter of this department.</p>",
                 "width": "100%",
                 "max_width": "none",
                 "custom_max_width": 100,
@@ -528,9 +529,9 @@
             }
           },
           "block_order": [
-            "image_RgMFBt",
-            "text_JM4Ckz",
-            "text_RapQXB"
+            "image_iiVxfK",
+            "text_ndGiwj",
+            "text_hNMtJG"
           ]
         },
         "group_Awghr8": {
@@ -809,143 +810,6 @@
             "text_pPzRYe"
           ]
         },
-        "group_C7jPbB": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "shopify://collections/shop",
-            "open_in_new_tab": false,
-            "grid_column_start": "2",
-            "grid_column_end": "auto",
-            "grid_row_start": "3",
-            "grid_row_end": "3",
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 12,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_iiVxfK": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "multiple",
-                "image": "shopify://shop_images/imgi_36_pyjama-linen-hopsack-dark-brown-worn-3_2x_61b997aa-0e80-443f-84ba-d6fad4928aa4.jpg",
-                "image_2": "shopify://shop_images/imgi_34_pyjama-linen-hopsack-dark-brown-worn-1_2x_2273c26c-1120-4a80-ad29-bb6dfd1932d2.jpg",
-                "image_3": "shopify://shop_images/clothes-made-in-england-mid-2_2x_8569fda1-90b0-4b6b-8c0c-b85fd062757e.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_ndGiwj": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Mid-layers</p>",
-                "width": "100%",
-                "max_width": "none",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "h4",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "justify",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_hNMtJG": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>More than a shirt, but not quite a jacket, and probably very good sandwiched between the two — that's the key parameter of this department.</p>",
-                "width": "100%",
-                "max_width": "none",
-                "custom_max_width": 100,
-                "content_alignment": "flex-start",
-                "type_preset": "custom",
-                "font": "var(--font-body--family)",
-                "font_size": "0.875rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_iiVxfK",
-            "text_ndGiwj",
-            "text_hNMtJG"
-          ]
-        },
         "group_hJEbfp": {
           "type": "group",
           "name": "t:names.group",
@@ -1083,14 +947,150 @@
             "text_QjdWjb",
             "text_FbmbnB"
           ]
+        },
+        "group_84hiMg": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "link": "shopify://collections/shop",
+            "open_in_new_tab": false,
+            "grid_column_start": "1",
+            "grid_column_end": "3",
+            "grid_row_start": "1",
+            "grid_row_end": "3",
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 12,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_YDHVPA": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "multiple",
+                "image": "shopify://shop_images/t-shirt-cotton-knit-tuck-soot-grey-worn-2h_2x_c15000fa-cc44-464a-a3ea-068657029a6e.jpg",
+                "image_2": "shopify://shop_images/t-shirt-cotton-tuck-knit-dark-navy-worn-4s_2x_741f0cef-f64f-40c5-9180-f9b46a80bf65.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_JM4Ckz": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h2>T-Shirts</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "justify",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_RapQXB": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>A t-shirt, this, sure — if you want to get all technical about it. But it is a t-shirt from an alternative history of the t-shirt, where rather than becoming a bunkmate of socks and smalls, it was crowned a classic and enduring example of a type of British knitting. <a href=\"/collections/all\" title=\"All products\">More</a></p>",
+                "width": "100%",
+                "max_width": "none",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "0.875rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_YDHVPA",
+            "text_JM4Ckz",
+            "text_RapQXB"
+          ]
         }
       },
       "block_order": [
-        "group_84hiMg",
+        "group_C7jPbB",
         "group_Awghr8",
         "group_hmfR4g",
-        "group_C7jPbB",
-        "group_hJEbfp"
+        "group_hJEbfp",
+        "group_84hiMg"
       ],
       "name": "Shop grid bento",
       "settings": {
