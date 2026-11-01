@@ -693,6 +693,29 @@
     "section_6XbmTR": {
       "type": "section",
       "blocks": {
+        "image_nTPmhW": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "product_info_row_66zwRM": {
           "type": "product-info-row",
           "name": "Product Info Row",
@@ -740,7 +763,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The shirt is intended to be worn tucked or untucked. That's both. It has a fitted shape, so when tucked in, it rolls tidily into the trouser — but it is also casual, so when untucked it won't look like you've stepped out in an office shirt. It is a standard length: falling a couple of inches below the belt-line on most people.</p>",
+                "text": "<p>The field shirt is an unstructured shirt or structured jacket, depending on where you draw the line. It is, either way, your quintessential mid-layer. It is suitable over a shirt or t-shirt — with a capacious cut in the upper body — but is unlined and bulk-free, so can be sandwiched between your shirt and jacket.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -866,7 +889,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The shirt has a spread collar — i.e. a collar that opens at a wide angle at the front. It is soft and unstructured, and its points are slightly rounded off.</p>",
+                "text": "<p>The collar of the field shirt on a full collar stand and has the general shape of a small jacket collar. It is cut to sit happily down — where a pleasing tendency to convexity is seen — or fully up, or halfway up and halfway down. There is structure enough for all and any position, and to look good all the while.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -944,7 +967,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The shirt has a front of six horn buttons — each of them, in their own natural way, different from one to the next. Meanwhile, every significant seam on the shirt is what's known as a single-needle, lock-stitch, French seam. They take twice as long as standard seams, but look nicer, wear better, and last longer.</p>",
+                "text": "<p>The buttons on the field shirt are horn — middling in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -998,30 +1021,6 @@
             "text_TDaycw",
             "image_dz64gT"
           ]
-        },
-        "image_izjPbj": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_28_shirt-standard-collar-moleskin-cotton-chalk-9_2x_32f0664a-6e42-4abf-b721-cd713657c4ef.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_6hEtER": {
           "type": "product-info-row",
@@ -1094,7 +1093,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The shirt has a chest pocket, with a narrow section on the inside-edge — for a pen, pencil, or chip fork, say — which is established with a long bar-tack. Bar-tacks also appear at the top corners of the pocket, for great strength, as well as several other parts of the shirt subject to the most wear and tear.</p>",
+                "text": "<p>There are two pockets on the field shirt, both at the chest. They are built into the chest-spanning seam that stems, in point of pattern-cutting fact, from the sleeve. One is a bellows patch; the other is an in-seam pocket, the stitching for which mirrors its counterpart. Bar-tacks strengthen the entranceways of both.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1172,7 +1171,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cuffs of the shirt are unapologetically tight, so the sleeve can't step over the line that is the start of the hand, and they fasten with a single button. The corner of the cuffs is gently curved, echoing the collar.</p>",
+                "text": "<p>There's no arm or shoulder seam on the field shirt. No raglan, no in-set, no nothing. The absence of seam in the region means that the field shirt has the softest imaginable shoulder: for better or worse, it rolls over the outline of the wearer.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1226,6 +1225,29 @@
             "text_QRGwGX",
             "image_aawGP8"
           ]
+        },
+        "image_awiCV9": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_3gQgQe": {
           "type": "product-info-row",
@@ -1298,7 +1320,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This is a corduroy which is middle of weight and narrow of wale. It is a very soft cloth, particularly its interior, but — cord being a traditional working cloth — is exceptionally hard-wearing. And, despite being soft and warm on cooler days, it is eminently breathable, and so really rather good all year round.</p>",
+                "text": "<p>The cuffs on the field shirt are more coat-like in styling than shirt. They fasten with the help of an arrow-tipped tab and button. The relatively wide sleeve is pulled into this cuff with the the force of a gusset and the grace of a pleat — although the cuff is quite wide so the shirt is easily slipped off and on.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1328,16 +1350,223 @@
             "image_4jyNfp",
             "text_L6NWdK"
           ]
+        },
+        "product_info_row_EqGHEc": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_dEn9Um": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The field shirt has a curved hem that rises steeply at the side seams. The back of the body is slightly longer than the front.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_PqVE6f": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/imgi_31_shirt-standard-collar-moleskin-cotton-chalk-6_2x_d0184995-48e8-45d3-8e4c-623ad8b8624e.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_dEn9Um",
+            "image_PqVE6f"
+          ]
+        },
+        "product_info_row_rXr8tQ": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_7WaQEm": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/imgi_31_shirt-standard-collar-moleskin-cotton-chalk-6_2x_d0184995-48e8-45d3-8e4c-623ad8b8624e.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_n9LQmA": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>This is cotton duck — the term \"duck\" coming from the Dutch word doek, meaning small, short-necked, large-billed waterfowl. In plain, non-Dutch terms, it is a cotton canvas of just-over middling weight, hard and firm when new, soft and ruggedly lived-in with wear, and hard-wearing throughout.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_7WaQEm",
+            "text_n9LQmA"
+          ]
         }
       },
       "block_order": [
+        "image_nTPmhW",
         "product_info_row_66zwRM",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
-        "image_izjPbj",
         "product_info_row_6hEtER",
         "product_info_row_6G9Pmb",
-        "product_info_row_3gQgQe"
+        "image_awiCV9",
+        "product_info_row_3gQgQe",
+        "product_info_row_EqGHEc",
+        "product_info_row_rXr8tQ"
       ],
       "name": "Product Content",
       "settings": {
