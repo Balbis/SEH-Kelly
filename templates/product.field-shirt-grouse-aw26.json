@@ -1524,7 +1524,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>This is cotton duck — the term \"duck\" coming from the Dutch word doek, meaning small, short-necked, large-billed waterfowl. In plain, non-Dutch terms, it is a cotton canvas of just-over middling weight, hard and firm when new, soft and ruggedly lived-in with wear, and hard-wearing throughout.</p>",
+                "text": "<p>And what cloth it is; cloth which, the more closely you examine it, the better it gets. Donegal writ through. The yarn is alive with tufts of unexpected shades, from off-white to auburn. It is lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
