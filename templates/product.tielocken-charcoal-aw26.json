@@ -2193,7 +2193,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Him, here, is as standard a 38 chest as ever there was, along with a height of 6ft 1in and weight of 12 British stone. He is thus wearing a sizeS.</p>",
+                "text": "<p>Him, here, with his chest of 38, height of 6ft 1in, and weight of 12 stone, is wearing the tielocken in size S.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2223,7 +2223,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_1.jpg",
+                "image": "shopify://shop_images/imgi_56_tielocken-shetland-wool-melton-rust-brown-worn-3_2x_3913f891-9d8c-484e-85d5-a71bea612248.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2253,7 +2253,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_2.jpg",
+            "image": "shopify://shop_images/imgi_57_tielocken-shetland-wool-melton-rust-brown-worn-2_2x_94e9afc3-f7e9-412b-a8c3-c402e9b13836.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2277,7 +2277,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_3.jpg",
+            "image": "shopify://shop_images/imgi_58_tielocken-shetland-wool-melton-rust-brown-worn-1_2x_fd4627c5-5445-4b65-ba42-9a5cd43688c2.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -2296,131 +2296,7 @@
           },
           "blocks": {}
         },
-        "image_3byd8V": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_4.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "group_VEWHHP": {
-          "type": "group",
-          "name": "t:names.group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "grid_column_start": "auto",
-            "grid_column_end": "auto",
-            "grid_row_start": "auto",
-            "grid_row_end": "auto",
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
-            "sticky": false,
-            "sticky_gap": 20,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "placeholder": "",
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "image_BWMeLa": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_5.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "image_FVQhHD": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_6.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "image_BWMeLa",
-            "image_FVQhHD"
-          ]
-        },
-        "product_info_row_aRECjx": {
+        "product_info_row_RhDiX9": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2463,12 +2339,12 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_gggHKE": {
+            "image_Y4mqhW": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/SEH_Kelly_Ulster_as_worn_7.jpg",
+                "image": "shopify://shop_images/imgi_59_tielocken-shetland-wool-melton-derby-grey-worn-1_2x_1deea09a-1a15-4e60-be8c-d682218ba52b.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2486,11 +2362,113 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "text_KMhmFf": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Same coat, same size, same result&nbsp;— just worn over a sweater rather than a shirt.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-end",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "image_gggHKE"
+            "image_Y4mqhW",
+            "text_KMhmFf"
           ]
+        },
+        "image_9p87xP": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_60_tielocken-shetland-wool-melton-derby-grey-worn-3_2x_6b5de95f-b27e-4428-9172-ce1ca3742121.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_TEymzX": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_61_tielocken-shetland-wool-melton-derby-grey-worn-4_2x_9e518805-82f3-491f-aef7-9b279be290a3.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_XcU93h": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_62_tielocken-shetland-wool-melton-derby-grey-worn-2_2x_31fdb074-06e1-40d8-b4eb-d6621044d682.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
@@ -2498,9 +2476,10 @@
         "product_info_row_ddmqKk",
         "image_Gy9xCm",
         "image_9JRTck",
-        "image_3byd8V",
-        "group_VEWHHP",
-        "product_info_row_aRECjx"
+        "product_info_row_RhDiX9",
+        "image_9p87xP",
+        "image_TEymzX",
+        "image_XcU93h"
       ],
       "name": "As worn",
       "settings": {
