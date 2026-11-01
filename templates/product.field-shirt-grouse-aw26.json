@@ -1726,7 +1726,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_32_shirt-kelly-collar-merino-oxford-grey-worn-3_2x_1319eb4d-b004-461e-9c89-84960a130620.jpg",
+                "image": "shopify://shop_images/imgi_46_field-shirt-linen-burlap-petrol-blue-worn-6_2x_0df83d95-221b-48ae-8c33-df6de73b2b1f.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1756,7 +1756,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_33_shirt-kelly-collar-merino-oxford-grey-worn-1_2x_cd3e51db-b9df-41f4-ac1d-d53e4ebe6171.jpg",
+            "image": "shopify://shop_images/imgi_47_field-shirt-linen-burlap-petrol-blue-worn-3_2x_d29d580c-86e8-4a61-8eac-ecff21e1165a.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1780,7 +1780,79 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_34_shirt-kelly-collar-merino-oxford-grey-worn-2_2x_7a7bea54-38fa-46f4-8c2f-3dbbf8011ecf.jpg",
+            "image": "shopify://shop_images/imgi_48_field-shirt-linen-burlap-petrol-blue-worn-1_2x_9b60fda6-c821-4a8a-87d8-4735f2b5bbf7.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_YYqHTY": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_49_field-shirt-linen-burlap-petrol-blue-worn-4_2x_8f28c7eb-325b-4471-95de-8d1af6eb0ffb.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_Yetzaa": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_50_field-shirt-linen-burlap-petrol-blue-worn-2_2x_c5dc7f23-6519-45a1-8d80-21c73403d3fd.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_HTFNKE": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_51_field-shirt-linen-burlap-petrol-blue-worn-5_2x_ccc306a1-67c8-42b3-847a-138d79b89680.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1847,7 +1919,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_36_shirt-granddad-corduroy-ivy-green-worn-1_2x_50a64797-133c-4334-8c4e-af1ef7a2ad32.jpg",
+                "image": "shopify://shop_images/imgi_52_field-shirt-linen-burlap-natural-linseed-worn-2_2x_c3b7e148-d636-4246-b1ab-fe21ee2665fe.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1906,7 +1978,31 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_35_shirt-granddad-corduroy-ivy-green-worn-2_2x_975ca17c-9e2f-457f-b115-cb84a35119b4.jpg",
+            "image": "shopify://shop_images/imgi_53_field-shirt-linen-burlap-natural-linseed-worn-6_2x_f003e293-a2f9-43d8-b1f8-55c0d17b4a22.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "image_wCNMVY": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_55_field-shirt-linen-burlap-natural-linseed-worn-3_2x_3f986a3a-b9e0-48ea-99cc-eb4e938b6920.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1931,8 +2027,12 @@
         "product_info_row_LkD3aX",
         "image_kE468F",
         "image_pU4R3N",
+        "image_YYqHTY",
+        "image_Yetzaa",
+        "image_HTFNKE",
         "product_info_row_TPF9x4",
-        "image_7dmQ3A"
+        "image_7dmQ3A",
+        "image_wCNMVY"
       ],
       "name": "As worn",
       "settings": {
@@ -2358,7 +2458,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is sourced from a mill in Lancashire, in north-west England. Cottons have rolled off its line for nearly a century and a half. Industry-leading methods of weaving, dyeing, and finishing — unimproved in decades — along with steadfast adherence to quality, result in some truly first-rate cloth.</p>",
+                "text": "<p>The cloth is woven by a sixth-generation mill in County Donegal in Ireland. Every inch of the cloth, every step of the way — from the designing to the warping to the weaving — is overseen by two people: a father and son, who continue the flecked tweed traditions of this part of Ireland.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2388,7 +2488,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/shop-maker-cotton-1_c7b25b83-f235-48e3-97aa-e70774c0852f.jpg",
+                "image": "shopify://shop_images/imgi_27_donegal-mill-3s.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2411,6 +2511,103 @@
           "block_order": [
             "text_HwaN3A",
             "image_dDgGBk"
+          ]
+        },
+        "product_info_row_yLrL7A": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_Ld77xk": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/imgi_29_donegal-mill-1s.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_bP48wp": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/imgi_28_donegal-mill-2s.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_Ld77xk",
+            "image_bP48wp"
           ]
         },
         "product_info_row_TkKHYh": {
@@ -2515,7 +2712,7 @@
             "text_64HNPT"
           ]
         },
-        "product_info_row_yLrL7A": {
+        "product_info_row_V87NRw": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2558,7 +2755,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_Ld77xk": {
+            "image_gggfdK": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2582,7 +2779,7 @@
               },
               "blocks": {}
             },
-            "image_bP48wp": {
+            "image_kxUW8T": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2608,8 +2805,8 @@
             }
           },
           "block_order": [
-            "image_Ld77xk",
-            "image_bP48wp"
+            "image_gggfdK",
+            "image_kxUW8T"
           ]
         }
       },
@@ -2619,8 +2816,9 @@
         "product_info_row_rTcy6e",
         "product_info_row_nranE8",
         "product_info_row_heXGqp",
+        "product_info_row_yLrL7A",
         "product_info_row_TkKHYh",
-        "product_info_row_yLrL7A"
+        "product_info_row_V87NRw"
       ],
       "name": "Maker",
       "settings": {
