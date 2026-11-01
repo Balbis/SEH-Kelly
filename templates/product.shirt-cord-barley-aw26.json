@@ -866,7 +866,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The shirt has a spread collar — i.e. a collar that opens at a wide angle at the front. It is soft and unstructured, and its points are slightly rounded off.</p>",
+                "text": "<p>This here shirt has a standard collar, which isn't to say a collar in any way rote or jejune. Rather, it is a collar free from buttons and tabs and from efforts to strive either this way or that. It is a collar that is balanced. Its size: balanced. Its angle of opening at the front: balanced. The curve of its points: balanced.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
