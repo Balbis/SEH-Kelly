@@ -770,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster is one of the certifiable big-hitters of traditional British outerwear — a long, double-breasted, large-collared slugger, hailing legend has it from the dockyards of Belfast circa 1850. This one follows and respects true Ulster orthodoxy, but has an updated moveset for everyday usefulness and userfriendliness.</p>",
+                "text": "<p>The tielocken is a coat style from the glory days of outerwear past. <em>\"The smartness essential in a topcoat,\"</em> the old ad copy goes, <em>\"allied to such dependable powers of protection as enable the wearer to face the worst weather without discomfort or risk to health — those are the characteristics which define the tielocken.\"</em></p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -896,7 +896,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster has what's known as, yes, an Ulster collar. It is sharply angled at the front, but with points slightly rounded, and is cut to be just as happy standing up, skimming the neck at the sides and back, as it is sitting down — but even then, it is proud, and is never concave or flat or in any way apologetic.</p>",
+                "text": "<p>The tielocken, then, sits between formal overcoat and full-blown, double-breasted, protective outerwear. It sure has the collar and lapel of the former — with a smart narrow notch, with, though it can't be seen here, some careful hand-stitching that keeps the join of collar and lapel flush and tidy at all times.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -974,7 +974,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The lapel may be swept across the front and fastened to a small button partially obscured beneath the collar — an instant four layers of tweed gained between man and world. There is then the option to keep the collar up with the help of another tiny button, or to fold it down again over the front.</p>",
+                "text": "<p>The tielocken has four pockets at the front: below the large flap pockets can be found in-seam pockets, stationed at just the right lateral and longitudinal coordinates for the instinctive plunging-in of hands. One additional pocket — the obligatory in-breast pocket — is on the inside of the coat.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1100,7 +1100,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the Ulster are large, and are horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
+                "text": "<p>What defines the tielocken is the absence of any buttons at the front. Instead, the wearer feeds a belt through a slider fixed on a tab, then another slider on the opposite side, and then pulls the belt as tight as desired. It is surprisingly intuitive, and as satisfying a way to fasten a coat as could be conceived.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1178,7 +1178,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster has four pockets at the front: below the large flap pockets can be found in-seam pockets, stationed at just the right lateral and longitudinal coordinates for the instinctive plunging-in of hands. Two additional pockets — jetted in-breast pockets — are on the inside of the coat.</p>",
+                "text": "<p>The belt is fixed to the tielocken at either side. It thus cannot be removed. It's with you for life. No belt-loops. No way for the belt to slip around and be at an inopportune position for grabbing and fastening — let alone getting lost. It's not going anywhere.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1304,7 +1304,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>An innovative sleeve, this, combining the sharp and smart and traditional look of a inset sleeve at the front — such as always on coats of this ilk — with the ease and comfort of a Dolman sleeve at the back. It equals a very soft shoulder, draping smoothly over the lines of the wearer, and great movement.</p>",
+                "text": "<p>The back of the coat can be pulled together with a double-slider system at the back, rather like the strap of a bag. You can thus wear the coat open and loose, or open and pulled together at the back in a smart and gentlemanly manner.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1382,7 +1382,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Round the rear lurks a deep vent which runs from the belt line to the hem. It is constructed in the old-fashioned and faintly over-complicated manner of mid-century British walking coats, and means there's more coat to the coat to expand when the wearer lurches forwards or sideways.</p>",
+                "text": "<p>There's a large inverted pleat all the way up the back of the coat, too, to give shoulders more room to flex and legs more room to kick. This pleat is fixed halfway up — beneath where the belt runs — to stop it from \"bagging out\", as the phrase goes.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1508,7 +1508,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Also at the back is a fixed belt, running between the rear seams. It breaks up what is a fairly long body, and helps pull the situation together, both literally and figuratively, by introducing a sense of shape at the middle.</p>",
+                "text": "<p>The puritanical no-button stance of the coat is regrettably marred by a single round, solid horn article that sits on the inside of the coat. This of course is the jigger button, which helps to fix in place the underside of the coat before the topside is swept across and fastened with brass.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1586,7 +1586,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat has turn-back cuffs at the end of its sleeves. A nod to tradition, these, being more typically seen on uniform coats and formal styles of outerwear. The cuff starts at the outer sleeve seam, skims around the sleeve, and its circumnavigation is rewarded with a button in its slightly curved top corner.</p>",
+                "text": "<p>The tielocken has plain cuffs. Purely decorative, these — but what isn't? — and anyway a good and proper punctuation point to the sleeves.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1712,7 +1712,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The Ulster is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps greatly with sliding the coat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "text": "<p>One of the most novel aspects of the coat is its construction. It is a hybrid of two types of sleeve: the smart lines of a traditional inset sleeve at the front, but, at the back, a raglan sleeve. This provides great freedom of movement in the upper body: much more than a coat of this ilk would ordinarily provide.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1790,7 +1790,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark grey and a weft of brown — is alive with little flecks of unexpected shades. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "text": "<p>The coat has an in-breast pocket — an internal chest pocket, that is — of the tidy jetted variety on the left side as worn.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1844,6 +1844,210 @@
             "text_D9wmtq",
             "image_bRdXBw"
           ]
+        },
+        "product_info_row_HQbdMK": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_biEyGa": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_11.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_jiQ9KH": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The tielocken is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the peacoat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_biEyGa",
+            "text_jiQ9KH"
+          ]
+        },
+        "product_info_row_WFUUQq": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_XyaqqC": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The cloth is a heavy woollen twill of Shetland yarn, which is characteristically tough and hairy and bristling with fuzz. It is, indeed, the yarn used traditionally for regional tweeds, and therefore the cloth has great toughness about it, repels wind and rain, and yet breathes well: great for all-weather outdoor use.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_MUHGxg": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Ulster_in_Dunnock_12.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_XyaqqC",
+            "image_MUHGxg"
+          ]
         }
       },
       "block_order": [
@@ -1857,7 +2061,9 @@
         "product_info_row_3gQgQe",
         "product_info_row_YWkr8F",
         "product_info_row_gQ3aMd",
-        "product_info_row_DBmpUp"
+        "product_info_row_DBmpUp",
+        "product_info_row_HQbdMK",
+        "product_info_row_WFUUQq"
       ],
       "name": "Product Content",
       "settings": {
@@ -2624,7 +2830,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_27_donegal-mill-3s.jpg",
+                "image": "shopify://shop_images/melton-maker-1m_2x_ad93f03f-6778-46a4-8159-70018f6f72bc.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2647,7 +2853,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is woven by a sixth-generation mill in County Donegal in Ireland. Every inch of the cloth, every step of the way — from the designing to the warping to the weaving — is overseen by two people: a father and son, who continue the flecked tweed traditions of this part of Ireland.</p>",
+                "text": "<p>The wool cloth hails from a mill founded in the Heavy Woollen District of West Yorkshire in the 1800s. Carding, blending, spinning, and weaving — it all happens on the same premises. This unique arrangement means that the fleece’s change into top-grade cloth could not be more tightly tuned.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -2726,7 +2932,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_28_donegal-mill-2s.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2750,7 +2956,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_29_donegal-mill-1s.jpg",
+                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -2773,6 +2979,302 @@
           "block_order": [
             "image_n3rmVN",
             "image_qQRw8N"
+          ]
+        },
+        "product_info_row_K8rfi7": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_jFUhpz": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_8.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_XVjUqg": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/SEH_Kelly_Melton_Mill_2.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_jFUhpz",
+            "image_XVjUqg"
+          ]
+        },
+        "product_info_row_h4k6Gw": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_tEaEir": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The brass hardware is made by a foundry in the West Midlands, which was founded in the 1800s. It is the last such foundry in an area once heaving with them. Its sand-casting method — which sees 940°c molten brass poured by hand from a crucible into sand-made moulds — is ancient and infallible.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_m8AgiU": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/brass-buckles-making-1.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_tEaEir",
+            "image_m8AgiU"
+          ]
+        },
+        "product_info_row_YmeV7q": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_EXXyzj": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/brass-buckles-making-grid-5.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_TXBhz8": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/brass-buckles-making-grid-4.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_EXXyzj",
+            "image_TXBhz8"
           ]
         },
         "product_info_row_bzWdXL": {
@@ -2877,7 +3379,7 @@
             "text_a8hFHR"
           ]
         },
-        "product_info_row_YmeV7q": {
+        "product_info_row_mNMBq3": {
           "type": "product-info-row",
           "name": "Product Info Row",
           "settings": {
@@ -2920,7 +3422,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "image_EXXyzj": {
+            "image_cxxbke": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2944,7 +3446,7 @@
               },
               "blocks": {}
             },
-            "image_TXBhz8": {
+            "image_Y4ML9C": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
@@ -2970,8 +3472,8 @@
             }
           },
           "block_order": [
-            "image_EXXyzj",
-            "image_TXBhz8"
+            "image_cxxbke",
+            "image_Y4ML9C"
           ]
         }
       },
@@ -2981,8 +3483,11 @@
         "product_info_row_MJdJY4",
         "product_info_row_tmjH3T",
         "product_info_row_AGLmyT",
+        "product_info_row_K8rfi7",
+        "product_info_row_h4k6Gw",
+        "product_info_row_YmeV7q",
         "product_info_row_bzWdXL",
-        "product_info_row_YmeV7q"
+        "product_info_row_mNMBq3"
       ],
       "name": "Makers of",
       "settings": {
