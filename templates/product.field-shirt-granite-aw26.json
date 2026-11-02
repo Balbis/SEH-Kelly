@@ -1526,7 +1526,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>And what cloth it is; cloth which, the more closely you examine it, the better it gets. Donegal writ through. The yarn is alive with tufts of unexpected shades, from off-white to auburn. It is lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "text": "<p>And what cloth it is; cloth which, the more closely you examine it, the better it gets. Donegal writ through. The yarn is alive with tufts of unexpected shades, from off-white to charcoal. It is lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
