@@ -770,7 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_25_shirt-standard-collar-moleskin-cotton-chalk-2_2x_c9efd0bd-a47a-4c40-953a-281543b2eb97.jpg",
+                "image": "shopify://shop_images/standard-shirt_navy_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -843,7 +843,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_26_shirt-standard-collar-moleskin-cotton-chalk-4_2x_443e3008-a6d2-4db3-b908-2c8a46c59bee.jpg",
+                "image": "shopify://shop_images/standard-shirt_navy_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -974,7 +974,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_27_shirt-standard-collar-moleskin-cotton-chalk-3_2x_e9f59e81-a34f-4213-8157-40a31653cf24.jpg",
+                "image": "shopify://shop_images/standard-shirt_navy_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
