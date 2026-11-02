@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_3.jpg",
+                "image": "shopify://shop_images/tielocken_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_5.jpg",
+                "image": "shopify://shop_images/tielocken_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1004,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_6.jpg",
+                "image": "shopify://shop_images/tielocken_6.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1077,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_7.jpg",
+                "image": "shopify://shop_images/tielocken_7.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1208,7 +1208,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_9.jpg",
+                "image": "shopify://shop_images/tielocken_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1281,7 +1281,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_10.jpg",
+                "image": "shopify://shop_images/tielocken_10.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1412,7 +1412,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_2.jpg",
+                "image": "shopify://shop_images/tielocken_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1485,7 +1485,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_8.jpg",
+                "image": "shopify://shop_images/tielocken_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1616,7 +1616,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_4.jpg",
+                "image": "shopify://shop_images/tielocken_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1689,7 +1689,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_11.jpg",
+                "image": "shopify://shop_images/tielocken_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1820,7 +1820,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_12.jpg",
+                "image": "shopify://shop_images/tielocken_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1893,7 +1893,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/tielocken-brown_13.jpg",
+                "image": "shopify://shop_images/tielocken_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
