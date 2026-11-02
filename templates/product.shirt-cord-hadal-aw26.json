@@ -387,35 +387,6 @@
               },
               "block_order": []
             },
-            "text_VPYUey": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p><em>Dispatched in 1-2 weeks</em></p>",
-                "width": "100%",
-                "max_width": "none",
-                "custom_max_width": 100,
-                "content_alignment": "center",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "italic": "none",
-                "wrap": "pretty",
-                "alignment": "left",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "divider_gtGMf3": {
               "type": "_divider",
               "name": "t:names.divider",
@@ -701,7 +672,6 @@
             "sibling_products_R4ampU",
             "group_jYYaed",
             "buy_buttons_eYQEYi",
-            "text_VPYUey",
             "divider_gtGMf3",
             "group_JbmQwr",
             "text_aEtTtq"
