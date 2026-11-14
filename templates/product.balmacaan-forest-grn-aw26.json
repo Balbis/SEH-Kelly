@@ -723,6 +723,30 @@
     "section_6XbmTR": {
       "type": "section",
       "blocks": {
+        "image_EweQrE": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_44_balmacaan-donegal-barleycorn-forest-green-0_2x_cf61d64a-f597-453e-aca2-40248672e32c.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "product_info_row_7YdD6c": {
           "type": "product-info-row",
           "name": "Product Info Row",
@@ -800,7 +824,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_42_balmacaan-donegal-barleycorn-tweed-blue-2_2x_706f1cdd-9ef9-44ae-99e0-816f4bb98666.jpg",
+                "image": "shopify://shop_images/imgi_45_balmacaan-donegal-barleycorn-forest-green-2_2x_8088074c-21f2-444d-8762-0914b5799f27.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -830,7 +854,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_43_balmacaan-donegal-barleycorn-tweed-blue-7_2x_26b879fd-2892-421b-8bae-e09a2c7e9fe2.jpg",
+            "image": "shopify://shop_images/imgi_46_balmacaan-donegal-barleycorn-forest-green-7_2x_534f536a-ff63-415d-8f82-dd2dfd6004ac.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -897,7 +921,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_44_balmacaan-donegal-barleycorn-tweed-blue-4_2x_19b6bdd7-8621-4e99-9f40-6334adda9ef8.jpg",
+                "image": "shopify://shop_images/imgi_47_balmacaan-donegal-barleycorn-forest-green-4_2x_74122296-f941-4abc-8ad8-37258fa35e3f.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -950,6 +974,30 @@
             "image_h4PALj",
             "text_wbHxMh"
           ]
+        },
+        "image_g94MFg": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/imgi_48_balmacaan-donegal-barleycorn-forest-green-5_2x_ee85730f-c834-4ac8-bfe3-33ebc0b838a8.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_9mxmDc": {
           "type": "product-info-row",
@@ -1028,7 +1076,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_45_balmacaan-donegal-barleycorn-tweed-blue-5_2x_526593df-bb41-4857-baba-1c3bbdeb82e3.jpg",
+                "image": "shopify://shop_images/imgi_49_balmacaan-donegal-barleycorn-forest-green-9_2x_1faf88de-891b-4135-b4f2-e629da81ac5c.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1058,7 +1106,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/imgi_46_balmacaan-donegal-barleycorn-tweed-blue-0_2x_2c9ba536-394e-40bb-baf0-fc488270c67e.jpg",
+            "image": "shopify://shop_images/imgi_50_balmacaan-donegal-barleycorn-forest-green-3_2x_7bae7572-c2b7-4ccf-be58-7be95f702d88.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1125,7 +1173,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_47_balmacaan-donegal-barleycorn-tweed-blue-14_2x_5e877c5f-2412-4a36-9b81-f3c380bbe082.jpg",
+                "image": "shopify://shop_images/imgi_51_balmacaan-donegal-barleycorn-forest-green-14_2x_f21a6dbe-41dd-4bb6-8e61-f0e79e0bf8cf.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1256,7 +1304,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_48_balmacaan-donegal-barleycorn-tweed-blue-6_2x_04847f1a-d263-4fff-949a-f790f663fe69.jpg",
+                "image": "shopify://shop_images/imgi_52_balmacaan-donegal-barleycorn-forest-green-6_2x_831320e8-34f8-4be6-979b-3a33a0845ae1.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1329,7 +1377,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_49_balmacaan-donegal-barleycorn-tweed-blue-12_2x_c80ea281-e344-48fd-bfdb-497e56535e2e.jpg",
+                "image": "shopify://shop_images/imgi_53_balmacaan-donegal-barleycorn-forest-green-12_2x_e4d3f21f-491b-45fd-8e8e-7a4170c22ab1.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1460,7 +1508,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_50_balmacaan-donegal-barleycorn-tweed-blue-8_2x_03f33d70-f674-418e-b2df-6c2028c9020f.jpg",
+                "image": "shopify://shop_images/imgi_54_balmacaan-donegal-barleycorn-forest-green-8_2x_54f20a57-245f-4578-abc3-1f473f1d15ad.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1533,7 +1581,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_51_balmacaan-donegal-barleycorn-tweed-blue-11_2x_6c8c4a7b-ad30-44db-9e43-20071615d3fd.jpg",
+                "image": "shopify://shop_images/imgi_55_balmacaan-donegal-barleycorn-forest-green-11_2x_2eb8292c-cffc-4e19-83fd-f4674af2cb87.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1664,7 +1712,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_52_balmacaan-donegal-barleycorn-tweed-blue-10_2x_cbfa713b-3ca3-4a05-95e4-083408ef4260.jpg",
+                "image": "shopify://shop_images/imgi_56_balmacaan-donegal-barleycorn-forest-green-10_2x_2e9de88e-2438-4489-a3ac-8448d5f3a7a2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1737,7 +1785,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_53_balmacaan-donegal-barleycorn-tweed-blue-13_2x_3d743990-b9c8-48ca-b4d7-088be4c28eb7.jpg",
+                "image": "shopify://shop_images/imgi_57_balmacaan-donegal-barleycorn-forest-green-13_2x_880ecd02-f87d-4c91-b880-d77b69a1dbf8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1760,7 +1808,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of navy and a weft of mid-grey — is alive with little flecks of unexpected shades, from chalk to bright blue to brown. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark green and a weft of black — is alive with little flecks of unexpected shades, from amber to lime to magenta. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1793,9 +1841,11 @@
         }
       },
       "block_order": [
+        "image_EweQrE",
         "product_info_row_7YdD6c",
         "image_mcU9HH",
         "product_info_row_JD6tMg",
+        "image_g94MFg",
         "product_info_row_9mxmDc",
         "image_nr3WYb",
         "product_info_row_whnyCW",
