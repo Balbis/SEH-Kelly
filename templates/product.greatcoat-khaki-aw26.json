@@ -723,30 +723,6 @@
     "section_6XbmTR": {
       "type": "section",
       "blocks": {
-        "image_EweQrE": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_44_balmacaan-donegal-barleycorn-forest-green-0_2x_cf61d64a-f597-453e-aca2-40248672e32c.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
         "product_info_row_7YdD6c": {
           "type": "product-info-row",
           "name": "Product Info Row",
@@ -794,7 +770,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>A classic walking coat, this: long and single-breasted, and with a two-piece raglan sleeve that allows a great range of movement in the upper body. Very helpful when it comes to layering, too. \"Balmacaan\" is the traditional name for this style of coat — from the Balmacaan forest in Scotland.</p>",
+                "text": "<p>The greatcoat lives up to its name — at least in the dimensional sense. It is the lord high constable of outerwear, in keeping in all the most important ways to its military lineage. But yet it deviates from that lineage, here and there, to make for a more comfortable, approachable, and everyday overcoat.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -824,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_45_balmacaan-donegal-barleycorn-forest-green-2_2x_8088074c-21f2-444d-8762-0914b5799f27.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -849,30 +825,6 @@
             "image_4GcWai"
           ]
         },
-        "image_mcU9HH": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_46_balmacaan-donegal-barleycorn-forest-green-7_2x_534f536a-ff63-415d-8f82-dd2dfd6004ac.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
         "product_info_row_JD6tMg": {
           "type": "product-info-row",
           "name": "Product Info Row",
@@ -887,7 +839,7 @@
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "center",
-            "gap": 50,
+            "gap": 20,
             "sticky": false,
             "sticky_gap": 20,
             "width": "fill",
@@ -921,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_47_balmacaan-donegal-barleycorn-forest-green-4_2x_74122296-f941-4abc-8ad8-37258fa35e3f.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_1_2a5dc1ae-79d4-4068-900c-232c696efef9.png",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -944,11 +896,11 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat has a collar of sizeable proportions, cut to sit straight when down, and really hug the neck when up. On one side there is a little tab. This buttons across, one side to the other, and keeps the collar upright when the going gets gusty. It can be buttoned back, too, or let to hang loose and lopsided.</p>",
+                "text": "<p>The greatcoat has a collar quite unlike any other, being able, at full sail, to affect a partial eclipse of the sun for anyone within stone's throw. It has gently rounded points, and is cut to closely skim the neck at the back and sides.</p>",
                 "width": "100%",
-                "max_width": "normal",
+                "max_width": "none",
                 "custom_max_width": 100,
-                "content_alignment": "flex-end",
+                "content_alignment": "flex-start",
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
@@ -974,30 +926,6 @@
             "image_h4PALj",
             "text_wbHxMh"
           ]
-        },
-        "image_g94MFg": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_48_balmacaan-donegal-barleycorn-forest-green-5_2x_ee85730f-c834-4ac8-bfe3-33ebc0b838a8.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_9mxmDc": {
           "type": "product-info-row",
@@ -1046,7 +974,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>There's a short cuff tab, running backwards from the outer sleeve seam, which offers two levels of tightness.</p>",
+                "text": "<p>The collar may also be worn up, of course — supporting its own weight come what may. And, with the help of a teeny button on one side and a buttonhole on the other, it may be fastened across the neck to fully guard against the elements. It steers well clear of the chin when worn this way, rest assured.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1076,7 +1004,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_49_balmacaan-donegal-barleycorn-forest-green-9_2x_1faf88de-891b-4135-b4f2-e629da81ac5c.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1100,30 +1028,6 @@
             "text_qYNXtV",
             "image_eUdtDr"
           ]
-        },
-        "image_nr3WYb": {
-          "type": "image",
-          "name": "t:names.image",
-          "settings": {
-            "image_mode": "single",
-            "image": "shopify://shop_images/imgi_50_balmacaan-donegal-barleycorn-forest-green-3_2x_7bae7572-c2b7-4ccf-be58-7be95f702d88.jpg",
-            "link": "",
-            "image_ratio": "adapt",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         },
         "product_info_row_whnyCW": {
           "type": "product-info-row",
@@ -1173,7 +1077,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_51_balmacaan-donegal-barleycorn-forest-green-14_2x_f21a6dbe-41dd-4bb6-8e61-f0e79e0bf8cf.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1196,7 +1100,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The buttons on the coat are horn, dark in colour and matte in finish. Because each is a thing of nature, they each differ subtly in shade and marking, one to the next. The coat has a fly-front, with the buttons hidden away when fastened, so less likely to snag on barbed wire, bramble, and other outdoor perils.</p>",
+                "text": "<p>The buttons on the greatcoat are large, solid horn — dark in colour and matte in finish — and each is a little different from one to the next. They are in that regard as if alpha-keratin snowflakes — such is the beauty of being a product of a high-grade natural material, rather than, say, a plastic replica.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1274,7 +1178,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The pockets are set at just the right height for the comfortable plunging of hands, and they're covered by flaps to shield wrists from wind and rain. They also have a secret: as well as being deep pockets in their own right, they contain a channel that serves as an entrance into and / or exit from the inside of the coat.</p>",
+                "text": "<p>The greatcoat has a saddle shoulder, which is unusual for this type of coat — or indeed, for any coat — and happens to offer up the best of a classic set-in sleeve (the clean and structured lines) and the raglan (the soft profile over the shoulder). Epaulettes sit obediently between the lines made by the saddle construction.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1304,7 +1208,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_52_balmacaan-donegal-barleycorn-forest-green-6_2x_831320e8-34f8-4be6-979b-3a33a0845ae1.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_3.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1377,7 +1281,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_53_balmacaan-donegal-barleycorn-forest-green-12_2x_e4d3f21f-491b-45fd-8e8e-7a4170c22ab1.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_10.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1400,7 +1304,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Outerwear history says this originates in army coats from a century or more ago — making it easy to access the shirt or jacket or trouser worn underneath the coat. It is both a great party trick and an easy way to access your personal effects with your weaker hand if your lead hand is clutching a coffee.</p>",
+                "text": "<p>The greatcoat is traditional and reserved when it comes to pockets: it has one on either side at the front, both of them covered by a large and slightly round-cornered flap.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1478,7 +1382,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Round the rear lurks a deep vent which runs from the belt line to the hem. It is constructed in the old-fashioned and faintly over-complicated manner of mid-century British walking coats, and means there's more coat to the coat to expand when the wearer lurches forwards or sideways.</p>",
+                "text": "<p>The saddle shoulder softens up the silhouette of the coat considerably, but the cut is still resolutely true and traditional to the bold lines of old military outerwear. It has deep armholes and wide sleeves — swallowing up anything from knitwear to jackets, and even other coats if they're not careful.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1508,7 +1412,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_54_balmacaan-donegal-barleycorn-forest-green-8_2x_54f20a57-245f-4578-abc3-1f473f1d15ad.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1841,13 +1745,9 @@
         }
       },
       "block_order": [
-        "image_EweQrE",
         "product_info_row_7YdD6c",
-        "image_mcU9HH",
         "product_info_row_JD6tMg",
-        "image_g94MFg",
         "product_info_row_9mxmDc",
-        "image_nr3WYb",
         "product_info_row_whnyCW",
         "product_info_row_BHDAEB",
         "product_info_row_zCRCgG",
