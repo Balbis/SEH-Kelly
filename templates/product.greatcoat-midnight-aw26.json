@@ -800,7 +800,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_2.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_2.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_7.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -932,7 +932,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/Greatcoat_khaki_6.jpg",
+            "image": "shopify://shop_images/Greatcoat_midnight_6.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1028,7 +1028,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_8.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1101,7 +1101,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_12.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_12.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1232,7 +1232,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_9.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1262,7 +1262,7 @@
           "name": "t:names.image",
           "settings": {
             "image_mode": "single",
-            "image": "shopify://shop_images/Greatcoat_khaki_3.jpg",
+            "image": "shopify://shop_images/Greatcoat_midnight_3.jpg",
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",
@@ -1329,7 +1329,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_10.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_10.jpg",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -1460,7 +1460,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_5.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_5.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1533,7 +1533,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_4.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1664,7 +1664,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_11.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_11.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1737,7 +1737,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_13.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_13.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1868,7 +1868,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_15.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_15.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1941,7 +1941,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_14.jpg",
+                "image": "shopify://shop_images/Greatcoat_midnight_14.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
