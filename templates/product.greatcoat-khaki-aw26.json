@@ -873,7 +873,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_1_2a5dc1ae-79d4-4068-900c-232c696efef9.png",
+                "image": "shopify://shop_images/Greatcoat_khaki_7.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -926,6 +926,30 @@
             "image_h4PALj",
             "text_wbHxMh"
           ]
+        },
+        "image_6LcVpe": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/Greatcoat_khaki_6.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_9mxmDc": {
           "type": "product-info-row",
@@ -1004,7 +1028,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_4.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_8.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1208,7 +1232,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/Greatcoat_khaki_3.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_9.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1232,6 +1256,30 @@
             "text_fCU6Cg",
             "image_xDWbHn"
           ]
+        },
+        "image_d8ch7a": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image_mode": "single",
+            "image": "shopify://shop_images/Greatcoat_khaki_3.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "product_info_row_zCRCgG": {
           "type": "product-info-row",
@@ -1485,7 +1533,7 @@
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_55_balmacaan-donegal-barleycorn-forest-green-11_2x_2eb8292c-cffc-4e19-83fd-f4674af2cb87.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_4.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "fill",
@@ -1508,7 +1556,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>One more pocket: this time on the inside, on the left-side as worn, and set a little lower than normal to make things easier on the elbows. It is a chest pocket of standard wallet- or mobile-size.</p>",
+                "text": "<p>Running right up the back of the greatcoat is an inverted pleat, to give shoulders more room to flex and legs more room to swing.&nbsp;</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1537,6 +1585,108 @@
           "block_order": [
             "image_xwewwV",
             "text_ibzz8M"
+          ]
+        },
+        "product_info_row_rPmzn7": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_VpgymA": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>There's a half-belt running across the back, meanwhile — breaking up the sheer length of the coat and, through some deep pleating, pulling together the body on either side of the centre-back. This belt and pleating combination gives the rump of the coat as much pomp and prestige as the face.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_TbTRG7": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/Greatcoat_khaki_11.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_VpgymA",
+            "image_TbTRG7"
           ]
         },
         "product_info_row_6G9Pmb": {
@@ -1582,11 +1732,35 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "image_aawGP8": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/Greatcoat_khaki_13.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fill",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_QRGwGX": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The coat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the balmacaan on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "text": "<p>Inside, the greatcoat has a chest pocket on the left-side as worn. Handy. Perhaps more importantly, though, the inside of the coat is faced with an extra layer of outer cloth — meaning that, when fully done up, there are <em>four layers</em> of thick cloth between the chest of the wearer and the harsh winds of the world outside.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1610,35 +1784,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "image_aawGP8": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image_mode": "single",
-                "image": "shopify://shop_images/imgi_56_balmacaan-donegal-barleycorn-forest-green-10_2x_2e9de88e-2438-4489-a3ac-8448d5f3a7a2.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 66,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_QRGwGX",
-            "image_aawGP8"
+            "image_aawGP8",
+            "text_QRGwGX"
           ]
         },
         "product_info_row_3gQgQe": {
@@ -1684,12 +1834,114 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "text_L6NWdK": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>The greatcoat is lined halfway down the back with a smooth and slinky satin, cut as a single panel. It helps with sliding the greatcoat on and off, being as the outer cloth has the potential for friction. The sleeves, too, are lined with the same cloth.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "custom_max_width": 100,
+                "content_alignment": "flex-start",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "italic": "none",
+                "wrap": "pretty",
+                "alignment": "left",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "image_4jyNfp": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
                 "image_mode": "single",
-                "image": "shopify://shop_images/imgi_57_balmacaan-donegal-barleycorn-forest-green-13_2x_880ecd02-f87d-4c91-b880-d77b69a1dbf8.jpg",
+                "image": "shopify://shop_images/Greatcoat_khaki_15.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "custom",
+                "custom_width": 66,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_L6NWdK",
+            "image_4jyNfp"
+          ]
+        },
+        "product_info_row_q8JMxD": {
+          "type": "product-info-row",
+          "name": "Product Info Row",
+          "settings": {
+            "link": "",
+            "open_in_new_tab": false,
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "reverse_on_mobile": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 50,
+            "sticky": false,
+            "sticky_gap": 20,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "placeholder": "",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "image_gnYjjQ": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image_mode": "single",
+                "image": "shopify://shop_images/Greatcoat_khaki_14.jpg",
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -1708,11 +1960,11 @@
               },
               "blocks": {}
             },
-            "text_L6NWdK": {
+            "text_WrTFeR": {
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>The cloth is thick, heavy barleycorn tweed, Donegal writ through. The yarn — a warp of dark green and a weft of black — is alive with little flecks of unexpected shades, from amber to lime to magenta. It is merino lambswool, softer than one might assume, and fairs mightily well in the wet and the windy.</p>",
+                "text": "<p>The wool melton is a replica of cloth woven by the same mill, on the same premises, over half a century ago for the British Army. It is heavy, sure, but with tremendous drape and flow. The yarn from which it is woven — of British sheep — is worsted-spun, hence is more lustrous than usual.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "custom_max_width": 100,
@@ -1739,22 +1991,26 @@
             }
           },
           "block_order": [
-            "image_4jyNfp",
-            "text_L6NWdK"
+            "image_gnYjjQ",
+            "text_WrTFeR"
           ]
         }
       },
       "block_order": [
         "product_info_row_7YdD6c",
         "product_info_row_JD6tMg",
+        "image_6LcVpe",
         "product_info_row_9mxmDc",
         "product_info_row_whnyCW",
         "product_info_row_BHDAEB",
+        "image_d8ch7a",
         "product_info_row_zCRCgG",
         "product_info_row_n4NWfW",
         "product_info_row_6hEtER",
+        "product_info_row_rPmzn7",
         "product_info_row_6G9Pmb",
-        "product_info_row_3gQgQe"
+        "product_info_row_3gQgQe",
+        "product_info_row_q8JMxD"
       ],
       "name": "Product Content",
       "settings": {
