@@ -302,7 +302,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>The balmacaan fits true to size, and thus the mannequin here — so perfect a 40 he has it branded on his chest — is wearing a size M.</p>",
+                        "text": "<p>This is a big coat even for big coat standards, with sleeves as wide as some trouser legs. It is intended to fit <em>easily</em> over a considerable number of other garments, including but not limited to shirts and knitwear and jackets. Please go down a size if layering requirements are not so steep or for a less commodious fit.</p>",
                         "width": "100%",
                         "max_width": "none",
                         "custom_max_width": 100,
